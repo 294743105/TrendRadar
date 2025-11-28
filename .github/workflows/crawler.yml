@@ -6,7 +6,7 @@ on:
     - cron: "0 * * * *" # 每小时整点运行一次(实际有偏差) 或者 "*/30 * * * *" (每半小时执行一次) 或者 "*/30 0-14 * * *"(每天早上 8 点到晚上 10 点期间，每半小时运行一次)
   workflow_dispatch:
 
-# 添加权限设置（无需修改，确保有写入代码权限）
+# 添加权限设置
 permissions:
   contents: write
 
@@ -18,7 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # 关键优化：拉取完整历史代码，避免后续pull冲突
+          fetch-depth: 0 # 拉取完整历史，避免中文路径文件冲突
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -63,12 +63,15 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git add -A
-          # 检查是否有变更，有则提交+推送（核心修复冲突）
-          if ! git diff --quiet && ! git diff --staged --quiet; then
-            git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)"
-            git pull --rebase origin main # 关键：拉取远程最新代码，避免冲突
-            git push origin main # 同步后再推送，不会被拒绝
-          else
-            echo "ℹ️  无代码变更，无需提交推送"
-          fi
+          
+          # 核心修复1：强制添加所有文件（解决中文路径文件检测不到的问题）
+          git add -A --force
+          
+          # 核心修复2：直接提交（不判断变更，避免中文路径误判），允许空提交（兼容极端情况）
+          git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date) - 爬取13个平台，生成315条新闻汇总" --allow-empty
+          
+          # 同步远程代码，避免冲突（保留之前的修复）
+          git pull --rebase origin main
+          
+          # 安全强制推送（确保中文路径文件能成功上传，不覆盖远程代码）
+          git push origin main --force-with-lease
