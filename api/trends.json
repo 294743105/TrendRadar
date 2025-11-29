@@ -1,22 +1,49 @@
 {
-  "generated_at": "2025-11-29T08:33:31.904588+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2025-11-29T08:53:25.767673+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "马斯克 特朗普 比特币 以太坊",
-      "match_count": 17,
+      "keyword_group": "马斯克 特朗普 比特币 以太坊 美元",
+      "match_count": 27,
       "titles": [
         {
           "title": "芝商所大宕机无碍“万物齐涨”，标普五连涨，大宗商品、比特币齐升，白银伦铜创新高",
           "url": "https://wallstreetcn.com/articles/3760330",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 08时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 08时53分]"
+        },
+        {
+          "title": "现货黄金11月份涨5.9%，一度突破4240美元",
+          "url": "https://wallstreetcn.com/livenews/3012401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
+        },
+        {
+          "title": "纽约期银周五涨约6.5%突破57美元创历史新高，11月累涨16%",
+          "url": "https://wallstreetcn.com/livenews/3012402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -26,11 +53,12 @@
             2,
             5,
             8,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
@@ -38,11 +66,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "美国总统特朗普：任何由美国前总统拜登使用自动笔签署的文件（约占其签署文件的92%）即日起全部终止生效，不再具有任何法律效力。",
@@ -50,11 +79,25 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
+        },
+        {
+          "title": "美、布两油短线下挫0.6美元，现分别报58.44美元/桶和62.8美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251129033224393800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "美媒：特朗普上周与马杜罗通话 讨论举行会晤的可能性",
@@ -62,22 +105,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 08时33分]"
-        },
-        {
-          "title": "美媒爆：特朗普已与马杜罗通话 内容涉及两人在美会晤可能性",
-          "url": "https://flash.jin10.com/detail/20251129081534337800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时33分"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -87,8 +120,32 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 08时53分]"
+        },
+        {
+          "title": "美媒爆：特朗普已与马杜罗通话 内容涉及两人在美会晤可能性",
+          "url": "https://flash.jin10.com/detail/20251129081534337800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "周五（11月28日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.0708元，较周四纽约尾盘涨36点，日内整体交投于7.0796-7.0669元区间，最近三个交易日持续上探7.06元。",
+          "url": "https://wallstreetcn.com/livenews/3012398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
@@ -96,11 +153,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
@@ -112,8 +170,34 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
+        },
+        {
+          "title": "美联储11月26日当周贴现窗贷款余额77.9亿美元，之前一周61.0亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.432万亿美元，之前一周18.505万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "美国财长贝森特：在美国总统特朗普的指示下，我们正努力取消向非法移民提供的联邦福利，并将这些福利保留给美国公民。",
@@ -121,11 +205,12 @@
           "source": "金十数据",
           "ranks": [
             16,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "马斯克特朗普共进感恩节晚餐",
@@ -134,11 +219,51 @@
           "ranks": [
             21,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 08时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 08时53分]"
+        },
+        {
+          "title": "美元指数11月份跌超0.3%，重新逼近百月均线",
+          "url": "https://wallstreetcn.com/livenews/3012383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的75.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20251129021813347800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
+        },
+        {
+          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
+          "url": "https://wallstreetcn.com/livenews/3012382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -152,25 +277,24 @@
           "time_info": "[07时54分 ~ 08时21分]"
         },
         {
-          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
-          "url": "https://wallstreetcn.com/livenews/3012382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 08时33分]"
-        },
-        {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3012378",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25,
             26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 08时21分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0740元，较周四夜盘收盘涨60点。成交量436.42亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -188,6 +312,28 @@
           "time_info": "[07时54分 ~ 08时09分]"
         },
         {
+          "title": "美媒：特朗普上周已与马杜罗通电话",
+          "url": "https://wallstreetcn.com/livenews/3012378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时33分 ~ 08时53分]"
+        },
+        {
+          "title": "标普将 Tether 资产评级下调至最低等，质疑其挂钩美元能力，如何看待储备资产的配置风险？",
+          "url": "https://www.zhihu.com/question/1977385646940189319",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
           "title": "特朗普称将暂停“第三世界国家”移民",
           "url": "https://www.toutiao.com/trending/7577245940038258219/",
           "source": "今日头条",
@@ -197,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
-        },
-        {
-          "title": "美媒：特朗普上周已与马杜罗通电话",
-          "url": "https://wallstreetcn.com/livenews/3012378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时33分"
         }
       ]
     },
@@ -223,8 +358,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
@@ -234,8 +369,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 08时53分]"
         },
         {
           "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
@@ -245,8 +380,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 08时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 08时53分]"
         }
       ]
     }
