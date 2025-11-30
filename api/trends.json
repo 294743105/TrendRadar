@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T20:37:39.743885+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2025-11-30T23:19:06.486087+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             2,
             13,
             16,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时27分 ~ 20时37分]"
+          "appearance_count": 14,
+          "time_info": "[02时27分 ~ 23时19分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -60,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 20时37分]"
+          "appearance_count": 7,
+          "time_info": "[11时57分 ~ 23时19分]"
         },
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -72,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 20时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 23时19分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -111,6 +112,18 @@
           "time_info": "17时19分"
         },
         {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 23时19分]"
+        },
+        {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
           "url": "https://wallstreetcn.com/articles/3760382",
           "source": "华尔街见闻",
@@ -122,15 +135,28 @@
           "time_info": "[11时57分 ~ 17时19分]"
         },
         {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 23时19分]"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
+            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 20时37分]"
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 23时19分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -142,34 +168,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "Gemini升级了哪些地方",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "芝商所大宕机无碍“万物齐涨”，标普五连涨，大宗商品、比特币齐升，白银伦铜创新高",
@@ -183,15 +187,52 @@
           "time_info": "[02时27分 ~ 06时24分]"
         },
         {
+          "title": "闻泰科技上诉荷兰高院，要求恢复对安世半导体的控制权",
+          "url": "https://news.ifeng.com/c/8oi9RUSW05u",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
           "title": "中国航天7次太空接力名场面",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A97%E6%AC%A1%E5%A4%AA%E7%A9%BA%E6%8E%A5%E5%8A%9B%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "百度热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "科技御剑 赛博修仙",
+          "url": "https://www.douyin.com/hot/2322167",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 23时19分]"
+        },
+        {
+          "title": "UP主科技还原万剑归宗",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%A7%91%E6%8A%80%E8%BF%98%E5%8E%9F%E4%B8%87%E5%89%91%E5%BD%92%E5%AE%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 23时19分]"
         },
         {
           "title": "白皮书：上海2024年金融科技产业规模约为4405亿元",
@@ -205,39 +246,16 @@
           "time_info": "[02时27分 ~ 06时24分]"
         },
         {
-          "title": "科技御剑 赛博修仙",
-          "url": "https://www.douyin.com/hot/2322167",
-          "source": "抖音",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 20时37分]"
-        },
-        {
-          "title": "UP主科技还原万剑归宗",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%A7%91%E6%8A%80%E8%BF%98%E5%8E%9F%E4%B8%87%E5%89%91%E5%BD%92%E5%AE%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 20时37分]"
-        },
-        {
           "title": "国家发改委：鼓励支持引导广大民营企业把握新一轮科技革命和产业变革等民间投资发展机遇",
           "url": "https://wallstreetcn.com/livenews/3012539",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 23时19分]"
         },
         {
           "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
@@ -257,7 +275,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         }
@@ -340,11 +358,12 @@
           "ranks": [
             14,
             30,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 20时37分]"
+          "appearance_count": 5,
+          "time_info": "[14时30分 ~ 23时19分]"
         }
       ]
     }
