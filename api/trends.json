@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T20:42:54.391105+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2025-12-01T23:22:51.251768+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 20时42分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 23时22分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -155,15 +155,60 @@
           "time_info": "[02时27分 ~ 05时18分]"
         },
         {
+          "title": "顾客买鞋子仅退款发AI图",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 23时22分]"
+        },
+        {
           "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
           "url": "https://wallstreetcn.com/articles/3760419",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
+          "url": "https://www.cls.cn/detail/2216291",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "马斯克震撼预言：AI将在三年内终结美国“债务危机”！",
@@ -172,9 +217,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
+          "url": "https://www.cls.cn/detail/2216065",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "没想到夸克AI浏览器还可以这么用",
@@ -188,13 +255,46 @@
           "time_info": "12时15分"
         },
         {
+          "title": "郑恺上戏合影 AI生成",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "惠与（HPE）通过HPE Portfolio拓展英伟达AI计算。 双方将在法国Grenoble（格勒诺布尔）成立人工智能工厂实验室（AI Factory Lab）。",
+          "url": "https://wallstreetcn.com/livenews/3013101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "【DeepSeekV3.2正式版发布 强化Agent能力 融入思考推理】DeepSeek宣布同时发布两个正式版模型：DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale。DeepSeek-V3.2 的目标是平衡推理能力与输出长度，适合日常使用，例如问答场景和通用 Agent 任务场景。DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。",
           "url": "https://wallstreetcn.com/livenews/3013014",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -208,23 +308,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
-        },
-        {
-          "title": "顾客买鞋子仅退款发AI图",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 16,
+      "match_count": 25,
       "titles": [
         {
           "title": "硬核科技绘制发展新蓝图",
@@ -262,6 +351,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 14时33分]"
+        },
+        {
+          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2216342",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "科技御剑 赛博修仙",
@@ -321,15 +432,48 @@
           "time_info": "[02时27分 ~ 05时18分]"
         },
         {
+          "title": "英国科技大臣肯德尔：与美国达成的制药协议将助力并激励生命科学企业继续在英国投资和创新。",
+          "url": "https://flash.jin10.com/detail/20251201225353411800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
           "url": "https://wallstreetcn.com/articles/3760444",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "马斯克：我应该少碰政治",
+          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "光刻胶板块领涨科技股 国产龙头公司布局提速",
+          "url": "https://www.cls.cn/detail/2216325",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
@@ -343,6 +487,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "行业ETF美股盘初普跌，全球航空业ETF跌1.25%，全球科技股指数ETF跌1.02%，科技行业ETF跌1%，能源业ETF则涨0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3013112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20251201110329695800",
           "source": "金十数据",
@@ -354,6 +509,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "新思科技（SNPS）开盘上涨6.9%，创9月份以来最大盘中涨幅。英伟达宣布，向新思科技Synopsys投资20亿美元入股。",
+          "url": "https://wallstreetcn.com/livenews/3013121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "恒指高开0.34%，报25945.87点；恒生科技指数涨0.21%。美团跌2.3%，此前发布财报；网易涨1.3%，阿里巴巴涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3012665",
           "source": "华尔街见闻-快讯",
@@ -363,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "电动车新国标用“硬科技”防火防盗",
+          "url": "https://www.toutiao.com/trending/7578886580614467078/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "金十图示：2025年12月01日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -407,12 +584,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "Strategy盘前一度跌超6%，公司CEO暗示有可能卖出比特币",
+          "url": "https://wallstreetcn.com/livenews/3013092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "未来十年NBA得分王会被谁包揽",
@@ -421,9 +609,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "美股加密货币股下跌，Coinbase(COIN.O)跌5.2%，Proshares比特币策略ETF下跌5%，iShares比特币信托下跌5%。",
+          "url": "https://flash.jin10.com/detail/20251201223624377800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "正直播NBA：灰熊vs国王",
