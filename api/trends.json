@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-01T12:15:22.195975+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2025-12-01T14:33:45.394013+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "硬核科技绘制发展新蓝图",
+          "url": "https://www.toutiao.com/trending/7578725447593643547/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 14时33分]"
+        },
         {
           "title": "闻泰科技上诉荷兰高院，要求恢复对安世半导体的控制权",
           "url": "https://news.ifeng.com/c/8oi9RUSW05u",
@@ -19,17 +30,6 @@
           "time_info": "[02时27分 ~ 05时18分]"
         },
         {
-          "title": "硬核科技绘制发展新蓝图",
-          "url": "https://www.toutiao.com/trending/7578725447593643547/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "UP主科技还原万剑归宗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%A7%91%E6%8A%80%E8%BF%98%E5%8E%9F%E4%B8%87%E5%89%91%E5%BD%92%E5%AE%97",
           "source": "bilibili 热搜",
@@ -37,11 +37,12 @@
             4,
             7,
             8,
-            29
+            29,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 14时33分]"
         },
         {
           "title": "科技御剑 赛博修仙",
@@ -96,7 +97,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -118,7 +119,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -129,15 +130,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3012789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -147,8 +159,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 14时33分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -162,6 +174,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时27分 ~ 12时15分]"
+        },
+        {
+          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
+          "url": "https://wallstreetcn.com/articles/3760431",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -186,8 +209,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 14时33分]"
+        },
+        {
+          "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
+          "url": "https://www.cls.cn/detail/2215163",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 14时33分]"
         },
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
@@ -201,16 +237,15 @@
           "time_info": "[02时27分 ~ 05时18分]"
         },
         {
-          "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
-          "url": "https://www.cls.cn/detail/2215163",
+          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
+          "url": "https://www.cls.cn/detail/2215245",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 14时33分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -224,15 +259,15 @@
           "time_info": "[02时27分 ~ 05时18分]"
         },
         {
-          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
-          "url": "https://www.cls.cn/detail/2215245",
+          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
+          "url": "https://www.cls.cn/detail/2215541",
           "source": "财联社热门",
           "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "14时33分"
         },
         {
           "title": "没想到夸克AI浏览器还可以这么用",
@@ -241,7 +276,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
@@ -260,8 +295,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 14时33分]"
         },
         {
           "title": "锐评2025年爆火的十首歌",
@@ -288,7 +323,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
