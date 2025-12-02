@@ -1,1039 +1,232 @@
 {
-  "generated_at": "2025-12-02T23:24:04.923219+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2025-12-03T02:32:45.277113+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 49,
+      "match_count": 15,
       "titles": [
         {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
+          "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
+          "url": "https://www.cls.cn/detail/2217493",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时34分 ~ 20时43分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "法国Mistral AI针对英伟达系统发布新款定制AI模型",
+          "url": "https://wallstreetcn.com/livenews/3013862",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            4,
-            10,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 23时24分]"
-        },
-        {
-          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
-          "url": "https://www.cls.cn/detail/2216943",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 23时24分]"
-        },
-        {
-          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
-          "url": "https://wallstreetcn.com/articles/3760461",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时34分 ~ 17时27分]"
-        },
-        {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
           "url": "https://wallstreetcn.com/articles/3760479",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 23时24分]"
-        },
-        {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 14时33分]"
-        },
-        {
-          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
-          "url": "https://wallstreetcn.com/articles/3760431",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 09时28分]"
-        },
-        {
-          "title": "网警破获AI换脸非法侵入案",
-          "url": "https://www.douyin.com/hot/2323802",
-          "source": "抖音",
-          "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 23时24分]"
-        },
-        {
-          "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
-          "url": "https://www.cls.cn/detail/2217493",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时24分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 23时24分]"
-        },
-        {
-          "title": "网警破获通过AI换脸非法侵入系统案",
-          "url": "https://www.toutiao.com/trending/7578802867742461503/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 20时43分]"
-        },
-        {
-          "title": "网警破获“AI换脸”侵入计算机案",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 20时43分]"
-        },
-        {
-          "title": "韩国AI初创公司Upstage计划最早于2026年下半年进行IPO",
-          "url": "https://flash.jin10.com/detail/20251202140703581800",
-          "source": "金十数据",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "02时32分"
         },
         {
-          "title": "网警侦破AI换脸侵入计算机案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
-          "url": "https://www.cls.cn/detail/2216608",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 17时27分]"
-        },
-        {
-          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
-          "url": "https://www.cls.cn/detail/2216806",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 17时27分]"
-        },
-        {
-          "title": "网警破获AI换脸非法侵入系统案",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88",
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 17时27分]"
-        },
-        {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时18分]"
-        },
-        {
-          "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
-          "url": "https://wallstreetcn.com/articles/3760476",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 23时24分]"
-        },
-        {
-          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
-          "url": "https://www.cls.cn/detail/2216759",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 17时27分]"
-        },
-        {
-          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
-          "url": "https://wallstreetcn.com/articles/3760505",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 23时24分]"
-        },
-        {
-          "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
-          "url": "https://www.cls.cn/detail/2216521",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 14时33分]"
-        },
-        {
-          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
-          "url": "https://www.zhihu.com/question/1978921952010794441",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 23时24分]"
-        },
-        {
-          "title": "郑恺上戏合影 AI生成",
-          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 09时28分]"
-        },
-        {
-          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
-          "url": "https://www.cls.cn/detail/2216587",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时33分]"
-        },
-        {
-          "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
-          "url": "https://www.cls.cn/detail/2216291",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时18分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
           "url": "https://www.cls.cn/detail/2217435",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
-          "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
-          "url": "https://wallstreetcn.com/livenews/3013172",
+          "title": "美国财长贝森特：2026年一季度将实施大规模退税。 明年将是Main Street（普罗大众，相对于华尔街精英而言）的一年。",
+          "url": "https://wallstreetcn.com/livenews/3013859",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            27
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时18分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
-          "title": "首销备货 50 万台，豆包 AI 手机要卖给谁？",
-          "url": "https://wallstreetcn.com/articles/3760465",
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
+          "url": "https://www.zhihu.com/question/1978921952010794441",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
           "url": "https://wallstreetcn.com/articles/3760517",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时24分]"
-        },
-        {
-          "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
-          "url": "https://www.cls.cn/detail/2216065",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时18分]"
-        },
-        {
-          "title": "顾客买鞋子仅退款拿AI视频当凭证",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时18分]"
-        },
-        {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时18分]"
-        },
-        {
-          "title": "OpenAI正开发大语言模型“Garlic”。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3013807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
-          "url": "https://wallstreetcn.com/livenews/3013202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "02时32分"
         },
         {
-          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
-          "url": "https://wallstreetcn.com/livenews/3013805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "Upwind将与英伟达锁定下一代AI基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3013804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
-          "url": "https://flash.jin10.com/detail/20251202040715444800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
-          "url": "https://flash.jin10.com/detail/20251202040501133800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "MongoDB股价上涨25%，今年迄今已上涨超过40%。 该公司超越了第三季度的预期并上调了业绩预测，这得益于其从 人工智能（AI） 中获益，以及其Atlas平台越来越受欢迎。 首席执行官Chirantan “CJ” Desai表示，随着人工智能达到一个转折点（inflection），公司正在迎来一个“千载难逢”（once in a lifetime）的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3013797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
-          "url": "https://wallstreetcn.com/livenews/3013184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "中信建投：关注字节Force大会和AI产业链",
-          "url": "https://wallstreetcn.com/livenews/3013308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：截至2026年，英伟达在Blackwell和Rubin AI芯片上的订单总额达5000亿美元，但这“并不包括我们目前与OpenAI协议下的下一阶段正在进行的任何工作”。",
-          "url": "https://flash.jin10.com/detail/20251202225631707800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "千问上线阿里最强AI生图模型满血版",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E4%B8%8A%E7%BA%BF%E9%98%BF%E9%87%8C%E6%9C%80%E5%BC%BAAI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B%E6%BB%A1%E8%A1%80%E7%89%88%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：目前仍未与OpenAI达成最终协议。",
-          "url": "https://flash.jin10.com/detail/20251202225350484800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：目前出货的大多数英伟达AI芯片都是用于构建新的数据中心基础设施，而不是替换现有设备。",
-          "url": "https://flash.jin10.com/detail/20251202225250866800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "英伟达投资的视频生成初创公司Luma AI在英国伦敦启动一轮招聘，考虑到2027年年初招聘大约200人。 该公司宣布一轮9亿美元融资，由沙特Humain领投——对其估值40亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3013786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "全国首支AI领域孵化培育型创新基金发布",
-          "url": "https://wallstreetcn.com/livenews/3013294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 34,
-      "titles": [
-        {
-          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2216342",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 09时28分]"
-        },
-        {
-          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
-          "url": "https://wallstreetcn.com/articles/3760444",
+          "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
+          "url": "https://wallstreetcn.com/articles/3760506",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时18分]"
-        },
-        {
-          "title": "马斯克官宣小15岁高管女友",
-          "url": "https://www.toutiao.com/trending/7578773548719112202/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
-        },
-        {
-          "title": "如何评价砺算科技发布 7G106 GPU 在 Windows ARM 上的运行演示？",
-          "url": "https://www.zhihu.com/question/1978748537517926115",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时24分]"
-        },
-        {
-          "title": "无论多大的宝可梦都可以收回到精灵球里，那未来人类能否有这种生存在球里的科技？",
-          "url": "https://www.zhihu.com/question/1974059048132445012",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 23时24分]"
-        },
-        {
-          "title": "A股航运板块走弱，招商轮船触及跌停，中远海能、招商南油、华光源海、海航科技、中远海科、宁波远洋等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3013512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "02时32分"
         },
         {
-          "title": "马斯克：人类活在虚拟世界概率极高",
-          "url": "https://www.toutiao.com/trending/7579074233024646666/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "比特币涨穿90000美元，涨幅超过6%",
-          "url": "https://wallstreetcn.com/livenews/3013808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "英伟达20亿美元入股新思科技",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE20%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%A5%E8%82%A1%E6%96%B0%E6%80%9D%E7%A7%91%E6%8A%80%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "英伟达锁定EDA霸主！20亿美元入股新思科技扩大合作版图",
-          "url": "https://www.cls.cn/detail/2216428",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 11时53分]"
-        },
-        {
-          "title": "电动车新国标用“硬科技”防火防盗",
-          "url": "https://www.toutiao.com/trending/7578886580614467078/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时18分]"
-        },
-        {
-          "title": "光刻胶板块领涨科技股 国产龙头公司布局提速",
-          "url": "https://www.cls.cn/detail/2216325",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 09时28分]"
-        },
-        {
-          "title": "马斯克官宣高管女友",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E9%AB%98%E7%AE%A1%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 20时43分]"
-        },
-        {
-          "title": "马斯克：我应该少碰政治",
-          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
-          "source": "凤凰网",
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时18分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
-          "title": "中国人的“太空存粮”多得超乎想象",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E2%80%9C%E5%A4%AA%E7%A9%BA%E5%AD%98%E7%B2%AE%E2%80%9D%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1",
-          "source": "百度热搜",
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
           "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 14时33分]"
-        },
-        {
-          "title": "工信部高东升：全链条推动船舶海洋工程装备创新发展 持续提升产业科技创新能力",
-          "url": "https://wallstreetcn.com/livenews/3013707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "02时32分"
         },
         {
-          "title": "睿能科技：公司工业自动化控制产品主要应用于纺织等领域，其中机器人不是主要应用领域",
-          "url": "https://wallstreetcn.com/livenews/3013705",
+          "title": "法国Mistral AI发布自家下一代模型Mistral 3。 该系列模型用于支持多语种的机器人聊天工具和其他AI服务，包括在网络连接有限的移动设备上运行。",
+          "url": "https://wallstreetcn.com/livenews/3013847",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "02时32分"
         },
         {
-          "title": "北京将建「太空数据中心」，首颗算力试验卫星「辰光一号」即将发射，有何战略意义？",
-          "url": "https://www.zhihu.com/question/1977718587239187865",
-          "source": "知乎",
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "02时32分"
         },
         {
-          "title": "恒生指数主连夜盘收涨0.63%，报26219点。 恒生科技指数主连夜盘收涨0.65%，报5703点。",
-          "url": "https://wallstreetcn.com/livenews/3013190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "金十图示：2025年12月02日（周二）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20251202105602243800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "金十图示：2025年12月02日（周二）中国科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20251202105559267800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "American Bitcoin恢复交易，跌幅扩大至超过40%，投资者关注比特币近期走势。 12月1日，Yorkville Acquisition任命Steve Gutternman为合并后新公司的CEO、任命Sim Salzman为CFO。",
-          "url": "https://wallstreetcn.com/livenews/3013794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "港股新股金岩高岭新材暗盘一度涨近40%。 港股新股乐摩科技暗盘一度涨超50%。",
-          "url": "https://wallstreetcn.com/livenews/3013594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "千亿“果链”龙头蓝思科技独董病逝",
-          "url": "https://www.toutiao.com/trending/7578811260143124522/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "半导体ETF涨超1%，在美股盘初领跑一众行业ETF，科技行业ETF涨超0.9%，全球科技股指数ETF涨超0.6%，网络股指数ETF涨约0.5%，能源业ETF跌超0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3013791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "恒生指数收盘涨0.24%，恒生科技指数跌0.37%。万科企业涨约4%，小鹏汽车跌约6%，中兴通讯跌约6%，蔚来跌约7%。",
-          "url": "https://wallstreetcn.com/livenews/3013587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "与特朗普家族有关联的比特币矿商American Bitcoin开盘下跌30%。",
-          "url": "https://wallstreetcn.com/livenews/3013793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "据彭博，TCL科技考虑五年来的首次境外债券发行。",
-          "url": "https://wallstreetcn.com/livenews/3013415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "周鸿祎：科技强国不是能做出最贵模型",
-          "url": "https://www.toutiao.com/trending/7579049128764640818/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "澜起科技：截至2025年11月30日，公司已通过集中竞价交易方式累计回购公司A股股份150.5万股，占公司总股本的比例为0.13%，支付的金额总额约为人民币2.02亿元。",
-          "url": "https://wallstreetcn.com/livenews/3013682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "优必选与卓世科技计划5年内联合部署1万台机器人",
-          "url": "https://wallstreetcn.com/livenews/3013463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "港交所文件显示，深圳市大族数控科技股份有限公司向港交所提交上市申请书，独家保荐人为中金公司。",
-          "url": "https://wallstreetcn.com/livenews/3013783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "A股算力硬件股盘中回暖，赛微电子涨超14%，续创历史新高，特发信息、天孚通信、胜宏科技、工业富联、中富电路跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3013406",
+          "title": "投资者对冲AI项目失败的担忧，甲骨文和软银的CDS成本飙升",
+          "url": "https://wallstreetcn.com/livenews/3013828",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "戴尔科技美股盘前涨近2%，特朗普称，我爱戴尔。",
-          "url": "https://wallstreetcn.com/livenews/3013776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "02时32分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
           "title": "马上评︱大字吸睛小字埋雷？广告岂容文字游戏",
           "url": "https://m.thepaper.cn/newsDetail_forward_32084278",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            10,
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "游戏音效追求极致真实，为何却集体无视「放屁」这类生理现象？",
           "url": "https://www.zhihu.com/question/1977303324731654491",
           "source": "知乎",
           "ranks": [
-            17
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "安徽广德三件套爆火",
           "url": "https://www.douyin.com/hot/2324379",
           "source": "抖音",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时24分]"
-        },
-        {
-          "title": "有哪些游戏其最出名的角色其实在游戏本体中戏份并不多，甚至只是个「看板娘」？",
-          "url": "https://www.zhihu.com/question/1978497583639988025",
-          "source": "知乎",
-          "ranks": [
-            20
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "02时32分"
         }
       ]
     },
     {
-      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空",
       "match_count": 1,
       "titles": [
         {
-          "title": "2526 赛季 NBA 常规赛太阳 125:108 湖人，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1979146159437149852",
-          "source": "知乎",
+          "title": "纳斯达克生物科技指数下跌0.8%，刷新日低。 成分股Janux Therapeutics目前跌48.32%，Pyxis Oncology跌14.24%，PepGen跌9.56%表现倒数第三。 Personalis则涨3.31%暂时涨幅第三大，Replimune涨9.68%，Vera Therapeutics涨11%。",
+          "url": "https://wallstreetcn.com/livenews/3013829",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "02时32分"
         }
       ]
     }
