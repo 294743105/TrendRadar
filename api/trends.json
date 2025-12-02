@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T17:27:08.336537+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2025-12-02T20:43:23.713506+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时34分 ~ 17时27分]"
+          "appearance_count": 8,
+          "time_info": "[02时34分 ~ 20时43分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -43,11 +43,12 @@
             2,
             4,
             10,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 20时43分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -76,11 +77,59 @@
           "url": "https://www.cls.cn/detail/2216943",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 20时43分]"
+        },
+        {
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 20时43分]"
+        },
+        {
+          "title": "网警破获通过AI换脸非法侵入系统案",
+          "url": "https://www.toutiao.com/trending/7578802867742461503/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 20时43分]"
+        },
+        {
+          "title": "网警破获“AI换脸”侵入计算机案",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 20时43分]"
+        },
+        {
+          "title": "网警破获AI换脸非法侵入案",
+          "url": "https://www.douyin.com/hot/2323802",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 20时43分]"
         },
         {
           "title": "韩国AI初创公司Upstage计划最早于2026年下半年进行IPO",
@@ -130,56 +179,22 @@
           "time_info": "[14时33分 ~ 17时27分]"
         },
         {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            10,
+            9,
             8,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时28分 ~ 17时27分]"
-        },
-        {
-          "title": "网警破获通过AI换脸非法侵入系统案",
-          "url": "https://www.toutiao.com/trending/7578802867742461503/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 17时27分]"
-        },
-        {
-          "title": "网警破获“AI换脸”侵入计算机案",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 17时27分]"
+          "time_info": "[11时53分 ~ 20时43分]"
         },
         {
           "title": "网警破获AI换脸非法侵入系统案",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88",
           "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 17时27分]"
-        },
-        {
-          "title": "网警破获AI换脸非法侵入案",
-          "url": "https://www.douyin.com/hot/2323802",
-          "source": "抖音",
           "ranks": [
             6
           ],
@@ -200,16 +215,17 @@
           "time_info": "[02时34分 ~ 05时18分]"
         },
         {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            15,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时53分 ~ 17时27分]"
+          "time_info": "[14时33分 ~ 20时43分]"
         },
         {
           "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
@@ -234,18 +250,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 14时33分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 17时27分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -342,6 +346,17 @@
           "time_info": "[02时34分 ~ 05时18分]"
         },
         {
+          "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
+          "url": "https://wallstreetcn.com/articles/3760476",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
           "url": "https://wallstreetcn.com/livenews/3013202",
           "source": "华尔街见闻-快讯",
@@ -353,6 +368,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
           "url": "https://flash.jin10.com/detail/20251202040715444800",
           "source": "金十数据",
@@ -362,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
+          "url": "https://www.zhihu.com/question/1978921952010794441",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
@@ -422,7 +459,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -516,6 +553,17 @@
           "time_info": "[02时34分 ~ 05时18分]"
         },
         {
+          "title": "无论多大的宝可梦都可以收回到精灵球里，那未来人类能否有这种生存在球里的科技？",
+          "url": "https://www.zhihu.com/question/1974059048132445012",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 20时43分]"
+        },
+        {
           "title": "光刻胶板块领涨科技股 国产龙头公司布局提速",
           "url": "https://www.cls.cn/detail/2216325",
           "source": "财联社热门",
@@ -528,15 +576,16 @@
           "time_info": "[02时34分 ~ 09时28分]"
         },
         {
-          "title": "无论多大的宝可梦都可以收回到精灵球里，那未来人类能否有这种生存在球里的科技？",
-          "url": "https://www.zhihu.com/question/1974059048132445012",
-          "source": "知乎",
+          "title": "马斯克官宣高管女友",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E9%AB%98%E7%AE%A1%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            26,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时33分 ~ 17时27分]"
+          "time_info": "[17时26分 ~ 20时43分]"
         },
         {
           "title": "马斯克：我应该少碰政治",
@@ -550,17 +599,6 @@
           "time_info": "[02时34分 ~ 05时18分]"
         },
         {
-          "title": "马斯克官宣高管女友",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E9%AB%98%E7%AE%A1%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
-        },
-        {
           "title": "中国人的“太空存粮”多得超乎想象",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E2%80%9C%E5%A4%AA%E7%A9%BA%E5%AD%98%E7%B2%AE%E2%80%9D%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1",
           "source": "百度热搜",
@@ -571,6 +609,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 14时33分]"
+        },
+        {
+          "title": "工信部高东升：全链条推动船舶海洋工程装备创新发展 持续提升产业科技创新能力",
+          "url": "https://wallstreetcn.com/livenews/3013707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "睿能科技：公司工业自动化控制产品主要应用于纺织等领域，其中机器人不是主要应用领域",
+          "url": "https://wallstreetcn.com/livenews/3013705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "北京将建「太空数据中心」，首颗算力试验卫星「辰光一号」即将发射，有何战略意义？",
@@ -623,7 +683,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -645,7 +705,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -672,6 +732,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "澜起科技：截至2025年11月30日，公司已通过集中竞价交易方式累计回购公司A股股份150.5万股，占公司总股本的比例为0.13%，支付的金额总额约为人民币2.02亿元。",
+          "url": "https://wallstreetcn.com/livenews/3013682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "优必选与卓世科技计划5年内联合部署1万台机器人",
           "url": "https://wallstreetcn.com/livenews/3013463",
           "source": "华尔街见闻-快讯",
@@ -696,6 +767,36 @@
       ]
     },
     {
+      "keyword_group": "游戏 爆火 steam",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马上评︱大字吸睛小字埋雷？广告岂容文字游戏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32084278",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 20时43分]"
+        },
+        {
+          "title": "有哪些游戏其最出名的角色其实在游戏本体中戏份并不多，甚至只是个「看板娘」？",
+          "url": "https://www.zhihu.com/question/1978497583639988025",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
       "match_count": 1,
       "titles": [
@@ -709,24 +810,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马上评︱大字吸睛小字埋雷？广告岂容文字游戏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32084278",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 17时27分]"
         }
       ]
     }
