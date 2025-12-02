@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T20:43:23.713506+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-12-02T23:24:04.923219+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 38,
+      "match_count": 49,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -22,6 +22,33 @@
           "time_info": "[02时34分 ~ 20时43分]"
         },
         {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            10,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 23时24分]"
+        },
+        {
+          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
+          "url": "https://www.cls.cn/detail/2216943",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 23时24分]"
+        },
+        {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
           "url": "https://wallstreetcn.com/articles/3760461",
           "source": "华尔街见闻",
@@ -36,19 +63,32 @@
           "time_info": "[02时34分 ~ 17时27分]"
         },
         {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
           "ranks": [
-            2,
-            4,
+            6,
             10,
-            5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 23时24分]"
+        },
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 23时24分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -73,30 +113,39 @@
           "time_info": "[02时34分 ~ 09时28分]"
         },
         {
-          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
-          "url": "https://www.cls.cn/detail/2216943",
-          "source": "财联社热门",
+          "title": "网警破获AI换脸非法侵入案",
+          "url": "https://www.douyin.com/hot/2323802",
+          "source": "抖音",
           "ranks": [
-            3,
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 23时24分]"
         },
         {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
+          "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
+          "url": "https://www.cls.cn/detail/2217493",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            10,
-            8,
-            7
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时28分 ~ 20时43分]"
+          "time_info": "[14时33分 ~ 23时24分]"
         },
         {
           "title": "网警破获通过AI换脸非法侵入系统案",
@@ -113,17 +162,6 @@
           "title": "网警破获“AI换脸”侵入计算机案",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
           "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 20时43分]"
-        },
-        {
-          "title": "网警破获AI换脸非法侵入案",
-          "url": "https://www.douyin.com/hot/2323802",
-          "source": "抖音",
           "ranks": [
             6
           ],
@@ -179,19 +217,6 @@
           "time_info": "[14时33分 ~ 17时27分]"
         },
         {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 20时43分]"
-        },
-        {
           "title": "网警破获AI换脸非法侵入系统案",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88",
           "source": "bilibili 热搜",
@@ -215,17 +240,16 @@
           "time_info": "[02时34分 ~ 05时18分]"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
+          "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
+          "url": "https://wallstreetcn.com/articles/3760476",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            12,
-            10
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 20时43分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 23时24分]"
         },
         {
           "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
@@ -240,6 +264,18 @@
           "time_info": "[14时33分 ~ 17时27分]"
         },
         {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 23时24分]"
+        },
+        {
           "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
           "url": "https://www.cls.cn/detail/2216521",
           "source": "财联社热门",
@@ -250,6 +286,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 14时33分]"
+        },
+        {
+          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
+          "url": "https://www.zhihu.com/question/1978921952010794441",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 23时24分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -288,6 +336,17 @@
           "time_info": "[02时34分 ~ 05时18分]"
         },
         {
+          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
+          "url": "https://www.cls.cn/detail/2217435",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
           "url": "https://wallstreetcn.com/livenews/3013172",
           "source": "华尔街见闻-快讯",
@@ -309,6 +368,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
+          "url": "https://wallstreetcn.com/articles/3760517",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -346,15 +416,15 @@
           "time_info": "[02时34分 ~ 05时18分]"
         },
         {
-          "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
-          "url": "https://wallstreetcn.com/articles/3760476",
-          "source": "华尔街见闻",
+          "title": "OpenAI正开发大语言模型“Garlic”。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3013807",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "23时24分"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -368,15 +438,26 @@
           "time_info": "05时18分"
         },
         {
-          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
-          "url": "https://wallstreetcn.com/articles/3760505",
-          "source": "华尔街见闻",
+          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
+          "url": "https://wallstreetcn.com/livenews/3013805",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "23时24分"
+        },
+        {
+          "title": "Upwind将与英伟达锁定下一代AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3013804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -390,17 +471,6 @@
           "time_info": "05时18分"
         },
         {
-          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
-          "url": "https://www.zhihu.com/question/1978921952010794441",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
           "url": "https://flash.jin10.com/detail/20251202040501133800",
           "source": "金十数据",
@@ -410,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "MongoDB股价上涨25%，今年迄今已上涨超过40%。 该公司超越了第三季度的预期并上调了业绩预测，这得益于其从 人工智能（AI） 中获益，以及其Atlas平台越来越受欢迎。 首席执行官Chirantan “CJ” Desai表示，随着人工智能达到一个转折点（inflection），公司正在迎来一个“千载难逢”（once in a lifetime）的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3013797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
@@ -434,6 +515,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "英伟达(NVDA.O)CFO：截至2026年，英伟达在Blackwell和Rubin AI芯片上的订单总额达5000亿美元，但这“并不包括我们目前与OpenAI协议下的下一阶段正在进行的任何工作”。",
+          "url": "https://flash.jin10.com/detail/20251202225631707800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "千问上线阿里最强AI生图模型满血版",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E4%B8%8A%E7%BA%BF%E9%98%BF%E9%87%8C%E6%9C%80%E5%BC%BAAI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B%E6%BB%A1%E8%A1%80%E7%89%88%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -443,6 +535,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：目前仍未与OpenAI达成最终协议。",
+          "url": "https://flash.jin10.com/detail/20251202225350484800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：目前出货的大多数英伟达AI芯片都是用于构建新的数据中心基础设施，而不是替换现有设备。",
+          "url": "https://flash.jin10.com/detail/20251202225250866800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "英伟达投资的视频生成初创公司Luma AI在英国伦敦启动一轮招聘，考虑到2027年年初招聘大约200人。 该公司宣布一轮9亿美元融资，由沙特Humain领投——对其估值40亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3013786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "全国首支AI领域孵化培育型创新基金发布",
@@ -459,7 +584,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -496,6 +621,28 @@
           "time_info": "[17时26分 ~ 17时27分]"
         },
         {
+          "title": "如何评价砺算科技发布 7G106 GPU 在 Windows ARM 上的运行演示？",
+          "url": "https://www.zhihu.com/question/1978748537517926115",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "无论多大的宝可梦都可以收回到精灵球里，那未来人类能否有这种生存在球里的科技？",
+          "url": "https://www.zhihu.com/question/1974059048132445012",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 23时24分]"
+        },
+        {
           "title": "A股航运板块走弱，招商轮船触及跌停，中远海能、招商南油、华光源海、海航科技、中远海科、宁波远洋等跟跌。",
           "url": "https://wallstreetcn.com/livenews/3013512",
           "source": "华尔街见闻-快讯",
@@ -516,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "比特币涨穿90000美元，涨幅超过6%",
+          "url": "https://wallstreetcn.com/livenews/3013808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "英伟达20亿美元入股新思科技",
@@ -551,17 +709,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 05时18分]"
-        },
-        {
-          "title": "无论多大的宝可梦都可以收回到精灵球里，那未来人类能否有这种生存在球里的科技？",
-          "url": "https://www.zhihu.com/question/1974059048132445012",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 20时43分]"
         },
         {
           "title": "光刻胶板块领涨科技股 国产龙头公司布局提速",
@@ -617,7 +764,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -628,7 +775,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -677,6 +824,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "American Bitcoin恢复交易，跌幅扩大至超过40%，投资者关注比特币近期走势。 12月1日，Yorkville Acquisition任命Steve Gutternman为合并后新公司的CEO、任命Sim Salzman为CFO。",
+          "url": "https://wallstreetcn.com/livenews/3013794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "港股新股金岩高岭新材暗盘一度涨近40%。 港股新股乐摩科技暗盘一度涨超50%。",
           "url": "https://wallstreetcn.com/livenews/3013594",
           "source": "华尔街见闻-快讯",
@@ -699,6 +857,17 @@
           "time_info": "14时33分"
         },
         {
+          "title": "半导体ETF涨超1%，在美股盘初领跑一众行业ETF，科技行业ETF涨超0.9%，全球科技股指数ETF涨超0.6%，网络股指数ETF涨约0.5%，能源业ETF跌超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "恒生指数收盘涨0.24%，恒生科技指数跌0.37%。万科企业涨约4%，小鹏汽车跌约6%，中兴通讯跌约6%，蔚来跌约7%。",
           "url": "https://wallstreetcn.com/livenews/3013587",
           "source": "华尔街见闻-快讯",
@@ -708,6 +877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "与特朗普家族有关联的比特币矿商American Bitcoin开盘下跌30%。",
+          "url": "https://wallstreetcn.com/livenews/3013793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "据彭博，TCL科技考虑五年来的首次境外债券发行。",
@@ -738,7 +918,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -754,6 +934,17 @@
           "time_info": "14时33分"
         },
         {
+          "title": "港交所文件显示，深圳市大族数控科技股份有限公司向港交所提交上市申请书，独家保荐人为中金公司。",
+          "url": "https://wallstreetcn.com/livenews/3013783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "A股算力硬件股盘中回暖，赛微电子涨超14%，续创历史新高，特发信息、天孚通信、胜宏科技、工业富联、中富电路跟涨。",
           "url": "https://wallstreetcn.com/livenews/3013406",
           "source": "华尔街见闻-快讯",
@@ -763,12 +954,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "戴尔科技美股盘前涨近2%，特朗普称，我爱戴尔。",
+          "url": "https://wallstreetcn.com/livenews/3013776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "马上评︱大字吸睛小字埋雷？广告岂容文字游戏",
@@ -780,8 +982,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 23时24分]"
+        },
+        {
+          "title": "游戏音效追求极致真实，为何却集体无视「放屁」这类生理现象？",
+          "url": "https://www.zhihu.com/question/1977303324731654491",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "安徽广德三件套爆火",
+          "url": "https://www.douyin.com/hot/2324379",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "有哪些游戏其最出名的角色其实在游戏本体中戏份并不多，甚至只是个「看板娘」？",
@@ -790,7 +1014,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
