@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:54:11.163949+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-12-04T14:33:02.062335+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -43,6 +43,31 @@
           "time_info": "[09时28分 ~ 09时29分]"
         },
         {
+          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
+          "url": "https://www.cls.cn/detail/2219319",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时33分]"
+        },
+        {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 14时33分]"
+        },
+        {
           "title": "理想AI眼镜Livis首发开箱",
           "url": "https://www.douyin.com/hot/2325492",
           "source": "抖音",
@@ -54,16 +79,15 @@
           "time_info": "[05时19分 ~ 11时54分]"
         },
         {
-          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
-          "url": "https://www.cls.cn/detail/2218945",
-          "source": "财联社热门",
+          "title": "顾客AI造假死蟹骗退款新进展",
+          "url": "https://www.toutiao.com/trending/7579596655830482954/",
+          "source": "今日头条",
           "ranks": [
-            12,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 11时54分]"
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
@@ -88,15 +112,15 @@
           "time_info": "[09时28分 ~ 09时29分]"
         },
         {
-          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
-          "url": "https://www.cls.cn/detail/2219319",
-          "source": "财联社热门",
+          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
+          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "source": "知乎",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
@@ -121,6 +145,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "市场消息：SK海力士为了提高全球AI内存竞争力，进行了组织结构和人事调整。",
+          "url": "https://flash.jin10.com/detail/20251204135136533800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "金十数据整理：今年OpenAI收购/整合动作频频 战略布局持续扩展加深",
           "url": "https://flash.jin10.com/detail/20251204084109046800",
           "source": "金十数据",
@@ -141,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "德意志银行：AI投资主题利好亚洲 但波动性将加剧",
+          "url": "https://flash.jin10.com/detail/20251204133940732800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "中信证券：AI产业正走向规模化落地阶段",
@@ -182,7 +228,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -190,8 +236,33 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "lck上黑科技,教练可实时开麦代打",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347687&amp;topic_name=lck%E4%B8%8A%E9%BB%91%E7%A7%91%E6%8A%80%2C%E6%95%99%E7%BB%83%E5%8F%AF%E5%AE%9E%E6%97%B6%E5%BC%80%E9%BA%A6%E4%BB%A3%E6%89%93",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时32分 ~ 14时33分]"
+        },
+        {
+          "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
+          "url": "https://www.zhihu.com/question/1979277813887551142",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时32分 ~ 14时33分]"
+        },
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
           "url": "https://wallstreetcn.com/articles/3760624",
@@ -205,16 +276,17 @@
           "time_info": "[02时32分 ~ 05时19分]"
         },
         {
-          "title": "lck上黑科技,教练可实时开麦代打",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347687&amp;topic_name=lck%E4%B8%8A%E9%BB%91%E7%A7%91%E6%8A%80%2C%E6%95%99%E7%BB%83%E5%8F%AF%E5%AE%9E%E6%97%B6%E5%BC%80%E9%BA%A6%E4%BB%A3%E6%89%93",
-          "source": "贴吧",
+          "title": "科技日报：理性看待商业航天探索中遇到的挫折",
+          "url": "https://www.cls.cn/detail/2219031",
+          "source": "财联社热门",
           "ranks": [
             13,
-            16
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时32分 ~ 11时54分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 14时33分]"
         },
         {
           "title": "如何看待电子科技大学关于「生日获 5 万元红包却成功申请困难认定」事件的情况通报？",
@@ -226,29 +298,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时32分 ~ 11时54分]"
-        },
-        {
-          "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
-          "url": "https://www.zhihu.com/question/1979277813887551142",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时32分 ~ 11时54分]"
-        },
-        {
-          "title": "科技日报：理性看待商业航天探索中遇到的挫折",
-          "url": "https://www.cls.cn/detail/2219031",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 11时54分]"
         },
         {
           "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
@@ -290,7 +339,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -312,7 +361,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -328,13 +377,35 @@
           "time_info": "09时29分"
         },
         {
+          "title": "港投公司发布首份年报：硬科技领域投资占比高达71%",
+          "url": "https://wallstreetcn.com/livenews/3014929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "A股摩尔线程概念股持续走高，大众公用、盈趣科技午后涨停，初灵信息、联美控股、和而泰等此前封板。",
+          "url": "https://wallstreetcn.com/livenews/3014928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至1%。华虹半导体、地平线机器人涨超4%，携程涨近4%。",
           "url": "https://wallstreetcn.com/livenews/3014848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -370,12 +441,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "A股商业航天概念涨势扩大，中国卫星午后涨停，航天机电、达华智能等此前封板，飞沃科技、航天环宇、招标股份涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3014913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "正直播NBA：开拓者vs骑士",
@@ -387,6 +469,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "Coinbase：Polygon平台网络出现接收延迟和发送失败。",
+          "url": "https://wallstreetcn.com/livenews/3014915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
