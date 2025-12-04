@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-04T05:19:47.340277+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2025-12-04T09:29:11.783155+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
+          "url": "https://www.zhihu.com/question/1979307622185341611",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 09时29分]"
+        },
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
           "url": "https://wallstreetcn.com/articles/3760564",
@@ -19,16 +32,59 @@
           "time_info": "[02时32分 ~ 02时33分]"
         },
         {
-          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
-          "url": "https://www.zhihu.com/question/1979307622185341611",
-          "source": "知乎",
+          "title": "钎城 Gemini",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            4
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "理想AI眼镜Livis首发开箱",
+          "url": "https://www.douyin.com/hot/2325492",
+          "source": "抖音",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时32分 ~ 05时19分]"
+          "time_info": "[05时19分 ~ 09时29分]"
+        },
+        {
+          "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
+          "url": "https://www.zhihu.com/question/1979482353974916229",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
+          "url": "https://wallstreetcn.com/articles/3760612",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
         },
         {
           "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
@@ -37,7 +93,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -48,9 +104,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "金十数据整理：今年OpenAI收购/整合动作频频 战略布局持续扩展加深",
+          "url": "https://flash.jin10.com/detail/20251204084109046800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
@@ -64,15 +131,15 @@
           "time_info": "02时33分"
         },
         {
-          "title": "理想AI眼镜Livis首发开箱",
-          "url": "https://www.douyin.com/hot/2325492",
-          "source": "抖音",
+          "title": "中信证券：AI产业正走向规模化落地阶段",
+          "url": "https://flash.jin10.com/detail/20251204082953112800",
+          "source": "金十数据",
           "ranks": [
-            21
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时19分"
+          "time_info": "09时29分"
         },
         {
           "title": "欧洲STOXX 600指数收涨0.10%，报576.22点，欧股盘初走高，之后持续回吐涨幅——美股盘前随着微软的AI消息而一度短暂转跌。 欧元区STOXX 50指数收涨0.15%，报5694.56点，也曾在报道称微软下调AI软件销售目标之后转跌。 富时泛欧绩优300指数收涨0.13%，报2297.89点。",
@@ -100,7 +167,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
@@ -121,7 +188,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -133,8 +200,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 09时29分]"
         },
         {
           "title": "如何看待电子科技大学关于「生日获 5 万元红包却成功申请困难认定」事件的情况通报？",
@@ -144,8 +211,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 09时29分]"
         },
         {
           "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
@@ -155,8 +222,30 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 09时29分]"
+        },
+        {
+          "title": "科技日报：理性看待商业航天探索中遇到的挫折",
+          "url": "https://www.cls.cn/detail/2219031",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "恒指高开0.17%，报25804.01点；恒生科技指数涨0.21%。携程、京东涨超3%，地平线机器人涨近2%；理想汽车跌超2%，小鹏汽车跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3014751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "美股“降息指数”涨超1.4%，刷新日高。 罗素2000指数涨1.4%。 纳斯达克生物科技指数涨1.8%。",
@@ -170,13 +259,35 @@
           "time_info": "02时33分"
         },
         {
+          "title": "金十数据整理：每日科技要闻速递（12月4日）",
+          "url": "https://flash.jin10.com/detail/20251204084909450800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "中信证券：太空算力加速催化，关注星间激光等载荷投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3014743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.34%，报25829点。 恒生科技指数主连夜盘收涨0.33%，报5548点。",
           "url": "https://wallstreetcn.com/livenews/3014601",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -190,6 +301,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "动作频频！日本军事扩张从地面延伸至太空",
+          "url": "https://wallstreetcn.com/livenews/3014727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "正直播NBA：开拓者vs骑士",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E5%BC%80%E6%8B%93%E8%80%85vs%E9%AA%91%E5%A3%AB",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么工作后玩游戏觉得无聊",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E5%90%8E%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%A7%89%E5%BE%97%E6%97%A0%E8%81%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
         }
       ]
     }
