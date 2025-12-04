@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-04T20:44:12.109639+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-04T23:25:07.071671+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 23时25分]"
+        },
         {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
           "url": "https://www.cls.cn/detail/2219319",
@@ -21,15 +32,18 @@
           "time_info": "[11时53分 ~ 17时25分]"
         },
         {
-          "title": "实测欧洲版Deepseek水平如何",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
+          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
+          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "source": "知乎",
           "ranks": [
-            4
+            14,
+            9,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 20时44分]"
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 23时25分]"
         },
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -80,19 +94,6 @@
           "time_info": "[09时28分 ~ 14时33分]"
         },
         {
-          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
-          "url": "https://www.zhihu.com/question/1979578572474709507",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 20时44分]"
-        },
-        {
           "title": "理想AI眼镜Livis首发开箱",
           "url": "https://www.douyin.com/hot/2325492",
           "source": "抖音",
@@ -113,6 +114,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
+          "url": "https://www.cls.cn/detail/2220060",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
         },
         {
           "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
@@ -187,7 +199,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -294,7 +306,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "lck上黑科技,教练可实时开麦代打",
@@ -308,8 +320,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时32分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[02时32分 ~ 23时25分]"
         },
         {
           "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
@@ -371,6 +383,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "中国人在太空的存粮多得超乎想象",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%9A%84%E5%AD%98%E7%B2%AE%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
+        },
+        {
           "title": "恒指高开0.17%，报25804.01点；恒生科技指数涨0.21%。携程、京东涨超3%，地平线机器人涨近2%；理想汽车跌超2%，小鹏汽车跌1.7%。",
           "url": "https://wallstreetcn.com/livenews/3014751",
           "source": "华尔街见闻-快讯",
@@ -391,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "比特币短线加速下跌，跌穿9.2万美元，目前跌幅1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3015254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "金十图示：2025年12月04日（周四）全球主要科技与互联网公司市值变化",
@@ -465,9 +499,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，金融业ETF涨0.53%，能源业ETF涨0.27%，全球科技股指数ETF涨0.11%，科技行业ETF、网络股指数ETF微跌，半导体ETF跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3015240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至1%。华虹半导体、地平线机器人涨超4%，携程涨近4%。",
@@ -542,7 +587,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
@@ -560,8 +605,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 20时44分]"
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时25分]"
         },
         {
           "title": "正直播NBA：开拓者vs骑士",
