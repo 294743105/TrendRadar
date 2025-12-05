@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T05:29:57.450379+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2025-12-05T09:29:26.878806+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "实测欧洲版Deepseek水平如何",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 09时29分]"
+        },
+        {
+          "title": "高盛上调新易盛目标价逾11% 看好AI服务器需求推动光模块出货加速",
+          "url": "https://wallstreetcn.com/livenews/3015462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -26,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 09时29分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -39,6 +50,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 05时29分]"
+        },
+        {
+          "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3760723",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
+          "url": "https://wallstreetcn.com/articles/3760706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
@@ -69,7 +102,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -88,19 +121,42 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "恒指低开0.4%，报25833.11点；恒生科技指数跌0.41%。腾讯控股跌1.1%，京东、网易跌超0.9%，阿里巴巴跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3015466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
         {
           "title": "中国人在太空的存粮多得超乎想象",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%9A%84%E5%AD%98%E7%B2%AE%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1",
           "source": "百度热搜",
           "ranks": [
             17,
-            23
+            23,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 09时29分]"
         },
         {
           "title": "lck上黑科技,教练可实时开麦代打",
@@ -110,8 +166,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 09时29分]"
         },
         {
           "title": "标普500指数收涨7.40点，涨幅0.11%，报6857.12点。 道琼斯工业平均指数收跌31.96点，跌幅0.07%，报47850.94点。 纳斯达克综合指数（纳指）收涨51.044点，涨幅0.22%，报23505.136点。 纳斯达克100指数收跌24.846点，跌幅0.10%，报25581.699点。 纳斯达克生物科技指数大致收平，报5764.74点。 费城半导体指数收跌0.89%，报7215.969点。 费城证交所KBW银行指数收涨0.68%，报158.70点。 道琼斯KBW地区银行指数收涨0.36%，报124.13点。",
@@ -120,7 +176,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -131,7 +187,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -142,7 +198,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -150,8 +206,19 @@
     },
     {
       "keyword_group": "游戏 爆火 steam",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "疯狂动物城2爆火背后的逻辑",
+          "url": "https://www.douyin.com/hot/2326579",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 09时29分]"
+        },
         {
           "title": "《绝区零》如果做成搜打撤的 FPS 游戏是不是更好？",
           "url": "https://www.zhihu.com/question/1892541556193460717",
@@ -165,15 +232,15 @@
           "time_info": "[02时34分 ~ 05时29分]"
         },
         {
-          "title": "疯狂动物城2爆火背后的逻辑",
-          "url": "https://www.douyin.com/hot/2326579",
-          "source": "抖音",
+          "title": "如果让你创办一个游戏业界大奖，你觉得怎么做才能不成为下一个野鸡奖？",
+          "url": "https://www.zhihu.com/question/1978529027368194195",
+          "source": "知乎",
           "ranks": [
-            28
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
@@ -189,8 +256,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 09时29分]"
         }
       ]
     }
