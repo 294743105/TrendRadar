@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T12:12:44.035305+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2025-12-06T16:13:45.977697+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3760797",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时13分]"
         },
         {
           "title": "【数据看盘】多路资金激烈博弈航天发展 3.28亿元资金抢筹航天科技",
@@ -49,7 +50,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -63,6 +64,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 02时28分]"
+        },
+        {
+          "title": "黄仁勋赞华为：史上最强科技公司之一",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B5%9E%E5%8D%8E%E4%B8%BA%EF%BC%9A%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时13分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -142,15 +155,15 @@
           "time_info": "05时19分"
         },
         {
-          "title": "黄仁勋赞华为：史上最强科技公司之一",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B5%9E%E5%8D%8E%E4%B8%BA%EF%BC%9A%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E4%B8%80",
-          "source": "百度热搜",
+          "title": "2025腾冲科学家论坛聚焦前沿科技与产业融合新路径",
+          "url": "https://wallstreetcn.com/livenews/3016244",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "16时13分"
         },
         {
           "title": "英特尔反弹超5%，美光科技、AMD涨超4%，博通、台积电涨超2%；奈飞转涨，盘初一度跌超4%。",
@@ -181,7 +194,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -189,7 +202,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "长城基金管理有限公司发布公告称，副总经理车君于2025年12月4日正式离任，原因为到龄退休，未转任公司其他岗位。",
@@ -198,7 +211,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -209,7 +222,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -231,7 +244,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -341,7 +354,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -352,9 +365,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "Meta推迟Phoenix混合现实眼镜发布时间至2027年，称力求“完善细节”。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3016235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "香港通报火灾调查最新进展",
@@ -374,7 +398,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -382,18 +406,19 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
           "url": "https://wallstreetcn.com/articles/3760810",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时13分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -408,24 +433,47 @@
           "time_info": "[00时50分 ~ 05时19分]"
         },
         {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时13分]"
+        },
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时13分]"
+        },
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
           "url": "https://flash.jin10.com/detail/20251206104148777800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -447,7 +495,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -469,18 +517,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
