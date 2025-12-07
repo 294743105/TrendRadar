@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-08T00:11:09.933659+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-08T04:11:05.648123+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
       "match_count": 6,
       "titles": [
+        {
+          "title": "打游戏真的是一件很浪费时间的事情吗?",
+          "url": "https://www.zhihu.com/question/641827784",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时11分]"
+        },
         {
           "title": "重大转向！美国发布最新《国家安全战略》：放弃全球霸权，将调整与中国经济关系，“以互惠平等为原则”，承认中美“近乎对等”！欧洲炸锅",
           "url": "https://wallstreetcn.com/articles/3760857",
@@ -15,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        },
-        {
-          "title": "打游戏真的是一件很浪费时间的事情吗?",
-          "url": "https://www.zhihu.com/question/641827784",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时11分]"
         },
         {
           "title": "美最新报告：不允许任何国家过于强大",
@@ -37,41 +38,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时11分]"
         },
         {
           "title": "美国发布最新《国家安全战略》，放弃全球霸权，承认中美近乎对等，中美以互惠平等为原则，如何解读？",
           "url": "https://www.zhihu.com/question/1980786465530206064",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时11分]"
         },
         {
           "title": "美最新报告：不允许任何国家过于强大",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%9C%80%E6%96%B0%E6%8A%A5%E5%91%8A%EF%BC%9A%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E5%9B%BD%E5%AE%B6%E8%BF%87%E4%BA%8E%E5%BC%BA%E5%A4%A7",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时11分]"
         },
         {
           "title": "把济南5A景区做进游戏",
           "url": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E6%B5%8E%E5%8D%975A%E6%99%AF%E5%8C%BA%E5%81%9A%E8%BF%9B%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时11分]"
         }
       ]
     },
@@ -84,11 +88,12 @@
           "url": "https://wallstreetcn.com/livenews/3016431",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 04时11分]"
         },
         {
           "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
@@ -98,8 +103,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时11分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -109,8 +114,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时11分]"
         }
       ]
     }
