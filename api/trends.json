@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-09T16:16:13.891611+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-12-09T20:20:29.568149+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 20时20分]"
+        },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
           "url": "https://www.zhihu.com/question/1981321831689511959",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时45分 ~ 12时20分]"
-        },
-        {
-          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
-          "url": "https://www.cls.cn/detail/2223769",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
         },
         {
           "title": "智谱AutoGLM开源，手机交互进入新纪元",
@@ -71,11 +72,36 @@
           "source": "知乎",
           "ranks": [
             9,
-            3
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 20时20分]"
+        },
+        {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时20分 ~ 16时16分]"
+          "time_info": "[16时15分 ~ 20时20分]"
+        },
+        {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 20时20分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -102,6 +128,18 @@
           "time_info": "[08时45分 ~ 12时20分]"
         },
         {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 20时20分]"
+        },
+        {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
           "url": "https://www.cls.cn/detail/2223334",
           "source": "财联社热门",
@@ -114,37 +152,16 @@
           "time_info": "[08时45分 ~ 12时20分]"
         },
         {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 20时20分]"
         },
         {
           "title": "特朗普预告：本周将签行政令 为AI制定统一国家规则",
@@ -152,17 +169,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -191,13 +197,24 @@
           "time_info": "00时24分"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "韩政府审议通过2026财年预算案 AI与半导体等高新产业获万亿韩元投资",
           "url": "https://flash.jin10.com/detail/20251209154214687800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -211,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
+          "url": "https://www.zhihu.com/question/1981675433712976771",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
@@ -249,7 +277,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "日本发布警报：预计将出现最高3米海啸",
@@ -384,6 +412,28 @@
           "time_info": "[16时15分 ~ 16时16分]"
         },
         {
+          "title": "摩尔线程：即将发布新一代GPU架构",
+          "url": "https://www.cls.cn/detail/2223760",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "近半省市“十五五”规划建议发布 汽车产业转向“集群发展”、跨领域深度融合",
+          "url": "https://www.cls.cn/detail/2223935",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "日本首次发布！提示大地震风险",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%83%EF%BC%81%E6%8F%90%E7%A4%BA%E5%A4%A7%E5%9C%B0%E9%9C%87%E9%A3%8E%E9%99%A9",
           "source": "百度热搜",
@@ -404,12 +454,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "无人机“谁能飞”“谁在飞”？两项强制性国家标准发布",
+          "url": "https://wallstreetcn.com/livenews/3017634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "马斯克回应被罚1.2亿欧元",
@@ -440,9 +501,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "再升科技：控股股东郭茂先生拟通过协议转让方式向中融华信转让其持有的6.04%股份，转让总价款为人民币3.44亿元。",
+          "url": "https://wallstreetcn.com/livenews/3017670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "华尔街老兵亚德尼终结15年信仰：不再超配科技股，首次下调“Mag 7”评级",
@@ -463,7 +535,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -502,6 +574,28 @@
           "time_info": "12时20分"
         },
         {
+          "title": "浙江台州科技馆志愿者名单再现百度人名大全，多人批量上榜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32136307",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "骏亚科技：公司生产的PCB产品可用于人形机器人，其中应用于人形机器人的相关产品占公司营业收入比重很小，占公司营业收入比重低于0.05%，不会对公司当期业绩产生重大影响，后续公司PCB产品在人形机器人应用领域的业绩增长存在较大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3017637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
           "url": "https://wallstreetcn.com/livenews/3017046",
           "source": "华尔街见闻-快讯",
@@ -522,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "云深处科技完成超5亿元C轮融资",
+          "url": "https://wallstreetcn.com/livenews/3017629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
