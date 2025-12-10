@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T16:16:08.186509+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2025-12-10T20:28:06.256000+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -20,17 +20,6 @@
           "time_info": "[00时14分 ~ 08时47分]"
         },
         {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
           "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
           "url": "https://www.zhihu.com/question/1981300590727356751",
           "source": "知乎",
@@ -38,8 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 20时28分]"
+        },
+        {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 20时28分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -115,6 +116,17 @@
           "time_info": "[08时46分 ~ 12时24分]"
         },
         {
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
           "url": "https://www.cls.cn/detail/2224154",
           "source": "财联社热门",
@@ -135,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "导演陆川：将与MiniMax联合开发AI漫剧项目，合作落地院线电影和剧集",
+          "url": "https://wallstreetcn.com/livenews/3018434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -203,6 +226,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "夸克AI眼镜“一镜难求”，二手溢价飙到5000元",
+          "url": "https://wallstreetcn.com/livenews/3018412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "据The Information：ChatGPT周活跃用户接近9亿。",
           "url": "https://flash.jin10.com/detail/20251209230341120800",
           "source": "金十数据",
@@ -217,8 +251,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "澜起科技：发行境外上市股份（H股）获中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3018449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
         {
           "title": "香港恒生指数收盘上涨0.42%。恒生科技指数收盘上涨0.48%。地平线机器人涨超3%，美团涨2.7%。万科企业收涨超13%。",
           "url": "https://wallstreetcn.com/livenews/3018310",
@@ -226,7 +271,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -299,6 +344,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "福晶科技：本次股票异常波动期间，公司控股股东、实际控制人物构所通过集中竞价交易方式减持公司股份104.29万股。",
+          "url": "https://wallstreetcn.com/livenews/3018426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF跌约0.7%，网络股指数ETF跌约0.5%，全球科技股指数ETF跌次%，银行业ETF、能源业ETF涨0.7%。",
           "url": "https://wallstreetcn.com/livenews/3017763",
           "source": "华尔街见闻-快讯",
@@ -310,13 +366,24 @@
           "time_info": "00时14分"
         },
         {
+          "title": "龙旗科技：发行境外上市股份（H股）获得中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3018410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "恒生科技指数午后小幅走高，地平线机器人涨5.5%，美团涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3018247",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -346,29 +413,42 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "2026总台春晚主题主标识发布",
           "url": "https://search.bilibili.com/all?keyword=2026%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E4%B8%BB%E9%A2%98%E4%B8%BB%E6%A0%87%E8%AF%86%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 20时28分]"
         },
         {
           "title": "较发行价涨五倍！摩尔线程股价晋升A股Top3 新一代GPU架构即将发布",
           "url": "https://www.cls.cn/detail/2225021",
           "source": "财联社热门",
           "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 20时28分]"
+        },
+        {
+          "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
+          "url": "https://www.zhihu.com/question/1981134593068390187",
+          "source": "知乎",
+          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
+          "time_info": "[20时27分 ~ 20时28分]"
         },
         {
           "title": "周二（12月9日）纽约尾盘，ICE美元指数涨0.13%，报99.217点，北京时间17:48跌至98.954点刷新日低，随后持续走高，23:00发布美联储青睐的职位空缺（就业数据）之后快速拉升并刷新日高至99.312点。 彭博美元指数涨0.03%，报1214.47点，日内交投区间为1212.64-1215.70点。",
@@ -382,6 +462,29 @@
           "time_info": "04时31分"
         },
         {
+          "title": "全面解读美国最新安全战略",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 20时28分]"
+        },
+        {
+          "title": "2026 年总台春晚主题、主标识发布，如何评价今年主题「骐骥驰骋 势不可挡」以及主标识？",
+          "url": "https://www.zhihu.com/question/1982086239998977927",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
           "title": "河南一村发布“光棍榜”？镇政府辟谣",
           "url": "https://www.toutiao.com/trending/7580932182705831945/",
           "source": "今日头条",
@@ -393,15 +496,26 @@
           "time_info": "[08时46分 ~ 08时47分]"
         },
         {
-          "title": "全面解读美国最新安全战略",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5",
-          "source": "bilibili 热搜",
+          "title": "日本美景爆火？实为江西望仙谷",
+          "url": "https://www.toutiao.com/trending/7582048327248658451/",
+          "source": "今日头条",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
+          "title": "2026总台春晚主题主标识发布",
+          "url": "https://www.douyin.com/hot/2332234",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
         },
         {
           "title": "市场消息：印尼财政部发布黄金出口关税规定。",
@@ -410,7 +524,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -432,9 +546,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "泰国陆军发布边境部分地区宵禁公告",
+          "url": "https://wallstreetcn.com/livenews/3018421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "美国财政部发布与苏丹相关的制裁措施。",
@@ -458,11 +583,12 @@
           "url": "https://www.douyin.com/hot/2332411",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 20时28分]"
         },
         {
           "title": "正直播NBA杯：尼克斯vs猛龙",
