@@ -1,22 +1,46 @@
 {
-  "generated_at": "2025-12-12T00:15:55.742369+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-12-12T04:13:53.956945+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
           "url": "https://www.zhihu.com/question/1982385153180394991",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "动画老牌GAINAX正式破产领盒饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼在社交媒体上透露，下周将带来一些小小的圣诞礼物。",
+          "url": "https://flash.jin10.com/detail/20251212031452829800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时13分"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -52,15 +76,15 @@
           "time_info": "00时15分"
         },
         {
-          "title": "动画老牌GAINAX正式破产领盒饭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
-          "source": "贴吧",
+          "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20251212025521319800",
+          "source": "金十数据",
           "ranks": [
-            11
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时13分"
         },
         {
           "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
@@ -96,6 +120,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
+          "url": "https://wallstreetcn.com/livenews/3019365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：市场上的需求“相当极端”。新模型的推出应能提升市场份额。",
           "url": "https://flash.jin10.com/detail/20251211234949588800",
           "source": "金十数据",
@@ -127,12 +162,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "随着与谷歌的竞赛升级 OpenAI推出更先进的模型GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251212023829675800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "中央最新部署！明年经济工作抓好8大重点任务",
@@ -142,8 +188,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "北京发布暴雪蓝色预警",
+          "url": "https://www.douyin.com/hot/2333495",
+          "source": "抖音",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "游戏有没有可能这样设计：先做出 1-2 个关卡 / 章节，卖个很便宜的价格，再陆续把剩下部分做出来当 DLC 卖？",
+          "url": "https://www.zhihu.com/question/1982144440983320035",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "抹黑车企及产品、发布不实测评，“车曝台”等一批账号被处置",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153151",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
         },
         {
           "title": "乌克兰总统泽连斯基：最新草案将乌克兰军队规模定为80万人。",
@@ -168,37 +250,37 @@
           "time_info": "00时15分"
         },
         {
-          "title": "北京发布暴雪蓝色预警",
-          "url": "https://www.douyin.com/hot/2333495",
-          "source": "抖音",
+          "title": "美国财政部网站发布针对委内瑞拉的新制裁措施。",
+          "url": "https://flash.jin10.com/detail/20251212030432386800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时13分"
         },
         {
-          "title": "游戏有没有可能这样设计：先做出 1-2 个关卡 / 章节，卖个很便宜的价格，再陆续把剩下部分做出来当 DLC 卖？",
-          "url": "https://www.zhihu.com/question/1982144440983320035",
-          "source": "知乎",
+          "title": "现货白银短线走低0.7美元，最新报63.38美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251212030026409800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时13分"
         },
         {
-          "title": "抹黑车企及产品、发布不实测评，“车曝台”等一批账号被处置",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32153151",
-          "source": "澎湃新闻",
+          "title": "美国白宫新闻秘书Leavitt在新闻发布会上宣称：将依法对截获的委内瑞拉石油进行处置。 不允许被制裁的油轮航行。",
+          "url": "https://wallstreetcn.com/livenews/3019373",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时13分"
         },
         {
           "title": "光通信巨头Ciena Corp.（CIEN）一度涨8.2%，该公司给出的第一财季业绩指引超过市场预期。 最新业绩报告显示，Ciena第四财季营收13.5亿美元，分析师预期12.9亿美元。 第四财季调整后EPS为0.91美元，分析师预期0.79美元。 预计第一财季营收13.5亿-14.3亿美元，分析师预期12.5亿美元。 预计第一财季调整后毛利润率43%-44%，分析师预期42.6%。",
@@ -215,8 +297,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "恒生指数主连夜盘收涨0.85%，报25788点。 恒生科技指数主连夜盘收涨0.83%，报5593点。",
+          "url": "https://wallstreetcn.com/livenews/3019386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
         {
           "title": "马斯克称短视频「腐蚀人们的大脑」，如何看待这一说法？",
           "url": "https://www.zhihu.com/question/1982111618621007519",
@@ -229,6 +322,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "马斯克暗示SpaceX将上市",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BASpaceX%E5%B0%86%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
           "url": "https://wallstreetcn.com/livenews/3019297",
           "source": "华尔街见闻-快讯",
@@ -238,6 +342,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "NBA杯马刺淘汰湖人",
+          "url": "https://search.bilibili.com/all?keyword=NBA%E6%9D%AF%E9%A9%AC%E5%88%BA%E6%B7%98%E6%B1%B0%E6%B9%96%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     }
