@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T16:16:19.360395+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-12-12T20:19:48.313775+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时46分 ~ 16时16分]"
+          "appearance_count": 5,
+          "time_info": "[08时46分 ~ 20时19分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -69,6 +69,53 @@
           "time_info": "[08时46分 ~ 12时25分]"
         },
         {
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 20时19分]"
+        },
+        {
+          "title": "芬兰国防部：芬兰国防军将从美国采购AIM-120先进中距空对空导弹。",
+          "url": "https://flash.jin10.com/detail/20251212193351490800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 20时19分]"
+        },
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 20时19分]"
+        },
+        {
           "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
           "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
           "source": "澎湃新闻",
@@ -81,46 +128,12 @@
           "time_info": "[08时46分 ~ 12时25分]"
         },
         {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 16时16分]"
-        },
-        {
           "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
           "url": "https://www.cls.cn/detail/2227459",
           "source": "财联社热门",
           "ranks": [
             11,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 16时16分]"
-        },
-        {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 16时16分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -160,6 +173,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3019319",
           "source": "华尔街见闻-快讯",
@@ -171,13 +195,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
           "url": "https://www.cls.cn/detail/2227456",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -199,7 +234,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -235,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "美股AI股盘前延续跌势 市场分化加剧",
+          "url": "https://flash.jin10.com/detail/20251212191431260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "软银寻求AI布局，正考察包括数据中心运营商Switch在内的潜在收购",
@@ -372,7 +418,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "【早报】中央部署明年八大重点任务；摩尔线程发布重要公告",
@@ -398,6 +444,17 @@
           "time_info": "[08时46分 ~ 08时47分]"
         },
         {
+          "title": "真·定制冠军,33号获TGA年度游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347921&amp;topic_name=%E7%9C%9F%C2%B7%E5%AE%9A%E5%88%B6%E5%86%A0%E5%86%9B%2C33%E5%8F%B7%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 20时19分]"
+        },
+        {
           "title": "中央最新部署！明年经济工作抓好8大重点任务",
           "url": "https://www.cls.cn/detail/2226846",
           "source": "财联社热门",
@@ -407,17 +464,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "真·定制冠军,33号获TGA年度游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347921&amp;topic_name=%E7%9C%9F%C2%B7%E5%AE%9A%E5%88%B6%E5%86%A0%E5%86%9B%2C33%E5%8F%B7%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "epic 免费游戏",
@@ -431,6 +477,19 @@
           "time_info": "12时25分"
         },
         {
+          "title": "33号远征队获TGA年度游戏",
+          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 20时19分]"
+        },
+        {
           "title": "北京发布暴雪蓝色预警",
           "url": "https://www.douyin.com/hot/2333495",
           "source": "抖音",
@@ -441,18 +500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "33号远征队获TGA年度游戏",
-          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 16时16分]"
         },
         {
           "title": "抹黑车企及产品、发布不实测评，“车曝台”等一批账号被处置",
@@ -486,11 +533,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 20时19分]"
         },
         {
           "title": "日本已发布海啸预警",
@@ -499,7 +547,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -521,7 +569,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -532,7 +580,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -559,13 +607,24 @@
           "time_info": "04时13分"
         },
         {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "如何看待《黑帝斯 2》击败《忍龙 4》获得 TGA2025 最佳动作游戏奖项？",
           "url": "https://www.zhihu.com/question/1982741763564266534",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -631,9 +690,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "《老舅》会爆火吗",
+          "url": "https://www.toutiao.com/trending/7582879711789846057/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "“中国管道天然气现货价格”正式发布",
+          "url": "https://wallstreetcn.com/livenews/3019906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "直播体验TGA年度最佳游戏",
@@ -642,7 +723,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -697,7 +778,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -716,7 +797,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十数据整理：每日科技要闻速递（12月12日）",
@@ -736,9 +817,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2228052",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
+          "url": "https://www.cls.cn/detail/2228098",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.85%，报25788点。 恒生科技指数主连夜盘收涨0.83%，报5593点。",
@@ -783,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "富信科技：公司应用于数通400G/800G高速率光模块的Micro TEC已批量出货，同时正与多家光模块客户进行项目验证，但相关产品在公司整体收入中占比较小，预计今年产生的销售收入占2024年度公司经审计整体收入的2%左右。",
+          "url": "https://wallstreetcn.com/livenews/3019904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "金十图示：2025年12月12日（周五）全球主要科技与互联网公司市值变化",
