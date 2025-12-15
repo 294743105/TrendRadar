@@ -1,23 +1,35 @@
 {
-  "generated_at": "2025-12-15T04:11:34.593665+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-12-15T08:50:21.723404+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "【早报】更大力度提振消费，三部门最新部署；茅台推出控量政策",
+          "url": "https://www.cls.cn/detail/2229090",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
         {
           "title": "为什么《权力的游戏》龙母的龙傲天之路无法让人激动？",
           "url": "https://www.zhihu.com/question/68742650",
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时50分]"
         },
         {
           "title": "9天涨粉400万，“蛋神”回应爆火：不知道自己凭啥火，怕说错话",
@@ -27,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时50分]"
         },
         {
           "title": "独立游戏应该何去何从",
@@ -36,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时50分]"
         },
         {
           "title": "李现发布自己拍的雪后故宫",
@@ -53,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 04时11分]"
+        },
+        {
+          "title": "33应该是年度最佳独立游戏吗",
+          "url": "https://search.bilibili.com/all?keyword=33%E5%BA%94%E8%AF%A5%E6%98%AF%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         },
         {
           "title": "中央气象台12月14日18时继续发布大风蓝色预警",
@@ -94,7 +118,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         }
@@ -102,8 +126,20 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
+          "url": "https://www.cls.cn/detail/2228623",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时50分]"
+        },
         {
           "title": "日本被指正谋划“太空珍珠港事件”",
           "url": "https://news.ifeng.com/c/8p58V9lw4YB",
@@ -116,27 +152,17 @@
           "time_info": "[00时11分 ~ 04时11分]"
         },
         {
-          "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
-          "url": "https://www.cls.cn/detail/2228623",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时11分]"
-        },
-        {
           "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
           "url": "https://www.cls.cn/detail/2229026",
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时50分]"
         },
         {
           "title": "据港交所文件，12月14日，广州广合科技股份有限公司向港交所提交上市申请书，联席保荐人为中信证券、汇丰。",
@@ -169,15 +195,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "中信建投：建议持续关注量子科技产业链",
+          "url": "https://wallstreetcn.com/livenews/3020477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
@@ -189,6 +226,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 04时11分]"
+        },
+        {
+          "title": "中信证券：AI驱动，北美云厂商收入增长有望持续加速",
+          "url": "https://wallstreetcn.com/livenews/3020499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
+          "title": "中信证券：看好国内AI产业从“跟跑”转向“并跑”，拉动整体产业的投资机会",
+          "url": "https://wallstreetcn.com/livenews/3020494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
@@ -213,11 +272,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时50分]"
         }
       ]
     }
