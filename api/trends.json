@@ -1,116 +1,35 @@
 {
-  "generated_at": "2025-12-18T00:15:15.404728+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-18T04:16:39.672096+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3761475",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        },
-        {
-          "title": "【焦点复盘】科技成长赛道引领反弹，创指百点长阳收复60日线，全市场超3600股飘红",
-          "url": "https://www.cls.cn/detail/2232376",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        },
-        {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        },
-        {
-          "title": "比特币短线冲高回落，从87500美元下方涨至接近90500美元的走势昙花一现。",
-          "url": "https://wallstreetcn.com/livenews/3022517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "比特币短线从87500美元下方拉升，刷新日高至90315.75美元。",
-          "url": "https://wallstreetcn.com/livenews/3022513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
-          "url": "https://wallstreetcn.com/livenews/3022503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        },
         {
           "title": "我们的恋爱游戏已通关",
           "url": "https://www.douyin.com/hot/2339482",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时16分]"
+        },
+        {
+          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时16分]"
         },
         {
           "title": "Alphabet(GOOG.O)股价跌至逾三周低点，最新下跌2.9%。",
@@ -119,7 +38,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         },
@@ -128,11 +47,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%AD%A6%E9%99%A2%E5%9F%8E%E5%AE%9A%E6%A1%A3PV%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时16分]"
         },
         {
           "title": "33号远征队是TGA年度游戏范本吗",
@@ -157,13 +77,165 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
+          "title": "美国11月游戏机销量骤降，创二十年来同期最惨淡的表现",
+          "url": "https://wallstreetcn.com/livenews/3022573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "王毅最新涉日表态",
+          "url": "https://www.douyin.com/hot/2338813",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "Steam2025回顾上线",
+          "url": "https://search.bilibili.com/all?keyword=Steam2025%E5%9B%9E%E9%A1%BE%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
           "url": "https://wallstreetcn.com/livenews/3022504",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "费城半导体指数跌至三周多以来低点，最新下跌3.3%。",
+          "url": "https://flash.jin10.com/detail/20251218023002504800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时16分]"
+        },
+        {
+          "title": "【焦点复盘】科技成长赛道引领反弹，创指百点长阳收复60日线，全市场超3600股飘红",
+          "url": "https://www.cls.cn/detail/2232376",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时16分]"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时16分]"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时16分]"
+        },
+        {
+          "title": "比特币短线冲高回落，从87500美元下方涨至接近90500美元的走势昙花一现。",
+          "url": "https://wallstreetcn.com/livenews/3022517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.57%，报25304点。 恒生科技指数主连夜盘收跌0.81%，报5414点。",
+          "url": "https://wallstreetcn.com/livenews/3022574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "比特币短线从87500美元下方拉升，刷新日高至90315.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3022513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3022570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
+          "url": "https://wallstreetcn.com/livenews/3022503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         }
@@ -171,7 +243,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -180,7 +252,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         },
@@ -189,11 +261,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时16分]"
+        },
+        {
+          "title": "ThaiSweet樱花舞MV",
+          "url": "https://s.weibo.com/weibo?q=%23ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "OpenAI、Anthropic、谷歌公司与其他公司（含生物科技公司）讨论数据交易。 这三家公司一直在寻找专门的数据来训练他们的AI模型，并讨论与初创企业和上市公司合作，授权基因组学等主题的数据集。（The Information）",
@@ -202,7 +286,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         }
@@ -237,8 +321,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时16分]"
         }
       ]
     }
