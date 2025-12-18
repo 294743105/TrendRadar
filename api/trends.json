@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T00:15:25.790582+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-19T04:12:40.487533+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 6,
+      "match_count": 16,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -26,41 +26,154 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
           "url": "https://www.zhihu.com/question/1984925319061267264",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
           "url": "https://wallstreetcn.com/articles/3761607",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "AI上车教练下车 驾校生意变天了",
           "url": "https://www.baidu.com/s?wd=AI%E4%B8%8A%E8%BD%A6%E6%95%99%E7%BB%83%E4%B8%8B%E8%BD%A6+%E9%A9%BE%E6%A0%A1%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
+        },
+        {
+          "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3023316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时12分"
+        },
+        {
+          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
+          "url": "https://wallstreetcn.com/livenews/3023315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
+          "url": "https://flash.jin10.com/detail/20251219032029402800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "OpenAI：如果我们对用户的年龄没有把握或信息不完整，将默认启用U18体验，并为成年人提供验证年龄的方式。",
+          "url": "https://flash.jin10.com/detail/20251219031932942800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "OpenAI：正在ChatGPT个人订阅用户中初步部署年龄预测模型。",
+          "url": "https://flash.jin10.com/detail/20251219031741512800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "OpenAI：正在更新我们的模型规范，增加针对青少年的保护措施。U18原则指导ChatGPT如何为13至17岁青少年提供安全、适龄的使用体验。",
+          "url": "https://flash.jin10.com/detail/20251219031702143800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
+          "url": "https://wallstreetcn.com/livenews/3023302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
+          "url": "https://flash.jin10.com/detail/20251219031425775800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "OpenAI：推出GPT-5.2-Codex。",
+          "url": "https://wallstreetcn.com/livenews/3023301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "OpenAI：正与美国能源部扩大在人工智能领域的合作。",
+          "url": "https://flash.jin10.com/detail/20251219031354040800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
@@ -77,25 +190,37 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "纳斯达克100指数涨幅扩大至2%，成分股美光科技涨11.3%，核电股Constellation Energy（CEG）涨7.7%，Applovin涨6.6%，拉姆研究涨6.2%，露露柠檬涨5.4%，特斯拉涨3.8%，Strategy（MSTR）涨3.7%，AMD涨3.2%。 标普500质素目前涨1.4%，道指涨448点涨幅超过0.9%，纳指涨1.9%，半导体指数涨3.5%，银行指数涨0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3023245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
         {
           "title": "纳指开盘大涨1.4% 美光科技涨超13%",
           "url": "https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E5%BC%80%E7%9B%98%E5%A4%A7%E6%B6%A81.4%25+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E6%B6%A8%E8%B6%8513%25",
           "source": "百度热搜",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
+        },
+        {
+          "title": "英雄城红色传承受年轻人追捧：“硬货”加科技，南昌红色文旅不断创新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至2%，成分股美光科技涨11.3%，核电股Constellation Energy（CEG）涨7.7%，Applovin涨6.6%，拉姆研究涨6.2%，露露柠檬涨5.4%，特斯拉涨3.8%，Strategy（MSTR）涨3.7%，AMD涨3.2%。 标普500质素目前涨1.4%，道指涨448点涨幅超过0.9%，纳指涨1.9%，半导体指数涨3.5%，银行指数涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3023245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -113,15 +238,15 @@
           "time_info": "00时15分"
         },
         {
-          "title": "英雄城红色传承受年轻人追捧：“硬货”加科技，南昌红色文旅不断创新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193479",
-          "source": "澎湃新闻",
+          "title": "恒生指数主连夜盘收涨0.63%，报25675点。 恒生科技指数主连夜盘收涨0.59%，报5466点。",
+          "url": "https://wallstreetcn.com/livenews/3023306",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时12分"
         },
         {
           "title": "蓝色起源将把首位“轮椅使用者”送上太空",
@@ -133,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "如何评价天兵科技火箭一级垂直回收方案？",
+          "url": "https://www.zhihu.com/question/1984573832107934042",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
@@ -149,8 +285,55 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美元指数在美国CPI数据发布前后呈现出W形走势",
+          "url": "https://wallstreetcn.com/livenews/3023324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "Steam新硬件背后的布局",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E6%96%B0%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E5%B8%83%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
+        },
+        {
+          "title": "Steam2025回顾上线",
+          "url": "https://search.bilibili.com/all?keyword=Steam2025%E5%9B%9E%E9%A1%BE%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
+        },
+        {
+          "title": "玩游戏能治病还可走医保",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%83%BD%E6%B2%BB%E7%97%85%E8%BF%98%E5%8F%AF%E8%B5%B0%E5%8C%BB%E4%BF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时12分]"
+        },
         {
           "title": "美国政府将在12月23日发布三季度GDP报告时更新7-9月PCE数据。",
           "url": "https://wallstreetcn.com/livenews/3023234",
@@ -163,44 +346,11 @@
           "time_info": "00时15分"
         },
         {
-          "title": "Steam2025回顾上线",
-          "url": "https://search.bilibili.com/all?keyword=Steam2025%E5%9B%9E%E9%A1%BE%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
           "title": "国产真机首次亮相！中科曙光发布scaleX万卡超集群",
           "url": "https://wallstreetcn.com/livenews/3023230",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "Steam新硬件背后的布局",
-          "url": "https://search.bilibili.com/all?keyword=Steam%E6%96%B0%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E5%B8%83%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "玩游戏能治病还可走医保",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%83%BD%E6%B2%BB%E7%97%85%E8%BF%98%E5%8F%AF%E8%B5%B0%E5%8C%BB%E4%BF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
