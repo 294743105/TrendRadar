@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T04:16:39.672096+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2025-12-18T08:43:36.236211+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "我们的恋爱游戏已通关",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时43分]"
         },
         {
           "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时43分]"
         },
         {
           "title": "Alphabet(GOOG.O)股价跌至逾三周低点，最新下跌2.9%。",
@@ -83,7 +84,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -94,7 +95,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -105,9 +106,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "小米发布最新MiMo大模型",
+          "url": "https://www.douyin.com/hot/2338852",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
@@ -127,7 +139,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         }
@@ -135,7 +147,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -150,6 +162,18 @@
           "time_info": "[00时14分 ~ 04时16分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时43分]"
+        },
+        {
           "title": "【焦点复盘】科技成长赛道引领反弹，创指百点长阳收复60日线，全市场超3600股飘红",
           "url": "https://www.cls.cn/detail/2232376",
           "source": "财联社热门",
@@ -162,27 +186,17 @@
           "time_info": "[00时14分 ~ 04时16分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时16分]"
-        },
-        {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
           "url": "https://wallstreetcn.com/articles/3761532",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时43分]"
         },
         {
           "title": "比特币短线冲高回落，从87500美元下方涨至接近90500美元的走势昙花一现。",
@@ -202,7 +216,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -224,7 +238,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -238,13 +252,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（12月18日）",
+          "url": "https://flash.jin10.com/detail/20251218072004017800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "美光科技盘后涨幅扩大至9%。",
+          "url": "https://wallstreetcn.com/livenews/3022649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
           "url": "https://wallstreetcn.com/livenews/3022526",
@@ -257,16 +304,61 @@
           "time_info": "00时15分"
         },
         {
+          "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，筹资最高1000亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3022685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时43分]"
+        },
+        {
+          "title": "AI天才少女罗福莉小米首秀",
+          "url": "https://www.toutiao.com/trending/7584807839307140654/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "消息人士：美国联邦贸易委员会正就美国零售媒体和配送公司Instacart的AI定价工具对其展开调查。",
+          "url": "https://flash.jin10.com/detail/20251218073347663800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "业绩与规模齐升，AI成私募量化发展“必选项”",
+          "url": "https://wallstreetcn.com/livenews/3022661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "ThaiSweet樱花舞MV",
@@ -275,7 +367,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
