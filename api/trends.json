@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T08:43:36.236211+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2025-12-18T12:25:22.020606+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "我们的恋爱游戏已通关",
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 08时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 12时25分]"
         },
         {
           "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
@@ -44,16 +45,28 @@
           "time_info": "00时15分"
         },
         {
+          "title": "马年春晚吉祥物发布",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%90%89%E7%A5%A5%E7%89%A9%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "少女与学院城定档PV发布",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%91%E5%A5%B3%E4%B8%8E%E5%AD%A6%E9%99%A2%E5%9F%8E%E5%AE%9A%E6%A1%A3PV%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 12时25分]"
         },
         {
           "title": "33号远征队是TGA年度游戏范本吗",
@@ -78,6 +91,17 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
+          "title": "马年春晚吉祥物发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%90%89%E7%A5%A5%E7%89%A9%E5%8F%91%E5%B8%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "美国11月游戏机销量骤降，创二十年来同期最惨淡的表现",
           "url": "https://wallstreetcn.com/livenews/3022573",
           "source": "华尔街见闻-快讯",
@@ -100,6 +124,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "马年春晚吉祥物发布",
+          "url": "https://www.douyin.com/hot/2339920",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "Steam2025回顾上线",
           "url": "https://search.bilibili.com/all?keyword=Steam2025%E5%9B%9E%E9%A1%BE%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -117,9 +152,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "美元/韩元走高，最新报1477.65。此前韩国放宽海外美元借贷资本管制规定。",
+          "url": "https://flash.jin10.com/detail/20251218114123005800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
@@ -131,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "小米17Ultra发布时间定档",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Ultra%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "费城半导体指数跌至三周多以来低点，最新下跌3.3%。",
@@ -147,7 +204,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -195,8 +252,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 08时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 12时25分]"
         },
         {
           "title": "比特币短线冲高回落，从87500美元下方涨至接近90500美元的走势昙花一现。",
@@ -243,6 +300,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "派杰投资：将美光科技(MU.O)目标价从200美元上调至275美元。",
+          "url": "https://flash.jin10.com/detail/20251218115107165800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
           "url": "https://wallstreetcn.com/livenews/3022503",
           "source": "华尔街见闻-快讯",
@@ -260,9 +328,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "商业航天概念持续走高，星辰科技30cm涨停，中国卫星封涨停，天银机电、北摩高科、西部材料、天箭科技等多股此前封板，航天环宇、邵阳液压、西测测试、中科星图涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3022797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "美光科技盘后涨幅扩大至9%。",
@@ -271,7 +350,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         }
@@ -279,7 +358,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -288,9 +367,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 12时25分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -310,7 +389,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -321,11 +400,45 @@
           "ranks": [
             15,
             16,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 08时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 12时25分]"
+        },
+        {
+          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
+          "url": "https://www.cls.cn/detail/2232914",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "AI制药公司英矽智能今起招股，拟主板发行，礼来腾讯认基石",
+          "url": "https://wallstreetcn.com/livenews/3022822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "AI天才少女罗福莉小米首秀",
@@ -334,7 +447,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -345,7 +458,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -356,7 +469,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
