@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T08:47:38.648659+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2025-12-19T12:26:20.021668+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -81,6 +81,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "正与字节开展AI手机合作？联想内部人士：一直保持密切沟通",
+          "url": "https://wallstreetcn.com/livenews/3023553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
           "url": "https://wallstreetcn.com/livenews/3023315",
           "source": "华尔街见闻-快讯",
@@ -98,7 +109,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
@@ -112,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "OpenAI：如果我们对用户的年龄没有把握或信息不完整，将默认启用U18体验，并为成年人提供验证年龄的方式。",
@@ -204,9 +226,196 @@
       ]
     },
     {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美元指数在美国CPI数据发布前后呈现出W形走势",
+          "url": "https://wallstreetcn.com/livenews/3023324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "黑龙江发布暴雪红色预警 局地将出现超20毫米降雪",
+          "url": "https://wallstreetcn.com/livenews/3023566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "玩游戏能治病还可走医保",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%83%BD%E6%B2%BB%E7%97%85%E8%BF%98%E5%8F%AF%E8%B5%B0%E5%8C%BB%E4%BF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时47分]"
+        },
+        {
+          "title": "Steam新硬件背后的布局",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E6%96%B0%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E5%B8%83%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 12时26分]"
+        },
+        {
+          "title": "Steam2025回顾上线",
+          "url": "https://search.bilibili.com/all?keyword=Steam2025%E5%9B%9E%E9%A1%BE%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时47分]"
+        },
+        {
+          "title": "《科学》杂志发布2025年度十大科学突破",
+          "url": "https://wallstreetcn.com/livenews/3023555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "湖北舰，最新训练画面",
+          "url": "https://www.cls.cn/detail/2233818",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "我们是国产独游《溯光行》制作组，游戏发售后的销量比较低迷，问题出在哪里？",
+          "url": "https://www.zhihu.com/question/1984678445846897903",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "美国SEC发布加密货币托管指导意见",
+          "url": "https://wallstreetcn.com/livenews/3023400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "《天国：拯救 2》设计师谈游戏前期难度高，称先吃瘪后面变强才爽，你如何评价先苦后甜这种游戏设计？",
+          "url": "https://www.zhihu.com/question/1984330626023835573",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "美国政府将在12月23日发布三季度GDP报告时更新7-9月PCE数据。",
+          "url": "https://wallstreetcn.com/livenews/3023234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "电解锰价格13连涨 最新价创三年多新高",
+          "url": "https://wallstreetcn.com/livenews/3023395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "国产真机首次亮相！中科曙光发布scaleX万卡超集群",
+          "url": "https://wallstreetcn.com/livenews/3023230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "马年春晚吉祥物发布",
+          "url": "https://www.douyin.com/hot/2339920",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "外媒分析： 市场焦点已从日本央行加息转向植田和男新闻发布会",
+          "url": "https://flash.jin10.com/detail/20251219112624075800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
         {
           "title": "安徽“十五五”规划建议：推动量子科技、氢能和核聚变能、脑机接口等成为新的经济增长点",
           "url": "https://wallstreetcn.com/livenews/3023420",
@@ -214,7 +423,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
@@ -260,9 +469,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        },
+        {
+          "title": "安徽“十五五”规划建议：推动量子科技、氢能和核聚变能、脑机接口等成为新的经济增长点",
+          "url": "https://www.cls.cn/detail/2234188",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股美光科技涨11.3%，核电股Constellation Energy（CEG）涨7.7%，Applovin涨6.6%，拉姆研究涨6.2%，露露柠檬涨5.4%，特斯拉涨3.8%，Strategy（MSTR）涨3.7%，AMD涨3.2%。 标普500质素目前涨1.4%，道指涨448点涨幅超过0.9%，纳指涨1.9%，半导体指数涨3.5%，银行指数涨0.9%。",
@@ -274,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "SpaceX上市在即，特斯拉还能承载多少“马斯克溢价”？",
+          "url": "https://www.cls.cn/detail/2233996",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "美光科技涨幅从17%收窄至10%。",
@@ -315,7 +546,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
@@ -329,138 +560,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美元指数在美国CPI数据发布前后呈现出W形走势",
-          "url": "https://wallstreetcn.com/livenews/3023324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "玩游戏能治病还可走医保",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%83%BD%E6%B2%BB%E7%97%85%E8%BF%98%E5%8F%AF%E8%B5%B0%E5%8C%BB%E4%BF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 08时47分]"
-        },
-        {
-          "title": "Steam2025回顾上线",
-          "url": "https://search.bilibili.com/all?keyword=Steam2025%E5%9B%9E%E9%A1%BE%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 08时47分]"
-        },
-        {
-          "title": "Steam新硬件背后的布局",
-          "url": "https://search.bilibili.com/all?keyword=Steam%E6%96%B0%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E5%B8%83%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时12分]"
-        },
-        {
-          "title": "湖北舰，最新训练画面",
-          "url": "https://www.cls.cn/detail/2233818",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "美国SEC发布加密货币托管指导意见",
-          "url": "https://wallstreetcn.com/livenews/3023400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "《天国：拯救 2》设计师谈游戏前期难度高，称先吃瘪后面变强才爽，你如何评价先苦后甜这种游戏设计？",
-          "url": "https://www.zhihu.com/question/1984330626023835573",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "美国政府将在12月23日发布三季度GDP报告时更新7-9月PCE数据。",
-          "url": "https://wallstreetcn.com/livenews/3023234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "电解锰价格13连涨 最新价创三年多新高",
-          "url": "https://wallstreetcn.com/livenews/3023395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "国产真机首次亮相！中科曙光发布scaleX万卡超集群",
-          "url": "https://wallstreetcn.com/livenews/3023230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "马年春晚吉祥物发布",
-          "url": "https://www.douyin.com/hot/2339920",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时47分"
         }
       ]
     },
