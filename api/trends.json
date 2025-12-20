@@ -1,11 +1,315 @@
 {
-  "generated_at": "2025-12-20T16:14:17.415222+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2025-12-20T20:17:21.451836+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 16时14分]"
+        },
+        {
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
+          "url": "https://wallstreetcn.com/livenews/3024251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 12时17分]"
+        },
+        {
+          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
+          "url": "https://wallstreetcn.com/livenews/3024250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 12时17分]"
+        },
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时44分]"
+        },
+        {
+          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
+          "url": "https://www.cls.cn/detail/2235451",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
+          "url": "https://flash.jin10.com/detail/20251220123029184800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
+          "url": "https://flash.jin10.com/detail/20251220122308239800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
+          "url": "https://www.zhihu.com/question/1984644910364774911",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 12时17分]"
+        },
+        {
+          "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
+          "url": "https://wallstreetcn.com/livenews/3024138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
+          "url": "https://wallstreetcn.com/livenews/3024247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
+          "url": "https://wallstreetcn.com/livenews/3024274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
+          "url": "https://wallstreetcn.com/articles/3761702",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
+          "url": "https://wallstreetcn.com/livenews/3024191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
+          "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
+          "url": "https://wallstreetcn.com/livenews/3024240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
+          "url": "https://wallstreetcn.com/livenews/3024236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
+          "url": "https://wallstreetcn.com/livenews/3024262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
+          "url": "https://wallstreetcn.com/livenews/3024259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
+          "url": "https://wallstreetcn.com/livenews/3024257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
+          "url": "https://wallstreetcn.com/livenews/3024256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -16,19 +320,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 20时17分]"
         },
         {
-          "title": "老美冲太空赛道,誓当月球话事人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348156&amp;topic_name=%E8%80%81%E7%BE%8E%E5%86%B2%E5%A4%AA%E7%A9%BA%E8%B5%9B%E9%81%93%2C%E8%AA%93%E5%BD%93%E6%9C%88%E7%90%83%E8%AF%9D%E4%BA%8B%E4%BA%BA",
-          "source": "贴吧",
+          "title": "星链卫星发生罕见事故 正在太空翻滚",
+          "url": "https://www.baidu.com/s?wd=%E6%98%9F%E9%93%BE%E5%8D%AB%E6%98%9F%E5%8F%91%E7%94%9F%E7%BD%95%E8%A7%81%E4%BA%8B%E6%95%85+%E6%AD%A3%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%BF%BB%E6%BB%9A",
+          "source": "百度热搜",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "20时17分"
         },
         {
           "title": "科技亿万富翁承诺出资10亿美元，助力CERN粒子对撞机",
@@ -42,6 +346,63 @@
           "time_info": "00时13分"
         },
         {
+          "title": "蓝色起源公司在推迟后将送首位轮椅使用者进入太空",
+          "url": "https://wallstreetcn.com/livenews/3024279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "老美冲太空赛道,誓当月球话事人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348156&amp;topic_name=%E8%80%81%E7%BE%8E%E5%86%B2%E5%A4%AA%E7%A9%BA%E8%B5%9B%E9%81%93%2C%E8%AA%93%E5%BD%93%E6%9C%88%E7%90%83%E8%AF%9D%E4%BA%8B%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
+          "url": "https://flash.jin10.com/detail/20251220133230149800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
+          "title": "马斯克点赞王力宏伴舞机器人",
+          "url": "https://www.douyin.com/hot/2342006",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
           "title": "马斯克点赞王力宏伴舞机器人",
           "url": "https://www.toutiao.com/trending/7585536096348553235/",
           "source": "今日头条",
@@ -53,24 +414,13 @@
           "time_info": "12时17分"
         },
         {
-          "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
-          "url": "https://flash.jin10.com/detail/20251220133230149800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
           "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
           "url": "https://wallstreetcn.com/livenews/3024244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -147,7 +497,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -161,28 +511,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
-        },
-        {
-          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "马斯克点赞王力宏伴舞机器人",
-          "url": "https://www.douyin.com/hot/2342006",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         },
         {
           "title": "比特币涨超3%，刷新日高至88467美元上方。",
@@ -231,217 +559,8 @@
       ]
     },
     {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 16时14分]"
-        },
-        {
-          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
-          "url": "https://wallstreetcn.com/livenews/3024251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
-          "url": "https://wallstreetcn.com/livenews/3024250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
-          "url": "https://wallstreetcn.com/livenews/3024206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 12时17分]"
-        },
-        {
-          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 12时17分]"
-        },
-        {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 08时44分]"
-        },
-        {
-          "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
-          "url": "https://www.zhihu.com/question/1984644910364774911",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 12时17分]"
-        },
-        {
-          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
-          "url": "https://wallstreetcn.com/articles/3761762",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
-          "url": "https://wallstreetcn.com/livenews/3024138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
-          "url": "https://wallstreetcn.com/livenews/3024247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
-          "url": "https://wallstreetcn.com/articles/3761702",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
-          "url": "https://flash.jin10.com/detail/20251220123029184800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
-          "url": "https://www.cls.cn/detail/2235451",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
-          "url": "https://flash.jin10.com/detail/20251220122308239800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
-          "url": "https://wallstreetcn.com/livenews/3024191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
-          "url": "https://wallstreetcn.com/livenews/3024240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
-          "url": "https://wallstreetcn.com/livenews/3024236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "人民币现金收付新规发布",
@@ -468,6 +587,17 @@
           "time_info": "[00时13分 ~ 04时12分]"
         },
         {
+          "title": "2026 央视春晚吉祥物发布，「骐骐」「骥骥」「驰驰」「骋骋」四匹骏马有哪些设计亮点？你觉得好看吗？",
+          "url": "https://www.zhihu.com/question/1984939647726479213",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "人民币现金收付新规发布",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E7%8E%B0%E9%87%91%E6%94%B6%E4%BB%98%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
@@ -480,15 +610,16 @@
           "time_info": "[00时13分 ~ 08时44分]"
         },
         {
-          "title": "如何看待「罗永浩的十字路口」最新一期，罗永浩与大鹏导演 5 个小时的对谈？",
-          "url": "https://www.zhihu.com/question/1984695994508656923",
+          "title": "如何看待字节跳动发布涨薪内部邮件，2025 年奖金投入提升 35%？这在业内是什么水平？",
+          "url": "https://www.zhihu.com/question/1985407020891861408",
           "source": "知乎",
           "ranks": [
-            5
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 20时17分]"
         },
         {
           "title": "摩尔线程发布新一代GPU架构“花港”：能效提升10倍，支持十万卡以上智算集群",
@@ -503,16 +634,16 @@
           "time_info": "[12时17分 ~ 16时14分]"
         },
         {
-          "title": "如何看待字节跳动发布涨薪内部邮件，2025 年奖金投入提升 35%？这在业内是什么水平？",
-          "url": "https://www.zhihu.com/question/1985407020891861408",
+          "title": "如何看待「罗永浩的十字路口」最新一期，罗永浩与大鹏导演 5 个小时的对谈？",
+          "url": "https://www.zhihu.com/question/1984695994508656923",
           "source": "知乎",
           "ranks": [
-            6,
-            8
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 16时14分]"
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
         },
         {
           "title": "6元面包摊老板爆火",
@@ -599,6 +730,28 @@
           "time_info": "00时13分"
         },
         {
+          "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1985671456869349373",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "宁波卫健委回应小洛熙事件最新进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "游戏陪玩师最高月入两万元",
           "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E6%88%8F%E9%99%AA%E7%8E%A9%E5%B8%88%E6%9C%80%E9%AB%98%E6%9C%88%E5%85%A5%E4%B8%A4%E4%B8%87%E5%85%83",
           "source": "百度热搜",
@@ -608,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "SWIFT发布最新全球货币国际支付比例",
+          "url": "https://www.toutiao.com/trending/7585882959253605931/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "《中国落实2030年可持续发展议程进展报告2025》发布",
@@ -638,24 +802,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "森林狼险胜雷霆",
+          "url": "https://www.douyin.com/hot/2342095",
+          "source": "抖音",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时17分]"
+        },
+        {
           "title": "华子一攻两防杀死雷霆",
           "url": "https://www.toutiao.com/trending/7585459828026428970/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "森林狼险胜雷霆",
-          "url": "https://www.douyin.com/hot/2342095",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
