@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T04:11:09.907754+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-12-21T08:52:16.446990+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -16,42 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
           "url": "https://wallstreetcn.com/articles/3761762",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
-        },
-        {
-          "title": "中信建投：继续看好AI算力板块",
-          "url": "https://wallstreetcn.com/livenews/3024316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -59,34 +37,49 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
           "url": "https://wallstreetcn.com/articles/3761689",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
+          "title": "中信建投：继续看好AI算力板块",
+          "url": "https://wallstreetcn.com/livenews/3024316",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -94,11 +87,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
@@ -109,8 +116,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
@@ -118,22 +125,24 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时10分 ~ 08时52分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -156,13 +165,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 04时11分]"
+        },
+        {
+          "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
+          "url": "https://wallstreetcn.com/articles/3761760",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年12月20日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
+          "url": "https://www.zhihu.com/question/1983889355362820808",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
+          "url": "https://www.cls.cn/detail/2235476",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
+        },
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
           "url": "https://wallstreetcn.com/articles/3761704",
@@ -176,27 +229,17 @@
           "time_info": "[00时11分 ~ 04时11分]"
         },
         {
-          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
-          "url": "https://www.cls.cn/detail/2235476",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
-        },
-        {
           "title": "星链卫星发生罕见事故 正在太空翻滚",
           "url": "https://www.toutiao.com/trending/7585521757369958454/",
           "source": "今日头条",
           "ranks": [
             5,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "马斯克点赞王力宏伴舞机器人",
@@ -229,8 +272,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "比特币短线从88300美元附近跳水，逼近87800美元。",
@@ -275,12 +318,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 00时12分]"
+        },
+        {
+          "title": "比尔·阿克曼：建议马斯克的太空探索公司SpaceX通过潘兴广场Pershing Square SPARC Holdings Ltd.实现IPO。 我们对“授予马斯克超级投票（权）股份”持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3024339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "科技领跑、周期接力、慢牛到全面牛……2026年A股怎么走，十大券商策略来了",
+          "url": "https://wallstreetcn.com/articles/3761418",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "贝佐斯旗下蓝色起源完成首次载有轮椅使用者的太空飞行",
+          "url": "https://wallstreetcn.com/livenews/3024311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "摩尔线程发布新一代 GPU 架构「花港」，算力密度提升 50%，会对国产 GPU 领域带来怎样的影响？",
@@ -288,11 +364,38 @@
           "source": "知乎",
           "ranks": [
             3,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
+        },
+        {
+          "title": "宁波大学附属妇女儿童医院就患儿部分尸检报告发布情况说明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32220966",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
+        },
+        {
+          "title": "中国社科院揭露11家冒名机构期刊，有的曾举办大型发布会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32220147",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "医院发布小洛熙尸检情况说明，称「房间隔缺损不是患方说的 0.3cm」后又删除，这种情况手术指征成立吗？",
@@ -306,28 +409,15 @@
           "time_info": "[00时11分 ~ 00时12分]"
         },
         {
-          "title": "宁波大学附属妇女儿童医院就患儿部分尸检报告发布情况说明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32220966",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（12月21日）",
+          "url": "https://flash.jin10.com/detail/20251221081849793800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
-        },
-        {
-          "title": "中国社科院揭露11家冒名机构期刊，有的曾举办大型发布会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32220147",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "如何看待字节跳动发布涨薪内部邮件，2025 年奖金投入提升 35%？这在业内是什么水平？",
@@ -335,11 +425,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 08时52分]"
         },
         {
           "title": "2026 央视春晚吉祥物发布，「骐骐」「骥骥」「驰驰」「骋骋」四匹骏马有哪些设计亮点？你觉得好看吗？",
@@ -362,6 +453,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 00时12分]"
+        },
+        {
+          "title": "重庆发布首块L3级自动驾驶专用号牌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%8F%91%E5%B8%83%E9%A6%96%E5%9D%97L3%E7%BA%A7%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%B8%93%E7%94%A8%E5%8F%B7%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "重庆发布国内首块L3级自动驾驶专用正式号牌",
+          "url": "https://wallstreetcn.com/livenews/3024314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     },
