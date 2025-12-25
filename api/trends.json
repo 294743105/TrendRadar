@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T12:29:41.604484+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2025-12-25T16:16:00.327705+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】北京发布楼市新政；标普500指数、道指收盘均创新高",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时46分 ~ 12时29分]"
+        },
+        {
+          "title": "预告：国家发改委将于12月26日10:30举行新闻发布会，介绍国家创业投资引导基金有关工作。",
+          "url": "https://wallstreetcn.com/livenews/3026653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "白银波动率达到历史极大值，多家机构发布风险提示",
@@ -82,6 +93,39 @@
           "time_info": "[08时46分 ~ 12时29分]"
         },
         {
+          "title": "反转？美特使最新表态：美国无意征服",
+          "url": "https://news.ifeng.com/c/8pN2aQOWl4l",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
+          "title": "广州首个游戏电竞产业专项扶持政策发布",
+          "url": "https://www.cls.cn/detail/2239755",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
+          "title": "央行最新例会释放下阶段货币政策信号，哪些表述发生了变化？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32246651",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
           "title": "金融支持加快西部陆海新通道建设 八部门联合发布21条举措",
           "url": "https://www.cls.cn/detail/2238808",
           "source": "财联社热门",
@@ -110,7 +154,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -139,9 +183,174 @@
       ]
     },
     {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 13,
       "titles": [
+        {
+          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2239177",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 08时47分]"
+        },
+        {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 04时11分]"
+        },
+        {
+          "title": "十大国内国际科技新闻",
+          "url": "https://www.douyin.com/hot/2347061",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 12时29分]"
+        },
+        {
+          "title": "国防部：日方推行进攻性太空政策极其危险",
+          "url": "https://wallstreetcn.com/livenews/3026641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
+          "url": "https://flash.jin10.com/detail/20251225030848051800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "由中国商业航天企业天兵科技研制的天龙三号可回收火箭近期将实施首飞任务。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3026504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
+          "url": "https://wallstreetcn.com/livenews/3026308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "鸿海旗下合资企业鸿华先进科技推出Bria电动车型",
+          "url": "https://wallstreetcn.com/livenews/3026499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（12月25日）",
+          "url": "https://flash.jin10.com/detail/20251225073446265800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3026259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "A股电池板块低开高走，天际股份触达涨停，震裕科技涨超5%，蔚蓝锂芯、容百科技、科达利、博力威、信宇人等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3026603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "国家税务总局：将持续落实落细支持科技创新的税费优惠政策",
+          "url": "https://wallstreetcn.com/livenews/3026588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 16时16分]"
+        },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
           "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
@@ -152,17 +361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时46分 ~ 08时47分]"
-        },
-        {
-          "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
         },
         {
           "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
@@ -187,13 +385,35 @@
           "time_info": "08时47分"
         },
         {
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
           "title": "AI救我狗命",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%95%91%E6%88%91%E7%8B%97%E5%91%BD%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -240,116 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2239177",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 08时47分]"
-        },
-        {
-          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
-          "url": "https://wallstreetcn.com/articles/3761906",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
-          "url": "https://wallstreetcn.com/articles/3761983",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 12时29分]"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
-          "url": "https://flash.jin10.com/detail/20251225030848051800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "由中国商业航天企业天兵科技研制的天龙三号可回收火箭近期将实施首飞任务。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3026504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
-          "url": "https://wallstreetcn.com/livenews/3026308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "鸿海旗下合资企业鸿华先进科技推出Bria电动车型",
-          "url": "https://wallstreetcn.com/livenews/3026499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（12月25日）",
-          "url": "https://flash.jin10.com/detail/20251225073446265800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3026259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
         }
       ]
     },
