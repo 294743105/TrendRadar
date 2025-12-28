@@ -1,373 +1,22 @@
 {
-  "generated_at": "2025-12-28T20:18:46.618812+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-12-29T00:13:03.366793+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 3,
       "titles": [
         {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（12月28日）",
-          "url": "https://flash.jin10.com/detail/20251228082345982800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "44岁宋宁峰凭《老舅》爆火",
-          "url": "https://www.toutiao.com/trending/7587732419449552922/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 12时37分]"
-        },
-        {
-          "title": "2026春晚分会场发布",
-          "url": "https://s.weibo.com/weibo?q=%232026%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 20时18分]"
-        },
-        {
-          "title": "我国首次发布工业数据资源基础库",
-          "url": "https://wallstreetcn.com/livenews/3027568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 12时37分]"
-        },
-        {
-          "title": "如何评价《原神》于 2025 年 12 月 27 日中午发布的动态？",
-          "url": "https://www.zhihu.com/question/1988252332119569344",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时11分 ~ 12时37分]"
-        },
-        {
-          "title": "委托生产如何确保食品质量安全？国家监管新规即将发布",
-          "url": "https://flash.jin10.com/detail/20251227212242815800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "我国首次发布工业数据资源基础库",
-          "url": "https://flash.jin10.com/detail/20251227203440615800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "上交所发布！商业火箭企业适用科创板第五套上市标准 制度包容性、适应性进一步提升",
-          "url": "https://www.cls.cn/detail/2241545",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "土耳其央行发布2026年货币政策报告：将召开八次利率政策会议。 一周期回购拍卖仍将是主要工具。 央行将在2026年维持汇率职能不变。",
-          "url": "https://wallstreetcn.com/livenews/3027642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "中央广播电视总台发布2025国内、国际十大新闻。",
-          "url": "https://flash.jin10.com/detail/20251228190802459800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "2026春晚分会场发布",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E5%8F%91%E5%B8%83",
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
           "source": "bilibili 热搜",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "泰柬停火生效后首日 双方通报最新局势",
-          "url": "https://flash.jin10.com/detail/20251228140705852800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "为什么从来没有游戏把南极做成主要游戏场景呢？",
-          "url": "https://www.zhihu.com/question/1986465398288316079",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "据英国《金融时报》调查显示，欧元区经济增速预计明年将放缓0.2个百分点，至2026年的1.2%，随后在2027年回升至1.4%。这一预测与欧洲央行工作人员的最新预测基本一致。",
-          "url": "https://flash.jin10.com/detail/20251228133052248800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "2026总台春晚分会场发布",
-          "url": "https://www.baidu.com/s?wd=2026%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "算力突围的终极战场不在硅谷，而在太空轨道",
-          "url": "https://wallstreetcn.com/articles/3762182",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 12时37分]"
-        },
-        {
-          "title": "白银狂飙，马斯克直言：这不好！",
-          "url": "https://wallstreetcn.com/articles/3762194",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 20时18分]"
-        },
-        {
-          "title": "马斯克评论宇树机器人测试视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%84%E8%AE%BA%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "马斯克1个表情评宇树机器人踹工程师",
-          "url": "https://www.toutiao.com/trending/7588573431797514283/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
-          "url": "https://www.cls.cn/detail/2241658",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 12时37分]"
-        },
-        {
-          "title": "随神舟二十一号载人飞船返回的“太空小鼠”已成功孕育幼仔",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32258860",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "恒生电子执行总裁官晓岚：海南封关为金融科技与财富管理带来重要机遇",
-          "url": "https://flash.jin10.com/detail/20251227212643543800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "白银价格狂飙，马斯克直言：这不好",
-          "url": "https://wallstreetcn.com/livenews/3027589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 16时14分]"
-        },
-        {
-          "title": "白银价格暴涨 马斯克：这可不好",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 16时14分]"
-        },
-        {
-          "title": "美国对华科技竞争战略为何调整",
-          "url": "https://www.toutiao.com/trending/7587826394852491307/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "证监会科技司刘铁斌：构建规范、健康的资本市场人工智能生态体系",
-          "url": "https://wallstreetcn.com/livenews/3027607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "中国人民银行科技司司长李伟：积极稳妥、安全有序推进人工智能金融应用",
-          "url": "https://wallstreetcn.com/livenews/3027626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "央行科技司李伟：积极稳妥、安全有序推进人工智能金融应用",
-          "url": "https://flash.jin10.com/detail/20251228175513322800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "尚福林：要完善长期资本投早、投小、投长期、投硬科技的支持政策",
-          "url": "https://wallstreetcn.com/livenews/3027548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "原告出示证据 右下角写着“AI生成”",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%91%8A%E5%87%BA%E7%A4%BA%E8%AF%81%E6%8D%AE+%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%86%99%E7%9D%80%E2%80%9CAI%E7%94%9F%E6%88%90%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时37分]"
+          "time_info": "[00时12分 ~ 00时13分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -376,98 +25,76 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
-          "url": "https://wallstreetcn.com/livenews/3027613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时14分 ~ 20时18分]"
-        },
-        {
-          "title": "Notion CEO谈AI变革：“无限心智”时代来临",
-          "url": "https://wallstreetcn.com/articles/3762183",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时37分]"
-        },
-        {
-          "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
-          "url": "https://wallstreetcn.com/livenews/3027558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "time_info": "[00时12分 ~ 00时13分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时14分 ~ 20时18分]"
-        },
-        {
-          "title": "AI医疗前景如何",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
-          "url": "https://flash.jin10.com/detail/20251228101016182800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "[00时12分 ~ 00时13分]"
         }
       ]
     },
     {
-      "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 2,
       "titles": [
         {
-          "title": "你怎么看NBA赛场球员冲突",
-          "url": "https://www.toutiao.com/trending/7588729648382083115/",
-          "source": "今日头条",
+          "title": "白银狂飙，马斯克直言：这不好！",
+          "url": "https://wallstreetcn.com/articles/3762194",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时37分 ~ 16时14分]"
+          "time_info": "[00时12分 ~ 00时13分]"
+        },
+        {
+          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
+          "url": "https://wallstreetcn.com/livenews/3027666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2026春晚分会场发布",
+          "url": "https://search.bilibili.com/all?keyword=2026%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 00时13分]"
+        },
+        {
+          "title": "辽宁辽阳白塔区三里厨娘饭店重大火灾事故调查报告发布，40名公职人员被问责。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3027658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时13分"
         }
       ]
     }
