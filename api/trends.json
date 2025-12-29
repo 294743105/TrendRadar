@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-29T16:17:38.108858+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2025-12-29T20:21:09.159254+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "辽宁辽阳三里厨娘饭店重大火灾事故调查报告发布，40名公职人员被问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32270381",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时11分 ~ 20时21分]"
+        },
         {
           "title": "【早报】官方明确：明年继续“国补”；商业火箭企业科创板IPO细则发布",
           "url": "https://www.cls.cn/detail/2242263",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时53分 ~ 16时17分]"
-        },
-        {
-          "title": "辽宁辽阳三里厨娘饭店重大火灾事故调查报告发布，40名公职人员被问责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32270381",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时11分 ~ 16时17分]"
         },
         {
           "title": "2026春晚分会场发布",
@@ -75,7 +75,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -97,11 +97,47 @@
           "ranks": [
             16,
             10,
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 20时21分]"
+        },
+        {
+          "title": "诈尸收割情怀?仙剑4重制版pv发布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348511&amp;topic_name=%E8%AF%88%E5%B0%B8%E6%94%B6%E5%89%B2%E6%83%85%E6%80%80%3F%E4%BB%99%E5%89%914%E9%87%8D%E5%88%B6%E7%89%88pv%E5%8F%91%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时53分 ~ 16时17分]"
+          "time_info": "[16时17分 ~ 20时21分]"
+        },
+        {
+          "title": "东部战区发布军事演习现场视频《进逼 夺权 阻逃》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272940",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 20时21分]"
+        },
+        {
+          "title": "关于“微信占内存”，官方最新回应",
+          "url": "https://www.cls.cn/detail/2242644",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "辽宁辽阳白塔区三里厨娘饭店重大火灾事故调查报告发布，40名公职人员被问责。（新华社）",
@@ -116,15 +152,15 @@
           "time_info": "[00时13分 ~ 04时11分]"
         },
         {
-          "title": "诈尸收割情怀?仙剑4重制版pv发布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348511&amp;topic_name=%E8%AF%88%E5%B0%B8%E6%94%B6%E5%89%B2%E6%83%85%E6%80%80%3F%E4%BB%99%E5%89%914%E9%87%8D%E5%88%B6%E7%89%88pv%E5%8F%91%E5%B8%83",
-          "source": "贴吧",
+          "title": "中柬泰举行外长会晤，发布《中柬泰三方抚仙会晤新闻公报》，释放哪些信号？此次会晤具有哪些重要意义？",
+          "url": "https://www.zhihu.com/question/1988988673476302538",
+          "source": "知乎",
           "ranks": [
-            9
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "军演海报发布：正义之盾 破限除妄",
@@ -144,7 +180,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -166,7 +202,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -182,24 +218,13 @@
           "time_info": "08时53分"
         },
         {
-          "title": "东部战区发布军事演习现场视频《进逼 夺权 阻逃》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272940",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
           "title": "东部战区发布《联武群戈斩“独”道》",
           "url": "https://www.toutiao.com/trending/7588476210007932970/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -210,9 +235,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "遭冒名在“雪球”上发布市场观点，千亿券商：与公司及分析师无关",
+          "url": "https://wallstreetcn.com/livenews/3028097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "医保按病种付费3.0版将发布",
@@ -229,7 +265,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "白银狂飙，马斯克直言：这不好！",
@@ -260,9 +296,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
+          "url": "https://wallstreetcn.com/articles/3762225",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 20时21分]"
+        },
+        {
+          "title": "受科技股拖累，美股指期货走低，贵金属全线回落，现货白银新高后跳水日内大跌6%，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "伊朗：从俄罗斯发射三颗卫星到太空",
@@ -288,24 +347,24 @@
           "time_info": "[12时40分 ~ 16时17分]"
         },
         {
+          "title": "比亚迪入股机器人减速器生产商智同科技",
+          "url": "https://www.cls.cn/detail/2242576",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
           "title": "今日，宇树科技官方宣布，宇树全国首店开业，店铺位于北京双井。",
           "url": "https://wallstreetcn.com/livenews/3028001",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
-          "url": "https://wallstreetcn.com/articles/3762225",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -338,7 +397,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -363,12 +422,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "龙蟠科技：控股子公司常州锂源磷酸铁锂部分产线减产检修",
+          "url": "https://wallstreetcn.com/livenews/3028094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "宏微科技：与某公司签署了《战略合作协议》，未来将聚焦电控系统、液压控制系统、伺服系统、机器人核心零部件（执行器、电动缸、控制器）中所用到的功率半导体器件，并重点围绕氮化镓（GaN）功率半导体器件开展联合共研。",
+          "url": "https://wallstreetcn.com/livenews/3028089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "2025最全AI成果盘点",
@@ -378,11 +459,12 @@
             3,
             10,
             23,
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 16时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 20时21分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -419,6 +501,28 @@
           "time_info": "[00时12分 ~ 04时11分]"
         },
         {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
           "title": "ChatGPT帮他杀死83岁母亲？",
           "url": "https://news.ifeng.com/c/8pTGEplZnSO",
           "source": "凤凰网",
@@ -447,7 +551,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -458,7 +562,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
@@ -469,13 +573,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "丽萍发起雷霆早餐挑战",
+          "url": "https://www.douyin.com/hot/2350540",
+          "source": "抖音",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 20时21分]"
+        },
+        {
           "title": "2526 赛季 NBA，伦纳德狂砍 55 分，活塞 99:112 快船，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/1988915170664272875",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -486,18 +602,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "丽萍发起雷霆早餐挑战",
-          "url": "https://www.douyin.com/hot/2350540",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
