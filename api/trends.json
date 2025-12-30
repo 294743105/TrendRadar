@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-12-30T12:31:30.413728+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2025-12-30T16:16:26.401100+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 16时16分]"
+        },
+        {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
         {
           "title": "马斯克与内塔尼亚胡讨论AI和自动驾驶合作，将于明年3月访问以色列",
           "url": "https://wallstreetcn.com/livenews/3028400",
@@ -28,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
-        },
-        {
-          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
-          "url": "https://wallstreetcn.com/articles/3762071",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 12时31分]"
         },
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -76,6 +88,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 08时47分]"
+        },
+        {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 16时16分]"
+        },
+        {
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 16时16分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -120,31 +155,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
         {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "16时16分"
         },
         {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "【午报】三大指数缩量整理涨跌不一，AI智能体、机器人概念双双走强",
+          "url": "https://www.cls.cn/detail/2243744",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "16时16分"
         },
         {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
@@ -153,7 +199,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -164,7 +210,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -183,7 +229,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国军号发布视频，解放军无人机俯瞰台北 101 大厦，哪些信息值得关注？",
@@ -208,17 +254,6 @@
           "time_info": "[00时13分 ~ 04时13分]"
         },
         {
-          "title": "你是什么时候意识到打游戏对于普通人无意义的？",
-          "url": "https://www.zhihu.com/question/1988412881604207694",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "「斩杀线」这个词到底出自哪个游戏？一般不都是说「残血」吗？",
           "url": "https://www.zhihu.com/question/1988980019255599607",
           "source": "知乎",
@@ -231,6 +266,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 12时31分]"
+        },
+        {
+          "title": "诈尸收割情怀?仙剑4重制版pv发布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348511&amp;topic_name=%E8%AF%88%E5%B0%B8%E6%94%B6%E5%89%B2%E6%83%85%E6%80%80%3F%E4%BB%99%E5%89%914%E9%87%8D%E5%88%B6%E7%89%88pv%E5%8F%91%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 16时16分]"
+        },
+        {
+          "title": "你是什么时候意识到打游戏对于普通人无意义的？",
+          "url": "https://www.zhihu.com/question/1988412881604207694",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 16时16分]"
         },
         {
           "title": "东部战区发布军事演习现场视频《进逼 夺权 阻逃》",
@@ -259,16 +319,15 @@
           "time_info": "[00时13分 ~ 12时31分]"
         },
         {
-          "title": "诈尸收割情怀?仙剑4重制版pv发布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348511&amp;topic_name=%E8%AF%88%E5%B0%B8%E6%94%B6%E5%89%B2%E6%83%85%E6%80%80%3F%E4%BB%99%E5%89%914%E9%87%8D%E5%88%B6%E7%89%88pv%E5%8F%91%E5%B8%83",
-          "source": "贴吧",
+          "title": "如何看待东部战区发布的微视频《这么近那么美 随时到台北》？释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1989069626492093943",
+          "source": "知乎",
           "ranks": [
-            17,
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 16时16分]"
         },
         {
           "title": "东部战区发布台北MV",
@@ -296,17 +355,6 @@
           "time_info": "[00时13分 ~ 08时47分]"
         },
         {
-          "title": "如何看待东部战区发布的微视频《这么近那么美 随时到台北》？释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1989069626492093943",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 12时31分]"
-        },
-        {
           "title": "提醒：原定北京时间23:30披露的美国能源信息署（EIA）将发布政府版原油库存周报被推迟，本次报告已经因上周休市而延后发布。",
           "url": "https://wallstreetcn.com/livenews/3028240",
           "source": "华尔街见闻-快讯",
@@ -316,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "《权力的游戏》中，为什么詹姆不讨厌小恶魔，瑟曦却讨厌小恶魔？",
+          "url": "https://www.zhihu.com/question/32209758",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "纽约金日内跌幅达4.5%，报4347.2美元/盎司。 现货铂金日内跌幅扩大，最新下跌13%，至每盎司2129.1美元。",
@@ -329,13 +388,24 @@
           "time_info": "00时13分"
         },
         {
+          "title": "视频丨解放军演习最新画面来了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32275548",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "中国奇谭2终极PV发布",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E7%BB%88%E6%9E%81PV%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -384,11 +454,12 @@
           "url": "https://news.ifeng.com/c/8pV3sa1vSnJ",
           "source": "凤凰网",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 16时16分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（12月30日）",
@@ -408,7 +479,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
@@ -416,8 +487,19 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "2526 赛季 NBA 常规赛勇士 120:107 篮网，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1989254892485882629",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
         {
           "title": "你看好哪位后卫入选NBA全明星",
           "url": "https://www.toutiao.com/trending/7589282485138096171/",
@@ -425,7 +507,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
