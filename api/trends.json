@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T08:48:44.699926+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2025-12-31T12:31:19.975430+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "东部战区发布实弹射击画面集锦",
@@ -75,6 +75,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "中国海警局发布台岛及其附属岛屿执法巡查主题海报《扼喉》，哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/1989273497621516945",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "为什么很多游戏厂商在读取时光明正大的写「着色器编译中」，而不是委婉的换个措辞？",
           "url": "https://www.zhihu.com/question/1989087265755001803",
           "source": "知乎",
@@ -126,6 +137,19 @@
           "time_info": "[00时13分 ~ 08时48分]"
         },
         {
+          "title": "东部战区发布演习实景现场视频",
+          "url": "https://www.douyin.com/hot/2351871",
+          "source": "抖音",
+          "ranks": [
+            28,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 12时31分]"
+        },
+        {
           "title": "辽宁辽阳一饭店火灾致 22 死事故调查报告发布，40 名公职人员被问责，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1988718348339470544",
           "source": "知乎",
@@ -147,18 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 04时12分]"
-        },
-        {
-          "title": "东部战区发布演习实景现场视频",
-          "url": "https://www.douyin.com/hot/2351871",
-          "source": "抖音",
-          "ranks": [
-            28,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 08时48分]"
         },
         {
           "title": "《仙剑奇侠传四：重制版》发布实机演示，因战斗系统和 33 号类似被老外锐评，对此你怎么看？",
@@ -236,7 +248,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -247,7 +259,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -258,7 +270,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -269,7 +281,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -291,7 +303,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         }
@@ -299,7 +311,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "罗永浩宣布科技春晚门票全退",
@@ -308,9 +320,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "拟募资295亿元！长鑫科技科创板IPO获受理 已完成两轮预审问询回复 2025年有望扭亏",
+          "url": "https://www.cls.cn/detail/2244775",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "2025中国科技有多“硬核”",
+          "url": "https://www.toutiao.com/trending/7589613729818968110/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "2025中国科技有多“硬核”",
+          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%9C%89%E5%A4%9A%E2%80%9C%E7%A1%AC%E6%A0%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.17%，报25880点。 恒生科技指数主连夜盘收跌0.32%，报5593点。",
@@ -322,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
+          "url": "https://wallstreetcn.com/articles/3762337",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "长鑫科技科创板IPO已受理，拟融资295亿元",
@@ -363,7 +419,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -418,7 +474,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -451,9 +507,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "恒生科技指数日内跌超1%。携程集团跌超3%，网易跌近3%，华虹半导体逆市涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3029037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "2025年A股并购重组盘点： 活跃度显著提升 “硬科技”成焦点",
@@ -462,7 +529,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -473,7 +540,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -484,7 +551,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         }
@@ -492,7 +559,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -502,8 +569,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 12时31分]"
+        },
+        {
+          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
+          "url": "https://www.zhihu.com/question/1988712550200808371",
+          "source": "知乎",
+          "ranks": [
+            18,
+            8,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时13分 ~ 08时48分]"
+          "time_info": "[04时12分 ~ 12时31分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -523,34 +603,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 08时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 12时31分]"
         },
         {
           "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
           "url": "https://wallstreetcn.com/articles/3762287",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 08时48分]"
-        },
-        {
-          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
-          "url": "https://www.zhihu.com/question/1988712550200808371",
-          "source": "知乎",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 08时48分]"
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 12时31分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -565,13 +635,24 @@
           "time_info": "[00时13分 ~ 04时12分]"
         },
         {
+          "title": "12月31日午间收评：创业板指半日跌超1%，AI应用端逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3029072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "财联社、《科创板日报》年度评选推出“2025中国十大AI风云人物”",
           "url": "https://www.cls.cn/detail/2244555",
           "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -587,13 +668,24 @@
           "time_info": "04时12分"
         },
         {
+          "title": "2026年“国补”首次纳入智能眼镜 AI眼镜行业有望迎高速增长",
+          "url": "https://www.cls.cn/detail/2244751",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "软银：完成对OpenAI的225亿美元追加投资，共计持有OpenAI约11%的股份。",
           "url": "https://wallstreetcn.com/livenews/3028971",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -604,7 +696,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -615,7 +707,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -629,6 +721,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑",
+          "url": "https://wallstreetcn.com/livenews/3029042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -667,7 +781,7 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2526 赛季 NBA 常规赛独行侠 122:125 开拓者，如何评价这场比赛？",
@@ -679,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "2026 年 NBA 全明星球迷投票首轮结果出炉，詹姆斯仅西部第九，詹姆斯会落选全明星吗？",
+          "url": "https://www.zhihu.com/question/1989264661758116227",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
