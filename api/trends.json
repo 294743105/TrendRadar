@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T08:55:16.120737+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-01-01T12:40:28.365387+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -43,13 +43,24 @@
           "time_info": "[00时13分 ~ 08时55分]"
         },
         {
+          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
+          "url": "https://www.cls.cn/detail/2240328",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
           "url": "https://wallstreetcn.com/livenews/3029510",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -60,7 +71,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -71,7 +82,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -98,13 +109,46 @@
           "time_info": "00时13分"
         },
         {
+          "title": "金十图示：2026年01月01日（周四）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260101105534822800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "禾赛科技公布，禾赛激光雷达2025全年交付量超160万台，其中ADAS产品全年交付量约140万台。",
+          "url": "https://wallstreetcn.com/livenews/3029540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "金十图示：2026年01月01日（周四）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260101105533180800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "周三（12月31日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.10%，报88175美元，12月份累计下跌3.81%。 CME以太币期货DCR主力合约涨0.86%，报2997.50美元，12月份累跌2.36%。",
           "url": "https://wallstreetcn.com/livenews/3029491",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -126,7 +170,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -134,8 +178,19 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "AI魔改翻车!广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
@@ -149,6 +204,30 @@
           "time_info": "[00时13分 ~ 08时55分]"
         },
         {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 12时40分]"
+        },
+        {
+          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
+          "url": "https://wallstreetcn.com/articles/3762372",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 12时40分]"
+        },
+        {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
           "url": "https://www.cls.cn/detail/2245628",
           "source": "财联社热门",
@@ -158,6 +237,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 04时12分]"
+        },
+        {
+          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
+          "url": "https://www.cls.cn/detail/2245960",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 12时40分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -170,39 +261,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 04时12分]"
-        },
-        {
-          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
-          "url": "https://wallstreetcn.com/articles/3762372",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
-          "url": "https://www.cls.cn/detail/2245960",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
@@ -238,6 +296,28 @@
           "time_info": "04时12分"
         },
         {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.toutiao.com/trending/7589768798652514310/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
           "url": "https://wallstreetcn.com/livenews/3029406",
           "source": "华尔街见闻-快讯",
@@ -247,13 +327,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "宇树人形机器人回应AI是否存在泡沫",
+          "url": "https://www.toutiao.com/trending/7589927689303326763/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "2026年最新放假通知：增加5天",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E6%9C%80%E6%96%B0%E6%94%BE%E5%81%87%E9%80%9A%E7%9F%A5%EF%BC%9A%E5%A2%9E%E5%8A%A05%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
         {
           "title": "WTI原油期货转跌，美国能源部披露最新EIA原油库存周报。 虽然原油库存减少超190万桶，但成品油汽油库存激增超580万桶、精炼油库存激增约500万桶，意味着圣诞节当周需求低迷。",
           "url": "https://wallstreetcn.com/livenews/3029427",
@@ -308,6 +410,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "雷霆大胜开拓者",
+          "url": "https://www.toutiao.com/trending/7590229495500525075/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "NBA历史超巨谁实力最强",
+          "url": "https://www.toutiao.com/trending/7589910599623753774/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     }
