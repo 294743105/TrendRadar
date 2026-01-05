@@ -1,581 +1,33 @@
 {
-  "generated_at": "2026-01-05T20:21:28.757062+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-01-06T00:15:41.353362+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
-          "url": "https://wallstreetcn.com/articles/3762490",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时54分]"
-        },
-        {
-          "title": "宇树科技IPO未能如期推进之谜",
-          "url": "https://wallstreetcn.com/articles/3762506",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 16时18分]"
-        },
-        {
-          "title": "马斯克“量产预告”催化 脑机接口掀涨停潮 商业化元年稳了？",
-          "url": "https://www.cls.cn/detail/2247515",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 16时18分]"
-        },
-        {
-          "title": "商米科技港股IPO及境内未上市股份“全流通”获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3030867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.03%，恒生科技指数收涨0.09%。快手涨超11%，蔚来跌近6%，小鹏汽车跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3030702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "石头科技港股IPO获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3030865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
-          "url": "https://www.cls.cn/detail/2247636",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 20时21分]"
-        },
-        {
-          "title": "宇树科技澄清：我司未涉及申请“绿色通道”相关事宜，上市工作正常推进",
-          "url": "https://wallstreetcn.com/livenews/3030333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "宇树科技上市绿色通道被叫停？知情人士：预计1月递表",
-          "url": "https://wallstreetcn.com/livenews/3030330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
-          "url": "https://wallstreetcn.com/livenews/3030322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "专业人士：宇树科技不符合IPO绿色通道条件，也没申请过，所以也就不存在被叫停",
-          "url": "https://wallstreetcn.com/livenews/3030316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "贵州茅台新动作：成立数字科技公司",
-          "url": "https://www.cls.cn/detail/2247585",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
-          "url": "https://wallstreetcn.com/articles/3762545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "飞沃科技：市场近期高度关注商业航天热点概念。现阶段，公司的主营业务仍为风电高强度紧固件的研发、生产和销售，同时，正积极拓展航空航天、燃气轮机等领域的紧固件及零部件业务。公司在商业航天领域的业务目前处于初始阶段，2025年该业务板块营业收入约123万元（不含航空板块营业收入），占总营业收入比例为0.05%（未经审计）。",
-          "url": "https://wallstreetcn.com/livenews/3030849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "再升科技：公司控股股东终止协议转让公司部分股份",
-          "url": "https://wallstreetcn.com/livenews/3030846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "宇树科技澄清不实信息：我司未涉及申请“绿色通道”相关事宜，上市工作正常推进",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32312829",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "中国太空计划有哪些突破",
-          "url": "https://www.toutiao.com/trending/7591822147249507903/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "本周重要事件与数据预告：美国非农、中国CPI、科技春晚CES",
-          "url": "https://flash.jin10.com/detail/20260105073946229800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（1月5日）",
-          "url": "https://flash.jin10.com/detail/20260105073559682800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
-          "url": "https://www.zhihu.com/question/1991228705045968330",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 20时21分]"
-        },
-        {
-          "title": "年度抽象AI作品Top10",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 12时54分]"
-        },
-        {
-          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
-          "url": "https://wallstreetcn.com/articles/3762497",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 20时21分]"
-        },
-        {
-          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
-          "url": "https://wallstreetcn.com/articles/3762500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时11分 ~ 12时54分]"
-        },
-        {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
-          "url": "https://wallstreetcn.com/articles/3762497",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "腾讯回应用户被元宝AI辱骂",
-          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "从AI新能源与游戏看中国式现代化",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 20时21分]"
-        },
-        {
-          "title": "2026年AI主线已清晰：算力打底、手机破局，四大爆点就位",
-          "url": "https://wallstreetcn.com/articles/3762504",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 16时18分]"
-        },
-        {
-          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
-          "url": "https://wallstreetcn.com/articles/3762525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 20时21分]"
-        },
-        {
-          "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
-          "url": "https://www.cls.cn/detail/2247232",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 12时54分]"
-        },
-        {
-          "title": "本周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
-          "url": "https://wallstreetcn.com/articles/3762497",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "尽管有OpenAI融资利好 分析师仍警告CoreWeave股票价值或将清零",
-          "url": "https://flash.jin10.com/detail/20260105200457445800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "豆包相关负责人否认“豆包AI眼镜”即将出货",
-          "url": "https://wallstreetcn.com/livenews/3030851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "OpenAI巨额融资预期利好CoreWeave 分析师大幅上调目标价至68美元",
-          "url": "https://flash.jin10.com/detail/20260105200103118800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "腾讯启动AI小程序成长计划",
-          "url": "https://wallstreetcn.com/livenews/3030544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "央视点名AI魔改乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
-          "url": "https://wallstreetcn.com/livenews/3030823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
+      "match_count": 6,
       "titles": [
         {
-          "title": "零一万物发布万智2.5企业级多智能体",
-          "url": "https://wallstreetcn.com/livenews/3030707",
-          "source": "华尔街见闻-快讯",
+          "title": "阿莫林赛后发布会解读",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E8%8E%AB%E6%9E%97%E8%B5%9B%E5%90%8E%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "马杜罗之子最新发声",
-          "url": "https://news.ifeng.com/c/8peodfaLhiI",
-          "source": "凤凰网",
-          "ranks": [
-            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 16时18分]"
-        },
-        {
-          "title": "流落柬埔寨女网红父亲最新发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%88%B6%E4%BA%B2%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "全国12315平台发布退费公告系谣言",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD12315%E5%B9%B3%E5%8F%B0%E5%8F%91%E5%B8%83%E9%80%80%E8%B4%B9%E5%85%AC%E5%91%8A%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时54分]"
-        },
-        {
-          "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
-          "url": "https://www.zhihu.com/question/1991082437355201732",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时54分]"
-        },
-        {
-          "title": "丝之歌获Steam年度最佳游戏奖",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%9D%E4%B9%8B%E6%AD%8C%E8%8E%B7Steam%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E6%B8%B8%E6%88%8F%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时54分]"
-        },
-        {
-          "title": "美国白宫账号发布疑似马杜罗被押送视频",
-          "url": "https://www.cls.cn/detail/2246893",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "全国12315平台发布退费公告？假",
-          "url": "https://www.toutiao.com/trending/7590631808787611694/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "曾爆火素人女孩七七签约经纪公司",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E7%88%86%E7%81%AB%E7%B4%A0%E4%BA%BA%E5%A5%B3%E5%AD%A9%E4%B8%83%E4%B8%83%E7%AD%BE%E7%BA%A6%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时12分]"
-        },
-        {
-          "title": "罗永浩称受 ADHD 影响，每场发布会全凭即兴发挥硬讲，ADHD 要背锅吗？它能对工作生活带来多大影响？",
-          "url": "https://www.zhihu.com/question/1989609244299847494",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 12时54分]"
-        },
-        {
-          "title": "“银行直供房”热度渐熄，此前爆火究竟为何？背后三重原因直接驱动，个人按揭极少涉及",
-          "url": "https://www.cls.cn/detail/2247764",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "00时15分"
         },
         {
           "title": "为什么有些游戏在更新时版本号会从「1.9」跳到「1.10」，而不是「2.0」？",
           "url": "https://www.zhihu.com/question/1991477233487983330",
           "source": "知乎",
           "ranks": [
-            9
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "00时15分"
         },
         {
           "title": "中国军号发布潜艇训练高清图",
@@ -584,83 +36,148 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "00时15分"
         },
         {
-          "title": "市场消息：澳大利亚财长查默斯将于澳大利亚东部夏令时12:30（北京时间9:30）召开媒体发布会。",
-          "url": "https://flash.jin10.com/detail/20260105080819329800",
+          "title": "张凌赫跨年表演在外网爆火",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B7%A8%E5%B9%B4%E8%A1%A8%E6%BC%94%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "私募大佬徐翔，最新判决出炉！23名投资者有望获赔超300万",
+          "url": "https://wallstreetcn.com/livenews/3030966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "国际乒联公布最新排名",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%8E%92%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
+          "url": "https://wallstreetcn.com/articles/3762545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "马斯克确认X平台的网页版聊天应用将新增音视频通话功能。",
+          "url": "https://flash.jin10.com/detail/20260105234306694800",
           "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "道指涨穿4.9万点创盘中历史新高，生物科技指数跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3030978",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时54分"
-        },
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "欧盟26个成员国发布关于委内瑞拉的联合声明，呼吁各方保持冷静与克制。",
-          "url": "https://flash.jin10.com/detail/20260105030425247800",
-          "source": "金十数据",
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "00时15分"
         },
         {
-          "title": "新加坡星展银行股价触及盘中历史新高，最新上涨0.7%，报56.78新元。",
-          "url": "https://flash.jin10.com/detail/20260105115851697800",
-          "source": "金十数据",
+          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "00时15分"
         },
         {
-          "title": "国家税务总局更新发布90份跨境投资税收指南",
-          "url": "https://wallstreetcn.com/livenews/3030539",
+          "title": "三星推出以AI为核心的电视和家电",
+          "url": "https://wallstreetcn.com/livenews/3030980",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "00时15分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "太阳战胜雷霆",
-          "url": "https://www.douyin.com/hot/2357753",
-          "source": "抖音",
+          "title": "本赛季雷霆队最大软肋是什么",
+          "url": "https://www.toutiao.com/trending/7591789572020224054/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 20时21分]"
-        },
-        {
-          "title": "布克绝杀雷霆",
-          "url": "https://s.weibo.com/weibo?q=%E5%B8%83%E5%85%8B%E7%BB%9D%E6%9D%80%E9%9B%B7%E9%9C%86&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "00时15分"
         }
       ]
     }
