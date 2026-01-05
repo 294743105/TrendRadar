@@ -1,22 +1,190 @@
 {
-  "generated_at": "2026-01-05T08:54:45.285389+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-01-05T12:54:48.084093+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 13,
       "titles": [
         {
-          "title": "马杜罗之子最新发声",
-          "url": "https://news.ifeng.com/c/8peodfaLhiI",
-          "source": "凤凰网",
+          "title": "年度抽象AI作品Top10",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 12时54分]"
+        },
+        {
+          "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
+          "url": "https://www.zhihu.com/question/1991228705045968330",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 12时54分]"
+        },
+        {
+          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
+          "url": "https://wallstreetcn.com/articles/3762500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时11分 ~ 12时54分]"
+        },
+        {
+          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 04时12分]"
+        },
+        {
+          "title": "腾讯回应用户被元宝AI辱骂",
+          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 04时12分]"
+        },
+        {
+          "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
+          "url": "https://www.cls.cn/detail/2247232",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 12时54分]"
+        },
+        {
+          "title": "本周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "2026年AI主线已清晰：算力打底、手机破局，四大爆点就位",
+          "url": "https://wallstreetcn.com/articles/3762504",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
+          "url": "https://wallstreetcn.com/articles/3762525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "腾讯启动AI小程序成长计划",
+          "url": "https://wallstreetcn.com/livenews/3030544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "从AI新能源与游戏看中国式现代化",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "央视点名AI魔改乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "流落柬埔寨女网红父亲最新发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%88%B6%E4%BA%B2%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "12时54分"
+        },
+        {
+          "title": "马杜罗之子最新发声",
+          "url": "https://news.ifeng.com/c/8peodfaLhiI",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 12时54分]"
         },
         {
           "title": "全国12315平台发布退费公告系谣言",
@@ -89,13 +257,24 @@
           "time_info": "[04时11分 ~ 04时12分]"
         },
         {
+          "title": "罗永浩称受 ADHD 影响，每场发布会全凭即兴发挥硬讲，ADHD 要背锅吗？它能对工作生活带来多大影响？",
+          "url": "https://www.zhihu.com/question/1989609244299847494",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 12时54分]"
+        },
+        {
           "title": "市场消息：澳大利亚财长查默斯将于澳大利亚东部夏令时12:30（北京时间9:30）召开媒体发布会。",
           "url": "https://flash.jin10.com/detail/20260105080819329800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -111,21 +290,32 @@
           "time_info": "04时12分"
         },
         {
-          "title": "罗永浩称受 ADHD 影响，每场发布会全凭即兴发挥硬讲，ADHD 要背锅吗？它能对工作生活带来多大影响？",
-          "url": "https://www.zhihu.com/question/1989609244299847494",
-          "source": "知乎",
+          "title": "新加坡星展银行股价触及盘中历史新高，最新上涨0.7%，报56.78新元。",
+          "url": "https://flash.jin10.com/detail/20260105115851697800",
+          "source": "金十数据",
           "ranks": [
-            20
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "12时54分"
+        },
+        {
+          "title": "国家税务总局更新发布90份跨境投资税收指南",
+          "url": "https://wallstreetcn.com/livenews/3030539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
@@ -144,11 +334,23 @@
           "url": "https://wallstreetcn.com/articles/3762506",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 12时54分]"
+        },
+        {
+          "title": "马斯克“量产预告”催化 脑机接口掀涨停潮 商业化元年稳了？",
+          "url": "https://www.cls.cn/detail/2247515",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "宇树科技澄清：我司未涉及申请“绿色通道”相关事宜，上市工作正常推进",
@@ -201,7 +403,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -212,7 +414,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -223,106 +425,37 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         }
       ]
     },
     {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 2,
       "titles": [
         {
-          "title": "年度抽象AI作品Top10",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
-          "source": "bilibili 热搜",
+          "title": "太阳战胜雷霆",
+          "url": "https://www.douyin.com/hot/2357753",
+          "source": "抖音",
           "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时54分]"
-        },
-        {
-          "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
-          "url": "https://www.zhihu.com/question/1991228705045968330",
-          "source": "知乎",
-          "ranks": [
-            3
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "12时54分"
         },
         {
-          "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
-          "url": "https://wallstreetcn.com/articles/3762497",
-          "source": "华尔街见闻",
+          "title": "布克绝杀雷霆",
+          "url": "https://s.weibo.com/weibo?q=%E5%B8%83%E5%85%8B%E7%BB%9D%E6%9D%80%E9%9B%B7%E9%9C%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
-          "url": "https://wallstreetcn.com/articles/3762500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时11分 ~ 08时54分]"
-        },
-        {
-          "title": "腾讯回应用户被元宝AI辱骂",
-          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "本周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
-          "url": "https://wallstreetcn.com/articles/3762497",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
-          "url": "https://www.cls.cn/detail/2247232",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "央视点名AI魔改乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "12时54分"
         }
       ]
     }
