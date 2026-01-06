@@ -1,27 +1,63 @@
 {
-  "generated_at": "2026-01-06T04:13:45.532530+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-01-06T08:48:30.670548+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 12,
       "titles": [
         {
-          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
-          "url": "https://wallstreetcn.com/articles/3762545",
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时48分]"
+        },
+        {
+          "title": "AI教父抨击Meta 29岁AI新主管“缺乏经验”，并预警人才流失危机",
+          "url": "https://wallstreetcn.com/livenews/3031193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "中信建投：关注AI医疗产业链投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3031191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "B站AI大赛开始了",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "time_info": "[04时13分 ~ 08时48分]"
         },
         {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
+          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
@@ -30,13 +66,144 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 08时48分]"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "三星推出以AI为核心的电视和家电",
+          "url": "https://wallstreetcn.com/livenews/3030980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
+          "url": "https://www.cls.cn/detail/2248633",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "OpenAI家务机器人售价2万美元",
+          "url": "https://wallstreetcn.com/livenews/3031066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "惠普新3K笔记本比Macbook Air更薄",
+          "url": "https://wallstreetcn.com/livenews/3031053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
+          "url": "https://wallstreetcn.com/articles/3762545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时48分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时48分]"
+        },
+        {
+          "title": "营商环境、科技创新等持续成为新年第一会热词背后：增强企业信心，培育发展新动能",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32318957",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 08时48分]"
+        },
+        {
+          "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
+          "url": "https://wallstreetcn.com/articles/3762573",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.71%，报26562点。 恒生科技指数主连夜盘收涨1.10%，报5808点。",
           "url": "https://wallstreetcn.com/livenews/3031070",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -58,7 +225,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -74,127 +241,79 @@
           "time_info": "00时15分"
         },
         {
-          "title": "营商环境、科技创新等持续成为新年第一会热词背后：增强企业信心，培育发展新动能",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32318957",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
           "title": "马斯克宣布Neuralink推进大规模生产 目标帮助瘫痪与神经疾病患者",
           "url": "https://flash.jin10.com/detail/20260106024744750800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
-          "url": "https://wallstreetcn.com/articles/3762497",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "三星推出以AI为核心的电视和家电",
-          "url": "https://wallstreetcn.com/livenews/3030980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "OpenAI家务机器人售价2万美元",
-          "url": "https://wallstreetcn.com/livenews/3031066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
         {
-          "title": "B站AI大赛开始了",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
-          "source": "bilibili 热搜",
+          "title": "发改委：推动量子科技、脑机接口、具身智能、第六代移动通信等成为新的经济增长点",
+          "url": "https://flash.jin10.com/detail/20260106073302712800",
+          "source": "金十数据",
           "ranks": [
-            14
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "08时48分"
         },
         {
-          "title": "惠普新3K笔记本比Macbook Air更薄",
-          "url": "https://wallstreetcn.com/livenews/3031053",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：每日科技要闻速递（1月6日）",
+          "url": "https://flash.jin10.com/detail/20260106071728180800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "08时48分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "阿莫林赛后发布会解读",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E8%8E%AB%E6%9E%97%E8%B5%9B%E5%90%8E%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时48分]"
+        },
+        {
+          "title": "中国军号发布潜艇训练高清图",
+          "url": "https://news.ifeng.com/c/8pffEkp8SU1",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时48分]"
+        },
+        {
+          "title": "张凌赫跨年表演在外网爆火",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B7%A8%E5%B9%B4%E8%A1%A8%E6%BC%94%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时48分]"
         },
         {
           "title": "为什么有些游戏在更新时版本号会从「1.9」跳到「1.10」，而不是「2.0」？",
@@ -209,27 +328,48 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
-          "title": "中国军号发布潜艇训练高清图",
-          "url": "https://news.ifeng.com/c/8pffEkp8SU1",
-          "source": "凤凰网",
+          "title": "最新数据显示，英国12月新车总销量同比下降1%，至141,134辆。",
+          "url": "https://flash.jin10.com/detail/20260106080333173800",
+          "source": "金十数据",
           "ranks": [
-            12
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
-          "title": "张凌赫跨年表演在外网爆火",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B7%A8%E5%B9%B4%E8%A1%A8%E6%BC%94%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "最新数据显示，特斯拉(TSLA.O)12月英国新车销量同比下降29.4%至6323辆。",
+          "url": "https://flash.jin10.com/detail/20260106080316265800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            22
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "英伟达发布Alpamayo汽车大模型平台",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83Alpamayo%E6%B1%BD%E8%BD%A6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B9%B3%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "访华期间，李在明发布帖文",
+          "url": "https://wallstreetcn.com/livenews/3031173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "私募大佬徐翔，最新判决出炉！23名投资者有望获赔超300万",
@@ -241,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "英特尔将推出采用新芯片的掌上游戏平台。 英特尔表示，将在2026年晚些时候公布更多相关细节。",
+          "url": "https://wallstreetcn.com/livenews/3031164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "国际乒联公布最新排名",
@@ -257,7 +408,7 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "本赛季雷霆队最大软肋是什么",
@@ -265,11 +416,23 @@
           "source": "今日头条",
           "ranks": [
             11,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时48分]"
+        },
+        {
+          "title": "火箭独行侠出战2026NBA中国赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E7%AE%AD%E7%8B%AC%E8%A1%8C%E4%BE%A0%E5%87%BA%E6%88%982026NBA%E4%B8%AD%E5%9B%BD%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         }
       ]
     }
