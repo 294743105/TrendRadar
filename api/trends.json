@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T12:31:54.743105+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-01-06T16:16:49.273424+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -17,8 +17,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 16时16分]"
+        },
+        {
+          "title": "马斯克旗下AI被指涉色情 欧盟等多方监管机构介入",
+          "url": "https://flash.jin10.com/detail/20260106155623997800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "AI教父抨击Meta 29岁AI新主管“缺乏经验”，并预警人才流失危机",
@@ -51,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 16时16分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -80,6 +91,18 @@
           "time_info": "[04时13分 ~ 12时31分]"
         },
         {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 16时16分]"
+        },
+        {
           "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
           "url": "https://wallstreetcn.com/articles/3762497",
           "source": "华尔街见闻",
@@ -103,15 +126,15 @@
           "time_info": "[08时48分 ~ 12时31分]"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "16时16分"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -120,7 +143,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -164,7 +187,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -175,7 +198,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -186,7 +209,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -208,7 +231,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
@@ -216,18 +239,52 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
           "url": "https://wallstreetcn.com/articles/3762610",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 16时16分]"
+        },
+        {
+          "title": "英伟达发布DLSS 4.5",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "16时16分"
+        },
+        {
+          "title": "事关对日出口管制！商务部发布新年第1号公告",
+          "url": "https://news.ifeng.com/c/8phAzbwbn4t",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
+          "url": "https://www.zhihu.com/question/1991814689013850864",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "上海发布20条措施 鼓励外商投资企业以多种方式境内再投资",
@@ -236,7 +293,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -247,11 +304,12 @@
           "ranks": [
             8,
             27,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 16时16分]"
         },
         {
           "title": "中国军号发布潜艇训练高清图",
@@ -290,6 +348,18 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
+          "title": "5人违规穿越鳌山，搜救最新进展：2人遇难，直升飞机正全力救援坠崖人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32322388",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 16时16分]"
+        },
+        {
           "title": "最新数据显示，英国12月新车总销量同比下降1%，至141,134辆。",
           "url": "https://flash.jin10.com/detail/20260106080333173800",
           "source": "金十数据",
@@ -312,15 +382,26 @@
           "time_info": "08时48分"
         },
         {
-          "title": "5人违规穿越鳌山，搜救最新进展：2人遇难，直升飞机正全力救援坠崖人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32322388",
-          "source": "澎湃新闻",
+          "title": "太二数次改招牌，最新版本是「鲜料川菜」，为什么放着酸菜鱼不做，跑去做川菜？转型可能面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1990815945187353285",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "最高法发布「家庭教育指导令」司法适用典型案例显示，未成年人违法犯罪与家庭教育高度相关，有何指导意义？",
+          "url": "https://www.zhihu.com/question/1991175699017528664",
+          "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "16时16分"
         },
         {
           "title": "AMD在CES展会上发布了公司的MI455 GPU芯片，称基于该芯片的系统在性能指标上实现了巨大飞跃。",
@@ -329,7 +410,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -392,8 +473,30 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "2026：数字科技产业的8个猜想",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32318720",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.38%，恒生科技指数收涨1.46%。券商、有色等板块涨幅居前。招商证券涨超12%，中铝国际涨超8%，商汤涨约6%。",
+          "url": "https://wallstreetcn.com/livenews/3031509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
         {
           "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
           "url": "https://wallstreetcn.com/articles/3762545",
@@ -425,11 +528,12 @@
           "ranks": [
             20,
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时13分 ~ 16时16分]"
         },
         {
           "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
@@ -440,8 +544,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 16时16分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.71%，报26562点。 恒生科技指数主连夜盘收涨1.10%，报5808点。",
@@ -483,7 +587,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -535,8 +639,19 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "黄蜂124:97雷霆",
+          "url": "https://www.douyin.com/hot/2358722",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
         {
           "title": "本赛季雷霆队最大软肋是什么",
           "url": "https://www.toutiao.com/trending/7591789572020224054/",
@@ -549,6 +664,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 08时48分]"
+        },
+        {
+          "title": "2526 赛季 NBA 常规赛勇士 102:103 快船，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1991829508731449350",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "火箭独行侠出战2026NBA中国赛",
@@ -574,7 +700,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
