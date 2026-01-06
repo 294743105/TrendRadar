@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T08:48:30.670548+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-01-06T12:31:54.743105+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 08时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 12时31分]"
         },
         {
           "title": "AI教父抨击Meta 29岁AI新主管“缺乏经验”，并预警人才流失危机",
@@ -27,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -38,9 +38,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 12时31分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -55,6 +67,19 @@
           "time_info": "[04时13分 ~ 08时48分]"
         },
         {
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
+          "ranks": [
+            28,
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 12时31分]"
+        },
+        {
           "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
           "url": "https://wallstreetcn.com/articles/3762497",
           "source": "华尔街见闻",
@@ -66,27 +91,38 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
           "ranks": [
-            28,
-            19
+            19,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 08时48分]"
+          "time_info": "[08时48分 ~ 12时31分]"
         },
         {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
-          "source": "财联社热门",
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "12时31分"
+        },
+        {
+          "title": "抖音：2025年AI兴趣用户增长翻倍",
+          "url": "https://wallstreetcn.com/livenews/3031344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -106,7 +142,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -122,15 +158,37 @@
           "time_info": "04时13分"
         },
         {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
+          "title": "全域AI能给汽车带来什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "12时31分"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰在CES上表示：下一代MI500系列的开发工作已全面展开。 我们正按计划实现AI性能提升1000倍的目标。",
+          "url": "https://wallstreetcn.com/livenews/3031328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "AMD推出全新的Ryzen AI 400及PRO 400系列处理器。 AMD面向AI PC和嵌入式应用推出全新的AMD Ryzen AI平台。",
+          "url": "https://wallstreetcn.com/livenews/3031327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -142,154 +200,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
-          "url": "https://wallstreetcn.com/articles/3762545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 08时48分]"
         },
         {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
+          "title": "黄仁勋新年第一场演讲提了DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 08时48分]"
-        },
-        {
-          "title": "营商环境、科技创新等持续成为新年第一会热词背后：增强企业信心，培育发展新动能",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32318957",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 08时48分]"
-        },
-        {
-          "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
-          "url": "https://wallstreetcn.com/articles/3762573",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时48分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.71%，报26562点。 恒生科技指数主连夜盘收涨1.10%，报5808点。",
-          "url": "https://wallstreetcn.com/livenews/3031070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "马斯克确认X平台的网页版聊天应用将新增音视频通话功能。",
-          "url": "https://flash.jin10.com/detail/20260105234306694800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "马斯克宣布Neuralink推进大规模生产，目标帮助瘫痪与神经疾病患者",
-          "url": "https://wallstreetcn.com/livenews/3031068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "道指涨穿4.9万点创盘中历史新高，生物科技指数跌超2%",
-          "url": "https://wallstreetcn.com/livenews/3030978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "马斯克宣布Neuralink推进大规模生产 目标帮助瘫痪与神经疾病患者",
-          "url": "https://flash.jin10.com/detail/20260106024744750800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "发改委：推动量子科技、脑机接口、具身智能、第六代移动通信等成为新的经济增长点",
-          "url": "https://flash.jin10.com/detail/20260106073302712800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时48分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（1月6日）",
-          "url": "https://flash.jin10.com/detail/20260106071728180800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "12时31分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
+          "url": "https://wallstreetcn.com/articles/3762610",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "上海发布20条措施 鼓励外商投资企业以多种方式境内再投资",
+          "url": "https://wallstreetcn.com/livenews/3031355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
         {
           "title": "阿莫林赛后发布会解读",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E8%8E%AB%E6%9E%97%E8%B5%9B%E5%90%8E%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            27
+            27,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 08时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 12时31分]"
         },
         {
           "title": "中国军号发布潜艇训练高清图",
@@ -334,7 +296,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -345,9 +307,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "5人违规穿越鳌山，搜救最新进展：2人遇难，直升飞机正全力救援坠崖人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32322388",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "AMD在CES展会上发布了公司的MI455 GPU芯片，称基于该芯片的系统在性能指标上实现了巨大飞跃。",
+          "url": "https://wallstreetcn.com/livenews/3031333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "英伟达发布Alpamayo汽车大模型平台",
@@ -356,7 +340,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -367,7 +351,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -389,7 +373,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -403,6 +387,149 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
+          "url": "https://wallstreetcn.com/articles/3762545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 12时31分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 12时31分]"
+        },
+        {
+          "title": "营商环境、科技创新等持续成为新年第一会热词背后：增强企业信心，培育发展新动能",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32318957",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 12时31分]"
+        },
+        {
+          "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
+          "url": "https://wallstreetcn.com/articles/3762573",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 12时31分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.71%，报26562点。 恒生科技指数主连夜盘收涨1.10%，报5808点。",
+          "url": "https://wallstreetcn.com/livenews/3031070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "马斯克确认X平台的网页版聊天应用将新增音视频通话功能。",
+          "url": "https://flash.jin10.com/detail/20260105234306694800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "马斯克宣布Neuralink推进大规模生产，目标帮助瘫痪与神经疾病患者",
+          "url": "https://wallstreetcn.com/livenews/3031068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "法国生物科技公司TheraVectys考虑在香港IPO",
+          "url": "https://wallstreetcn.com/livenews/3031342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "道指涨穿4.9万点创盘中历史新高，生物科技指数跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3030978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "马斯克宣布Neuralink推进大规模生产 目标帮助瘫痪与神经疾病患者",
+          "url": "https://flash.jin10.com/detail/20260106024744750800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "发改委：推动量子科技、脑机接口、具身智能、第六代移动通信等成为新的经济增长点",
+          "url": "https://flash.jin10.com/detail/20260106073302712800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（1月6日）",
+          "url": "https://flash.jin10.com/detail/20260106071728180800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         }
       ]
     },
@@ -430,9 +557,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "微软 谷歌 openai 英伟达 苹果 字节跳动",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果发布马年手机壳 售价449元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E9%A9%AC%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%94%AE%E4%BB%B7449%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
