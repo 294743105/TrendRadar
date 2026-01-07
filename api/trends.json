@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T08:48:44.841286+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-01-07T12:32:30.493078+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "事关对日出口管制！商务部发布新年第1号公告",
@@ -42,13 +42,35 @@
           "time_info": "[00时14分 ~ 04时13分]"
         },
         {
+          "title": "郑州玉石山爆火 有人挖到一大块玉",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E7%8E%89%E7%9F%B3%E5%B1%B1%E7%88%86%E7%81%AB+%E6%9C%89%E4%BA%BA%E6%8C%96%E5%88%B0%E4%B8%80%E5%A4%A7%E5%9D%97%E7%8E%89",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
+          "url": "https://www.zhihu.com/question/1992010161733199440",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "欧洲多国就格陵兰岛发布联合声明",
           "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E5%B0%B1%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
           "source": "百度热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -59,9 +81,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "北欧五国就格陵兰岛发布联合声明",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E6%AC%A7%E4%BA%94%E5%9B%BD%E5%B0%B1%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "小米发布处罚声明",
@@ -75,6 +108,18 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 12时32分]"
+        },
+        {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
           "url": "https://www.zhihu.com/question/1991814689013850864",
           "source": "知乎",
@@ -85,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 04时13分]"
+        },
+        {
+          "title": "英伟达发布DLSS 4.5",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 12时32分]"
         },
         {
           "title": "委内瑞拉发布「搜捕美国侵略支持者」等多项紧急防御措施，这意味着什么？对现状能有何改变？",
@@ -125,26 +181,37 @@
           "time_info": "[00时14分 ~ 08时48分]"
         },
         {
-          "title": "英伟达发布DLSS 4.5",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
-          "source": "bilibili 热搜",
+          "title": "委内瑞拉发布讣告",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 08时48分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "12时32分"
+        },
+        {
+          "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "欧洲多国就格陵兰岛发布联合声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32327703",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "5人违规穿越鳌山，搜救最新进展：2人遇难，直升飞机正全力救援坠崖人员",
@@ -191,6 +258,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "中国空间站巡天空间望远镜科学仿真研究系列成果发布",
+          "url": "https://wallstreetcn.com/livenews/3032066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "雀巢：迄今已在24个欧洲国家、土耳其和阿根廷发布婴幼儿营养产品召回通知。",
           "url": "https://flash.jin10.com/detail/20260106233008437800",
           "source": "金十数据",
@@ -208,7 +286,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -222,13 +300,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "市场监管总局、国家网信办联合发布 《直播电商监督管理办法》",
+          "url": "https://wallstreetcn.com/livenews/3032053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 12时32分]"
+        },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
           "url": "https://flash.jin10.com/detail/20260107040236649800",
@@ -252,15 +353,26 @@
           "time_info": "04时13分"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "12时32分"
         },
         {
           "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
@@ -302,11 +414,23 @@
           "url": "https://wallstreetcn.com/articles/3762643",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 12时32分]"
+        },
+        {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "12时32分"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -318,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
+          "url": "https://www.zhihu.com/question/1991159352690762378",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
@@ -348,7 +483,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         }
@@ -356,7 +491,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "2026：数字科技产业的8个猜想",
@@ -378,8 +513,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 08时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 12时32分]"
         },
         {
           "title": "脑机接口成资本“宠儿” 强脑科技完成20亿融资 规模仅次于Neuralink",
@@ -405,6 +540,17 @@
           "time_info": "[00时14分 ~ 08时48分]"
         },
         {
+          "title": "1月7日投资避雷针：大牛股嘉美包装、国晟科技今起停牌核查",
+          "url": "https://www.cls.cn/detail/2249958",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
           "url": "https://www.cls.cn/detail/2249336",
           "source": "财联社热门",
@@ -425,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "A股光刻机、光刻胶概念持续走高，南大光电20cm涨停，高盟新材、华融化学、雅克科技、恒坤新材等多股此前封板，安集科技、鼎龙股份、容大感光均涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3032068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     }
