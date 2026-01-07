@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T16:16:52.902997+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-01-07T20:21:19.912344+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "事关对日出口管制！商务部发布新年第1号公告",
@@ -43,6 +43,18 @@
           "time_info": "[04时13分 ~ 08时48分]"
         },
         {
+          "title": "DLSS4.5游戏画面提升有多大",
+          "url": "https://search.bilibili.com/all?keyword=DLSS4.5%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2%E6%8F%90%E5%8D%87%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 20时21分]"
+        },
+        {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
           "url": "https://wallstreetcn.com/articles/3762610",
           "source": "华尔街见闻",
@@ -65,15 +77,16 @@
           "time_info": "[12时32分 ~ 16时16分]"
         },
         {
-          "title": "DLSS4.5游戏画面提升有多大",
-          "url": "https://search.bilibili.com/all?keyword=DLSS4.5%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2%E6%8F%90%E5%8D%87%E6%9C%89%E5%A4%9A%E5%A4%A7",
-          "source": "bilibili 热搜",
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
           "ranks": [
-            1
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 20时21分]"
         },
         {
           "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
@@ -85,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "英伟达发布DLSS 4.5",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 20时21分]"
         },
         {
           "title": "欧洲多国就格陵兰岛发布联合声明",
@@ -109,18 +133,6 @@
           "time_info": "08时48分"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 16时16分]"
-        },
-        {
           "title": "小米发布处罚声明",
           "url": "https://wallstreetcn.com/livenews/3031784",
           "source": "华尔街见闻-快讯",
@@ -130,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "英伟达发布DLSS 4.5",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 16时16分]"
         },
         {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
@@ -153,6 +154,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 04时13分]"
+        },
+        {
+          "title": "平台不得大数据“杀熟”，《网络交易平台规则监督管理办法》发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32332596",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 20时21分]"
+        },
+        {
+          "title": "委内瑞拉发布讣告",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 20时21分]"
         },
         {
           "title": "委内瑞拉发布「搜捕美国侵略支持者」等多项紧急防御措施，这意味着什么？对现状能有何改变？",
@@ -193,18 +219,6 @@
           "time_info": "[00时14分 ~ 08时48分]"
         },
         {
-          "title": "委内瑞拉发布讣告",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 16时16分]"
-        },
-        {
           "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
           "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
           "source": "澎湃新闻",
@@ -212,19 +226,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 20时21分]"
         },
         {
           "title": "欧洲多国就格陵兰岛发布联合声明",
           "url": "https://m.thepaper.cn/newsDetail_forward_32327703",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 20时21分]"
         },
         {
           "title": "智元在CES 2026发布业内首个LLM驱动的开源仿真平台 Genie Sim 3.0",
@@ -233,20 +248,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
         {
-          "title": "平台不得大数据“杀熟”，《网络交易平台规则监督管理办法》发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32332596",
-          "source": "澎湃新闻",
+          "title": "助力EX60发布 沃尔沃召回极星前CEO强化高管阵营",
+          "url": "https://flash.jin10.com/detail/20260107193936795800",
+          "source": "金十数据",
           "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "20时21分"
+        },
+        {
+          "title": "5人违规穿越鳌山搜救最新情况：最后1名失联坠崖人员被找到，已无生命体征",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32335714",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "关键数据发布在即 美债收益率震荡走低",
+          "url": "https://flash.jin10.com/detail/20260107193704628800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "5人违规穿越鳌山，搜救最新进展：2人遇难，直升飞机正全力救援坠崖人员",
@@ -269,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "国家金融监督管理总局上海监管局发布的批复信息显示，该局已核准LIM HUI HUNG LUANNE（林慧虹）恒生银行（中国）有限公司董事长的任职资格。",
+          "url": "https://wallstreetcn.com/livenews/3032418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "《空洞骑士：丝之歌》夺得 2025 年 Steam 年度最佳游戏奖，它为何能获得此殊荣？",
@@ -351,7 +399,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
@@ -411,6 +459,19 @@
           "time_info": "00时14分"
         },
         {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            26,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 20时21分]"
+        },
+        {
           "title": "为何说AI抢走了你的内存",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
           "source": "bilibili 热搜",
@@ -421,18 +482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 08时48分]"
-        },
-        {
-          "title": "英伟达押注物理AI背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 16时16分]"
         },
         {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
@@ -460,6 +509,18 @@
           "time_info": "[00时14分 ~ 04时13分]"
         },
         {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 20时21分]"
+        },
+        {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
           "url": "https://www.cls.cn/detail/2250013",
           "source": "财联社热门",
@@ -472,15 +533,15 @@
           "time_info": "[12时32分 ~ 16时16分]"
         },
         {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "20时21分"
         },
         {
           "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
@@ -489,9 +550,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -547,12 +619,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "洲明科技：全资子公司洲明香港拟作为锚定投资者认购北京智谱华章科技股份有限公司于香港联合交易所有限公司首次公开发行的股份，经智谱获配结果确认，洲明香港获配智谱66900股，获配金额为777.38万港元。",
+          "url": "https://wallstreetcn.com/livenews/3032406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
@@ -584,7 +667,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -624,6 +707,17 @@
           "time_info": "[00时14分 ~ 08时48分]"
         },
         {
+          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
+          "url": "https://www.cls.cn/detail/2250715",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
           "url": "https://www.cls.cn/detail/2249336",
           "source": "财联社热门",
@@ -644,6 +738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "瑞银集团：将美光科技(MU.O)目标股价从300美元上调至400美元。",
+          "url": "https://flash.jin10.com/detail/20260107192032295800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "A股光刻机、光刻胶概念持续走高，南大光电20cm涨停，高盟新材、华融化学、雅克科技、恒坤新材等多股此前封板，安集科技、鼎龙股份、容大感光均涨超15%。",
