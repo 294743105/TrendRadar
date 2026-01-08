@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-08T12:31:58.765161+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-01-08T16:17:11.183392+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时17分]"
+        },
         {
           "title": "直播电商新规强化AI内容监管",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
@@ -33,15 +45,15 @@
           "time_info": "[00时16分 ~ 12时31分]"
         },
         {
-          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
-          "url": "https://www.cls.cn/detail/2251233",
-          "source": "财联社热门",
+          "title": "港股收盘：恒生指数收跌1.17%，恒生科技指数收跌1.05%。科网股多数下跌，美团跌超3%，阿里巴巴跌超2%，智谱上市首日收涨约13%。",
+          "url": "https://wallstreetcn.com/livenews/3033109",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "16时17分"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -67,6 +79,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
+        },
+        {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
           "url": "https://www.cls.cn/detail/2250745",
           "source": "财联社热门",
@@ -76,6 +99,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 04时12分]"
+        },
+        {
+          "title": "智谱CEO对谈张小珺",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1CEO%E5%AF%B9%E8%B0%88%E5%BC%A0%E5%B0%8F%E7%8F%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
@@ -150,7 +184,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -172,7 +206,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -183,7 +217,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
@@ -191,7 +225,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "5人违规穿越鳌山搜救最新情况：最后1名失联坠崖人员被找到，已无生命体征",
@@ -215,6 +249,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时16分 ~ 12时31分]"
+        },
+        {
+          "title": "遗忘之海最新实机",
+          "url": "https://search.bilibili.com/all?keyword=%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时17分]"
         },
         {
           "title": "平台不得大数据“杀熟”，《网络交易平台规则监督管理办法》发布",
@@ -253,15 +299,15 @@
           "time_info": "[00时16分 ~ 04时12分]"
         },
         {
-          "title": "遗忘之海最新实机",
-          "url": "https://search.bilibili.com/all?keyword=%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "10岁孙子玩游戏花光爷爷6万积蓄",
+          "url": "https://www.toutiao.com/trending/7592807143942897710/",
+          "source": "今日头条",
           "ranks": [
-            6
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "法拉第未来（FF）：目标在五年内实现40万至50万辆的生产和销售。目标在三年内实现正现金流，并达到20%的利润率。FX Super One车型在美国的最终发布计划定于第二季度。",
@@ -270,7 +316,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -281,7 +327,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -295,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "小鹏开年发布四款新车，今年将规模量产人形机器人和飞行汽车",
+          "url": "https://wallstreetcn.com/livenews/3033081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（1月8日）",
@@ -322,7 +379,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技创新活力涌动",
@@ -334,6 +391,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 08时48分]"
+        },
+        {
+          "title": "天价比特币，被美国“黑吃黑”？起底太子集团创始人陈志",
+          "url": "https://finance.ifeng.com/c/8pkAbqGJef5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时17分]"
+        },
+        {
+          "title": "卷王遇硬茬,马斯克开除加班党",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "港股通标的即将调整，多只新经济与科技股有望被纳入",
@@ -359,17 +438,6 @@
           "time_info": "[00时16分 ~ 08时48分]"
         },
         {
-          "title": "天价比特币，被美国“黑吃黑”？起底太子集团创始人陈志",
-          "url": "https://finance.ifeng.com/c/8pkAbqGJef5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
           "url": "https://www.cls.cn/detail/2250715",
           "source": "财联社热门",
@@ -379,6 +447,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 04时12分]"
+        },
+        {
+          "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
+          "url": "https://www.zhihu.com/question/1992533572259640345",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "广联航空：天津跃峰作为天兵科技天龙三号核心供应商 为其承担整箭贮箱及部分结构件的制造任务",
@@ -420,7 +499,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
@@ -437,7 +516,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -448,7 +527,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
