@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T08:48:27.211051+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-01-08T12:31:58.765161+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -17,6 +17,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 08时48分]"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时31分]"
+        },
+        {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -40,19 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
-        },
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时48分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
@@ -83,7 +95,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -116,7 +128,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -127,9 +139,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "阿里云推出面向AI硬件的多模态交互开发套件",
+          "url": "https://wallstreetcn.com/livenews/3032905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
@@ -141,12 +164,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "智谱港股上市首日持续走高，盘中一度涨超9%，目前涨7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3032895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "智谱预计全球AI公司将陷入价格战",
+          "url": "https://wallstreetcn.com/livenews/3032893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "5人违规穿越鳌山搜救最新情况：最后1名失联坠崖人员被找到，已无生命体征",
@@ -161,23 +206,23 @@
           "time_info": "[00时16分 ~ 08时48分]"
         },
         {
+          "title": "英伟达发布DLSS 4.5",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时31分]"
+        },
+        {
           "title": "平台不得大数据“杀熟”，《网络交易平台规则监督管理办法》发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_32332596",
           "source": "澎湃新闻",
           "ranks": [
             11,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时48分]"
-        },
-        {
-          "title": "英伟达发布DLSS 4.5",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -208,6 +253,39 @@
           "time_info": "[00时16分 ~ 04时12分]"
         },
         {
+          "title": "遗忘之海最新实机",
+          "url": "https://search.bilibili.com/all?keyword=%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "法拉第未来（FF）：目标在五年内实现40万至50万辆的生产和销售。目标在三年内实现正现金流，并达到20%的利润率。FX Super One车型在美国的最终发布计划定于第二季度。",
+          "url": "https://flash.jin10.com/detail/20260108114740659800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "站在 2026 年这个时点，如何评价游戏《鸣潮》？",
+          "url": "https://www.zhihu.com/question/1992228760758555987",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
           "url": "https://wallstreetcn.com/livenews/3032576",
           "source": "华尔街见闻-快讯",
@@ -225,7 +303,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -244,7 +322,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技创新活力涌动",
@@ -264,7 +342,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -279,6 +357,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 08时48分]"
+        },
+        {
+          "title": "天价比特币，被美国“黑吃黑”？起底太子集团创始人陈志",
+          "url": "https://finance.ifeng.com/c/8pkAbqGJef5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
@@ -320,9 +409,48 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "A股商业航天概念持续走强，航天晨光、航天电器、航天电子、天箭科技、通宇通讯、江顺科技、盛洋科技等十余只成分股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3032891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "NBA交易",
+          "url": "https://s.weibo.com/weibo?q=%23NBA%E4%BA%A4%E6%98%93%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "你觉得NBA球员布朗是否被低估",
+          "url": "https://www.toutiao.com/trending/7592593330761138218/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
