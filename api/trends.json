@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-09T12:31:57.929286+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-01-09T16:16:47.112445+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "Nature 发布全球博士幸福指数调查，中国最低巴西最高，如何理解这一调查结果？",
+          "url": "https://www.zhihu.com/question/1992298876783256308",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 16时16分]"
+        },
         {
           "title": "印度NIFTY 50指数转跌，最新下跌0.1%。",
           "url": "https://flash.jin10.com/detail/20260109115635838800",
@@ -14,18 +27,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "全球最新时局图:现代版新三国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348894&amp;topic_name=%E5%85%A8%E7%90%83%E6%9C%80%E6%96%B0%E6%97%B6%E5%B1%80%E5%9B%BE%3A%E7%8E%B0%E4%BB%A3%E7%89%88%E6%96%B0%E4%B8%89%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -56,16 +58,16 @@
           "time_info": "[08时48分 ~ 12时31分]"
         },
         {
-          "title": "Nature 发布全球博士幸福指数调查，中国最低巴西最高，如何理解这一调查结果？",
-          "url": "https://www.zhihu.com/question/1992298876783256308",
-          "source": "知乎",
+          "title": "全球最新时局图:现代版新三国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348894&amp;topic_name=%E5%85%A8%E7%90%83%E6%9C%80%E6%96%B0%E6%97%B6%E5%B1%80%E5%9B%BE%3A%E7%8E%B0%E4%BB%A3%E7%89%88%E6%96%B0%E4%B8%89%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            7,
-            4
+            5,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时48分 ~ 12时31分]"
+          "time_info": "[12时31分 ~ 16时16分]"
         },
         {
           "title": "遗忘之海最新实机",
@@ -81,15 +83,48 @@
           "time_info": "[00时16分 ~ 08时48分]"
         },
         {
+          "title": "2025年12月辟谣榜发布",
+          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B412%E6%9C%88%E8%BE%9F%E8%B0%A3%E6%A6%9C%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 16时16分]"
+        },
+        {
+          "title": "伊莫最新实机画面公布",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E8%8E%AB%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 16时16分]"
+        },
+        {
           "title": "委内瑞拉游戏团队报平安",
           "url": "https://search.bilibili.com/all?keyword=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%B8%B8%E6%88%8F%E5%9B%A2%E9%98%9F%E6%8A%A5%E5%B9%B3%E5%AE%89",
           "source": "bilibili 热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "韩国最新民调：李在明支持率回升至60%",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%9C%80%E6%96%B0%E6%B0%91%E8%B0%83%EF%BC%9A%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%94%AF%E6%8C%81%E7%8E%87%E5%9B%9E%E5%8D%87%E8%87%B360%25",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "天风证券：看好2026年A股游戏公司在竞争放缓下走出强产品周期逻辑",
@@ -103,26 +138,26 @@
           "time_info": "08时48分"
         },
         {
-          "title": "2025年12月辟谣榜发布",
-          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B412%E6%9C%88%E8%BE%9F%E8%B0%A3%E6%A6%9C%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "TGA发布鸣潮爱弥斯实机演示",
           "url": "https://search.bilibili.com/all?keyword=TGA%E5%8F%91%E5%B8%83%E9%B8%A3%E6%BD%AE%E7%88%B1%E5%BC%A5%E6%96%AF%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
           "source": "bilibili 热搜",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "Faker举报路人游戏ID",
+          "url": "https://search.bilibili.com/all?keyword=Faker%E4%B8%BE%E6%8A%A5%E8%B7%AF%E4%BA%BA%E6%B8%B8%E6%88%8FID",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "韩国KOSPI指数扭转早盘跌势，最新上涨0.6%，报4581.43点。",
@@ -131,7 +166,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -164,7 +199,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -191,24 +226,13 @@
           "time_info": "08时48分"
         },
         {
-          "title": "伊莫最新实机画面公布",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E8%8E%AB%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "Faker举报路人游戏ID",
           "url": "https://s.weibo.com/weibo?q=Faker%E4%B8%BE%E6%8A%A5%E8%B7%AF%E4%BA%BA%E6%B8%B8%E6%88%8FID&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -227,7 +251,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨13%，金属齐跌，多晶硅跌停",
@@ -236,11 +260,23 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 16时16分]"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨0.32%，恒生科技指数收涨0.15%。MiniMax上市首日收涨约109%，智谱收涨超20%。山东黄金涨超6%，老铺黄金涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3033916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -291,6 +327,17 @@
           "time_info": "08时48分"
         },
         {
+          "title": "如何分辨AI音乐骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "马斯克的人工智能公司xAI在2025年前9个月消耗了约80亿美元现金，其在截至9月的季度净亏损达14.6亿美元，并计划为Optimus提供“大脑”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3033631",
           "source": "华尔街见闻-快讯",
@@ -300,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
@@ -333,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "市场消息：马斯克旗下的xAI在2025年前9个月共耗费了80亿美元现金。",
@@ -380,11 +449,12 @@
           "ranks": [
             10,
             11,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 16时16分]"
         },
         {
           "title": "联想全球创新科技大会集齐英伟达、英特尔、 AMD 、高通四大芯片巨头 CEO 同台，释放了什么信号？",
@@ -482,7 +552,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
