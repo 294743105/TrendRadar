@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T16:16:47.112445+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-01-09T20:20:48.792265+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "Nature 发布全球博士幸福指数调查，中国最低巴西最高，如何理解这一调查结果？",
@@ -17,8 +17,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 20时20分]"
+        },
+        {
+          "title": "淘宝闪购、美团发布声明",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
+          "url": "https://www.cls.cn/detail/2253250",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "印度NIFTY 50指数转跌，最新下跌0.1%。",
@@ -63,11 +85,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 20时20分]"
         },
         {
           "title": "遗忘之海最新实机",
@@ -83,6 +106,18 @@
           "time_info": "[00时16分 ~ 08时48分]"
         },
         {
+          "title": "伊莫最新实机画面公布",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E8%8E%AB%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 20时20分]"
+        },
+        {
           "title": "2025年12月辟谣榜发布",
           "url": "https://www.baidu.com/s?wd=2025%E5%B9%B412%E6%9C%88%E8%BE%9F%E8%B0%A3%E6%A6%9C%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
@@ -94,15 +129,16 @@
           "time_info": "[12时31分 ~ 16时16分]"
         },
         {
-          "title": "伊莫最新实机画面公布",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E8%8E%AB%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
+          "title": "Faker举报路人游戏ID",
+          "url": "https://search.bilibili.com/all?keyword=Faker%E4%B8%BE%E6%8A%A5%E8%B7%AF%E4%BA%BA%E6%B8%B8%E6%88%8FID",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            11,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时31分 ~ 16时16分]"
+          "time_info": "[16时16分 ~ 20时20分]"
         },
         {
           "title": "委内瑞拉游戏团队报平安",
@@ -122,7 +158,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -147,17 +183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        },
-        {
-          "title": "Faker举报路人游戏ID",
-          "url": "https://search.bilibili.com/all?keyword=Faker%E4%B8%BE%E6%8A%A5%E8%B7%AF%E4%BA%BA%E6%B8%B8%E6%88%8FID",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "韩国KOSPI指数扭转早盘跌势，最新上涨0.6%，报4581.43点。",
@@ -251,7 +276,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨13%，金属齐跌，多晶硅跌停",
@@ -274,9 +299,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -304,6 +351,30 @@
           "time_info": "[00时16分 ~ 12时31分]"
         },
         {
+          "title": "如何分辨AI音乐骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 20时20分]"
+        },
+        {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 20时20分]"
+        },
+        {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
           "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
           "source": "百度热搜",
@@ -316,6 +387,17 @@
           "time_info": "[08时48分 ~ 12时31分]"
         },
         {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
           "url": "https://wallstreetcn.com/articles/3762810",
           "source": "华尔街见闻",
@@ -325,17 +407,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
-        },
-        {
-          "title": "如何分辨AI音乐骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "马斯克的人工智能公司xAI在2025年前9个月消耗了约80亿美元现金，其在截至9月的季度净亏损达14.6亿美元，并计划为Optimus提供“大脑”。（彭博）",
@@ -355,7 +426,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -369,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
@@ -391,17 +473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "市场消息：马斯克旗下的xAI在2025年前9个月共耗费了80亿美元现金。",
@@ -429,7 +500,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
@@ -513,6 +584,28 @@
           "time_info": "04时13分"
         },
         {
+          "title": "瑞穗银行：将美光科技(MU.O)目标价从290美元上调至390美元。",
+          "url": "https://flash.jin10.com/detail/20260109195432756800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "瑞穗银行：将微芯科技(MCHP.O)目标价从80美元上调至83美元。",
+          "url": "https://flash.jin10.com/detail/20260109195306589800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.65%，报26312点。 恒生科技指数主连夜盘收涨0.72%，报5732点。",
           "url": "https://wallstreetcn.com/livenews/3033513",
           "source": "华尔街见闻-快讯",
@@ -533,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "据港交所文件：青岛国恩科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3034088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "马斯克一句话“引爆”脑机接口",
