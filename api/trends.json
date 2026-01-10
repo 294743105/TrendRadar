@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-10T04:13:51.787166+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-10T08:48:14.365130+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
+        },
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
           "url": "https://news.ifeng.com/c/8piRkGGmo9f",
@@ -19,16 +31,16 @@
           "time_info": "[00时14分 ~ 04时13分]"
         },
         {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
           "ranks": [
-            5,
+            12,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 08时48分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -36,11 +48,48 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
+        },
+        {
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
+        },
+        {
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "time_info": "[08时47分 ~ 08时48分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -49,29 +98,6 @@
           "ranks": [
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
-        },
-        {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -108,20 +134,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
         {
-          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
-          "url": "https://www.zhihu.com/question/1923049081044960601",
-          "source": "知乎",
+          "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3034456",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "08时48分"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
@@ -141,7 +167,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -152,7 +178,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -163,7 +189,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -174,7 +200,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
@@ -189,23 +215,12 @@
           "url": "https://www.cls.cn/detail/2253250",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
-        },
-        {
-          "title": "淘宝闪购、美团发布声明",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
         },
         {
           "title": "苹果 M5Max 游戏性能将超 RTX5070Ti，这会给独立显卡市场带来哪些冲击？",
@@ -213,11 +228,25 @@
           "source": "知乎",
           "ranks": [
             12,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
+        },
+        {
+          "title": "淘宝闪购、美团发布声明",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
         },
         {
           "title": "Faker举报路人游戏ID",
@@ -225,11 +254,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
         },
         {
           "title": "全球最新时局图:现代版新三国",
@@ -237,22 +267,24 @@
           "source": "贴吧",
           "ranks": [
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
         },
         {
           "title": "伊莫最新实机画面公布",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E8%8E%AB%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
         },
         {
           "title": "白宫证实，特朗普的社交媒体账户无意中泄露了汇总的就业数据，“其中部分数据来源于事先公布的信息”。 白宫正在据此审查有关经济数据发布的规程。（华尔街日报）",
@@ -261,7 +293,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -294,7 +326,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
@@ -302,29 +334,31 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克：人类可以实现半永生",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E5%8D%8A%E6%B0%B8%E7%94%9F",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
         },
         {
           "title": "马斯克：人类可以实现半永生",
           "url": "https://www.toutiao.com/trending/7593161177908379702/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
@@ -335,8 +369,31 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时48分]"
+        },
+        {
+          "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351786",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 08时48分]"
+        },
+        {
+          "title": "马斯克说人类可以实现半永生",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E4%BA%BA%E7%B1%BB%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E5%8D%8A%E6%B0%B8%E7%94%9F%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "time_info": "[08时47分 ~ 08时48分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.64%，报26408点。 恒生科技指数主连夜盘收涨0.81%，报5748点。",
@@ -345,20 +402,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
         {
-          "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32351786",
-          "source": "澎湃新闻",
+          "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
+          "url": "https://wallstreetcn.com/livenews/3034442",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "08时48分"
         }
       ]
     }
