@@ -1,38 +1,121 @@
 {
-  "generated_at": "2026-01-11T20:18:44.004589+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-01-12T00:12:30.720464+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 26,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
+          "url": "https://flash.jin10.com/detail/20260111230441184800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
+          "url": "https://wallstreetcn.com/livenews/3034757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
+          "url": "https://www.cls.cn/detail/2253876",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
+          "url": "https://wallstreetcn.com/articles/3763040",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
           "url": "https://www.cls.cn/detail/2253847",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            11,
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 20时18分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
-          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
-          "url": "https://www.zhihu.com/question/1993329446883651767",
-          "source": "知乎",
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            3,
-            20
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "AI每回答一个问题要消耗多少水",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -42,284 +125,26 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 20时18分]"
-        },
-        {
-          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
-          "url": "https://www.cls.cn/detail/2253876",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时11分 ~ 20时18分]"
-        },
-        {
-          "title": "AI登顶LOL韩服",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
-          "url": "https://flash.jin10.com/detail/20260111150811201800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "全球首次！印尼暂时封禁马斯克旗下AI",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时40分]"
-        },
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 12时40分]"
-        },
-        {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 20时18分]"
-        },
-        {
-          "title": "DeepSeek能否第二次震惊全世界",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
-          "url": "https://flash.jin10.com/detail/20260110221457641800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
-          "url": "https://wallstreetcn.com/livenews/3034560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "AI照片竟然拿了摄影比赛第一名",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 20时18分]"
-        },
-        {
-          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1990551534715556923",
-          "source": "知乎",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 16时14分]"
-        },
-        {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 20时18分]"
-        },
-        {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "DeepSeek能第二次震惊世界吗",
-          "url": "https://www.toutiao.com/trending/7593519269174840858/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
-          "url": "https://wallstreetcn.com/livenews/3034587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
-          "url": "https://wallstreetcn.com/livenews/3034647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
-          "url": "https://wallstreetcn.com/livenews/3034579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
-          "url": "https://wallstreetcn.com/livenews/3034576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "摄影比赛主办方回应AI照片获奖",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94AI%E7%85%A7%E7%89%87%E8%8E%B7%E5%A5%96%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "AI时代还有学画画的必要吗",
-          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "中国首个金融气象AI模型“熵机”在穗发布",
-          "url": "https://flash.jin10.com/detail/20260111185158665800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "00时12分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "太空光伏与“轨道数据中心”：为什么下一代能源与算力的战场，会在800km的高空？",
+          "url": "https://wallstreetcn.com/articles/3763035",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
         {
           "title": "超20万颗！中国新增多个星座计划申请 全球太空资源竞争趋于白热化",
           "url": "https://www.cls.cn/detail/2253832",
@@ -328,166 +153,86 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 20时18分]"
-        },
-        {
-          "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
-          "url": "https://www.cls.cn/detail/2253794",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 20时18分]"
-        },
-        {
-          "title": "航宇科技公告，公司于2024年累计回购75.28万股股份。现回购目的已实现，计划自公告披露日15个交易日后的6个月内，以集中竞价方式出售不超75.28万股，占总股本比例不超0.39%，所得资金用于补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3034658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "太空光伏与“轨道数据中心”：为什么下一代能源与算力的战场，会在800km的高空？",
-          "url": "https://wallstreetcn.com/articles/3763035",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 20时18分]"
+          "time_info": "00时12分"
         },
         {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
           "url": "https://wallstreetcn.com/articles/3763028",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 20时18分]"
-        },
-        {
-          "title": "汉威科技：公司近年来对无创柔性脑机接口材料的研发及用于复杂脑信息协同监测等关键技术有所突破",
-          "url": "https://wallstreetcn.com/livenews/3034566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "马斯克：推特将在七天内开源其算法",
-          "url": "https://wallstreetcn.com/livenews/3034577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "00时12分"
         },
         {
-          "title": "马斯克：X平台将于七天内开源其算法",
-          "url": "https://wallstreetcn.com/livenews/3034612",
-          "source": "华尔街见闻-快讯",
+          "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
+          "url": "https://www.cls.cn/detail/2253794",
+          "source": "财联社热门",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "摩根士丹利中国首席经济学家邢自强：未来行业配置展望方面，在当前形势下，高科技行业成为结构性赛道机会。 人工智能、生物制药、人形机器人等领域作为亮点，技术创新动能强劲，有望持续吸引市场关注。",
-          "url": "https://wallstreetcn.com/livenews/3034711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "如何看待马斯克称AGI今年就将实现",
-          "url": "https://www.toutiao.com/trending/7593493564425027603/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "00时12分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "全球最新时局图:现代版新三国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348894&amp;topic_name=%E5%85%A8%E7%90%83%E6%9C%80%E6%96%B0%E6%97%B6%E5%B1%80%E5%9B%BE%3A%E7%8E%B0%E4%BB%A3%E7%89%88%E6%96%B0%E4%B8%89%E5%9B%BD",
-          "source": "贴吧",
+          "title": "证监会最新发声！推动中长期资金进一步提高入市规模比例",
+          "url": "https://www.cls.cn/detail/2254092",
+          "source": "财联社热门",
           "ranks": [
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 16时14分]"
-        },
-        {
-          "title": "长光卫星：国内首张甚高分辨率彩色夜光遥感卫星影像发布",
-          "url": "https://wallstreetcn.com/livenews/3034626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "00时12分"
         },
         {
-          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
-          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
-          "source": "凤凰网",
+          "title": "用游戏理解来学化学",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E6%B8%B8%E6%88%8F%E7%90%86%E8%A7%A3%E6%9D%A5%E5%AD%A6%E5%8C%96%E5%AD%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "00时12分"
         },
         {
-          "title": "死了么App回应爆火：年轻人是服务重点",
-          "url": "https://tech.ifeng.com/c/8pouUo7LZDv",
-          "source": "凤凰网",
+          "title": "英伟达CES2026发布会大揭秘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BECES2026%E5%8F%91%E5%B8%83%E4%BC%9A%E5%A4%A7%E6%8F%AD%E7%A7%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 16时14分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "塔图姆复出会改变NBA争冠格局吗",
+          "url": "https://www.toutiao.com/trending/7594055613417013299/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
         }
       ]
     }
