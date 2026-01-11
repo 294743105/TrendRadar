@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T08:55:13.336833+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-01-11T12:40:18.351854+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -25,11 +25,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 12时40分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -37,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 12时40分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -49,11 +51,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            13
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 12时40分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 12时40分]"
+        },
+        {
+          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
+          "url": "https://www.cls.cn/detail/2253876",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "time_info": "[04时11分 ~ 12时40分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -67,29 +94,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
-          "url": "https://www.cls.cn/detail/2253876",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时11分 ~ 08时55分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -146,9 +150,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -157,7 +172,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -168,7 +183,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -176,7 +191,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "超20万颗！中国新增多个星座计划申请 全球太空资源竞争趋于白热化",
@@ -186,8 +201,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 12时40分]"
         },
         {
           "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
@@ -195,11 +210,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 12时40分]"
         },
         {
           "title": "汉威科技：公司近年来对无创柔性脑机接口材料的研发及用于复杂脑信息协同监测等关键技术有所突破",
@@ -214,32 +230,88 @@
           "time_info": "[00时12分 ~ 08时55分]"
         },
         {
+          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
+          "url": "https://wallstreetcn.com/articles/3763028",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "马斯克：推特将在七天内开源其算法",
           "url": "https://wallstreetcn.com/livenews/3034577",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "马斯克：X平台将于七天内开源其算法",
+          "url": "https://wallstreetcn.com/livenews/3034612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "长光卫星：国内首张甚高分辨率彩色夜光遥感卫星影像发布",
+          "url": "https://wallstreetcn.com/livenews/3034626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
+          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
         {
           "title": "全球最新时局图:现代版新三国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348894&amp;topic_name=%E5%85%A8%E7%90%83%E6%9C%80%E6%96%B0%E6%97%B6%E5%B1%80%E5%9B%BE%3A%E7%8E%B0%E4%BB%A3%E7%89%88%E6%96%B0%E4%B8%89%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 12时40分]"
+        },
+        {
+          "title": "死了么App回应爆火：年轻人是服务重点",
+          "url": "https://tech.ifeng.com/c/8pouUo7LZDv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     }
