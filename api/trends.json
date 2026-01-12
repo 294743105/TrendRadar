@@ -1,29 +1,40 @@
 {
-  "generated_at": "2026-01-12T04:12:20.780058+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-01-12T08:52:40.535471+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
+        },
+        {
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
+        },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
           "url": "https://flash.jin10.com/detail/20260111230441184800",
           "source": "金十数据",
           "ranks": [
             1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
-          "ranks": [
             2
           ],
           "is_new": false,
@@ -43,49 +54,38 @@
           "time_info": "[00时12分 ~ 04时12分]"
         },
         {
-          "title": "AI登顶LOL韩服,Faker劲敌来袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
           "url": "https://wallstreetcn.com/livenews/3034762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "智谱与滴滴达成战略合作，将共同探索出行Agent场景落地",
+          "url": "https://wallstreetcn.com/livenews/3034839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
           "url": "https://www.cls.cn/detail/2253876",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
             9,
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -94,6 +94,42 @@
           "ranks": [
             10,
             9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
+        },
+        {
+          "title": "AI每回答一个问题要消耗多少水",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -123,33 +159,21 @@
           "time_info": "[00时12分 ~ 04时12分]"
         },
         {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
+          "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2254168",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            25
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "太空光伏与“轨道数据中心”：为什么下一代能源与算力的战场，会在800km的高空？",
@@ -159,8 +183,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
         },
         {
           "title": "超20万颗！中国新增多个星座计划申请 全球太空资源竞争趋于白热化",
@@ -174,26 +198,39 @@
           "time_info": "[00时12分 ~ 04时12分]"
         },
         {
-          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
-          "url": "https://wallstreetcn.com/articles/3763028",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
           "title": "中国农民种地科技感拉满",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时52分]"
+        },
+        {
+          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
+          "url": "https://wallstreetcn.com/articles/3763028",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
+        },
+        {
+          "title": "我国新向 ITU 申报超 20 万颗卫星星座，总规模预计超星链，未来太空经济规模会有多大？有何特点？",
+          "url": "https://www.zhihu.com/question/1993714170248593735",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时52分]"
         },
         {
           "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
@@ -207,21 +244,54 @@
           "time_info": "[00时12分 ~ 04时12分]"
         },
         {
-          "title": "我国新向 ITU 申报超 20 万颗卫星星座，总规模预计超星链，未来太空经济规模会有多大？有何特点？",
-          "url": "https://www.zhihu.com/question/1993714170248593735",
-          "source": "知乎",
+          "title": "美国总统特朗普：我们可能会让互联网（在伊朗）恢复运行，会与马斯克沟通。",
+          "url": "https://flash.jin10.com/detail/20260112082447101800",
+          "source": "金十数据",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "08时52分"
+        },
+        {
+          "title": "马斯克称人类可以实现半永生，如果能「改写」设定的程序就能活得更久，你认为能实现吗？",
+          "url": "https://www.zhihu.com/question/1993092633799647924",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "报告称2026年中国科技巨头指数将首超美股七巨头",
+          "url": "https://wallstreetcn.com/livenews/3034810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（1月12日）",
+          "url": "https://flash.jin10.com/detail/20260112075111707800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "证监会最新发声！推动中长期资金进一步提高入市规模比例",
@@ -229,11 +299,23 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 08时52分]"
+        },
+        {
+          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
+          "url": "https://www.cls.cn/detail/2254115",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "用游戏理解来学化学",
