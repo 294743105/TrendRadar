@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T08:44:29.254290+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-01-13T12:32:24.068637+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时32分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时32分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -37,23 +49,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时44分]"
-        },
-        {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
             5,
-            4
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时32分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -83,11 +84,12 @@
           "url": "https://www.toutiao.com/trending/7594611746107854346/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 12时32分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
@@ -114,6 +116,32 @@
           "time_info": "[04时13分 ~ 08时44分]"
         },
         {
+          "title": "韩服93%胜率账号是AI吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时32分]"
+        },
+        {
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时32分]"
+        },
+        {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
@@ -136,29 +164,17 @@
           "time_info": "[00时16分 ~ 08时44分]"
         },
         {
-          "title": "韩服93%胜率账号是AI吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            17,
-            14,
-            13
+            24,
+            26,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时44分]"
-        },
-        {
-          "title": "AI登顶LOL韩服,Faker劲敌来袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时44分]"
+          "time_info": "[00时16分 ~ 12时32分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -172,27 +188,63 @@
           "time_info": "[00时16分 ~ 04时13分]"
         },
         {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
+          "url": "https://www.cls.cn/detail/2255501",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 12时32分]"
+        },
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 12时32分]"
+        },
+        {
+          "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
+          "url": "https://www.cls.cn/detail/2255512",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 12时32分]"
+        },
+        {
+          "title": "万字解析中国AI产业",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            24,
+            12,
             26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时16分 ~ 04时13分]"
+          "time_info": "[08时44分 ~ 12时32分]"
         },
         {
-          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
-          "url": "https://www.cls.cn/detail/2255501",
-          "source": "财联社热门",
+          "title": "如何看待马斯克AI预言",
+          "url": "https://www.douyin.com/hot/2366116",
+          "source": "抖音",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "12时32分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -206,15 +258,15 @@
           "time_info": "00时16分"
         },
         {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
+          "title": "DeepSeek发布梁文锋署名新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "12时32分"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
@@ -228,6 +280,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "投资公司Wedbush表示，2026年将成为苹果的关键之年。届时苹果将推出全新的Siri、达成与谷歌Gemini的新交易，并发布全新的iPhone 18系列。",
           "url": "https://wallstreetcn.com/livenews/3035440",
           "source": "华尔街见闻-快讯",
@@ -237,28 +300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "万字解析中国AI产业",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
-          "url": "https://www.cls.cn/detail/2255512",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
         },
         {
           "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
@@ -305,6 +346,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
+          "url": "https://wallstreetcn.com/livenews/3035759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
           "url": "https://flash.jin10.com/detail/20260112232041088800",
           "source": "金十数据",
@@ -316,21 +368,43 @@
           "time_info": "00时16分"
         },
         {
+          "title": "OpenAI收购医疗保健初创公司Torch",
+          "url": "https://www.toutiao.com/trending/7594644941129940998/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "艾伯维（AbbVie）与特朗普政府达成协议，旨在提高美国民众获得药物的可及性并降低负担。 艾伯维承诺，公司将在未来十年内，在美国投入1000亿美元 用于研发及包括制造业在内的资本投资。 作为交换，该协议为艾伯维提供了为期三年的关税豁免，并使其免受未来的价格管制指令约束。 艾伯维将在联邦医疗补助（Medicaid）中提供低价，并通过TrumpRx平台为患者扩大负担得起的“直达患者”购药服务。",
           "url": "https://wallstreetcn.com/livenews/3035632",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "苹果官宣iPhone将搭载最强AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3iPhone%E5%B0%86%E6%90%AD%E8%BD%BD%E6%9C%80%E5%BC%BAAI%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "2026年科技创新发力点在哪里",
@@ -340,8 +414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时32分]"
         },
         {
           "title": "如何评价「歼 10CE 首次取得实战战果」入选 2025 年度国防科技工业十大新闻？",
@@ -361,11 +435,23 @@
           "ranks": [
             3,
             8,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时32分]"
+        },
+        {
+          "title": "2026年跟着马斯克炒股的人赚翻了",
+          "url": "https://www.toutiao.com/trending/7594641229174804019/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "如何评价马斯克在 2026 初接受的三小时采访所传递出的观念？",
@@ -374,7 +460,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -412,6 +498,28 @@
           "time_info": "04时13分"
         },
         {
+          "title": "A股商业航天概念局部回暖，陕西华达、巨力索具、电科芯片涨停，中科星图、信科移动、佳缘科技、国博电子、天银机电涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3035769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "美防长访问SpaceX 马斯克热情迎接",
+          "url": "https://www.toutiao.com/trending/7594412913869586470/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：伊朗对美国公开披露的信息与私底下沟通的不一样。 总统特朗普有兴趣探索伊朗方面的信息。 特朗普已经与星链Starlink老板马斯克讨论伊朗的网络问题。 空袭伊朗是众多选项之一。 在通过外交手段处理伊朗问题方面，美国特使Witkoff是一个重要的“玩家”。",
           "url": "https://wallstreetcn.com/livenews/3035517",
           "source": "华尔街见闻-快讯",
@@ -429,7 +537,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -440,7 +548,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         }
@@ -448,7 +556,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "合川的爆火从来不是一场意外",
@@ -481,7 +589,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -514,7 +622,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -530,6 +638,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "反腐专题片发布第三集预告片，蒋超良将出镜忏悔",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32369828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "爆火的死了么APP注定昙花一现",
           "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%AB%E7%9A%84%E6%AD%BB%E4%BA%86%E4%B9%88APP%E6%B3%A8%E5%AE%9A%E6%98%99%E8%8A%B1%E4%B8%80%E7%8E%B0",
           "source": "百度热搜",
@@ -539,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报157250元/吨，较上日16:30价格上涨3850元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3035750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
