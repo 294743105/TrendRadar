@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T16:16:38.464629+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-01-14T20:21:17.953894+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -45,6 +45,18 @@
           "time_info": "[00时17分 ~ 12时39分]"
         },
         {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 20时21分]"
+        },
+        {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
           "url": "https://www.zhihu.com/question/1994009798958657948",
           "source": "知乎",
@@ -73,6 +85,44 @@
           "time_info": "[00时17分 ~ 16时16分]"
         },
         {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            15,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 20时21分]"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 20时21分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
           "url": "https://wallstreetcn.com/articles/3763115",
           "source": "华尔街见闻",
@@ -85,17 +135,6 @@
           "time_info": "[00时17分 ~ 04时13分]"
         },
         {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "中信证券：AI医疗开启商业化，加速重构十万亿级医药市场",
           "url": "https://wallstreetcn.com/livenews/3036504",
           "source": "华尔街见闻-快讯",
@@ -105,19 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 16时16分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -133,16 +159,16 @@
           "time_info": "[00时17分 ~ 08时51分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
+            9,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时39分 ~ 16时16分]"
+          "time_info": "[16时16分 ~ 20时21分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -155,6 +181,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 08时51分]"
+        },
+        {
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 20时21分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -190,16 +229,28 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
             14,
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时39分 ~ 16时16分]"
+          "time_info": "[16时16分 ~ 20时21分]"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 20时21分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -219,7 +270,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -235,37 +286,37 @@
           "time_info": "12时39分"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
           "url": "https://wallstreetcn.com/livenews/3036793",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
         {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "20时21分"
+        },
+        {
+          "title": "幻方量化去年狂赚56%，DeepSeek新模型底气拉满？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260114192748569800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "“末日博士”鲁比尼：AI繁荣正抵消包括美国总统和地缘政治在内的一系列风险。 AI将开创“美国例外论”的新篇章。",
@@ -290,17 +341,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "银河证券：生成式搜索兴起，AI应用催化密集",
           "url": "https://wallstreetcn.com/livenews/3036486",
           "source": "华尔街见闻-快讯",
@@ -310,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "王自如说荣耀Air补齐iPhoneAir短板",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%E8%AF%B4%E8%8D%A3%E8%80%80Air%E8%A1%A5%E9%BD%90iPhoneAir%E7%9F%AD%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "阿里云2026年目标：拿下中国AI云市场增量的80%",
@@ -359,7 +410,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "万科：将于1月16日前发布“21万科02”债券持有人会议最终议案",
@@ -454,6 +505,17 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
+          "title": "市场监管总局修订发布《网络市场监管与服务示范区创建管理办法》",
+          "url": "https://wallstreetcn.com/livenews/3037018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "标普500能源板块创下逾13个月新高，最新上涨2%。",
           "url": "https://flash.jin10.com/detail/20260114000005902800",
           "source": "金十数据",
@@ -476,6 +538,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32376851",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布美国11月零售销售月率，国新办将就2025年全年进出口情况举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260114080017601800",
           "source": "金十数据",
@@ -487,13 +560,24 @@
           "time_info": "08时51分"
         },
         {
+          "title": "广期所发布关于多晶硅期货PS2701、碳酸锂期货LC2701合约有关事项的公告",
+          "url": "https://wallstreetcn.com/livenews/3036996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "预告：国新办1月15日就货币金融政策支持实体经济高质量发展成效举行新闻发布会",
           "url": "https://wallstreetcn.com/livenews/3036766",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -534,7 +618,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "港股收盘：恒生指数收涨0.56%，恒生科技指数收涨0.66%，阿里健康涨近19%，携程跌超6%。",
@@ -543,9 +627,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
+          "url": "https://www.cls.cn/detail/2257429",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
+          "url": "https://www.cls.cn/detail/2257610",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "国金证券：太空光伏将是2026年电新板块最强主线",
@@ -557,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "钧达股份：公司拟以现金出资人民币3,000万元认购上海星翼芯能科技有限公司新增注册资本人民币46.1539万元，获得星翼芯能16.6667%的股权。星翼芯能系由杭州尚翼光电科技有限公司团队创始人及创始股东新设的项目公司，用于承接尚翼光电的全部资产、人员及业务，并且后续尚翼光电将调整为星翼芯能的全资子公司。本次合作助力公司从地面光伏领域向太空光伏领域的战略延伸。",
+          "url": "https://wallstreetcn.com/livenews/3037016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "锂电行业惊现1200亿大单！容百科技和宁德时代签署5年长协|速读公告",
@@ -587,7 +704,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -598,7 +715,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -631,7 +748,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
