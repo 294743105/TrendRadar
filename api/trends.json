@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-15T00:16:50.449210+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-15T04:11:52.947790+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
         {
           "title": "浙江用AI抓出贪官",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
@@ -15,41 +27,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1994233409871050526",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -59,37 +62,116 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
+        {
+          "title": "AI查贪官准确率相当高",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "04时11分"
+        },
+        {
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "巴菲特再发警示：AI的危险不亚于核武器",
+          "url": "https://www.cls.cn/detail/2258013",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "浙江用AI抓出贪官",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "加州总检察长对xAI和Grok展开调查",
+          "url": "https://wallstreetcn.com/livenews/3037233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌超1.8%，可选消费板块跌1.7%，电信板块跌1.2%，能源板块涨1.8%。 道指跌267点跌超0.5%，纳指跌348点跌幅1.5%，半导体指数跌1.5%，银行指数跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3037194",
@@ -102,48 +184,63 @@
           "time_info": "00时16分"
         },
         {
-          "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
-          "url": "https://www.cls.cn/detail/2257429",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
           "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
           "url": "https://www.cls.cn/detail/2257610",
           "source": "财联社热门",
           "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
+        {
+          "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
+          "url": "https://www.cls.cn/detail/2257429",
+          "source": "财联社热门",
+          "ranks": [
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
         },
         {
           "title": "上交所：对国晟科技相关投资者采取暂停账户交易等措施",
           "url": "https://www.cls.cn/detail/2257724",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
         },
         {
           "title": "用马甲账户收受虚拟币买别墅，证监会科技监管司原司长姚前腐败细节披露",
           "url": "https://www.cls.cn/detail/2257887",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.27%，报2690点。 恒生科技指数主连夜盘收跌0.76%，报5858点。",
+          "url": "https://wallstreetcn.com/livenews/3037266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "04时11分"
         },
         {
           "title": "证监会决定，对成都振芯科技股份有限公司及谢俊等相关责任人员采取出具警示函措施。",
@@ -171,8 +268,43 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32376851",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
+        {
+          "title": "谭案说法｜“哭哭马”爆火，申请专利或为时已晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32377263",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
+        {
+          "title": "盘点2025停服的游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%81%9C%E6%9C%8D%E7%9A%84%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
         {
           "title": "EIA报告：美国墨西哥湾沿岸汽油库存在最新一周上升至2020年1月以来的最高水平。",
           "url": "https://flash.jin10.com/detail/20260114233742636800",
@@ -185,37 +317,15 @@
           "time_info": "00时16分"
         },
         {
-          "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32376851",
-          "source": "澎湃新闻",
+          "title": "提醒：北京时间03:00，美联储将发布经济状况“褐皮书”，美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯做开场白讲话。",
+          "url": "https://wallstreetcn.com/livenews/3037259",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "谭案说法｜“哭哭马”爆火，申请专利或为时已晚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32377263",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "盘点2025停服的游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%81%9C%E6%9C%8D%E7%9A%84%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "04时11分"
         },
         {
           "title": "如何评价手游《白荆回廊》发布停止角色版本更新公告？",
