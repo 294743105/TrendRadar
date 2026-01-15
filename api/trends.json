@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T08:46:27.689289+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-01-15T12:33:16.748720+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 16,
+      "match_count": 25,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -21,6 +21,19 @@
           "time_info": "[00时16分 ~ 08时46分]"
         },
         {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时33分]"
+        },
+        {
           "title": "浙江用AI抓出贪官",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
           "source": "百度热搜",
@@ -33,16 +46,26 @@
           "time_info": "[00时16分 ~ 08时46分]"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -57,27 +80,42 @@
           "time_info": "[00时16分 ~ 04时11分]"
         },
         {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时46分]"
-        },
-        {
           "title": "巴菲特再发警示：AI的危险不亚于核武器",
           "url": "https://www.cls.cn/detail/2258013",
           "source": "财联社热门",
           "ranks": [
             13,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 08时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 12时33分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 12时33分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 12时33分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -90,18 +128,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时11分 ~ 08时46分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 04时11分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -128,15 +154,37 @@
           "time_info": "[04时11分 ~ 08时46分]"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "中信证券：“自主可控、AI算力”有望成为电子行业贯穿全年的绝对强主线",
           "url": "https://wallstreetcn.com/livenews/3037380",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -150,15 +198,70 @@
           "time_info": "04时11分"
         },
         {
+          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
+          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "千问App接入支付宝，上线AI付款",
+          "url": "https://wallstreetcn.com/livenews/3037516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "于正秀腹肌被判定AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%80%E8%85%B9%E8%82%8C%E8%A2%AB%E5%88%A4%E5%AE%9AAI%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "阿里要做全球第一个AI电商？淘宝、飞猪等已接入千问App",
           "url": "https://wallstreetcn.com/livenews/3037373",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "AI点的第一杯奶茶",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%82%B9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
+          "url": "https://wallstreetcn.com/livenews/3037508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "办案人员通过AI提示揪出贪官",
@@ -167,7 +270,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -196,9 +299,220 @@
       ]
     },
     {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 16,
       "titles": [
+        {
+          "title": "聂卫平女儿发布讣告",
+          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%A5%B3%E5%84%BF%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32376851",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 08时46分]"
+        },
+        {
+          "title": "谭案说法｜“哭哭马”爆火，申请专利或为时已晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32377263",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 08时46分]"
+        },
+        {
+          "title": "盘点2025停服的游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%81%9C%E6%9C%8D%E7%9A%84%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 08时46分]"
+        },
+        {
+          "title": "突发！19天14板包装印刷大牛股发布业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2257950",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 12时33分]"
+        },
+        {
+          "title": "EIA报告：美国墨西哥湾沿岸汽油库存在最新一周上升至2020年1月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260114233742636800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "丰田工业股价跃升5.6%，升至高于最新要约报价的水平。",
+          "url": "https://wallstreetcn.com/livenews/3037377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "提醒：北京时间03:00，美联储将发布经济状况“褐皮书”，美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯做开场白讲话。",
+          "url": "https://wallstreetcn.com/livenews/3037259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "爆火的趴地菠菜你吃过吗",
+          "url": "https://www.toutiao.com/trending/7595202834099683369/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "聂卫平女儿发布讣告",
+          "url": "https://www.baidu.com/s?wd=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%A5%B3%E5%84%BF%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "如何评价手游《白荆回廊》发布停止角色版本更新公告？",
+          "url": "https://www.zhihu.com/question/1994721746759213541",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "玩游戏较真有意义吗？",
+          "url": "https://www.zhihu.com/question/1983990833729536799",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（1月15日）",
+          "url": "https://flash.jin10.com/detail/20260115073023305800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3037173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "杀猪菜爆火背后是文化“寻根”热潮",
+          "url": "https://www.toutiao.com/trending/7594654925372932123/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "聂卫平女儿发布讣告",
+          "url": "https://www.douyin.com/hot/2368069",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 12时33分]"
+        },
+        {
+          "title": "【早报】长期股票投资试点再迎增量资金；上交所暂停国晟科技相关投资者账户交易",
+          "url": "https://www.cls.cn/detail/2258174",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 12时33分]"
+        },
         {
           "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
           "url": "https://www.cls.cn/detail/2257610",
@@ -213,17 +527,6 @@
           "time_info": "[00时16分 ~ 08时46分]"
         },
         {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -233,17 +536,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
-        },
-        {
-          "title": "【早报】长期股票投资试点再迎增量资金；上交所暂停国晟科技相关投资者账户交易",
-          "url": "https://www.cls.cn/detail/2258174",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
         },
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌超1.8%，可选消费板块跌1.7%，电信板块跌1.2%，能源板块涨1.8%。 道指跌267点跌超0.5%，纳指跌348点跌幅1.5%，半导体指数跌1.5%，银行指数跌1.2%。",
@@ -295,6 +587,17 @@
           "time_info": "[00时16分 ~ 08时46分]"
         },
         {
+          "title": "1月15日投资避雷针：上交所通报国晟科技异常交易情况 对相关投资者采取暂停交易措施",
+          "url": "https://www.cls.cn/detail/2258229",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.27%，报2690点。 恒生科技指数主连夜盘收跌0.76%，报5858点。",
           "url": "https://wallstreetcn.com/livenews/3037266",
           "source": "华尔街见闻-快讯",
@@ -312,7 +615,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -337,138 +640,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "刘萧旭最新反腐短剧《长路初心》，太苦了看不下去？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32376851",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时46分]"
-        },
-        {
-          "title": "谭案说法｜“哭哭马”爆火，申请专利或为时已晚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32377263",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时46分]"
-        },
-        {
-          "title": "盘点2025停服的游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%81%9C%E6%9C%8D%E7%9A%84%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 08时46分]"
-        },
-        {
-          "title": "EIA报告：美国墨西哥湾沿岸汽油库存在最新一周上升至2020年1月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260114233742636800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "丰田工业股价跃升5.6%，升至高于最新要约报价的水平。",
-          "url": "https://wallstreetcn.com/livenews/3037377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "提醒：北京时间03:00，美联储将发布经济状况“褐皮书”，美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯做开场白讲话。",
-          "url": "https://wallstreetcn.com/livenews/3037259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "突发！19天14板包装印刷大牛股发布业绩预告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2257950",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "如何评价手游《白荆回廊》发布停止角色版本更新公告？",
-          "url": "https://www.zhihu.com/question/1994721746759213541",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（1月15日）",
-          "url": "https://flash.jin10.com/detail/20260115073023305800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
-          "url": "https://wallstreetcn.com/livenews/3037173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "杀猪菜爆火背后是文化“寻根”热潮",
-          "url": "https://www.toutiao.com/trending/7594654925372932123/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时46分"
         }
       ]
     }
