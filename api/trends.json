@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T12:32:35.079456+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-01-16T16:16:34.308579+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
@@ -56,6 +56,18 @@
           "time_info": "[00时32分 ~ 04时13分]"
         },
         {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 16时16分]"
+        },
+        {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
           "url": "https://wallstreetcn.com/livenews/3038124",
           "source": "华尔街见闻-快讯",
@@ -89,15 +101,18 @@
           "time_info": "08时49分"
         },
         {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
           "ranks": [
-            5
+            24,
+            25,
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 16时16分]"
         },
         {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
@@ -110,19 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 04时13分]"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 12时32分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -172,13 +174,35 @@
           "time_info": "[00时32分 ~ 04时13分]"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
           "url": "https://www.zhihu.com/question/1994735533826471246",
           "source": "知乎",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -200,9 +224,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -214,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
+          "url": "https://www.cls.cn/detail/2259812",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
@@ -244,7 +290,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -255,7 +301,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -307,7 +353,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -333,15 +379,15 @@
           "time_info": "[00时32分 ~ 04时13分]"
         },
         {
-          "title": "福耀科技大学大一学生已被企业抢光",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%A4%A7%E4%B8%80%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E4%BC%81%E4%B8%9A%E6%8A%A2%E5%85%89",
-          "source": "百度热搜",
+          "title": "港股收盘：恒生指数收跌0.29%，恒生科技指数收跌0.11%。港股半导体股普涨，兆易创新涨超16%，华虹半导体涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3038614",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "16时16分"
         },
         {
           "title": "中国科技接连实现硬核突破",
@@ -350,18 +396,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "福耀科技大学大一学生已被企业抢光",
-          "url": "https://www.toutiao.com/trending/7594710800431104063/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -388,6 +423,52 @@
           "time_info": "00时32分"
         },
         {
+          "title": "2026核聚变能科技与产业大会在安徽合肥举办",
+          "url": "https://wallstreetcn.com/livenews/3038610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "中央财经大学刘姝威称福耀科技大学大一学生已被企业抢光，这反映了哪些人才培养趋势？",
+          "url": "https://www.zhihu.com/question/1995129976433947775",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "福耀科技大学大一学生已被企业抢光",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%A4%A7%E4%B8%80%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E4%BC%81%E4%B8%9A%E6%8A%A2%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 16时16分]"
+        },
+        {
+          "title": "福耀科技大学大一学生已被企业抢光",
+          "url": "https://www.toutiao.com/trending/7594710800431104063/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 16时16分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.81%，报27150点。 恒生科技指数主连夜盘收涨1.05%，报5895点。",
           "url": "https://wallstreetcn.com/livenews/3038180",
           "source": "华尔街见闻-快讯",
@@ -397,6 +478,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "联特科技：授权公司管理层启动公司境外发行股份（H股）并在香港联合交易所有限公司上市相关筹备工作。",
+          "url": "https://wallstreetcn.com/livenews/3038601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
+          "url": "https://www.zhihu.com/question/1994806802546705531",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "硅谷老牌天使投资人评Optimus V3：它将令人“忘掉特斯拉造过车”；马斯克回应：很有可能",
@@ -427,7 +530,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -471,7 +574,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -479,7 +582,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "直击阿里千问APP发布会：全面接入淘宝、支付宝、淘宝闪购等阿里生态业务",
@@ -505,6 +608,28 @@
           "time_info": "00时32分"
         },
         {
+          "title": "中国天眼新成果发布",
+          "url": "https://www.douyin.com/hot/2369775",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "上期能源发布关于集运指数（欧线）期货合约修订实施有关事项的通知",
+          "url": "https://wallstreetcn.com/livenews/3038609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "物价会持续上涨吗？央行最新回应",
           "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%BB%B7%E4%BC%9A%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8%E5%90%97%EF%BC%9F%E5%A4%AE%E8%A1%8C%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -516,6 +641,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 08时49分]"
+        },
+        {
+          "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398029",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 16时16分]"
         },
         {
           "title": "盘点2025停服的游戏",
@@ -530,24 +667,25 @@
           "time_info": "[00时32分 ~ 04时13分]"
         },
         {
+          "title": "聂卫平女儿发布讣告",
+          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%A5%B3%E5%84%BF%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 16时16分]"
+        },
+        {
           "title": "我国自研新型3兆瓦级燃气轮机正式发布",
           "url": "https://wallstreetcn.com/livenews/3038453",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398029",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -563,13 +701,24 @@
           "time_info": "04时13分"
         },
         {
+          "title": "印尼一婚礼因新郎外貌爆火",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9B%A0%E6%96%B0%E9%83%8E%E5%A4%96%E8%B2%8C%E7%88%86%E7%81%AB%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "米哈游被曝正招聘写实射击项目，或将开发撤离类游戏，这对其游戏布局意味着什么？",
           "url": "https://www.zhihu.com/question/1994492483091059546",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -607,24 +756,13 @@
           "time_info": "00时32分"
         },
         {
-          "title": "聂卫平女儿发布讣告",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%A5%B3%E5%84%BF%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
           "title": "中国天眼新成果发布 揭示快速射电暴双星起源关键证据",
           "url": "https://wallstreetcn.com/livenews/3038426",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -632,8 +770,19 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "雷霆大胜火箭",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E9%9C%86%E5%A4%A7%E8%83%9C%E7%81%AB%E7%AE%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
         {
           "title": "41 岁詹姆斯场均 26 分超越三位名宿同期总和，这在 NBA 历史上意味着什么？",
           "url": "https://www.zhihu.com/question/1993186500188320404",
@@ -641,7 +790,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -652,7 +801,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
