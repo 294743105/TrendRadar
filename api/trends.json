@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T08:54:48.194024+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-18T12:35:08.659502+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -25,11 +25,12 @@
           "url": "https://wallstreetcn.com/livenews/3039168",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 12时35分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -38,9 +39,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
+          "url": "https://wallstreetcn.com/articles/3763519",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
+          "url": "https://www.zhihu.com/question/1994072855072235778",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
         },
         {
           "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
@@ -52,6 +86,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 04时11分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "奇瑞超35款车型将搭载全新AI产品",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%87%E7%91%9E%E8%B6%8535%E6%AC%BE%E8%BD%A6%E5%9E%8B%E5%B0%86%E6%90%AD%E8%BD%BD%E5%85%A8%E6%96%B0AI%E4%BA%A7%E5%93%81%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -87,13 +143,24 @@
           "time_info": "[00时12分 ~ 04时11分]"
         },
         {
+          "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
+          "url": "https://wallstreetcn.com/livenews/3039173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
           "url": "https://www.zhihu.com/question/1995898061478651512",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -104,7 +171,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         }
@@ -112,7 +179,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
@@ -169,12 +236,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 04时11分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（1月18日）",
+          "url": "https://flash.jin10.com/detail/20260118085027747800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "财政部同意福彩变更双色球游戏规则，将对彩票市场带来哪些影响？",
@@ -183,11 +261,12 @@
           "ranks": [
             7,
             3,
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 08时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 12时35分]"
         },
         {
           "title": "河南趴地菠菜爆火农户4天卖掉170亩",
@@ -201,6 +280,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 08时54分]"
+        },
+        {
+          "title": "白宇朱亚文亮相《太平年》发布会",
+          "url": "https://www.toutiao.com/trending/7596522915928899611/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（1月18日）",
+          "url": "https://flash.jin10.com/detail/20260118094357095800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     }
