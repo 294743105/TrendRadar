@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T16:14:56.440734+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-01-18T20:18:39.801292+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -21,6 +21,18 @@
           "time_info": "[00时11分 ~ 08时54分]"
         },
         {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时18分]"
+        },
+        {
           "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
           "url": "https://wallstreetcn.com/livenews/3039168",
           "source": "华尔街见闻-快讯",
@@ -34,17 +46,6 @@
           "time_info": "[08时54分 ~ 16时14分]"
         },
         {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
@@ -56,27 +57,38 @@
           "time_info": "08时54分"
         },
         {
+          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
+          "url": "https://wallstreetcn.com/livenews/3039251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
           "url": "https://wallstreetcn.com/articles/3763531",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 16时14分]"
-        },
-        {
-          "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
-          "url": "https://www.zhihu.com/question/1994072855072235778",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 20时18分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -85,6 +97,18 @@
           "ranks": [
             17,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 20时18分]"
+        },
+        {
+          "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
+          "url": "https://www.zhihu.com/question/1994072855072235778",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -169,6 +193,17 @@
           "time_info": "[00时12分 ~ 04时11分]"
         },
         {
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
           "url": "https://www.zhihu.com/question/1995898061478651512",
           "source": "知乎",
@@ -178,6 +213,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "谭晶JKAI杰凯百大同框",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%AD%E6%99%B6JKAI%E6%9D%B0%E5%87%AF%E7%99%BE%E5%A4%A7%E5%90%8C%E6%A1%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
+          "url": "https://wallstreetcn.com/livenews/3039234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "王鹤棣演唱会现场宣了GAI巡演",
@@ -194,7 +251,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
@@ -253,6 +310,17 @@
           "time_info": "[00时12分 ~ 04时11分]"
         },
         {
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（1月18日）",
           "url": "https://flash.jin10.com/detail/20260118085027747800",
           "source": "金十数据",
@@ -267,7 +335,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "财政部同意福彩变更双色球游戏规则，将对彩票市场带来哪些影响？",
@@ -282,6 +350,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时11分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普发布个人黑白照",
+          "url": "https://wallstreetcn.com/livenews/3039253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "河南趴地菠菜爆火农户4天卖掉170亩",
@@ -314,7 +393,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -328,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        },
+        {
+          "title": "警惕！美媒：卫星图像揭露日本“出云”级舰艇“航母化”改造最新进展",
+          "url": "https://wallstreetcn.com/livenews/3039238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         }
       ]
     }
