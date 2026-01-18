@@ -1,196 +1,33 @@
 {
-  "generated_at": "2026-01-18T20:18:39.801292+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-01-19T00:12:42.581795+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 21,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 08时54分]"
-        },
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
           "url": "https://wallstreetcn.com/articles/3763533",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 20时18分]"
-        },
-        {
-          "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
-          "url": "https://wallstreetcn.com/livenews/3039168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 16时14分]"
-        },
-        {
-          "title": "翁家翌谈OpenAI模型跃迁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
-          "url": "https://wallstreetcn.com/livenews/3039251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "00时12分"
         },
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 20时18分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 20时18分]"
-        },
-        {
-          "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
-          "url": "https://www.zhihu.com/question/1994072855072235778",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 16时14分]"
-        },
-        {
-          "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
-          "url": "https://wallstreetcn.com/livenews/3039173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 16时14分]"
-        },
-        {
-          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
-          "url": "https://wallstreetcn.com/articles/3763519",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
-          "url": "https://wallstreetcn.com/livenews/3039131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "奇瑞超35款车型将搭载全新AI产品",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%87%E7%91%9E%E8%B6%8535%E6%AC%BE%E8%BD%A6%E5%9E%8B%E5%B0%86%E6%90%AD%E8%BD%BD%E5%85%A8%E6%96%B0AI%E4%BA%A7%E5%93%81%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://wallstreetcn.com/livenews/3039127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://flash.jin10.com/detail/20260117195257548800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
-          "url": "https://flash.jin10.com/detail/20260117195232354800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
+          "time_info": "00时12分"
         },
         {
           "title": "没有商业模式--DeepSeek最坚固的“护城河”",
@@ -199,225 +36,104 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "00时12分"
         },
         {
-          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
-          "url": "https://www.zhihu.com/question/1995898061478651512",
-          "source": "知乎",
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "00时12分"
         },
         {
-          "title": "谭晶JKAI杰凯百大同框",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%AD%E6%99%B6JKAI%E6%9D%B0%E5%87%AF%E7%99%BE%E5%A4%A7%E5%90%8C%E6%A1%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
-          "url": "https://wallstreetcn.com/livenews/3039234",
+          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
+          "url": "https://wallstreetcn.com/livenews/3039251",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "王鹤棣演唱会现场宣了GAI巡演",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%AE%A3%E4%BA%86GAI%E5%B7%A1%E6%BC%94&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
-          "url": "https://wallstreetcn.com/articles/3763508",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 08时54分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 08时54分]"
-        },
-        {
-          "title": "科技部部长阴和俊：将推动京津冀、沪苏浙皖优势互补，凝聚合力，打造科技强国重要战略支点",
-          "url": "https://wallstreetcn.com/livenews/3039133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "科技部部长：将推动京津冀、沪苏浙皖优势互补，打造科技强国重要战略支点",
-          "url": "https://flash.jin10.com/detail/20260117204332741800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "马斯克：Colossus 2超级计算机现已投入运行。这是全球首个吉瓦级训练集群，四月将升级至1.5吉瓦。",
-          "url": "https://flash.jin10.com/detail/20260117202600571800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（1月18日）",
-          "url": "https://flash.jin10.com/detail/20260118085027747800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "00时12分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "财政部同意福彩变更双色球游戏规则，将对彩票市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1995605463874696870",
-          "source": "知乎",
+          "title": "大范围雨雪将至 多地发布停课通知",
+          "url": "https://www.toutiao.com/trending/7596681575517965862/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            3,
-            2,
-            11
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 12时35分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "大范围雨雪来了 多地发布停课通知",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E6%9D%A5%E4%BA%86+%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "特朗普发布个人黑白照",
           "url": "https://wallstreetcn.com/livenews/3039253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "河南趴地菠菜爆火农户4天卖掉170亩",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%B6%B4%E5%9C%B0%E8%8F%A0%E8%8F%9C%E7%88%86%E7%81%AB%E5%86%9C%E6%88%B74%E5%A4%A9%E5%8D%96%E6%8E%89170%E4%BA%A9",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 08时54分]"
-        },
-        {
-          "title": "白宇朱亚文亮相《太平年》发布会",
-          "url": "https://www.toutiao.com/trending/7596522915928899611/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "“我想成为中国人”在外网爆火",
-          "url": "https://www.toutiao.com/trending/7595809732301045801/",
-          "source": "今日头条",
-          "ranks": [
-            13
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时14分"
-        },
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（1月18日）",
-          "url": "https://flash.jin10.com/detail/20260118094357095800",
-          "source": "金十数据",
+          "title": "恋与深空新的雷霆金曲出现了",
+          "url": "https://search.bilibili.com/all?keyword=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%96%B0%E7%9A%84%E9%9B%B7%E9%9C%86%E9%87%91%E6%9B%B2%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时35分"
-        },
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "警惕！美媒：卫星图像揭露日本“出云”级舰艇“航母化”改造最新进展",
-          "url": "https://wallstreetcn.com/livenews/3039238",
-          "source": "华尔街见闻-快讯",
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
           "ranks": [
-            14
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "00时12分"
         }
       ]
     }
