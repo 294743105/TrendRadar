@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-21T00:21:18.570762+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-21T04:39:13.035765+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
           "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时39分]"
         },
         {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
@@ -28,6 +29,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
+          "url": "https://wallstreetcn.com/livenews/3040648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -43,37 +66,20 @@
       ]
     },
     {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
-          "url": "https://news.ifeng.com/c/8q4LVghIqeV",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32423683",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
+          "url": "https://wallstreetcn.com/livenews/3040660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
         {
           "title": "拉夫罗夫最新涉华表态：前所未有",
           "url": "https://news.ifeng.com/c/8q4VsLmiCyK",
@@ -82,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时39分]"
         },
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -93,8 +99,81 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时39分]"
+        },
+        {
+          "title": "乡村蛋糕店爆火老板称不敢涨价",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E8%9B%8B%E7%B3%95%E5%BA%97%E7%88%86%E7%81%AB%E8%80%81%E6%9D%BF%E7%A7%B0%E4%B8%8D%E6%95%A2%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 04时39分]"
+        },
+        {
+          "title": "美国纽约州长Kathy Hochul发布2600亿美元预算计划，不包含原来拟议针对个人所得税+企业税提高税率的条款。",
+          "url": "https://wallstreetcn.com/livenews/3040656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "04时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
+          "url": "https://news.ifeng.com/c/8q4LVghIqeV",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时39分]"
+        },
+        {
+          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32423683",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时39分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至2%，可选消费板块跌2.8%，科技板块跌2.7%，金融板块跌2.3%。 道指跌869点跌幅1.7%，纳指跌2.3%，半导体指数跌1.7%，银行指数跌2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3040654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.46%，报26341点。 恒生科技指数主连夜盘收跌0.63%，报5638点。",
+          "url": "https://wallstreetcn.com/livenews/3040647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         }
       ]
     }
