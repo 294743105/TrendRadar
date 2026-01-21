@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T12:37:38.854566+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-01-21T16:18:04.295739+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
@@ -26,31 +26,55 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时18分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时18分]"
+        },
+        {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时18分]"
+        },
+        {
+          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
+          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时18分]"
+        },
+        {
+          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
+          "url": "https://www.cls.cn/detail/2264568",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
         },
         {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
@@ -62,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
-          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
@@ -92,7 +105,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -103,7 +116,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -155,8 +168,19 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "事关人形机器人、6G等 工信部最新发声",
+          "url": "https://www.cls.cn/detail/2264356",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
         {
           "title": "日本10年期国债收益率继续下跌，最新下跌4个基点至2.3%。",
           "url": "https://flash.jin10.com/detail/20260121121121603800",
@@ -164,9 +188,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "印度NIFTY 50指数转跌，最新下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260121154712097800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
@@ -225,6 +260,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "市场监管总局发布2025年综合整治“内卷式”竞争十大典型案例",
+          "url": "https://wallstreetcn.com/livenews/3041104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国白宫发布行政命令，阻止华尔街与普通民众购房者竞争。",
           "url": "https://flash.jin10.com/detail/20260121081601247800",
           "source": "金十数据",
@@ -242,7 +288,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -253,7 +299,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         }
@@ -261,7 +307,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
@@ -270,11 +316,12 @@
           "ranks": [
             12,
             16,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 12时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 16时18分]"
         },
         {
           "title": "云深处科技四足机器人专利获授权",
@@ -283,7 +330,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -333,6 +380,17 @@
           "time_info": "[08时50分 ~ 08时51分]"
         },
         {
+          "title": "翱捷科技：预计2025年年度净亏损3.99亿元，同比减少42.38%",
+          "url": "https://wallstreetcn.com/livenews/3041105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "标普500指数跌幅扩大至2%，可选消费板块跌2.8%，科技板块跌2.7%，金融板块跌2.3%。 道指跌869点跌幅1.7%，纳指跌2.3%，半导体指数跌1.7%，银行指数跌2.1%。",
           "url": "https://wallstreetcn.com/livenews/3040654",
           "source": "华尔街见闻-快讯",
@@ -353,23 +411,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "君实生物在上海成立新科技公司，注册资本5亿",
+          "url": "https://wallstreetcn.com/livenews/3041072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "和朋友拍雷霆手势舞",
           "url": "https://www.douyin.com/hot/2374615",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时18分]"
+        },
+        {
+          "title": "文班亚马在NBA赛场有多难防",
+          "url": "https://www.toutiao.com/trending/7597645787891253289/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "16时17分"
         }
       ]
     }
