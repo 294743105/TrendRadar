@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T08:51:06.679538+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-01-21T12:37:38.854566+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
@@ -20,6 +20,39 @@
           "time_info": "[00时21分 ~ 04时39分]"
         },
         {
+          "title": "疑似AI玩家确认是Roamer",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "DeepSeek Model 1悄然现身",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
           "url": "https://wallstreetcn.com/livenews/3040577",
           "source": "华尔街见闻-快讯",
@@ -29,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
+          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
@@ -42,13 +86,35 @@
           "time_info": "04时39分"
         },
         {
+          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
+          "url": "https://flash.jin10.com/detail/20260121113244610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3040928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "DeepSeek新模型MODEL1曝光",
           "url": "https://wallstreetcn.com/livenews/3040736",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -59,7 +125,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -88,93 +154,20 @@
       ]
     },
     {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32423683",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 08时51分]"
-        },
-        {
-          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
-          "url": "https://news.ifeng.com/c/8q4LVghIqeV",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时39分]"
-        },
-        {
-          "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
-          "url": "https://www.cls.cn/detail/2264274",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 08时51分]"
-        },
-        {
-          "title": "“令人震惊”！马斯克大手笔曝光",
-          "url": "https://news.ifeng.com/c/8q4yjAnRTBj",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 08时51分]"
-        },
-        {
-          "title": "马斯克给参议员候选人开千万美元支票",
-          "url": "https://www.toutiao.com/trending/7597344882834866217/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 08时51分]"
-        },
-        {
-          "title": "标普500指数跌幅扩大至2%，可选消费板块跌2.8%，科技板块跌2.7%，金融板块跌2.3%。 道指跌869点跌幅1.7%，纳指跌2.3%，半导体指数跌1.7%，银行指数跌2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3040654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.46%，报26341点。 恒生科技指数主连夜盘收跌0.63%，报5638点。",
-          "url": "https://wallstreetcn.com/livenews/3040647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "日本10年期国债收益率继续下跌，最新下跌4个基点至2.3%。",
+          "url": "https://flash.jin10.com/detail/20260121121121603800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
         {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
           "url": "https://wallstreetcn.com/livenews/3040660",
@@ -238,9 +231,145 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "印度NIFTY 50指数转为上涨，最新上涨0.05%。",
+          "url": "https://flash.jin10.com/detail/20260121114746233800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "最高法发布关于审理矿产资源纠纷案件适用法律若干问题的解释",
+          "url": "https://wallstreetcn.com/livenews/3040930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32423683",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 12时37分]"
+        },
+        {
+          "title": "云深处科技四足机器人专利获授权",
+          "url": "https://wallstreetcn.com/livenews/3040951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
+          "url": "https://www.cls.cn/detail/2264274",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时37分]"
+        },
+        {
+          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
+          "url": "https://news.ifeng.com/c/8q4LVghIqeV",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时39分]"
+        },
+        {
+          "title": "“令人震惊”！马斯克大手笔曝光",
+          "url": "https://news.ifeng.com/c/8q4yjAnRTBj",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 08时51分]"
+        },
+        {
+          "title": "马斯克给参议员候选人开千万美元支票",
+          "url": "https://www.toutiao.com/trending/7597344882834866217/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 08时51分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至2%，可选消费板块跌2.8%，科技板块跌2.7%，金融板块跌2.3%。 道指跌869点跌幅1.7%，纳指跌2.3%，半导体指数跌1.7%，银行指数跌2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3040654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.46%，报26341点。 恒生科技指数主连夜盘收跌0.63%，报5638点。",
+          "url": "https://wallstreetcn.com/livenews/3040647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "和朋友拍雷霆手势舞",
+          "url": "https://www.douyin.com/hot/2374615",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     }
