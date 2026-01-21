@@ -1,536 +1,188 @@
 {
-  "generated_at": "2026-01-21T20:23:05.976209+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-01-22T00:23:30.600765+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996233131175462349",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时39分]"
-        },
-        {
-          "title": "疑似AI玩家确认是Roamer",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 16时18分]"
-        },
         {
           "title": "DeepSeek Model 1悄然现身",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            5,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 20时23分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
+          "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
+          "url": "https://wallstreetcn.com/livenews/3041411",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 20时23分]"
-        },
-        {
-          "title": "俄罗斯积雪9层楼高视频系AI生成",
-          "url": "https://www.toutiao.com/trending/7597721748050444351/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
-          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 16时18分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "图灵的猫回应预测韩服AI疑云",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
           "source": "bilibili 热搜",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
-          "url": "https://www.cls.cn/detail/2264568",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
-        },
-        {
-          "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
-          "url": "https://wallstreetcn.com/livenews/3040577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "00时23分"
         },
         {
-          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
-          "url": "https://wallstreetcn.com/livenews/3040648",
+          "title": "Anthropic推出Claude的新版“constitution”，称是基本文件。",
+          "url": "https://wallstreetcn.com/livenews/3041410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国众议院监督管理委员会主席James Comer：本委员会将作废2月9日针对Ghislaine Maxwell的安排。 代理律师称Ghislaine Maxwell将保持沉默（在宣誓证词/录取口供时援引宪法第五修正案拒绝回答）。",
+          "url": "https://wallstreetcn.com/livenews/3041407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
+          "url": "https://www.cls.cn/detail/2265088",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国白宫AI主管David Sacks：美国（各州凳面）“拼凑的”AI制度威胁到创新。 儿童（数据隐私）安全必须是监管框架的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3041401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美光科技股价涨幅扩大至7%，创历史新高，总市值达到4400亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3041402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "标普500指数涨超1%，能源板块涨2.2%，原材料、工业、可选消费、科技、电信等板块涨超1%。 道指涨超1%，纳指涨约1.1%，半导体指数涨幅扩大至3.2%，银行指数涨超2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3041398",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "00时23分"
         },
         {
-          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
-          "url": "https://flash.jin10.com/detail/20260121113244610800",
+          "title": "美光科技(MU.O)涨幅扩大至7%，创历史新高，总市值达到4400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260121234557596800",
           "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3040928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "DeepSeek新模型MODEL1曝光",
-          "url": "https://wallstreetcn.com/livenews/3040736",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
-          "url": "https://flash.jin10.com/detail/20260121075255957800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3040636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "上海中小学开设AI课程",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
         {
-          "title": "事关人形机器人、6G等 工信部最新发声",
-          "url": "https://www.cls.cn/detail/2264356",
+          "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
+          "url": "https://www.cls.cn/detail/2265495",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
-        },
-        {
-          "title": "日本10年期国债收益率继续下跌，最新下跌4个基点至2.3%。",
-          "url": "https://flash.jin10.com/detail/20260121121121603800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "印度NIFTY 50指数转跌，最新下跌0.1%。",
-          "url": "https://flash.jin10.com/detail/20260121154712097800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
-          "url": "https://wallstreetcn.com/livenews/3040660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "牢A最新力作!“糖霜苹果”太吓人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349346&amp;topic_name=%E7%89%A2A%E6%9C%80%E6%96%B0%E5%8A%9B%E4%BD%9C%21%E2%80%9C%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%E2%80%9D%E5%A4%AA%E5%90%93%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 08时51分]"
-        },
-        {
-          "title": "拉夫罗夫最新涉华表态：前所未有",
-          "url": "https://news.ifeng.com/c/8q4VsLmiCyK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时39分]"
+          "time_info": "00时23分"
         },
         {
           "title": "R 星破例让绝症粉丝提前游玩 GTA6，还有哪些游戏公司与玩家之间的感动故事吗？",
           "url": "https://www.zhihu.com/question/1996278145163227675",
           "source": "知乎",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "乡村蛋糕店爆火老板称不敢涨价",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A1%E6%9D%91%E8%9B%8B%E7%B3%95%E5%BA%97%E7%88%86%E7%81%AB%E8%80%81%E6%9D%BF%E7%A7%B0%E4%B8%8D%E6%95%A2%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 04时39分]"
-        },
-        {
-          "title": "美国纽约州长Kathy Hochul发布2600亿美元预算计划，不包含原来拟议针对个人所得税+企业税提高税率的条款。",
-          "url": "https://wallstreetcn.com/livenews/3040656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "市场监管总局发布2025年综合整治“内卷式”竞争十大典型案例",
-          "url": "https://wallstreetcn.com/livenews/3041104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "美国白宫发布行政命令，阻止华尔街与普通民众购房者竞争。",
-          "url": "https://flash.jin10.com/detail/20260121081601247800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "印度NIFTY 50指数转为上涨，最新上涨0.05%。",
-          "url": "https://flash.jin10.com/detail/20260121114746233800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "上交所发布关于山东新华锦国际股份有限公司控股股东破产重整相关事项的监管工作函，涉及对象：上市公司，董事，高级管理人员，控股股东及实际控制人。",
-          "url": "https://wallstreetcn.com/livenews/3041264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "最高法发布关于审理矿产资源纠纷案件适用法律若干问题的解释",
-          "url": "https://wallstreetcn.com/livenews/3040930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32423683",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            16,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 16时18分]"
-        },
-        {
-          "title": "云深处科技四足机器人专利获授权",
-          "url": "https://wallstreetcn.com/livenews/3040951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
-          "url": "https://www.cls.cn/detail/2264274",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时50分 ~ 12时37分]"
-        },
-        {
-          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
-          "url": "https://news.ifeng.com/c/8q4LVghIqeV",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时39分]"
-        },
-        {
-          "title": "“令人震惊”！马斯克大手笔曝光",
-          "url": "https://news.ifeng.com/c/8q4yjAnRTBj",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 08时51分]"
-        },
-        {
-          "title": "马斯克给参议员候选人开千万美元支票",
-          "url": "https://www.toutiao.com/trending/7597344882834866217/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 08时51分]"
-        },
-        {
-          "title": "翱捷科技：预计2025年年度净亏损3.99亿元，同比减少42.38%",
-          "url": "https://wallstreetcn.com/livenews/3041105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "标普500指数跌幅扩大至2%，可选消费板块跌2.8%，科技板块跌2.7%，金融板块跌2.3%。 道指跌869点跌幅1.7%，纳指跌2.3%，半导体指数跌1.7%，银行指数跌2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3040654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.46%，报26341点。 恒生科技指数主连夜盘收跌0.63%，报5638点。",
-          "url": "https://wallstreetcn.com/livenews/3040647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "闻泰科技：珠海融林及其一致行动人格力电器拟减持不超过3%。",
-          "url": "https://wallstreetcn.com/livenews/3041241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "君实生物在上海成立新科技公司，注册资本5亿",
-          "url": "https://wallstreetcn.com/livenews/3041072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "和朋友拍雷霆手势舞",
-          "url": "https://www.douyin.com/hot/2374615",
-          "source": "抖音",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 16时18分]"
-        },
-        {
-          "title": "文班亚马在NBA赛场有多难防",
-          "url": "https://www.toutiao.com/trending/7597645787891253289/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 20时23分]"
+          "time_info": "00时23分"
         }
       ]
     }
