@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-22T08:50:02.042172+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-01-22T12:40:30.358291+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 12时40分]"
+        },
         {
           "title": "图灵的猫回应预测韩服AI疑云",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
@@ -14,22 +26,26 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 08时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
+          "title": "DeepSeek Model 1悄然现身",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            3,
+            9,
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -41,19 +57,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "DeepSeek Model 1悄然现身",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 08时50分]"
         },
         {
           "title": "Anthropic推出Claude的新版“constitution”，称是基本文件。",
@@ -78,6 +81,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "xAI工程师因泄密被马斯克解雇",
+          "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
           "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
           "source": "澎湃新闻",
@@ -91,6 +105,42 @@
           "time_info": "[00时23分 ~ 08时50分]"
         },
         {
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 12时40分]"
+        },
+        {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 12时40分]"
+        },
+        {
+          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
+          "url": "https://www.cls.cn/detail/2265632",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 12时40分]"
+        },
+        {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
           "url": "https://wallstreetcn.com/articles/3763773",
           "source": "华尔街见闻",
@@ -100,6 +150,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 08时50分]"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -125,51 +188,6 @@
           "time_info": "[00时23分 ~ 04时19分]"
         },
         {
-          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
-          "url": "https://wallstreetcn.com/articles/3763828",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
-        },
-        {
-          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
-          "url": "https://www.cls.cn/detail/2265674",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
-        },
-        {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 04时19分]"
-        },
-        {
-          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
-          "url": "https://www.cls.cn/detail/2265632",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
-        },
-        {
           "title": "澎湃AI晚新闻丨2026年1月21日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32434494",
           "source": "澎湃新闻",
@@ -179,6 +197,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 08时50分]"
+        },
+        {
+          "title": "黄仁勋谈AI如何改变经济",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国众议院监督管理委员会主席James Comer：本委员会将作废2月9日针对Ghislaine Maxwell的安排。 代理律师称Ghislaine Maxwell将保持沉默（在宣誓证词/录取口供时援引宪法第五修正案拒绝回答）。",
@@ -198,7 +227,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -234,12 +263,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "黄仁勋：AI发展将带来大规模基建投资潮",
+          "url": "https://wallstreetcn.com/livenews/3041732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "如何看待「不会用 AI 的家庭将是新寒门」的观点，AI 改变教育模式的当下，该如何在学习中合理使用 AI？",
+          "url": "https://www.zhihu.com/question/1997376980287513267",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
@@ -261,19 +312,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 12时40分]"
         },
         {
           "title": "南部空军发布霸气喊话视频",
           "url": "https://www.douyin.com/hot/2375593",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 12时40分]"
+        },
+        {
+          "title": "一天3场高层重磅发布 楼市重大利好",
+          "url": "https://www.toutiao.com/trending/7596864353657307190/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "澳元兑美元AUD/USD短线走高20点，最新报0.6777。",
@@ -282,7 +345,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
         },
@@ -315,28 +378,107 @@
           "url": "https://search.bilibili.com/all?keyword=Steam%E5%A5%BD%E8%AF%84%E6%A6%9CTop100%E5%A4%A7%E6%B4%97%E7%89%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 12时40分]"
+        },
+        {
+          "title": "百度发布文心大模型5.0正式版",
+          "url": "https://wallstreetcn.com/livenews/3041744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "12时40分"
+        },
+        {
+          "title": "印度NIFTY 50指数延续涨势，最新上涨1%。",
+          "url": "https://flash.jin10.com/detail/20260122120222024800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "美国天然气期货延续涨势，最新涨幅超过10%。",
+          "url": "https://flash.jin10.com/detail/20260122115650846800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "时隔9天百川智能再发布M3 Plus新模型，API调用降价70%",
+          "url": "https://wallstreetcn.com/livenews/3041726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "德云社发布严正声明",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%8F%91%E5%B8%83%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "马斯克据悉希望在7月前让SpaceX上市 力争率先实现数据中心上太空",
           "url": "https://www.cls.cn/detail/2265712",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 08时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 12时40分]"
+        },
+        {
+          "title": "如何看待电子科技大学清水河畔论坛划分校友组并限制校友发言权限，现在校友组访问权限也关了？",
+          "url": "https://www.zhihu.com/question/530236153",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2265774",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美光科技股价涨幅扩大至7%，创历史新高，总市值达到4400亿美元。",
@@ -348,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "罗永浩所持锤子科技713万元股权被冻结",
+          "url": "https://wallstreetcn.com/livenews/3041737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "标普500指数涨超1%，能源板块涨2.2%，原材料、工业、可选消费、科技、电信等板块涨超1%。 道指涨超1%，纳指涨约1.1%，半导体指数涨幅扩大至3.2%，银行指数涨超2.1%。",
@@ -370,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "深圳：力争未来三年科技保险保费收入年均增速超10%，每年为科技企业提供风险保障超5万亿元",
+          "url": "https://wallstreetcn.com/livenews/3041734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美光科技(MU.O)涨幅扩大至7%，创历史新高，总市值达到4400亿美元。",
