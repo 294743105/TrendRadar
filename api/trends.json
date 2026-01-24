@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T16:14:31.933272+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-01-24T20:18:41.393994+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 20时18分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -92,6 +92,53 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时18分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://s.weibo.com/weibo?q=iPhone%20Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时18分]"
+        },
+        {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时18分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时18分]"
+        },
+        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
           "url": "https://www.toutiao.com/trending/7598238497476034602/",
           "source": "今日头条",
@@ -114,26 +161,26 @@
           "time_info": "08时47分"
         },
         {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://s.weibo.com/weibo?q=iPhone%20Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "20时18分"
         },
         {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
+          "title": "EXO退场像AI一样诡异的消失了",
+          "url": "https://s.weibo.com/weibo?q=%23EXO%E9%80%80%E5%9C%BA%E5%83%8FAI%E4%B8%80%E6%A0%B7%E8%AF%A1%E5%BC%82%E7%9A%84%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "20时18分"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
@@ -147,15 +194,26 @@
           "time_info": "00时18分"
         },
         {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
+          "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
+          "url": "https://flash.jin10.com/detail/20260124180858943800",
+          "source": "金十数据",
           "ranks": [
-            17
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "20时18分"
+        },
+        {
+          "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
+          "url": "https://wallstreetcn.com/livenews/3043263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -164,7 +222,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -180,6 +238,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "U23亚洲杯决赛各家AI如何预测",
+          "url": "https://www.toutiao.com/trending/7598105139395756082/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
           "url": "https://wallstreetcn.com/livenews/3043204",
           "source": "华尔街见闻-快讯",
@@ -191,13 +260,24 @@
           "time_info": "12时27分"
         },
         {
+          "title": "嘉实基金方晗：2026年权益市场理性偏乐观，聚焦AI应用与内需板块",
+          "url": "https://wallstreetcn.com/livenews/3043261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "谷歌高管谈AI开发的危与机",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%AE%A1%E8%B0%88AI%E5%BC%80%E5%8F%91%E7%9A%84%E5%8D%B1%E4%B8%8E%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -213,21 +293,21 @@
           "time_info": "12时27分"
         },
         {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
-          "source": "百度热搜",
+          "title": "给生命树和重返狼群做了AI动画",
+          "url": "https://www.douyin.com/hot/2377817",
+          "source": "抖音",
           "ranks": [
-            29
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "20时18分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -273,6 +353,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 04时13分]"
+        },
+        {
+          "title": "中国科技再迎密集突破",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%86%8D%E8%BF%8E%E5%AF%86%E9%9B%86%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "多只省级社保科创基金完成备案，耐心资本加速“奔赴”科技创新",
@@ -323,6 +414,18 @@
           "time_info": "[00时17分 ~ 08时47分]"
         },
         {
+          "title": "UP主解读马斯克末日预言",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 20时18分]"
+        },
+        {
           "title": "马斯克首次亮相达沃斯：人形机器人明年底开售，FSD最快有望2月在华获批",
           "url": "https://m.thepaper.cn/newsDetail_forward_32447461",
           "source": "澎湃新闻",
@@ -345,15 +448,15 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "UP主解读马斯克末日预言",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
-          "source": "bilibili 热搜",
+          "title": "中国稀土集团：统筹稀土经济价值与战略价值，以科技创新培育新质生产力",
+          "url": "https://wallstreetcn.com/livenews/3043277",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "20时18分"
         },
         {
           "title": "上市公司纷纷布局太空光伏，“追光者”实力参差不齐",
@@ -395,9 +498,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
+          "url": "https://www.cls.cn/detail/2268603",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -406,7 +520,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -420,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        },
+        {
+          "title": "特斯拉Optimus将进驻奥斯汀工厂 马斯克预测明年开售",
+          "url": "https://flash.jin10.com/detail/20260124173055843800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
@@ -436,7 +561,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "深圳高中生开启全城猎人游戏",
@@ -472,7 +597,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -482,11 +607,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 20时18分]"
         },
         {
           "title": "扎哈罗娃最新涉华表态：俄中双边关系将继续稳步迈向新高度",
@@ -501,6 +627,19 @@
           "time_info": "[12时27分 ~ 16时14分]"
         },
         {
+          "title": "雪地霉豆腐哪有打煤球好玩",
+          "url": "https://www.douyin.com/hot/2377300",
+          "source": "抖音",
+          "ranks": [
+            16,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 20时18分]"
+        },
+        {
           "title": "云南大学最新 Nature 论文称「早期脊椎动物有四只眼睛」，如何理解这一研究的意义？",
           "url": "https://www.zhihu.com/question/1997971685572310958",
           "source": "知乎",
@@ -511,18 +650,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 04时13分]"
-        },
-        {
-          "title": "雪地霉豆腐哪有打煤球好玩",
-          "url": "https://www.douyin.com/hot/2377300",
-          "source": "抖音",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 16时14分]"
         },
         {
           "title": "鲁豫最新采访章小蕙的节目为何令很多人拍案？两人的哪些对谈值得细品？",
@@ -577,7 +704,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -588,7 +715,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -602,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "胡润发布流量机构百强榜：七成位于杭州、北京、广州、上海、深圳、青岛",
+          "url": "https://wallstreetcn.com/livenews/3043271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "演员孙涛发布自拍视频，否认自己「力挺闫学晶」，称全是谣言已起诉，你如何评价这件事？",
