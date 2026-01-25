@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T12:44:28.523814+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-01-25T16:14:43.348566+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 16时14分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -33,6 +33,17 @@
           "time_info": "[00时12分 ~ 08时56分]"
         },
         {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
@@ -43,6 +54,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时12分 ~ 08时56分]"
+        },
+        {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时14分]"
+        },
+        {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时14分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -68,28 +103,6 @@
           "time_info": "[00时12分 ~ 04时11分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
           "title": "对谈亲手训练GPT5的研究员",
           "url": "https://www.douyin.com/hot/2378468",
           "source": "抖音",
@@ -107,7 +120,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -118,7 +131,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -137,7 +150,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "张又侠、刘振立被查，解放军报发布社论",
@@ -151,15 +164,38 @@
           "time_info": "[00时12分 ~ 04时11分]"
         },
         {
+          "title": "美国能源部：发布紧急指令以缓解冬季风暴“费恩”期间中大西洋地区的停电状况。",
+          "url": "https://flash.jin10.com/detail/20260125153455496800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "腾讯发布反舞弊通报，2025 年 90 余人被解聘，20 余人被移送公安机关，有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/1998001783453283501",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "如何看待 2025 taptap 年度游戏大赏？",
           "url": "https://www.zhihu.com/question/1998318537975023300",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时14分]"
         },
         {
           "title": "“商业航天+3D打印”受追捧！产业链公司透露最新进展 专家：多环节尚在小批量试制阶段",
@@ -216,7 +252,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -227,7 +263,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -257,7 +293,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "独家｜300万元太空船票预售牵出学历风波，载人商业航天公司90后创始人回应",
@@ -270,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 16时14分]"
         },
         {
           "title": "太空月季回来了",
@@ -319,13 +355,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 04时11分]"
+        },
+        {
+          "title": "科技媒体：iPhone用户开始收到Siri隐私和解案赔偿金 总额9500万美元",
+          "url": "https://flash.jin10.com/detail/20260125132457272800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "2526 赛季 NBA 常规赛湖人 116:110 独行侠，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1998692728712746745",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
         {
           "title": "正直播NBA：热火vs爵士",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E7%83%AD%E7%81%ABvs%E7%88%B5%E5%A3%AB",
@@ -333,7 +391,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
