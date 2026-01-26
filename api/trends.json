@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-26T12:47:41.674535+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-01-26T16:18:42.214273+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 16时18分]"
+        },
         {
           "title": "日媒：最新民调显示高市内阁支持率暴跌10%",
           "url": "https://news.ifeng.com/c/8qCgBsIPgy2",
@@ -33,17 +46,18 @@
           "time_info": "[00时12分 ~ 12时47分]"
         },
         {
-          "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
-          "source": "澎湃新闻",
+          "title": "三角洲为何持续爆火",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E7%88%86%E7%81%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            3,
-            4
+            25,
+            19,
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 12时47分]"
+          "appearance_count": 6,
+          "time_info": "[04时12分 ~ 16时18分]"
         },
         {
           "title": "商业航天抢滩2026：蓝箭航天、星河动力、中科宇航三大总工程师同台披露最新时间表",
@@ -56,19 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时54分 ~ 12时47分]"
-        },
-        {
-          "title": "三角洲为何持续爆火",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E7%88%86%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时12分 ~ 12时47分]"
         },
         {
           "title": "美国特大冬季风暴来袭，多州进入紧急状态，上万架次航班被取消，中领馆发布提醒，情况如何？居民应如何应对？",
@@ -129,6 +130,18 @@
           "time_info": "[00时13分 ~ 04时13分]"
         },
         {
+          "title": "绝区零妄想天使最新单曲",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%A6%84%E6%83%B3%E5%A4%A9%E4%BD%BF%E6%9C%80%E6%96%B0%E5%8D%95%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 16时18分]"
+        },
+        {
           "title": "火爆游戏「青椒模拟器」让玩家体验高校教师升级打怪之路，为啥这款游戏能引发广泛共鸣？",
           "url": "https://www.zhihu.com/question/1996883902841778815",
           "source": "知乎",
@@ -140,15 +153,27 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "绝区零妄想天使最新单曲",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%A6%84%E6%83%B3%E5%A4%A9%E4%BD%BF%E6%9C%80%E6%96%B0%E5%8D%95%E6%9B%B2",
-          "source": "bilibili 热搜",
+          "title": "游戏CG风格指令惊艳到我了",
+          "url": "https://www.douyin.com/hot/2379504",
+          "source": "抖音",
           "ranks": [
-            11
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 16时18分]"
+        },
+        {
+          "title": "【商务部：近期将上线国家层面的海外综合服务大平台】商务部外国投资管理司负责人王亚在国新办新闻发布会上表示，近期将上线国家层面的海外综合服务大平台。该平台统筹外事、法律、财税、金融、经贸、物流、海关、贸促等领域服务资源，围绕企业出海有关的政策咨询、业务办理、国别信息、动态资讯、资源对接、风险防控等共性需求，形成一个窗口、一站式出海服务平台。",
+          "url": "https://wallstreetcn.com/livenews/3043804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "16时18分"
         },
         {
           "title": "美国能源部：今日发布两项紧急命令，以在冬季风暴“弗恩”期间缓解新英格兰和得克萨斯州的停电风险。",
@@ -157,20 +182,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
         {
-          "title": "游戏CG风格指令惊艳到我了",
-          "url": "https://www.douyin.com/hot/2379504",
-          "source": "抖音",
+          "title": "【商务部：中国不仅愿做世界工厂，更愿做世界市场】1月26日，商务部对外贸易司司长王志华在国新办新闻发布会上表示，今年中国将坚定不移推进高水平对外开放，推动贸易创新发展、平衡发展。中国不仅愿做世界工厂，更愿做世界市场，超大规模市场将为各国产品服务提供更广阔机遇。",
+          "url": "https://wallstreetcn.com/livenews/3043794",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "16时18分"
+        },
+        {
+          "title": "英国首相斯塔默本周将访华？外交部：将适时发布消息",
+          "url": "https://wallstreetcn.com/livenews/3043777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "为线控转向划定安全边界 汽车转向强制性国标发布",
@@ -179,7 +215,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
@@ -187,7 +223,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -252,6 +288,18 @@
           "time_info": "[00时12分 ~ 08时55分]"
         },
         {
+          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
+          "url": "https://www.cls.cn/detail/2269090",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 16时18分]"
+        },
+        {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
           "url": "https://wallstreetcn.com/livenews/3043398",
           "source": "华尔街见闻-快讯",
@@ -263,26 +311,81 @@
           "time_info": "[00时13分 ~ 04时13分]"
         },
         {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "你怎么看iPhone Air降价",
           "url": "https://www.toutiao.com/trending/7599137251189800969/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
         {
-          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
-          "url": "https://www.cls.cn/detail/2269090",
-          "source": "财联社热门",
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "16时18分"
+        },
+        {
+          "title": "贝伦贝格：2026年AI仍将是股价关键驱动因素",
+          "url": "https://flash.jin10.com/detail/20260126154144414800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "互联网大厂开启春节AI应用流量大战 AI应用全面加速",
+          "url": "https://www.cls.cn/detail/2269055",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "马来西亚林吉特升至2018年以来最强 受经济增长、AI乐观情绪所提振",
@@ -302,7 +405,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -313,7 +416,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
@@ -321,7 +424,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
@@ -332,8 +435,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 12时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 16时18分]"
+        },
+        {
+          "title": "机构称“算力上天”已成共识 太空光伏有望持续站上风口",
+          "url": "https://www.cls.cn/detail/2269056",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "近日，曹操出行在吉利控股战略解析会上定下目标：到2030年累计投放10万辆完全定制Robotaxi，在全球范围展开商业化运营。（新浪科技）",
@@ -342,9 +456,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2526 赛季 NBA 常规赛勇士 111:85 森林狼，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1999009599488036982",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     }
