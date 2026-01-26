@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T16:18:42.214273+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-01-26T20:23:01.401711+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 16时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 20时23分]"
         },
         {
           "title": "日媒：最新民调显示高市内阁支持率暴跌10%",
@@ -72,6 +73,17 @@
           "time_info": "[08时54分 ~ 12时47分]"
         },
         {
+          "title": "广期所发布市场风险提示函",
+          "url": "https://wallstreetcn.com/livenews/3043982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国特大冬季风暴来袭，多州进入紧急状态，上万架次航班被取消，中领馆发布提醒，情况如何？居民应如何应对？",
           "url": "https://www.zhihu.com/question/1998308430738392576",
           "source": "知乎",
@@ -82,6 +94,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时12分 ~ 08时55分]"
+        },
+        {
+          "title": "绝区零妄想天使最新单曲",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%A6%84%E6%83%B3%E5%A4%A9%E4%BD%BF%E6%9C%80%E6%96%B0%E5%8D%95%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 20时23分]"
         },
         {
           "title": "腾讯发布反舞弊通报，2025 年 90 余人被解聘，20 余人被移送公安机关，有哪些警示意义？",
@@ -130,18 +154,6 @@
           "time_info": "[00时13分 ~ 04时13分]"
         },
         {
-          "title": "绝区零妄想天使最新单曲",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%A6%84%E6%83%B3%E5%A4%A9%E4%BD%BF%E6%9C%80%E6%96%B0%E5%8D%95%E6%9B%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 16时18分]"
-        },
-        {
           "title": "火爆游戏「青椒模拟器」让玩家体验高校教师升级打怪之路，为啥这款游戏能引发广泛共鸣？",
           "url": "https://www.zhihu.com/question/1996883902841778815",
           "source": "知乎",
@@ -171,7 +183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -193,9 +205,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "国家新闻出版署公布2026年1月份国产网络游戏审批信息，共177款游戏获批。 国家新闻出版署公布2026年进口网络游戏审批信息，共5款游戏获批，《愤怒的小鸟：经典归来》、《愤怒的小鸟：梦幻爆破》在列。",
+          "url": "https://wallstreetcn.com/livenews/3043958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "英国首相斯塔默本周将访华？外交部：将适时发布消息",
@@ -204,9 +227,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "多家航司发布公告：中日航线免退改政策延至今年10月24日",
+          "url": "https://wallstreetcn.com/livenews/3043945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "为线控转向划定安全边界 汽车转向强制性国标发布",
@@ -223,7 +257,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -300,6 +334,53 @@
           "time_info": "[12时47分 ~ 16时18分]"
         },
         {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 20时23分]"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 20时23分]"
+        },
+        {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 20时23分]"
+        },
+        {
+          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
+          "url": "https://wallstreetcn.com/articles/3764155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
           "url": "https://wallstreetcn.com/livenews/3043398",
           "source": "华尔街见闻-快讯",
@@ -311,15 +392,15 @@
           "time_info": "[00时13分 ~ 04时13分]"
         },
         {
-          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
-          "url": "https://www.cls.cn/detail/2269386",
-          "source": "财联社热门",
+          "title": "iPhoneAir暴降后卖断货",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneAir%E6%9A%B4%E9%99%8D%E5%90%8E%E5%8D%96%E6%96%AD%E8%B4%A7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
@@ -328,7 +409,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -344,24 +425,13 @@
           "time_info": "12时47分"
         },
         {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
           "title": "贝伦贝格：2026年AI仍将是股价关键驱动因素",
           "url": "https://flash.jin10.com/detail/20260126154144414800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -372,18 +442,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
-          "url": "https://www.zhihu.com/question/1998735057154744752",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -397,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "加拿大总理卡尼或于3月初访问印度 签署铀、能源和AI等领域协议",
+          "url": "https://wallstreetcn.com/livenews/3043961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "网友刚买iPhoneAir第二天就降价2000元",
@@ -424,7 +494,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 3,
+      "match_count": 10,
       "titles": [
         {
           "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
@@ -439,13 +509,46 @@
           "time_info": "[00时12分 ~ 16时18分]"
         },
         {
+          "title": "为什么现在科技热点是 GPU，不是 CPU 了？",
+          "url": "https://www.zhihu.com/question/651936550",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
+          "title": "【数据看盘】8.82亿元资金抢筹网宿科技 化工ETF连续两周份额大增",
+          "url": "https://www.cls.cn/detail/2269898",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
+          "title": "安路科技：拟向特定对象发行股票募资不超12.62亿元",
+          "url": "https://wallstreetcn.com/livenews/3043974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "机构称“算力上天”已成共识 太空光伏有望持续站上风口",
           "url": "https://www.cls.cn/detail/2269056",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -459,6 +562,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "鼎通科技：经公司自查，公司卫星通信总成系统的CANFD连接器产品已得到客户认证，根据客户订单需求进行交付中，但占公司整体营业收入较小，不足1%，对公司收入影响较小。",
+          "url": "https://wallstreetcn.com/livenews/3043938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "闻泰科技：股东累计减持公司总股本的2.77% 提前终止减持计划",
+          "url": "https://wallstreetcn.com/livenews/3043936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "全球首个服务硅基智能体的太空算力网披露，预计2035年前完成组网",
+          "url": "https://wallstreetcn.com/livenews/3043934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "拉普拉斯：公司关注到近期资本市场对“太空光伏”等概念关注度较高，相关板块二级市场表现较为活跃。目前“太空光伏”尚处技术探索阶段，产业化进程受技术发展、行业政策、市场环境等多方面因素影响，仍面临较大不确定性。“太空光伏”目前未对公司经营业绩形成实质影响，相关预期性利好对公司实际经营业绩的影响也具有较大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3043930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -473,7 +620,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
