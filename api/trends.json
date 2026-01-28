@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T08:49:48.617720+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-01-28T12:37:24.346765+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 12时37分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -30,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 12时37分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -39,11 +40,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 12时37分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -61,11 +63,23 @@
           "url": "https://www.cls.cn/detail/2271840",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 12时37分]"
+        },
+        {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "12时37分"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -102,6 +116,17 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 12时37分]"
+        },
+        {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3044870",
           "source": "华尔街见闻-快讯",
@@ -119,7 +144,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         },
@@ -130,9 +155,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "软银正商谈再向OpenAI投资高达300亿美元。",
@@ -141,20 +177,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         },
         {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
+          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
+          "url": "https://www.zhihu.com/question/1999418734398366788",
+          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "12时37分"
+        },
+        {
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -181,6 +228,190 @@
       ]
     },
     {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
+          "url": "https://www.cls.cn/detail/2271357",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时13分]"
+        },
+        {
+          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 12时37分]"
+        },
+        {
+          "title": "今年产能已售罄！数据中心需求大涨 希捷科技季度营收同比增22%",
+          "url": "https://www.cls.cn/detail/2271989",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
+          "url": "https://www.cls.cn/detail/2271670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 08时49分]"
+        },
+        {
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时13分]"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
+          "url": "https://www.cls.cn/detail/2271239",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 04时13分]"
+        },
+        {
+          "title": "太空争霸,星际航行学院成立",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349796&amp;topic_name=%E5%A4%AA%E7%A9%BA%E4%BA%89%E9%9C%B8%2C%E6%98%9F%E9%99%85%E8%88%AA%E8%A1%8C%E5%AD%A6%E9%99%A2%E6%88%90%E7%AB%8B",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.43%，报27186点。 恒生科技指数主连夜盘收涨0.17%，报5748点。",
+          "url": "https://wallstreetcn.com/livenews/3044948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美国副总统万斯上周在华盛顿特区威胁韩国总理。 万斯警告称，韩方勿要针对美国科技公司。 也不要针对电商Coupang。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3044947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
+          "url": "https://www.cls.cn/detail/2271992",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "美国警告韩国：在贸易争端升级之际不要针对美国科技公司",
+          "url": "https://flash.jin10.com/detail/20260128031402355800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "国务院国资委：将聚焦科技创新和产业创新深度融合 重点推动三方面工作",
+          "url": "https://wallstreetcn.com/livenews/3045234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "迪士尼演员转型的CEO旗下Northwood融资1亿美元，由Washington Harbour Partners和Andreessen Horowitz领投。 这笔融资将用于帮助Northwood扩大生产和产品，支持（时间紧迫情况下的）太空任务。",
+          "url": "https://wallstreetcn.com/livenews/3044934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "恒生科技指数盘中涨幅扩大至2%。阿里健康、商汤涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3045225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "恒指日内涨幅扩大至2%，恒生科技指数涨1.4%。中国海洋石油、中国宏桥涨超5%，中国石油股份、中国电信、中国联通涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3045217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "臻镭科技预计2025扣非净利润增超36倍",
+          "url": "https://www.toutiao.com/trending/7599359708268970038/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
       "match_count": 11,
       "titles": [
@@ -202,9 +433,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 12时37分]"
         },
         {
           "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
@@ -213,11 +444,25 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 12时37分]"
+        },
+        {
+          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+          "url": "https://wallstreetcn.com/articles/3764255",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 12时37分]"
         },
         {
           "title": "我国新修订《药品管理法实施条例》发布 将产生哪些影响？权威解读",
@@ -230,18 +475,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 04时13分]"
-        },
-        {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 08时49分]"
         },
         {
           "title": "女朋友和自己身边的好朋友都喜欢玩《三角洲行动》，要我和他们一起玩，可是我游戏天赋很差，太菜了怎么办?",
@@ -294,7 +527,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         },
@@ -308,124 +541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
-          "url": "https://www.cls.cn/detail/2271357",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时13分]"
-        },
-        {
-          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
-          "url": "https://www.cls.cn/detail/2271670",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 08时49分]"
-        },
-        {
-          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时13分]"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
-          "url": "https://www.cls.cn/detail/2271239",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时13分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.43%，报27186点。 恒生科技指数主连夜盘收涨0.17%，报5748点。",
-          "url": "https://wallstreetcn.com/livenews/3044948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国副总统万斯上周在华盛顿特区威胁韩国总理。 万斯警告称，韩方勿要针对美国科技公司。 也不要针对电商Coupang。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3044947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国警告韩国：在贸易争端升级之际不要针对美国科技公司",
-          "url": "https://flash.jin10.com/detail/20260128031402355800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "迪士尼演员转型的CEO旗下Northwood融资1亿美元，由Washington Harbour Partners和Andreessen Horowitz领投。 这笔融资将用于帮助Northwood扩大生产和产品，支持（时间紧迫情况下的）太空任务。",
-          "url": "https://wallstreetcn.com/livenews/3044934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "臻镭科技预计2025扣非净利润增超36倍",
-          "url": "https://www.toutiao.com/trending/7599359708268970038/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时49分"
         }
       ]
     }
