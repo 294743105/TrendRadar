@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T04:17:06.557101+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-01-29T08:58:19.423066+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -13,33 +13,24 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 08时58分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764353",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时17分]"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 08时58分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -47,7 +38,19 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            7
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 08时58分]"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -77,6 +80,17 @@
           "time_info": "[00时23分 ~ 04时17分]"
         },
         {
+          "title": "SK海力士：Nand正在成为支持AI的存储解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3045947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
           "url": "https://www.cls.cn/detail/2272316",
           "source": "财联社热门",
@@ -86,12 +100,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特斯拉电话会要点总结：2026战略大转型，Model S/X“光荣退役”，200亿资本开支押注AI与机器人帝国",
+          "url": "https://wallstreetcn.com/livenews/3045930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -118,6 +143,31 @@
           "time_info": "[00时23分 ~ 04时17分]"
         },
         {
+          "title": "自然与科技健身的力量差距",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E7%84%B6%E4%B8%8E%E7%A7%91%E6%8A%80%E5%81%A5%E8%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 08时58分]"
+        },
+        {
+          "title": "太空争霸,星际航行学院成立",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349796&amp;topic_name=%E5%A4%AA%E7%A9%BA%E4%BA%89%E9%9C%B8%2C%E6%98%9F%E9%99%85%E8%88%AA%E8%A1%8C%E5%AD%A6%E9%99%A2%E6%88%90%E7%AB%8B",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 08时58分]"
+        },
+        {
           "title": "【数据看盘】量化、游资激烈博弈网宿科技，“北向+机构+游资”集体出逃三维通信",
           "url": "https://www.cls.cn/detail/2272832",
           "source": "财联社热门",
@@ -130,27 +180,26 @@
           "time_info": "[00时23分 ~ 04时17分]"
         },
         {
-          "title": "自然与科技健身的力量差距",
-          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E7%84%B6%E4%B8%8E%E7%A7%91%E6%8A%80%E5%81%A5%E8%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D",
-          "source": "bilibili 热搜",
+          "title": "挪威主权财富基金减持美国大型科技股",
+          "url": "https://flash.jin10.com/detail/20260129084646928800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            17
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
-          "title": "太空争霸,星际航行学院成立",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349796&amp;topic_name=%E5%A4%AA%E7%A9%BA%E4%BA%89%E9%9C%B8%2C%E6%98%9F%E9%99%85%E8%88%AA%E8%A1%8C%E5%AD%A6%E9%99%A2%E6%88%90%E7%AB%8B",
-          "source": "贴吧",
+          "title": "马斯克称特斯拉需自建芯片厂",
+          "url": "https://flash.jin10.com/detail/20260129083029708800",
+          "source": "金十数据",
           "ranks": [
-            21
+            20
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.90%，报27567点。 恒生科技指数主连夜盘收跌1.36%，报5817点。",
@@ -159,7 +208,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         }
@@ -167,7 +216,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "政务应用程序管理新规发布",
@@ -192,13 +241,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "MiniMax Music 2.5正式发布",
+          "url": "https://wallstreetcn.com/livenews/3045926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
           "title": "美联储主席鲍威尔新闻发布会开场白：美国经济在去年按稳健的速度扩张。 进入2026年的美国经济根基是稳固的。 失业率在一定程度上出现企稳迹象。 在经历了逐步走软之后，劳动力市场可能趋于稳定。 招聘、职位空缺、薪资增速几乎都没有变化。 消费者开支一直具有韧性。 通胀偏高，在一定程度上体现出关税推高商品价格的影响。 长期通胀预期与目标保持一致。 企业投资继续扩大。 政府关门可能不利于四季度经济，但形势将会逆转。",
           "url": "https://wallstreetcn.com/livenews/3045774",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -209,9 +269,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "NBA交易截止日前终极盘点",
+          "url": "https://search.bilibili.com/all?keyword=NBA%E4%BA%A4%E6%98%93%E6%88%AA%E6%AD%A2%E6%97%A5%E5%89%8D%E7%BB%88%E6%9E%81%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "正直播NBA：公牛vs步行者",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E5%85%AC%E7%89%9Bvs%E6%AD%A5%E8%A1%8C%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     }
