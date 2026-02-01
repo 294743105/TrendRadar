@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T13:19:50.894288+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-02-01T16:19:32.338804+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -29,19 +29,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 16时19分]"
         },
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
           "url": "https://wallstreetcn.com/articles/3764675",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时19分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -66,6 +67,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 09时08分]"
+        },
+        {
+          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
+          "url": "https://wallstreetcn.com/articles/3764665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时19分]"
+        },
+        {
+          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
+          "url": "https://wallstreetcn.com/articles/3764648",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时19分]"
+        },
+        {
+          "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
+          "url": "https://www.zhihu.com/question/2000979139897811762",
+          "source": "知乎",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时19分]"
         },
         {
           "title": "爆火AI助手数小时两度改名",
@@ -123,37 +160,15 @@
           "time_info": "[00时14分 ~ 04时13分]"
         },
         {
-          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
-          "url": "https://wallstreetcn.com/articles/3764648",
-          "source": "华尔街见闻",
+          "title": "印尼解除禁令，允许马斯克旗下Grok恢复服务",
+          "url": "https://flash.jin10.com/detail/20260201141746766800",
+          "source": "金十数据",
           "ranks": [
-            7
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
-          "url": "https://wallstreetcn.com/articles/3764665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
-          "url": "https://www.zhihu.com/question/2000979139897811762",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "16时19分"
         },
         {
           "title": "AI辅助医疗是神助手还是猪队友",
@@ -162,7 +177,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -170,7 +185,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "SpaceX申请部署100万颗卫星，打造太空数据中心",
@@ -187,6 +202,18 @@
           "time_info": "[00时14分 ~ 13时19分]"
         },
         {
+          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
+          "url": "https://www.cls.cn/detail/2276362",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 16时19分]"
+        },
+        {
           "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
           "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
           "source": "凤凰网",
@@ -199,16 +226,15 @@
           "time_info": "[00时14分 ~ 13时19分]"
         },
         {
-          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
-          "url": "https://www.cls.cn/detail/2276362",
-          "source": "财联社热门",
+          "title": "特斯拉CEO埃隆·马斯克：我们为阻止俄罗斯未经授权使用星链所采取的措施已奏效。",
+          "url": "https://flash.jin10.com/detail/20260201155521308800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 13时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "299吃科技,尘白菜品全预制",
@@ -236,6 +262,30 @@
           "time_info": "[00时14分 ~ 04时13分]"
         },
         {
+          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
+          "url": "https://wallstreetcn.com/articles/3764674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时19分]"
+        },
+        {
+          "title": "爱泼斯坦邮件继续爆大料：盖茨“向妻子隐瞒性病”，马斯克多次询问“上岛”",
+          "url": "https://wallstreetcn.com/articles/3764666",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时19分]"
+        },
+        {
           "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
           "url": "https://wallstreetcn.com/livenews/3047683",
           "source": "华尔街见闻-快讯",
@@ -247,37 +297,26 @@
           "time_info": "[00时14分 ~ 04时13分]"
         },
         {
-          "title": "爱泼斯坦邮件继续爆大料：盖茨“向妻子隐瞒性病”，马斯克多次询问“上岛”",
-          "url": "https://wallstreetcn.com/articles/3764666",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
-          "url": "https://wallstreetcn.com/articles/3764674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
           "url": "https://m.thepaper.cn/newsDetail_forward_32508583",
           "source": "澎湃新闻",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
+          "url": "https://www.cls.cn/detail/2276702",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "比特币跌破8万美元关口，创去年4月以来最低",
@@ -297,7 +336,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -308,15 +347,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "爱泼斯坦曾邀请马斯克上岛",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%9B%BE%E9%82%80%E8%AF%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8A%E5%B2%9B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "UP体验谷歌最新世界模型",
@@ -329,6 +379,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 09时08分]"
+        },
+        {
+          "title": "印度NIFTY指数部分回吐跌幅，最新下跌0.7%；NIFTY IT指数延续涨势，上涨2.1%。",
+          "url": "https://flash.jin10.com/detail/20260201155306625800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "工行、建行等多家银行发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E3%80%81%E5%BB%BA%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "中国最新富豪榜出炉",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AF%8C%E8%B1%AA%E6%A6%9C%E5%87%BA%E7%82%89&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "OpenClaw爆火：一句话就能执行任务",
@@ -412,6 +495,17 @@
           "time_info": "[04时12分 ~ 04时13分]"
         },
         {
+          "title": "如果给游戏中的角色加入勇气值，玩家操作的角色还能不能一往无前？",
+          "url": "https://www.zhihu.com/question/1996908537792718082",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "商务部新闻发言人就中国诉美《通胀削减法》世贸争端案专家组发布裁决答记者问",
           "url": "https://m.thepaper.cn/newsDetail_forward_32501992",
           "source": "澎湃新闻",
@@ -421,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "中国最新富豪榜出炉",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AF%8C%E8%B1%AA%E6%A6%9C%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "16岁烤鸡少年爆火一个月后的现状",
