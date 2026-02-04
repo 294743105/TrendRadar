@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-04T16:27:22.654129+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-02-04T20:31:50.677643+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 20时31分]"
+        },
         {
           "title": "春节为何成为AI红包主战场",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
@@ -20,16 +32,16 @@
           "time_info": "[00时38分 ~ 08时57分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
           "ranks": [
-            2,
+            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 20时31分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -54,15 +66,15 @@
           "time_info": "[00时38分 ~ 04时24分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
+          "title": "美媒：美参议员敦促审查科技巨头AI交易的反垄断风险",
+          "url": "https://flash.jin10.com/detail/20260204202726782800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 16时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
@@ -126,9 +138,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -200,6 +223,18 @@
           "time_info": "[00时38分 ~ 04时24分]"
         },
         {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 20时31分]"
+        },
+        {
           "title": "美股爆发AI恐慌性抛售",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
           "source": "百度热搜",
@@ -220,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -244,6 +290,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "OpenAI拟运用AI助力药企研发并从中获利",
           "url": "https://flash.jin10.com/detail/20260204033311635800",
           "source": "金十数据",
@@ -255,24 +312,13 @@
           "time_info": "04时24分"
         },
         {
-          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
-          "url": "https://www.cls.cn/detail/2280128",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
           "url": "https://www.cls.cn/detail/2280058",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -319,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "腾讯混元AI Infra核心技术开源",
+          "url": "https://wallstreetcn.com/livenews/3049846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "英伟达拟向OpenAI投资200亿美元 交易细节尚未敲定",
@@ -379,8 +436,20 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 20时31分]"
+        },
         {
           "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
           "url": "https://wallstreetcn.com/articles/3764803",
@@ -396,28 +465,29 @@
           "time_info": "[00时38分 ~ 16时27分]"
         },
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 16时27分]"
-        },
-        {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
           "url": "https://m.thepaper.cn/newsDetail_forward_32524769",
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时24分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[04时24分 ~ 20时31分]"
+        },
+        {
+          "title": "欧盟宣布调查金风科技 外交部回应",
+          "url": "https://www.cls.cn/detail/2280238",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 20时31分]"
         },
         {
           "title": "日本股市走低 电子与科技股领跌",
@@ -442,6 +512,17 @@
           "time_info": "13时04分"
         },
         {
+          "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
+          "url": "https://www.cls.cn/detail/2280542",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "深交所：港股通标的证券名单发生调整并自2026年02月04日起生效，调入国恩科技。",
           "url": "https://wallstreetcn.com/livenews/3049420",
           "source": "华尔街见闻-快讯",
@@ -459,18 +540,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "欧盟宣布调查金风科技 外交部回应",
-          "url": "https://www.cls.cn/detail/2280238",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -487,15 +557,37 @@
           "time_info": "[00时38分 ~ 08时57分]"
         },
         {
+          "title": "美国参议院Warren等参议员敦促美国联邦贸易委员会（FTC）审查科技行业的人工智能相关交易，涉及英伟达、Meta和谷歌。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3049876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "中国央行：着力支持扩大内需、科技创新、中小微企业等重点领域",
           "url": "https://wallstreetcn.com/livenews/3049709",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "容百科技回应与LG专利纠纷：相关诉讼仍在进行中，子公司载世能源业务未受影响",
+          "url": "https://wallstreetcn.com/livenews/3049875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -531,6 +623,17 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdnp",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 20时31分]"
+        },
+        {
           "title": "比特币出现V型走势，在跌穿7.3万美元之后“直线”回升，目前收复7.5万美元关口，当前跌幅不足4.3%。",
           "url": "https://wallstreetcn.com/livenews/3049296",
           "source": "华尔街见闻-快讯",
@@ -553,13 +656,24 @@
           "time_info": "13时04分"
         },
         {
+          "title": "据CNBC：美国民主党参议员沃伦及其他人士敦促美国联邦贸易委员会（FTC）严查科技领域的人工智能交易。",
+          "url": "https://flash.jin10.com/detail/20260204201814644800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "晶科能源称与马斯克考察团队接触",
           "url": "https://www.toutiao.com/trending/7602085526292643878/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -570,7 +684,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -586,15 +700,26 @@
           "time_info": "04时24分"
         },
         {
-          "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdnp",
-          "source": "凤凰网",
+          "title": "南向资金追踪｜净流入约134亿港元创近两周新高 大举加仓多只科技龙头",
+          "url": "https://www.cls.cn/detail/2280565",
+          "source": "财联社热门",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "20时31分"
+        },
+        {
+          "title": "锐新科技：正在筹划以发行股份及支付现金方式购买芜湖德恒汽车装备有限公司并募集配套资金事项，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3049865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.85%，报26590点。 恒生科技指数主连夜盘收跌1.28，报5392点。",
@@ -663,6 +788,28 @@
           "time_info": "13时04分"
         },
         {
+          "title": "协鑫集团：今日马斯克旗下公司团队到访考察",
+          "url": "https://wallstreetcn.com/livenews/3049844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "金晶科技：公司注意到市场关注公司TCO玻璃市场进展情况。截至目前TCO玻璃行业市场尚较小，同时据公司初步统计，2025年1-9月TCO玻璃销售收入占当期营业收入比重较低，对当期营业收入不产生较大影响。",
+          "url": "https://wallstreetcn.com/livenews/3049838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（2月4日）",
           "url": "https://flash.jin10.com/detail/20260204071322323800",
           "source": "金十数据",
@@ -677,7 +824,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "2026年中央一号文件发布",
@@ -752,7 +899,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -767,6 +914,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时04分 ~ 16时27分]"
+        },
+        {
+          "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32530327",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 20时31分]"
         },
         {
           "title": "2026年中央一号文件发布",
@@ -840,15 +999,38 @@
           "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32530327",
-          "source": "澎湃新闻",
+          "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
+          "url": "https://www.zhihu.com/question/2002317275429037967",
+          "source": "知乎",
           "ranks": [
-            7
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 20时31分]"
+        },
+        {
+          "title": "iQOO发布新机iQOO 15 Ultra，国补到手价4999元起",
+          "url": "https://wallstreetcn.com/livenews/3049873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "20时31分"
+        },
+        {
+          "title": "埃及以儿童保护为由封禁Roblox游戏平台",
+          "url": "https://flash.jin10.com/detail/20260204201421552800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "女孩玩游戏被诈骗锁门转账被爸爸制止",
@@ -857,7 +1039,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -873,15 +1055,15 @@
           "time_info": "13时04分"
         },
         {
-          "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
-          "url": "https://www.zhihu.com/question/2002317275429037967",
+          "title": "2026 年央视春晚主持阵容发布，由任鲁豫、撒贝宁、尼格买提、龙洋、马凡舒、刘心悦组成，你期待谁的表现？",
+          "url": "https://www.zhihu.com/question/2002334980534200202",
           "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "20时31分"
         },
         {
           "title": "我国发布88项汽车安全相关强制性国家标准",
@@ -890,7 +1072,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -901,15 +1083,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "上交所对沃格光电及有关责任人予以监管警示：“商业航天”“脑机接口”相关信息发布不准确、不完整，风险提示不充分，可能对投资者决策产生误导。",
+          "url": "https://wallstreetcn.com/livenews/3049841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "NBA发生多笔交易 武切维奇赴绿军",
@@ -921,6 +1114,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "2026年NBA全明星球衣发布",
+          "url": "https://www.douyin.com/hot/2389171",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     }
