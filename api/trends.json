@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-05T09:01:26.543622+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-02-05T13:12:12.611561+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时12分]"
+        },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
@@ -32,6 +43,19 @@
           "time_info": "[00时32分 ~ 04时21分]"
         },
         {
+          "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
+          "url": "https://wallstreetcn.com/articles/3764960",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 13时12分]"
+        },
+        {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
@@ -44,28 +68,28 @@
           "time_info": "[00时32分 ~ 04时21分]"
         },
         {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
-          "url": "https://wallstreetcn.com/articles/3764960",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时12分]"
+        },
+        {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时12分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -77,6 +101,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 04时21分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -91,26 +126,15 @@
           "time_info": "[04时21分 ~ 09时01分]"
         },
         {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
         },
         {
           "title": "特朗普：AI将成为最大的就业、军事和医疗生产者。",
@@ -119,7 +143,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -130,7 +154,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -141,7 +165,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -170,8 +194,183 @@
       ]
     },
     {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32530327",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 09时01分]"
+        },
+        {
+          "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
+          "url": "https://www.zhihu.com/question/2002317275429037967",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 04时21分]"
+        },
+        {
+          "title": "美国劳工部：拟按原定计划于周四发布周度失业金申请报告。",
+          "url": "https://flash.jin10.com/detail/20260205034233200800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "爆火的Skill是名词诈骗吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E7%81%AB%E7%9A%84Skill%E6%98%AF%E5%90%8D%E8%AF%8D%E8%AF%88%E9%AA%97%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 09时01分]"
+        },
+        {
+          "title": "爱泼斯坦案最新文件曝比尔·盖茨隐瞒性病，前妻回应：正义应该被声张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532253",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时12分]"
+        },
+        {
+          "title": "驻美记者解读爱泼斯坦案最新进展",
+          "url": "https://www.douyin.com/hot/2388346",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
+        },
+        {
+          "title": "孩子寒假沉迷《蛋仔派对》、《我的世界》等游戏，这是社交需求还是网瘾前兆？",
+          "url": "https://www.zhihu.com/question/2001660645570021372",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
+        },
+        {
+          "title": "19990美元起！贾跃亭发布人形机器人",
+          "url": "https://www.toutiao.com/trending/7602939814740754441/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
+        },
+        {
+          "title": "美国能源信息署（EIA）：由于严寒天气冲击的缘故，美国石油库存降幅创2016年以来（同期）最大。 美国上周EIA原油库存下降345.5万桶，彭博用户预计下降670万桶、分析师预期减少47.483万桶，之前一周下降229.5万桶。 美国石油协会（API）此前发布的行业版数据显示，美国上周API原油库存锐减1107.9万桶。",
+          "url": "https://wallstreetcn.com/livenews/3049992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "三国题材的游戏为啥很少做 「三国后期」 的剧情？",
+          "url": "https://www.zhihu.com/question/1997053344133448774",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "胡润中国500强非国有企业发布：台积电、腾讯、字节位列前三",
+          "url": "https://wallstreetcn.com/livenews/3050340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "软银集团股价下跌5.0%，此前Arm(ARM.O)盘后发布季度财报走弱。",
+          "url": "https://flash.jin10.com/detail/20260205081044989800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "财政部等三部门发布《关于海南自由贸易港岛内居民消费的进境商品“零关税”政策的通知》",
+          "url": "https://wallstreetcn.com/livenews/3050334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基在最新一轮三方会谈开始后表示，乌克兰期待进行一次囚犯交换。",
+          "url": "https://flash.jin10.com/detail/20260205025048099800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3049983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -233,6 +432,18 @@
           "time_info": "[00时32分 ~ 09时01分]"
         },
         {
+          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
+          "url": "https://wallstreetcn.com/articles/3764989",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时12分]"
+        },
+        {
           "title": "南向资金追踪｜净流入约134亿港元创近两周新高 大举加仓多只科技龙头",
           "url": "https://www.cls.cn/detail/2280565",
           "source": "财联社热门",
@@ -256,6 +467,29 @@
           "time_info": "[00时32分 ~ 04时21分]"
         },
         {
+          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时12分]"
+        },
+        {
+          "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
+          "url": "https://www.cls.cn/detail/2281035",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 13时12分]"
+        },
+        {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
           "url": "https://wallstreetcn.com/livenews/3050002",
           "source": "华尔街见闻-快讯",
@@ -265,17 +499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
-          "url": "https://wallstreetcn.com/articles/3764989",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
         },
         {
           "title": "恒生指数主连夜盘收跌1.17%，报26534点。 恒生科技指数主连夜盘收跌1.53%，报5281点。",
@@ -289,17 +512,6 @@
           "time_info": "04时21分"
         },
         {
-          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
           "title": "马斯克团队光伏调研消息引爆A股",
           "url": "https://www.toutiao.com/trending/7603022960940551734/",
           "source": "今日头条",
@@ -309,125 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32530327",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 09时01分]"
-        },
-        {
-          "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
-          "url": "https://www.zhihu.com/question/2002317275429037967",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 04时21分]"
-        },
-        {
-          "title": "美国劳工部：拟按原定计划于周四发布周度失业金申请报告。",
-          "url": "https://flash.jin10.com/detail/20260205034233200800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "爆火的Skill是名词诈骗吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E7%81%AB%E7%9A%84Skill%E6%98%AF%E5%90%8D%E8%AF%8D%E8%AF%88%E9%AA%97%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 09时01分]"
-        },
-        {
-          "title": "美国能源信息署（EIA）：由于严寒天气冲击的缘故，美国石油库存降幅创2016年以来（同期）最大。 美国上周EIA原油库存下降345.5万桶，彭博用户预计下降670万桶、分析师预期减少47.483万桶，之前一周下降229.5万桶。 美国石油协会（API）此前发布的行业版数据显示，美国上周API原油库存锐减1107.9万桶。",
-          "url": "https://wallstreetcn.com/livenews/3049992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "三国题材的游戏为啥很少做 「三国后期」 的剧情？",
-          "url": "https://www.zhihu.com/question/1997053344133448774",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "爱泼斯坦案最新文件曝比尔·盖茨隐瞒性病，前妻回应：正义应该被声张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532253",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "软银集团股价下跌5.0%，此前Arm(ARM.O)盘后发布季度财报走弱。",
-          "url": "https://flash.jin10.com/detail/20260205081044989800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基在最新一轮三方会谈开始后表示，乌克兰期待进行一次囚犯交换。",
-          "url": "https://flash.jin10.com/detail/20260205025048099800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
-          "url": "https://wallstreetcn.com/livenews/3049983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
         }
       ]
     },
