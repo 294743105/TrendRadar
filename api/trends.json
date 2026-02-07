@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-07T13:01:41.230115+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-02-07T16:17:36.669479+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
+          "url": "https://wallstreetcn.com/articles/3765130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 16时17分]"
+        },
         {
           "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
           "url": "https://wallstreetcn.com/articles/3765096",
@@ -19,17 +32,18 @@
           "time_info": "[00时31分 ~ 04时21分]"
         },
         {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
-          "source": "华尔街见闻",
+          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            4,
-            3
+            17,
+            16,
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 13时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 16时17分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -38,9 +52,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 16时17分]"
         },
         {
           "title": "存储芯片概念股收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
@@ -54,17 +68,28 @@
           "time_info": "08时57分"
         },
         {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
+          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+          "url": "https://wallstreetcn.com/livenews/3051701",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            16,
-            13
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 16时17分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -77,6 +102,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 08时57分]"
+        },
+        {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 16时17分]"
         },
         {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
@@ -115,6 +152,19 @@
           "time_info": "[04时21分 ~ 08时57分]"
         },
         {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 16时17分]"
+        },
+        {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
@@ -124,30 +174,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 04时21分]"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 13时01分]"
-        },
-        {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 13时01分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -172,15 +198,39 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
+          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
+          "url": "https://www.cls.cn/detail/2283603",
           "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 16时17分]"
+        },
+        {
+          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
+          "url": "https://wallstreetcn.com/livenews/3051672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 16时17分]"
+        },
+        {
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "16时17分"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -205,37 +255,26 @@
           "time_info": "04时21分"
         },
         {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
-          "url": "https://wallstreetcn.com/livenews/3051672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
           "url": "https://wallstreetcn.com/livenews/3051663",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "你认为AI会替代软件开发吗",
+          "url": "https://www.toutiao.com/trending/7603910615171301402/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
@@ -327,11 +366,12 @@
           "url": "https://wallstreetcn.com/livenews/3051682",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 16时17分]"
         },
         {
           "title": "预制菜国标征求意见稿发布 行业“大市场、小公司”格局或迎洗牌",
@@ -353,8 +393,20 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 16时17分]"
+        },
+        {
+          "title": "五部门发布风险提示：警惕不法“代理维权”短视频及直播陷阱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551407",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时56分 ~ 13时01分]"
+          "time_info": "[08时56分 ~ 16时17分]"
         },
         {
           "title": "连续5日跌停 国投瑞银基金发布公告",
@@ -381,15 +433,16 @@
           "time_info": "[04时21分 ~ 08时57分]"
         },
         {
-          "title": "五部门发布风险提示：警惕不法“代理维权”短视频及直播陷阱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551407",
-          "source": "澎湃新闻",
+          "title": "大爷骑三轮闯男团跳舞现场意外爆火",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AA%91%E4%B8%89%E8%BD%AE%E9%97%AF%E7%94%B7%E5%9B%A2%E8%B7%B3%E8%88%9E%E7%8E%B0%E5%9C%BA%E6%84%8F%E5%A4%96%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
-            20
+            17,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "time_info": "[13时01分 ~ 16时17分]"
         },
         {
           "title": "美伊核谈判最新进展",
@@ -464,18 +517,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "大爷骑三轮闯男团跳舞现场意外爆火",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E9%AA%91%E4%B8%89%E8%BD%AE%E9%97%AF%E7%94%B7%E5%9B%A2%E8%B7%B3%E8%88%9E%E7%8E%B0%E5%9C%BA%E6%84%8F%E5%A4%96%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -508,7 +550,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -530,6 +572,17 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 16时17分]"
+        },
+        {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -539,17 +592,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 04时21分]"
-        },
-        {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 13时01分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -669,7 +711,7 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "假设一个 NBA 球员生涯 20 个赛季，斩获 20 个 MVP，零个总冠军零个 FMVP，它的历史地位将会怎样？",
@@ -682,6 +724,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 04时21分]"
+        },
+        {
+          "title": "徐静雨分析NBA新秀排名",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%90%E9%9D%99%E9%9B%A8%E5%88%86%E6%9E%90NBA%E6%96%B0%E7%A7%80%E6%8E%92%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     }
