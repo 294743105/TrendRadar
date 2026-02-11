@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T00:51:23.102464+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-12T04:27:50.316532+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
         },
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -26,19 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -59,8 +60,30 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
+        },
+        {
+          "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
+          "url": "https://flash.jin10.com/detail/20260212035557254800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时27分"
+        },
+        {
+          "title": "马斯克旗下xAI披露全体会议的视频。",
+          "url": "https://wallstreetcn.com/livenews/3053940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -70,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -81,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -92,19 +115,53 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
+        },
+        {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
+        },
+        {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
+        },
+        {
+          "title": "中美AI“隔空开打”",
+          "url": "https://www.toutiao.com/trending/7605571340929601066/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时27分"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -118,15 +175,15 @@
           "time_info": "00时51分"
         },
         {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
+          "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
+          "url": "https://wallstreetcn.com/livenews/3053915",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时27分"
         },
         {
           "title": "白宫经济委员会主任哈塞特：AI繁荣能驱动生产力和经济增速。",
@@ -140,71 +197,119 @@
           "time_info": "00时51分"
         },
         {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
+          "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
+          "url": "https://wallstreetcn.com/livenews/3053910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时27分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
-          "title": "德云社三十周年新闻发布会举办",
-          "url": "https://www.toutiao.com/trending/7604646091614584868/",
-          "source": "今日头条",
+          "title": "市场消息：苹果(AAPL.O)原本计划在3月发布的iOS 26.4更新中加入Siri新功能，但现在正努力将其分散到未来的版本中推出，这意味着至少部分功能可能会推迟到5月发布的iOS 26.5和9月发布的iOS 27。",
+          "url": "https://flash.jin10.com/detail/20260212034942765800",
+          "source": "金十数据",
           "ranks": [
-            14
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时27分"
         },
         {
-          "title": "教师群聊八卦被拘案最新进展",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E7%BE%A4%E8%81%8A%E5%85%AB%E5%8D%A6%E8%A2%AB%E6%8B%98%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
-          "source": "百度热搜",
+          "title": "市场消息：苹果(AAPL.O)推迟已久的新版Siri发布计划遭遇阻碍。",
+          "url": "https://flash.jin10.com/detail/20260212034630681800",
+          "source": "金十数据",
           "ranks": [
-            17
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时27分"
         },
         {
           "title": "停产12年的奇瑞QQ复活后爆火",
           "url": "https://www.toutiao.com/trending/7605018736370991131/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
+        },
+        {
+          "title": "德云社三十周年新闻发布会举办",
+          "url": "https://www.toutiao.com/trending/7604646091614584868/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
+        },
+        {
+          "title": "教师群聊八卦被拘案最新进展",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E7%BE%A4%E8%81%8A%E5%85%AB%E5%8D%A6%E8%A2%AB%E6%8B%98%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
         },
         {
           "title": "德云社成员亮相三十周年发布会",
           "url": "https://www.douyin.com/hot/2397172",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
+        },
+        {
+          "title": "当地时间11日，俄罗斯国际航空公司发布公告称，该公司旗下的罗西亚航空公司自2月24日起将取消所有往返莫斯科与古巴首都哈瓦那之间的航班，恢复时间将另行通知。",
+          "url": "https://flash.jin10.com/detail/20260212031533238800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时27分"
+        },
+        {
+          "title": "比尔盖茨最新回应爱泼斯坦案",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -214,8 +319,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时27分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.07%，报27206点。 恒生科技指数主连夜盘收跌0.33%，报5474点。",
+          "url": "https://wallstreetcn.com/livenews/3053925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时27分"
         }
       ]
     }
