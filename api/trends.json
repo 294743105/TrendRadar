@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T16:20:14.377537+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-02-15T20:22:50.436523+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
@@ -36,6 +36,21 @@
           "time_info": "[00时16分 ~ 16时20分]"
         },
         {
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 20时22分]"
+        },
+        {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
           "url": "https://wallstreetcn.com/articles/3765723",
           "source": "华尔街见闻",
@@ -59,18 +74,34 @@
           "time_info": "[00时16分 ~ 09时04分]"
         },
         {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "title": "AI无视版权,老外集火围殴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
           "source": "贴吧",
           "ranks": [
-            1,
             8,
-            9,
-            11
+            12,
+            13,
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 16时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 20时22分]"
+        },
+        {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            26,
+            27,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 20时22分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -99,34 +130,6 @@
           "time_info": "[00时16分 ~ 09时04分]"
         },
         {
-          "title": "AI无视版权,老外集火围殴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 16时20分]"
-        },
-        {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            26,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 16时20分]"
-        },
-        {
           "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
           "source": "澎湃新闻",
@@ -139,6 +142,31 @@
           "time_info": "[09时04分 ~ 16时20分]"
         },
         {
+          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
+          "url": "https://wallstreetcn.com/articles/3765753",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 20时22分]"
+        },
+        {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 20时22分]"
+        },
+        {
           "title": "如何理解开年全球市场？“可负担性”才是总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
           "url": "https://wallstreetcn.com/articles/3765728",
           "source": "华尔街见闻",
@@ -148,6 +176,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
+          "url": "https://wallstreetcn.com/articles/3765746",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 20时22分]"
         },
         {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
@@ -223,30 +264,6 @@
           "time_info": "[00时16分 ~ 09时04分]"
         },
         {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 16时20分]"
-        },
-        {
-          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
-          "url": "https://wallstreetcn.com/articles/3765746",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 16时20分]"
-        },
-        {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
@@ -257,6 +274,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 04时13分]"
+        },
+        {
+          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 20时22分]"
         },
         {
           "title": "印度AI峰会“五天赛程”安排",
@@ -283,17 +312,6 @@
           "time_info": "[00时17分 ~ 09时04分]"
         },
         {
-          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
-          "url": "https://wallstreetcn.com/articles/3765753",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
-        },
-        {
           "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
           "url": "https://news.ifeng.com/c/8qk233NwWb6",
           "source": "凤凰网",
@@ -316,15 +334,16 @@
           "time_info": "[16时19分 ~ 16时20分]"
         },
         {
-          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
-          "source": "澎湃新闻",
+          "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
+          "url": "https://flash.jin10.com/detail/20260215144003417800",
+          "source": "金十数据",
           "ranks": [
-            20
+            14,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
+          "time_info": "[16时20分 ~ 20时22分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -349,6 +368,39 @@
           "time_info": "[00时17分 ~ 04时13分]"
         },
         {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "AI遇上最强春节档 Token通胀已成必然？",
+          "url": "https://www.cls.cn/detail/2290600",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
+          "url": "https://wallstreetcn.com/articles/3765760",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
           "url": "https://wallstreetcn.com/articles/3765726",
           "source": "华尔街见闻",
@@ -360,15 +412,15 @@
           "time_info": "09时04分"
         },
         {
-          "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
-          "url": "https://flash.jin10.com/detail/20260215144003417800",
-          "source": "金十数据",
+          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
+          "url": "https://www.cls.cn/detail/2290580",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "20时22分"
         },
         {
           "title": "AI智能体首次主动攻击人类维护者",
@@ -402,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "你认为 AI 编程未来真的会取代程序员吗？",
+          "url": "https://www.zhihu.com/question/1962444467077358693",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "Anthropic：我们尚未就将“Claude”模型用于与国防部的具体操作事宜进行过讨论。",
@@ -451,7 +514,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "豆包大模型 Seed-2.0 正式发布，带来哪些新功能和体验升级？",
@@ -464,17 +527,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时16分 ~ 09时04分]"
-        },
-        {
-          "title": "千问总裁吴嘉回应千问爆火：我们不是要和谁卷",
-          "url": "https://wallstreetcn.com/livenews/3055602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
         },
         {
           "title": "英、法、德等5国发布联合声明，指控俄当局毒杀反对派领袖",
@@ -513,6 +565,29 @@
           "time_info": "[13时15分 ~ 16时20分]"
         },
         {
+          "title": "千问总裁吴嘉回应千问爆火：我们不是要和谁卷",
+          "url": "https://wallstreetcn.com/livenews/3055602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 20时22分]"
+        },
+        {
+          "title": "法医最新透露，爱泼斯坦或遭勒死非自杀",
+          "url": "https://v.ifeng.com/c/8qlRI98Beb4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 20时22分]"
+        },
+        {
           "title": "普京最新民调公布",
           "url": "https://www.toutiao.com/trending/7606545985951137819/",
           "source": "今日头条",
@@ -523,17 +598,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 04时13分]"
-        },
-        {
-          "title": "法医最新透露，爱泼斯坦或遭勒死非自杀",
-          "url": "https://v.ifeng.com/c/8qlRI98Beb4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
@@ -597,26 +661,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "岛内最新民调“疑美”又上升",
+          "url": "https://www.toutiao.com/trending/7605940832298680346/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
-          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
-          "url": "https://flash.jin10.com/detail/20260215152511545800",
-          "source": "金十数据",
+          "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3055619",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "20时22分"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -644,6 +719,18 @@
           "time_info": "[09时04分 ~ 16时20分]"
         },
         {
+          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
+          "url": "https://flash.jin10.com/detail/20260215152511545800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 20时22分]"
+        },
+        {
           "title": "群核科技拿下境外备案，“杭州六小龙”首家上市公司渐近",
           "url": "https://wallstreetcn.com/articles/3765739",
           "source": "华尔街见闻",
@@ -664,6 +751,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
+          "url": "https://flash.jin10.com/detail/20260215144532247800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 20时22分]"
         },
         {
           "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
@@ -688,17 +787,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
-          "url": "https://flash.jin10.com/detail/20260215144532247800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
           "url": "https://flash.jin10.com/detail/20260215112402089800",
           "source": "金十数据",
@@ -716,7 +804,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         }
