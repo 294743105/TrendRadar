@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T16:33:34.681547+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-02-16T20:33:19.289960+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 16时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 20时33分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -82,6 +83,20 @@
           "time_info": "[00时16分 ~ 09时02分]"
         },
         {
+          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
+          "url": "https://www.cls.cn/detail/2290580",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 20时33分]"
+        },
+        {
           "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
           "source": "澎湃新闻",
@@ -91,6 +106,33 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 04时13分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 20时33分]"
+        },
+        {
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            26,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 20时33分]"
         },
         {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
@@ -104,42 +146,29 @@
           "time_info": "[00时16分 ~ 04时13分]"
         },
         {
-          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
-          "url": "https://www.cls.cn/detail/2290580",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 16时33分]"
-        },
-        {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 16时33分]"
-        },
-        {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 20时33分]"
+        },
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 20时33分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -155,18 +184,6 @@
           "time_info": "[00时16分 ~ 13时23分]"
         },
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 16时33分]"
-        },
-        {
           "title": "AI无视版权,老外集火围殴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
           "source": "贴吧",
@@ -179,17 +196,16 @@
           "time_info": "[00时16分 ~ 13时23分]"
         },
         {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            8
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 16时33分]"
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 20时33分]"
         },
         {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
@@ -261,26 +277,62 @@
           "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 20时33分]"
+        },
+        {
+          "title": "如何看待字节跳动也开始做 AI 芯片？",
+          "url": "https://www.zhihu.com/question/397296807",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 20时33分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 20时33分]"
+        },
+        {
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 20时33分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "20时33分"
         },
         {
           "title": "AI解锁东西方经典马形象",
@@ -294,15 +346,15 @@
           "time_info": "09时02分"
         },
         {
-          "title": "如何看待字节跳动也开始做 AI 芯片？",
-          "url": "https://www.zhihu.com/question/397296807",
-          "source": "知乎",
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "20时33分"
         },
         {
           "title": "UP主联合手搓AI春晚",
@@ -311,9 +363,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "这波三角洲AI春晚真该留到今晚看",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "智谱：全球范围内对GLM-5的需求激增，全网寻找“算力合伙人”",
@@ -322,31 +385,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
         {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
+          "title": "跑赢99%同行的基金警示：AI浪潮下 软件公司幸存者寥寥",
+          "url": "https://wallstreetcn.com/livenews/3055722",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "20时33分"
         },
         {
           "title": "全球用户涌入中国AI视频生成模型",
@@ -377,7 +429,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -399,7 +451,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -418,18 +470,31 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "Steam擦边,恭喜发财变发春",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350738&amp;topic_name=Steam%E6%93%A6%E8%BE%B9%2C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%8F%98%E5%8F%91%E6%98%A5",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 20时33分]"
+        },
+        {
+          "title": "今晚见！央视总台《2026年春节联欢晚会》节目单发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620957",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 20时33分]"
         },
         {
           "title": "MiniMax发布HighSpeed Coding Plan 股价创2026年港股单价纪录",
@@ -438,20 +503,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
         {
-          "title": "今晚见！央视总台《2026年春节联欢晚会》节目单发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620957",
-          "source": "澎湃新闻",
+          "title": "法国农业信贷银行：最新数据料显示市场对长期美元资产需求依然强劲",
+          "url": "https://wallstreetcn.com/livenews/3055738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "20时33分"
         },
         {
           "title": "保利集团发布严正声明",
@@ -462,8 +527,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 16时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 20时33分]"
         },
         {
           "title": "岛内最新民调曝光，“疑美”又上升",
@@ -489,6 +554,17 @@
           "time_info": "[00时16分 ~ 04时13分]"
         },
         {
+          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
+          "url": "https://www.zhihu.com/question/2004174915692172333",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "法医最新透露，爱泼斯坦或遭勒死非自杀",
           "url": "https://v.ifeng.com/c/8qlRI98Beb4",
           "source": "凤凰网",
@@ -509,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "最新鲜的“恭喜发财”来了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E9%B2%9C%E7%9A%84%E2%80%9C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "外交部发布单方面免签政策答疑",
@@ -536,7 +623,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
@@ -574,13 +661,24 @@
           "time_info": "[00时16分 ~ 04时13分]"
         },
         {
+          "title": "马斯克：星链“很快”将在地球之外运行",
+          "url": "https://wallstreetcn.com/livenews/3055727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "英国富时100指数金融板块开盘上涨1.2%；科技板块开盘上涨0.7%，公用事业板块开盘下跌0.9%。",
           "url": "https://flash.jin10.com/detail/20260216160256702800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -602,9 +700,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "豆包春晚科技礼包抽奖攻略",
+          "url": "https://www.douyin.com/hot/2403149",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "恒生科技指数跌幅扩大至1.1%。",
@@ -616,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "马斯克：星链很快将在地球之外运行",
+          "url": "https://www.toutiao.com/trending/7606879963691024430/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "蛇年最后一个交易日，港股低开高走，恒指收涨0.52%，科指收涨0.13%。存储概念及有色金属板块走强，澜起科技（06809.HK）收涨14.05%，兆易创新(03986.HK)涨9.78%；此外，受将被纳入恒生指数的消息带动，宁德时代(03750.HK)收涨2.71%，老铺黄金(06181.HK)涨6.64%，洛阳钼业(03993.HK)涨6.35%。（注：受春节假期影响，今日港股仅交易半日，下午休市）",
@@ -632,8 +752,19 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "2026 年 NBA 全明星赛，赛制改为美国星队、美国条纹队，世界队大乱斗，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2006618233311028444",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
         {
           "title": "2026NBA全明星赛",
           "url": "https://www.baidu.com/s?wd=2026NBA%E5%85%A8%E6%98%8E%E6%98%9F%E8%B5%9B",
