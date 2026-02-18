@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T13:19:50.369478+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-02-18T16:32:35.704845+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 16时32分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -26,11 +26,12 @@
           "ranks": [
             2,
             3,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 16时32分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -41,8 +42,33 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 16时32分]"
+        },
+        {
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时03分 ~ 13时19分]"
+          "time_info": "[13时19分 ~ 16时32分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 16时32分]"
         },
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
@@ -67,28 +93,15 @@
           "time_info": "04时24分"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 13时19分]"
-        },
-        {
-          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
-          "url": "https://wallstreetcn.com/articles/3765830",
-          "source": "华尔街见闻",
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "16时32分"
         },
         {
           "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
@@ -133,8 +146,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 16时32分]"
         },
         {
           "title": "印度AI峰会差评如潮",
@@ -155,7 +168,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -177,7 +190,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -204,13 +217,24 @@
           "time_info": "09时03分"
         },
         {
+          "title": "阿里千问：Qwen 3.5 Plus现在可以在AI Gateway上使用了。",
+          "url": "https://flash.jin10.com/detail/20260218155737801800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "高通将向印度AI战略基金投资至多1.5亿美元",
           "url": "https://flash.jin10.com/detail/20260218123104216800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -226,13 +250,24 @@
           "time_info": "09时03分"
         },
         {
+          "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
+          "url": "https://wallstreetcn.com/livenews/3056241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "化妆师回应王菲春晚妆造：问就是AI",
           "url": "https://www.toutiao.com/trending/7607001857601257508/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -246,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "化妆师回应王菲春晚妆造：问就是AI",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%96%E5%A6%86%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8F%B2%E6%98%A5%E6%99%9A%E5%A6%86%E9%80%A0%EF%BC%9A%E9%97%AE%E5%B0%B1%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "马斯克：Grok 4.2公测版现已可用，需手动选择使用。诚邀反馈。与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
@@ -309,7 +355,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -317,7 +363,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -329,8 +375,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 16时32分]"
         },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
@@ -387,8 +433,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 16时32分]"
+        },
+        {
+          "title": "印度外交部发言人：印度总理莫迪今日与塞尔维亚总统在“人工智能影响峰会”的间隙举行了双边会谈。两位领导人探讨了加强双边在贸易与投资、人工智能、金融科技、教育、农业、旅游以及人文交流等方面合作的途径。他们还就双方共同关心的地区及全球性问题交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260218161742110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "马上来沪｜上海科技馆大年初一试开放，市民游客体验如何？",
@@ -396,11 +453,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 16时32分]"
         },
         {
           "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
@@ -458,6 +516,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "宇树科技为何还不上市",
+          "url": "https://www.toutiao.com/trending/7608072816927182374/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "塞勒的Strategy公司利用优先股融资增持更多比特币",
           "url": "https://wallstreetcn.com/livenews/3056087",
           "source": "华尔街见闻-快讯",
@@ -467,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "宇树科技彻底“杀疯了”",
+          "url": "https://www.toutiao.com/trending/7608076791810362886/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "马斯克机器人涉色情被爱尔兰调查",
@@ -494,8 +574,33 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "Steam擦边,恭喜发财变发春",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350738&amp;topic_name=Steam%E6%93%A6%E8%BE%B9%2C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%8F%98%E5%8F%91%E6%98%A5",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 16时32分]"
+        },
+        {
+          "title": "日本首相办公室：高市早苗在正式连任首相后，将于格林尼治时间13:10（北京时间21:10）召开新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260218162138271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
         {
           "title": "手机游戏性能大横评",
           "url": "https://www.douyin.com/hot/2403740",
@@ -522,28 +627,26 @@
           "time_info": "[00时43分 ~ 13时19分]"
         },
         {
+          "title": "年度独立游戏大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "印度NIFTY IT指数延续跌势，最新下跌2.5%。",
           "url": "https://flash.jin10.com/detail/20260218123646808800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "Steam擦边,恭喜发财变发春",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350738&amp;topic_name=Steam%E6%93%A6%E8%BE%B9%2C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%8F%98%E5%8F%91%E6%98%A5",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 13时19分]"
         },
         {
           "title": "苹果春季发布会落地上海",
@@ -626,6 +729,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "解读游戏背后的博弈论",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%B8%B8%E6%88%8F%E8%83%8C%E5%90%8E%E7%9A%84%E5%8D%9A%E5%BC%88%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "白宫拒绝民主党提出的结束国土安全部“停摆”最新方案",
           "url": "https://wallstreetcn.com/livenews/3056170",
           "source": "华尔街见闻-快讯",
@@ -657,6 +771,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如果NBA推出单挑赛现役谁会赢",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E6%9E%9CNBA%E6%8E%A8%E5%87%BA%E5%8D%95%E6%8C%91%E8%B5%9B%E7%8E%B0%E5%BD%B9%E8%B0%81%E4%BC%9A%E8%B5%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "你认为火箭队能排到NBA西部第几",
+          "url": "https://www.toutiao.com/trending/7607982115946840100/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     }
