@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T09:03:30.482469+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-02-18T13:19:50.369478+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 13时19分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -25,22 +25,24 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 13时19分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
           "url": "https://wallstreetcn.com/articles/3765810",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 13时19分]"
         },
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
@@ -49,7 +51,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -65,6 +67,30 @@
           "time_info": "04时24分"
         },
         {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 13时19分]"
+        },
+        {
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
           "url": "https://wallstreetcn.com/livenews/3056053",
           "source": "华尔街见闻-快讯",
@@ -74,18 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 09时03分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -111,6 +125,41 @@
           "time_info": "[00时43分 ~ 04时24分]"
         },
         {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 13时19分]"
+        },
+        {
+          "title": "印度AI峰会差评如潮",
+          "url": "https://www.toutiao.com/trending/7607984521316797978/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 13时19分]"
+        },
+        {
+          "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
+          "url": "https://www.zhihu.com/question/11260916280",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
           "url": "https://wallstreetcn.com/livenews/3056047",
           "source": "华尔街见闻-快讯",
@@ -120,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "股价还能再涨55%！英国对冲基金押注：全球最大马桶制造商TOTO将是AI芯片隐形赢家",
+          "url": "https://wallstreetcn.com/articles/3765811",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "马斯克：Grok 4.2候选版现已开放公测，需手动选择使用。 诚邀反馈。 与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
@@ -139,20 +199,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
         {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
+          "title": "高通将向印度AI战略基金投资至多1.5亿美元",
+          "url": "https://flash.jin10.com/detail/20260218123104216800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "13时19分"
         },
         {
           "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
@@ -161,9 +221,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "化妆师回应王菲春晚妆造：问就是AI",
+          "url": "https://www.toutiao.com/trending/7607001857601257508/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
@@ -199,17 +270,6 @@
           "time_info": "04时24分"
         },
         {
-          "title": "印度AI峰会差评如潮",
-          "url": "https://www.toutiao.com/trending/7607984521316797978/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
           "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
           "url": "https://wallstreetcn.com/livenews/3056080",
           "source": "华尔街见闻-快讯",
@@ -241,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
+          "url": "https://wallstreetcn.com/livenews/3056193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     },
@@ -248,6 +319,19 @@
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
       "match_count": 15,
       "titles": [
+        {
+          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
+          "url": "https://www.cls.cn/detail/2291102",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 13时19分]"
+        },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
           "url": "https://www.toutiao.com/trending/7607428468166869011/",
@@ -263,18 +347,6 @@
           "title": "宇树科技春晚节目技术难点解析",
           "url": "https://wallstreetcn.com/articles/3765804",
           "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 09时03分]"
-        },
-        {
-          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
-          "url": "https://www.cls.cn/detail/2291102",
-          "source": "财联社热门",
           "ranks": [
             5,
             4
@@ -315,8 +387,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 13时19分]"
+        },
+        {
+          "title": "马上来沪｜上海科技馆大年初一试开放，市民游客体验如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32625456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 13时19分]"
         },
         {
           "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
@@ -341,18 +425,6 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
-          "title": "马上来沪｜上海科技馆大年初一试开放，市民游客体验如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32625456",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 09时03分]"
-        },
-        {
           "title": "亚马逊(AMZN.O)推出适用于亚马逊云科技（AWS）的代理插件。",
           "url": "https://flash.jin10.com/detail/20260218032447012800",
           "source": "金十数据",
@@ -370,7 +442,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -422,7 +494,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "手机游戏性能大横评",
@@ -442,11 +514,36 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 13时19分]"
+        },
+        {
+          "title": "印度NIFTY IT指数延续跌势，最新下跌2.5%。",
+          "url": "https://flash.jin10.com/detail/20260218123646808800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "Steam擦边,恭喜发财变发春",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350738&amp;topic_name=Steam%E6%93%A6%E8%BE%B9%2C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%8F%98%E5%8F%91%E6%98%A5",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 13时19分]"
         },
         {
           "title": "苹果春季发布会落地上海",
@@ -456,18 +553,6 @@
             15,
             13,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 09时03分]"
-        },
-        {
-          "title": "Steam擦边,恭喜发财变发春",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350738&amp;topic_name=Steam%E6%93%A6%E8%BE%B9%2C%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%8F%98%E5%8F%91%E6%98%A5",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -536,7 +621,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -547,7 +632,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -558,7 +643,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -569,7 +654,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         }
