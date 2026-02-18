@@ -1,44 +1,47 @@
 {
-  "generated_at": "2026-02-19T00:48:35.133693+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-19T04:27:03.445242+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
           "url": "https://www.cls.cn/detail/2290959",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
           "url": "https://wallstreetcn.com/articles/3765830",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
         },
         {
           "title": "谷歌：Gemini应用现已搭载最先进音乐生成模型Lyria 3。",
@@ -56,33 +59,70 @@
           "url": "https://wallstreetcn.com/articles/3765829",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
+        },
+        {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
+        },
+        {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 04时27分]"
+        },
+        {
+          "title": "AI 编程会替代程序员吗?",
+          "url": "https://www.zhihu.com/question/1960623371101398549",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 04时27分]"
         },
         {
           "title": "北欧音乐流媒体公司Spotify涨幅收窄至3.5%，此前一度涨5.3%。 谷歌公司增添音乐生成功能到Gemini APP。",
@@ -107,17 +147,6 @@
           "time_info": "00时48分"
         },
         {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
           "title": "AI时代或将削减对招聘人员的需求，人力资源巨头面临考验",
           "url": "https://wallstreetcn.com/livenews/3056391",
           "source": "华尔街见闻-快讯",
@@ -127,84 +156,178 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
+          "url": "https://wallstreetcn.com/livenews/3056438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美国宣布网络安全与AI风险管理倡议",
+          "url": "https://wallstreetcn.com/livenews/3056433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
+          "url": "https://wallstreetcn.com/livenews/3056432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
           "url": "https://www.cls.cn/detail/2291102",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
         },
         {
           "title": "岛国纯幻想!国产科技已杀疯",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350768&amp;topic_name=%E5%B2%9B%E5%9B%BD%E7%BA%AF%E5%B9%BB%E6%83%B3%21%E5%9B%BD%E4%BA%A7%E7%A7%91%E6%8A%80%E5%B7%B2%E6%9D%80%E7%96%AF",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
         },
         {
           "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
           "url": "https://www.cls.cn/detail/2290994",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
         },
         {
           "title": "科技为何成为春晚主旋律",
           "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E6%8A%80%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E6%98%A5%E6%99%9A%E4%B8%BB%E6%97%8B%E5%BE%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
+        },
+        {
+          "title": "爱尔兰（欧盟科技中心）考虑禁止青少年使用社交媒体。",
+          "url": "https://wallstreetcn.com/livenews/3056443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "04时27分"
+        },
+        {
+          "title": "高盛CEO改口，承认持有比特币，此前长期对加密货币持怀疑态度",
+          "url": "https://wallstreetcn.com/livenews/3056439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "印度一大学因将购买的宇树科技机器人据为己有而遭抨击",
+          "url": "https://wallstreetcn.com/livenews/3056437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "年度独立游戏大赏",
           "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%A4%A7%E8%B5%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
         },
         {
           "title": "解读游戏背后的博弈论",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%B8%B8%E6%88%8F%E8%83%8C%E5%90%8E%E7%9A%84%E5%8D%9A%E5%BC%88%E8%AE%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 04时27分]"
+        },
+        {
+          "title": "老君山等景区发布紧急通知",
+          "url": "https://www.toutiao.com/trending/7607803162812153902/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 04时27分]"
+        },
+        {
+          "title": "提醒：北京时间03:00，美联储将发布会议纪要。",
+          "url": "https://wallstreetcn.com/livenews/3056453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "04时27分"
         },
         {
           "title": "Steam擦边,恭喜发财变发春",
