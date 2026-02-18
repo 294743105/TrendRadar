@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-18T04:24:55.647513+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-02-18T09:03:30.482469+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
+        },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
@@ -16,19 +28,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
         },
         {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
+          "url": "https://flash.jin10.com/detail/20260218085113078800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
@@ -37,7 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -53,26 +76,16 @@
           "time_info": "00时44分"
         },
         {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
-        },
-        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -81,6 +94,17 @@
           "ranks": [
             11,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
+        },
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -104,9 +128,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "英伟达：英孚斯利用英伟达AI企业版构建企业级编码小型语言模型。",
+          "url": "https://flash.jin10.com/detail/20260218083047394800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
@@ -115,7 +172,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -126,7 +183,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -137,9 +194,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "印度AI峰会差评如潮",
+          "url": "https://www.toutiao.com/trending/7607984521316797978/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
@@ -148,7 +216,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -159,7 +227,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -170,7 +238,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
@@ -178,25 +246,49 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
-          "url": "https://wallstreetcn.com/articles/3765796",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
-        },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
           "url": "https://www.toutiao.com/trending/7607428468166869011/",
           "source": "今日头条",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
+        },
+        {
+          "title": "宇树科技春晚节目技术难点解析",
+          "url": "https://wallstreetcn.com/articles/3765804",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
+        },
+        {
+          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
+          "url": "https://www.cls.cn/detail/2291102",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
+        },
+        {
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -214,38 +306,17 @@
           "time_info": "[00时43分 ~ 04时24分]"
         },
         {
-          "title": "宇树科技春晚节目技术难点解析",
-          "url": "https://wallstreetcn.com/articles/3765804",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
-        },
-        {
-          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
-          "url": "https://www.cls.cn/detail/2291102",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
-        },
-        {
           "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
           "url": "https://www.cls.cn/detail/2290994",
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
         },
         {
           "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
@@ -270,15 +341,38 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
+          "title": "马上来沪｜上海科技馆大年初一试开放，市民游客体验如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32625456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 09时03分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)推出适用于亚马逊云科技（AWS）的代理插件。",
           "url": "https://flash.jin10.com/detail/20260218032447012800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "英伟达：美光科技旗下忆恒创源（Persistent）借助英伟达BioNeMo和NeMo Agent工具包加速由人工智能驱动的分子发现进程 。",
+          "url": "https://flash.jin10.com/detail/20260218083422399800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "老虎环球Q4减持台积电、微软、英伟达等科技巨头",
@@ -287,18 +381,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "马上来沪｜上海科技馆大年初一试开放，市民游客体验如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32625456",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -309,7 +392,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -320,7 +403,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -339,7 +422,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "手机游戏性能大横评",
@@ -371,11 +454,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
         },
         {
           "title": "Steam擦边,恭喜发财变发春",
@@ -386,8 +470,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 09时03分]"
+        },
+        {
+          "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
+          "url": "https://www.zhihu.com/question/2006713868894901535",
+          "source": "知乎",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 09时03分]"
         },
         {
           "title": "保利集团发布严正声明",
@@ -429,20 +525,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
         {
-          "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
-          "url": "https://www.zhihu.com/question/2006713868894901535",
+          "title": "《三国志》游戏里李儒智力能有 93 是不是高了?",
+          "url": "https://www.zhihu.com/question/1939251192048890498",
           "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "09时03分"
+        },
+        {
+          "title": "白宫拒绝民主党提出的结束国土安全部“停摆”最新方案",
+          "url": "https://wallstreetcn.com/livenews/3056170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "体验完游戏后，列位诸公如何评价 2.17 发布的翁法罗斯同人游戏《未竟之书》？",
+          "url": "https://www.zhihu.com/question/2007235367913428731",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
+          "url": "https://wallstreetcn.com/livenews/3056169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         }
       ]
     }
