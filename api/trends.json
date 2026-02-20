@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T04:20:53.180954+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-02-20T08:59:17.752298+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 08时59分]"
         },
         {
           "title": "Deepseek神回复",
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -46,11 +46,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 08时59分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 08时59分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -60,19 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 04时20分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 08时59分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -82,8 +84,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 08时59分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -93,8 +95,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 08时59分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -104,8 +106,41 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 08时59分]"
+        },
+        {
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
+          "url": "https://flash.jin10.com/detail/20260220082223005800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
@@ -114,9 +149,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
+          "url": "https://wallstreetcn.com/livenews/3056822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "据The Information：AMD(AMD.O)将为AI基础设施公司Crusoe的3亿美元贷款提供担保，如果该公司缺乏客户，AMD将向其租用芯片。",
@@ -125,9 +171,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "据英国金融时报：英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。",
+          "url": "https://flash.jin10.com/detail/20260220081800116800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -136,9 +193,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "Applovin美股盘后涨超4%。据悉OpenAI拟与Applovin展开合作，通过广告实现商业化。",
+          "url": "https://flash.jin10.com/detail/20260220074924192800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -147,7 +215,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
@@ -155,7 +223,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -180,6 +248,28 @@
           "time_info": "[00时58分 ~ 04时20分]"
         },
         {
+          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "岛国纯幻想!国产科技已杀疯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350768&amp;topic_name=%E5%B2%9B%E5%9B%BD%E7%BA%AF%E5%B9%BB%E6%83%B3%21%E5%9B%BD%E4%BA%A7%E7%A7%91%E6%8A%80%E5%B7%B2%E6%9D%80%E7%96%AF",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 08时59分]"
+        },
+        {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
@@ -192,15 +282,26 @@
           "time_info": "[00时58分 ~ 04时20分]"
         },
         {
-          "title": "岛国纯幻想!国产科技已杀疯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350768&amp;topic_name=%E5%B2%9B%E5%9B%BD%E7%BA%AF%E5%B9%BB%E6%83%B3%21%E5%9B%BD%E4%BA%A7%E7%A7%91%E6%8A%80%E5%B7%B2%E6%9D%80%E7%96%AF",
-          "source": "贴吧",
+          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
+          "url": "https://www.cls.cn/detail/2291748",
+          "source": "财联社热门",
           "ranks": [
-            18
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 04时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "在太空时代，地球上哪些城市会崛起，成为重要的星际城市？",
+          "url": "https://www.zhihu.com/question/378284817",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "数字货币市场走低，以太坊目前跌超1.3%",
@@ -209,7 +310,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
@@ -217,8 +318,21 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
+          "url": "https://www.cls.cn/detail/2291708",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 08时59分]"
+        },
         {
           "title": "提醒：北京时间01:00，美国能源信息署（EIA）将发布政府版原油库存周报，数据发布时间因周一休市而推后了一天。",
           "url": "https://wallstreetcn.com/livenews/3056714",
@@ -232,27 +346,27 @@
           "time_info": "[00时58分 ~ 04时20分]"
         },
         {
-          "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
-          "url": "https://www.cls.cn/detail/2291708",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 04时20分]"
-        },
-        {
           "title": "美军最新航母是什么水平",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E6%9C%80%E6%96%B0%E8%88%AA%E6%AF%8D%E6%98%AF%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 08时59分]"
+        },
+        {
+          "title": "希拉里最新发声",
+          "url": "https://news.ifeng.com/c/8qsjQ3sEnfO",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "08时59分"
         },
         {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布天然气库存周报。",
@@ -264,6 +378,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "正直播NBA：篮网vs骑士",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E7%AF%AE%E7%BD%91vs%E9%AA%91%E5%A3%AB",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     }
