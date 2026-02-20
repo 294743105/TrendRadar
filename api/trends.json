@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T13:12:20.969450+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-02-20T16:28:57.067123+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -19,6 +19,39 @@
           "time_info": "[00时58分 ~ 08时59分]"
         },
         {
+          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
+          "url": "https://www.zhihu.com/question/2007991688078045862",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 16时28分]"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.toutiao.com/trending/7607847863079108650/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型、机器人、存储逆势大涨，智谱大涨近37%",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "Deepseek神回复",
           "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -30,15 +63,15 @@
           "time_info": "00时58分"
         },
         {
-          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
-          "url": "https://www.zhihu.com/question/2007991688078045862",
-          "source": "知乎",
+          "title": "港股收评：恒指、科指全日承压 智谱日内大涨逾42%",
+          "url": "https://flash.jin10.com/detail/20260220161801898800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "16时28分"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -52,6 +85,32 @@
           "time_info": "04时20分"
         },
         {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 16时28分]"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 16时28分]"
+        },
+        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -63,30 +122,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 08时59分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 13时12分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 13时12分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -135,6 +170,29 @@
           "time_info": "[08时59分 ~ 13时12分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 16时28分]"
+        },
+        {
+          "title": "港股收盘：AI应用、机器人股等上涨，智谱大涨逾42%",
+          "url": "https://wallstreetcn.com/livenews/3056892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "什么样的软件会被AI淘汰？",
           "url": "https://wallstreetcn.com/articles/3765860",
           "source": "华尔街见闻",
@@ -146,15 +204,48 @@
           "time_info": "08时59分"
         },
         {
+          "title": "智谱尾盘涨幅一度扩大至37%，总市值突破3000亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3056889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "港股午评：恒指收跌0.61% AI应用、机器人概念股逆势走强",
           "url": "https://flash.jin10.com/detail/20260220121721108800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
+        },
+        {
+          "title": "港股马年首个交易日收盘，恒指收跌1.10%，科指收跌2.91%。人工智能及机器人概念股全天走强，智谱(02513.HK)日内大涨42.72%，股价最高报725港元，总市值突破3200亿港元，MINIMAX-WP(00100.HK)收涨14.52%。",
+          "url": "https://flash.jin10.com/detail/20260220161008259800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
@@ -179,17 +270,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月19日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
           "url": "https://wallstreetcn.com/livenews/3056822",
           "source": "华尔街见闻-快讯",
@@ -207,7 +287,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -240,7 +320,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -251,9 +331,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
+        },
+        {
+          "title": "智谱(02513.HK)尾盘涨幅一度扩大至37%，总市值突破3000亿港元。",
+          "url": "https://flash.jin10.com/detail/20260220154444994800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -273,7 +364,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -298,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "港股大模型概念股涨幅扩大，智谱大涨近33%，海致科技集团现涨24%，MINIMAX涨逾14%。",
+          "url": "https://wallstreetcn.com/livenews/3056870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -313,8 +415,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 13时12分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 16时28分]"
         },
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -344,11 +446,24 @@
           "source": "贴吧",
           "ranks": [
             18,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 16时28分]"
+        },
+        {
+          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
+          "url": "https://www.cls.cn/detail/2291748",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 16时28分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -363,25 +478,13 @@
           "time_info": "[00时58分 ~ 04时20分]"
         },
         {
-          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
-          "url": "https://www.cls.cn/detail/2291748",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 13时12分]"
-        },
-        {
           "title": "恒生科技指数跌超2%",
           "url": "https://www.toutiao.com/trending/7608564713254354990/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -392,7 +495,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -403,7 +506,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -414,7 +517,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -444,7 +547,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
@@ -457,8 +560,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 16时28分]"
         },
         {
           "title": "提醒：北京时间01:00，美国能源信息署（EIA）将发布政府版原油库存周报，数据发布时间因周一休市而推后了一天。",
@@ -481,8 +584,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 13时12分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 16时28分]"
         },
         {
           "title": "美军最新航母是什么水平",
@@ -497,13 +600,35 @@
           "time_info": "[04时20分 ~ 08时59分]"
         },
         {
+          "title": "最新春节档排雷报告",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E6%96%B0%E6%98%A5%E8%8A%82%E6%A1%A3%E6%8E%92%E9%9B%B7%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "印度贸易部长：预计美国本月将发布通知，将进口关税降至18%。",
+          "url": "https://flash.jin10.com/detail/20260220155047488800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "现货黄金短线下挫约20美元，最新报4991.15美元/盎司，日内下跌0.09%。",
           "url": "https://flash.jin10.com/detail/20260220114352428800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -514,7 +639,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
