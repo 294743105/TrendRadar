@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T16:18:09.993661+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-02-21T20:21:45.166398+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 20时21分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -38,11 +38,40 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 20时21分]"
+        },
+        {
+          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
+          "url": "https://www.cls.cn/detail/2291896",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 20时21分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 20时21分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -70,33 +99,6 @@
           "time_info": "[00时25分 ~ 16时18分]"
         },
         {
-          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
-          "url": "https://www.cls.cn/detail/2291896",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 16时18分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 16时18分]"
-        },
-        {
           "title": "终末地建模,AI偷偷加料",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
           "source": "贴吧",
@@ -109,6 +111,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 16时18分]"
+        },
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -233,6 +246,28 @@
           "time_info": "[16时17分 ~ 16时18分]"
         },
         {
+          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
+          "url": "https://flash.jin10.com/detail/20260221184309452800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
+          "url": "https://www.zhihu.com/question/2008176730532234790",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3057126",
           "source": "华尔街见闻-快讯",
@@ -242,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "印度AI峰会为何引发全球群嘲",
+          "url": "https://www.toutiao.com/trending/7609263367261261318/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -280,8 +326,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 20时21分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -312,7 +358,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -367,6 +413,18 @@
           "time_info": "[08时57分 ~ 16时18分]"
         },
         {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3057164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 20时21分]"
+        },
+        {
           "title": "2026科技年度好物推荐",
           "url": "https://search.bilibili.com/all?keyword=2026%E7%A7%91%E6%8A%80%E5%B9%B4%E5%BA%A6%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%8D%90",
           "source": "bilibili 热搜",
@@ -389,17 +447,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 16时18分]"
-        },
-        {
-          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3057164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         },
         {
           "title": "马斯克妈妈说不想去火星",
@@ -460,7 +507,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
@@ -481,11 +528,12 @@
           "ranks": [
             26,
             7,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 20时21分]"
         },
         {
           "title": "香港长江和记最新发声",
@@ -493,11 +541,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 20时21分]"
         },
         {
           "title": "爆火后的七江炭花舞怎么样了",
@@ -510,6 +559,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时01分 ~ 16时18分]"
+        },
+        {
+          "title": "UP主复刻爆火霉豆腐",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E5%88%BB%E7%88%86%E7%81%AB%E9%9C%89%E8%B1%86%E8%85%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 20时21分]"
         },
         {
           "title": "中央气象台发布寒潮大风沙尘暴预警",
@@ -535,17 +596,6 @@
           "time_info": "[16时17分 ~ 16时18分]"
         },
         {
-          "title": "UP主复刻爆火霉豆腐",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E5%88%BB%E7%88%86%E7%81%AB%E9%9C%89%E8%B1%86%E8%85%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
-        },
-        {
           "title": "提醒：美国总统特朗普与关税相关的新闻发布会结束。",
           "url": "https://wallstreetcn.com/livenews/3057085",
           "source": "华尔街见闻-快讯",
@@ -555,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "中央气象台继续发布寒潮蓝色预警",
+          "url": "https://wallstreetcn.com/livenews/3057184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "特朗普对伊朗发出最新通牒，称打击伊朗“选择范围很广”",
@@ -588,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "SpaceX：确认最新部署25颗星链卫星。",
+          "url": "https://flash.jin10.com/detail/20260221181048907800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "Global X网络安全ETF收跌4.94%，报25.59美元，创2023年以来收盘新低，此前Anthropic发布大模型安全功能。",
