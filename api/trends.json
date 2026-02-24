@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T04:34:15.163168+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-02-24T08:59:49.829337+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 08时59分]"
         },
         {
           "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
@@ -26,8 +26,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 08时59分]"
+        },
+        {
+          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2008557531367224108",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 08时59分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -36,7 +71,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -47,32 +82,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2008557531367224108",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时34分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
           "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 08时59分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -80,11 +104,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 08时59分]"
+        },
+        {
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "time_info": "[04时34分 ~ 08时59分]"
         },
         {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
@@ -98,6 +134,28 @@
           "time_info": "00时42分"
         },
         {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
           "url": "https://flash.jin10.com/detail/20260224000737522800",
           "source": "金十数据",
@@ -109,15 +167,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
-          "url": "https://www.cls.cn/detail/2292870",
-          "source": "财联社热门",
+          "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
+          "url": "https://news.ifeng.com/c/8qzuXxwgvLV",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时34分"
+          "time_info": "08时59分"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -126,9 +184,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "据AXIOS网站：马斯克的xAI与美国国防部达成协议，可在机密系统中使用GROK。",
+          "url": "https://flash.jin10.com/detail/20260224073815581800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "Anthropic：Claude Code能自动Cobol现代化。",
@@ -137,9 +206,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "中信证券：国内脑机接口行业将迎来DeepSeek时刻",
+          "url": "https://wallstreetcn.com/livenews/3057725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
@@ -148,7 +228,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -159,7 +239,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -170,27 +250,84 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "xAI与五角大楼达成协议，将在涉密系统中启用Grok。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3057708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "外交部回应高市早苗最新涉华言论",
+          "url": "https://news.ifeng.com/c/8qzEO3PL3qM",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美国海关发布通知，自美国东部时间2月24日凌晨00:01起征收10%关税。",
+          "url": "https://wallstreetcn.com/livenews/3057736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
           "url": "https://www.cls.cn/detail/2292918",
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 08时59分]"
+        },
+        {
+          "title": "游戏机被没收,男孩枪杀养父",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350876&amp;topic_name=%E6%B8%B8%E6%88%8F%E6%9C%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%2C%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%80%E5%85%BB%E7%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 08时59分]"
+        },
+        {
+          "title": "皇马发布赫伊森道歉内容",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%8F%91%E5%B8%83%E8%B5%AB%E4%BC%8A%E6%A3%AE%E9%81%93%E6%AD%89%E5%86%85%E5%AE%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "time_info": "[00时42分 ~ 08时59分]"
         },
         {
           "title": "中央气象台发布暴雪、寒潮、大风、沙尘暴预警",
@@ -205,15 +342,15 @@
           "time_info": "[00时42分 ~ 04时34分]"
         },
         {
-          "title": "游戏机被没收,男孩枪杀养父",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350876&amp;topic_name=%E6%B8%B8%E6%88%8F%E6%9C%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%2C%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%80%E5%85%BB%E7%88%B6",
-          "source": "贴吧",
+          "title": "美最高法院裁定美政府大规模关税违法，特朗普发出最新威胁",
+          "url": "https://wallstreetcn.com/livenews/3057733",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "芝加哥期权交易所波动率触及一周高位，最新报21.32点，上涨2.23点。",
@@ -227,33 +364,44 @@
           "time_info": "00时42分"
         },
         {
+          "title": "外交部回应“高市早苗最新涉华言论”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9C%80%E6%96%B0%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "美国务院对黎巴嫩发布最高级别旅行警告",
           "url": "https://wallstreetcn.com/livenews/3057606",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "皇马发布赫伊森道歉内容",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%8F%91%E5%B8%83%E8%B5%AB%E4%BC%8A%E6%A3%AE%E9%81%93%E6%AD%89%E5%86%85%E5%AE%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "04时34分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "深交所公告，港股通标的证券名单发生调整并自2026年02月24日起生效，调入龙旗科技。",
+          "url": "https://wallstreetcn.com/livenews/3057728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
         {
           "title": "恒生指数主连夜盘收跌0.75%，报26869点。 恒生科技指数主连夜盘收跌0.93%，报5330点。",
           "url": "https://wallstreetcn.com/livenews/3057620",
@@ -261,9 +409,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（2月24日）",
+          "url": "https://flash.jin10.com/detail/20260224071550805800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     }
