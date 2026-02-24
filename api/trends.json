@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T13:17:58.263555+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-02-24T16:33:56.899375+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时42分 ~ 08时59分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时33分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -55,6 +66,19 @@
           "time_info": "[00时42分 ~ 08时59分]"
         },
         {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 16时33分]"
+        },
+        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
@@ -66,15 +90,39 @@
           "time_info": "08时59分"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 16时33分]"
+        },
+        {
+          "title": "中方回应美称DeepSeek违反美出口管制",
+          "url": "https://www.toutiao.com/trending/7610332842534374955/",
+          "source": "今日头条",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时33分"
+        },
+        {
+          "title": "全球AI恐慌交易中亚洲有望成结构性赢家 Citrini报告中已埋有伏笔",
+          "url": "https://wallstreetcn.com/livenews/3057992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -97,30 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 13时17分]"
-        },
-        {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 13时17分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -149,6 +173,18 @@
           "time_info": "[00时42分 ~ 08时59分]"
         },
         {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时33分]"
+        },
+        {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
           "url": "https://www.cls.cn/detail/2292870",
           "source": "财联社热门",
@@ -158,6 +194,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 08时59分]"
+        },
+        {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时33分]"
+        },
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
@@ -171,6 +230,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "A股开门红！创业板涨超1%，油气、贵金属掀涨停潮，恒科指跌逾2%，智谱暴涨15%，沪银大涨超14%",
+          "url": "https://wallstreetcn.com/articles/3766024",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
           "url": "https://flash.jin10.com/detail/20260224000737522800",
           "source": "金十数据",
@@ -180,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
@@ -202,17 +283,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
         },
         {
           "title": "据AXIOS网站：马斯克的xAI与美国国防部达成协议，可在机密系统中使用GROK。",
@@ -259,24 +329,13 @@
           "time_info": "04时34分"
         },
         {
-          "title": "Hirai为何当选韩国亚运会LOL队教练",
-          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
           "title": "国产大模型霸榜OpenRouter 智谱盘中涨超19%",
           "url": "https://wallstreetcn.com/livenews/3057841",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -317,7 +376,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "外交部回应高市早苗最新涉华言论",
@@ -331,6 +390,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "行业协会发布自律公约 保障微短剧演职人员合法权益",
+          "url": "https://wallstreetcn.com/livenews/3057991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国海关发布通知，自美国东部时间2月24日凌晨00:01起征收10%关税。",
           "url": "https://wallstreetcn.com/livenews/3057736",
           "source": "华尔街见闻-快讯",
@@ -342,6 +412,19 @@
           "time_info": "08时59分"
         },
         {
+          "title": "游戏机被没收,男孩枪杀养父",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350876&amp;topic_name=%E6%B8%B8%E6%88%8F%E6%9C%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%2C%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%80%E5%85%BB%E7%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 16时33分]"
+        },
+        {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
           "url": "https://www.cls.cn/detail/2292918",
           "source": "财联社热门",
@@ -350,18 +433,6 @@
             7,
             9,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 13时17分]"
-        },
-        {
-          "title": "游戏机被没收,男孩枪杀养父",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350876&amp;topic_name=%E6%B8%B8%E6%88%8F%E6%9C%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%2C%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%80%E5%85%BB%E7%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -392,6 +463,17 @@
           "time_info": "[00时42分 ~ 04时34分]"
         },
         {
+          "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
+          "url": "https://news.ifeng.com/c/8r0R9181ylh",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美最高法院裁定美政府大规模关税违法，特朗普发出最新威胁",
           "url": "https://wallstreetcn.com/livenews/3057733",
           "source": "华尔街见闻-快讯",
@@ -401,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "日本两年期国债收益率扩大跌幅，最新下滑3.5个基点至1.215%。 日本五年期国债收益率下跌4个基点至1.565%。",
+          "url": "https://wallstreetcn.com/livenews/3057983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "芝加哥期权交易所波动率触及一周高位，最新报21.32点，上涨2.23点。",
@@ -414,15 +507,48 @@
           "time_info": "00时42分"
         },
         {
+          "title": "德国智库Ifo：美国最新关税调整给德国出口商带来更多不确定性",
+          "url": "https://wallstreetcn.com/livenews/3057972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "moba 游戏的英雄设计，你心中的 top1 是谁，可以从技能，人设等各方面来说说看为什么？",
+          "url": "https://www.zhihu.com/question/2006149585647715567",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "琼州海峡发布轮渡过海最新提示：已启动应急疏运预案，将视情增加航班",
           "url": "https://m.thepaper.cn/newsDetail_forward_32646137",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "日本两年期国债收益率继续下跌，最新下跌3.5个基点至1.215%。",
+          "url": "https://flash.jin10.com/detail/20260224155113979800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "外交部回应“高市早苗最新涉华言论”",
@@ -442,7 +568,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -464,7 +590,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
@@ -472,8 +598,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "银禧科技：追觅科技是公司重要客户之一",
+          "url": "https://wallstreetcn.com/livenews/3057986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
         {
           "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
           "url": "https://flash.jin10.com/detail/20260224123615325800",
@@ -481,7 +618,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -503,7 +640,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -525,7 +662,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
