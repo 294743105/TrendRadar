@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-25T04:25:42.488813+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-02-25T09:14:06.891975+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
+          "url": "https://wallstreetcn.com/articles/3766024",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 09时14分]"
+        },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
@@ -17,6 +28,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 04时25分]"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -41,15 +74,52 @@
           "time_info": "[00时56分 ~ 04时25分]"
         },
         {
-          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
-          "url": "https://wallstreetcn.com/articles/3766024",
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 04时25分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 09时14分]"
+        },
+        {
+          "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
+          "url": "https://wallstreetcn.com/livenews/3058417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 09时14分]"
+        },
+        {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            12,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 09时14分]"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -58,7 +128,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -75,24 +145,34 @@
           "time_info": "[00时56分 ~ 04时25分]"
         },
         {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
           "url": "https://wallstreetcn.com/articles/3766010",
           "source": "华尔街见闻",
           "ranks": [
             8,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 04时25分]"
-        },
-        {
-          "title": "李在明社媒发AI视频",
-          "url": "https://www.douyin.com/hot/2410021",
-          "source": "抖音",
-          "ranks": [
-            12,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -111,15 +191,26 @@
           "time_info": "[00时56分 ~ 04时25分]"
         },
         {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
           "ranks": [
-            6
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
@@ -133,24 +224,13 @@
           "time_info": "00时56分"
         },
         {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -161,7 +241,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -183,7 +263,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -194,7 +274,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -227,7 +307,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -249,7 +329,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -260,7 +340,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -271,9 +351,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
+          "url": "https://wallstreetcn.com/livenews/3058389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "西安一市民除夕夜被AI给骂了",
@@ -282,7 +373,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -293,7 +384,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         }
@@ -301,19 +392,55 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
+          "url": "https://www.zhihu.com/question/2009733369261466626",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
         {
           "title": "波比的游戏时间第五章剧情讲解",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E6%AF%94%E7%9A%84%E6%B8%B8%E6%88%8F%E6%97%B6%E9%97%B4%E7%AC%AC%E4%BA%94%E7%AB%A0%E5%89%A7%E6%83%85%E8%AE%B2%E8%A7%A3",
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 09时14分]"
+        },
+        {
+          "title": "宇树发布新款四足机器人",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E5%9B%9B%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 09时14分]"
+        },
+        {
+          "title": "游戏机被没收,男孩枪杀养父",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350876&amp;topic_name=%E6%B8%B8%E6%88%8F%E6%9C%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%2C%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%80%E5%85%BB%E7%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 09时14分]"
         },
         {
           "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
@@ -327,27 +454,15 @@
           "time_info": "[00时56分 ~ 04时25分]"
         },
         {
-          "title": "宇树发布新款四足机器人",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E5%9B%9B%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "宇树马年开工首日上新！新一代机器狗As2发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649604",
+          "source": "澎湃新闻",
           "ranks": [
-            22,
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 04时25分]"
-        },
-        {
-          "title": "游戏机被没收,男孩枪杀养父",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350876&amp;topic_name=%E6%B8%B8%E6%88%8F%E6%9C%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%2C%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%80%E5%85%BB%E7%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 04时25分]"
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
@@ -386,19 +501,42 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "马斯克发帖暗示“辛鲍姆与贩毒集团存在关联”，墨西哥总统：正考虑采取法律行动",
+          "url": "https://wallstreetcn.com/livenews/3058419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
         {
           "title": "字节跳动超 400 亿元出售沐瞳科技，对其游戏业务意味着什么？",
           "url": "https://www.zhihu.com/question/2006631956604003126",
           "source": "知乎",
           "ranks": [
             12,
-            16
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 09时14分]"
+        },
+        {
+          "title": "宇树科技被诉专利侵权案二审宣判",
+          "url": "https://www.toutiao.com/trending/7609548043045716018/",
+          "source": "今日头条",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 04时25分]"
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.77%，报26763点。 恒生科技指数主连夜盘收涨1.08%，报5319点。",
@@ -407,7 +545,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -435,7 +573,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         }
