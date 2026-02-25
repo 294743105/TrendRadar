@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T13:19:17.132680+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-02-25T16:35:10.082214+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,47 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 16时35分]"
+        },
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时25分 ~ 16时35分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时25分 ~ 16时35分]"
+        },
+        {
+          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
+          "url": "https://wallstreetcn.com/articles/3766024",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 16时35分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -30,42 +69,16 @@
           "time_info": "[09时13分 ~ 13时19分]"
         },
         {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 13时19分]"
-        },
-        {
-          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
-          "url": "https://wallstreetcn.com/articles/3766024",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 13时19分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             3,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 16时35分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -101,17 +114,6 @@
           "time_info": "[00时56分 ~ 04时25分]"
         },
         {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
           "url": "https://wallstreetcn.com/livenews/3058417",
           "source": "华尔街见闻-快讯",
@@ -136,6 +138,17 @@
           "time_info": "[00时56分 ~ 09时14分]"
         },
         {
+          "title": "恒生指数收盘涨0.66%，有色钢铁股涨幅居前，MINIMAX、智谱跌超10%",
+          "url": "https://wallstreetcn.com/livenews/3058723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
           "url": "https://flash.jin10.com/detail/20260225040115362800",
           "source": "金十数据",
@@ -145,6 +158,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 16时35分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -159,16 +185,16 @@
           "time_info": "[00时56分 ~ 04时25分]"
         },
         {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            9
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时13分 ~ 13时19分]"
+          "time_info": "[13时19分 ~ 16时35分]"
         },
         {
           "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
@@ -218,6 +244,61 @@
           "time_info": "[00时56分 ~ 04时25分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
+          "url": "https://www.cls.cn/detail/2294145",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星 电磁发射有望成商业航天重要方向",
+          "url": "https://www.cls.cn/detail/2294154",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "AIGC动画电影团圆令定档预告",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%9B%A2%E5%9C%86%E4%BB%A4%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "Hirai为何当选韩国亚运会LOL队教练",
           "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
           "source": "bilibili 热搜",
@@ -227,6 +308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "AI开始雇佣人类",
+          "url": "https://www.toutiao.com/trending/7609867693969178633/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
@@ -262,24 +354,13 @@
           "time_info": "04时25分"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
           "url": "https://www.cls.cn/detail/2294083",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -312,7 +393,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -441,7 +522,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
@@ -451,8 +532,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 16时35分]"
         },
         {
           "title": "波比的游戏时间第五章剧情讲解",
@@ -462,11 +543,34 @@
             25,
             4,
             22,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 16时35分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：符合条件非沪籍居民可在外环内增购1套住房",
+          "url": "https://www.cls.cn/detail/2294506",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
+          "url": "https://wallstreetcn.com/articles/3766127",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "上海发布楼市“沪七条” 进一步调减住房限购政策",
@@ -475,9 +579,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "宇树马年开工首日上新！新一代机器狗As2发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649604",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 16时35分]"
         },
         {
           "title": "宇树发布新款四足机器人",
@@ -504,16 +621,26 @@
           "time_info": "[00时56分 ~ 09时14分]"
         },
         {
-          "title": "宇树马年开工首日上新！新一代机器狗As2发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649604",
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            15
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 13时19分]"
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "上海发布楼市「沪七条」，符合条件非沪籍居民可在外环内增购 1 套住房，对房地产市场有何影响？",
+          "url": "https://www.zhihu.com/question/2009980674069778899",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
@@ -525,6 +652,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 04时25分]"
+        },
+        {
+          "title": "为什么我们在游戏里连 5 分钟对话都嫌长，却对着影视博主的万字剧情考据看得津津有味？",
+          "url": "https://www.zhihu.com/question/1991902837198837634",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://www.toutiao.com/trending/7609574284113346596/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://www.douyin.com/hot/2411215",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
@@ -555,9 +715,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "泰铢兑美元在泰国央行降息后回吐涨幅，最新持平于31.03。",
+          "url": "https://wallstreetcn.com/livenews/3058691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "宇树发布新款四足机器人",
@@ -574,8 +745,31 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "火箭发射新方案！马斯克构想“月球弹弓” 包含两大核心基础设施",
+          "url": "https://www.cls.cn/detail/2294211",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 16时35分]"
+        },
+        {
+          "title": "岩山科技：目前与宇树科技无合作",
+          "url": "https://www.toutiao.com/trending/7610282961544724490/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
         {
           "title": "马斯克发帖暗示“辛鲍姆与贩毒集团存在关联”，墨西哥总统：正考虑采取法律行动",
           "url": "https://wallstreetcn.com/livenews/3058419",
@@ -588,24 +782,13 @@
           "time_info": "09时14分"
         },
         {
-          "title": "火箭发射新方案！马斯克构想“月球弹弓” 包含两大核心基础设施",
-          "url": "https://www.cls.cn/detail/2294211",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "A股半导体设备板块午后走高，拓荆科技、富创精密涨超10%，长川科技、中科飞测、芯源微、华海清科、恒运昌等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3058612",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -632,6 +815,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "中国中煤、中船科技等成立绿能公司",
+          "url": "https://wallstreetcn.com/livenews/3058706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.77%，报26763点。 恒生科技指数主连夜盘收涨1.08%，报5319点。",
