@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-27T04:24:32.879694+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-02-27T09:01:02.182791+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 09时01分]"
+        },
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
           "url": "https://www.cls.cn/detail/2296230",
@@ -31,38 +44,83 @@
           "time_info": "[00时43分 ~ 04时24分]"
         },
         {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3766259",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 09时01分]"
         },
         {
           "title": "椭圆变速版see you again",
           "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
           "source": "bilibili 热搜",
           "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 09时01分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时01分]"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时01分]"
+        },
+        {
+          "title": "全球最大主权财富基金用Claude“扫雷”：问题公司24小时现形",
+          "url": "https://www.cls.cn/detail/2296527",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时01分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时01分]"
         },
         {
           "title": "中国AI调用量首次超过美国",
@@ -137,7 +195,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -159,7 +217,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
@@ -167,7 +225,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "送游戏被当舔狗,吧友狂挽尊",
@@ -178,8 +236,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 09时01分]"
+        },
+        {
+          "title": "【早报】一夜蒸发超万亿元，英伟达创10个月最大单日跌幅；华为发布代码“神器”",
+          "url": "https://www.cls.cn/detail/2296586",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时01分]"
+        },
+        {
+          "title": "伊核最新谈判：美立场强硬，伊朗将提折中方案",
+          "url": "https://news.ifeng.com/c/8r4vKVSGtga",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时01分]"
+        },
+        {
+          "title": "整治幽灵外卖新规发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B4%E6%B2%BB%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 09时01分]"
         },
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
@@ -204,28 +297,17 @@
           "time_info": "00时44分"
         },
         {
-          "title": "整治幽灵外卖新规发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B4%E6%B2%BB%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
-        },
-        {
           "title": "男子网吧包间打游戏遭陌生女子猥亵",
           "url": "https://www.toutiao.com/trending/7609940843651186724/",
           "source": "今日头条",
           "ranks": [
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 09时01分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
@@ -233,11 +315,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 09时01分]"
         },
         {
           "title": "整治幽灵外卖新规发布",
@@ -252,13 +335,24 @@
           "time_info": "[00时43分 ~ 04时24分]"
         },
         {
+          "title": "湖南发布税收支持民营经济十条措施",
+          "url": "https://wallstreetcn.com/livenews/3059872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "如何评价完美旗下游戏《异环》将于 2026 年 4 月 23 日全平台公测？",
           "url": "https://www.zhihu.com/question/2010323597332336787",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -280,7 +374,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
@@ -288,7 +382,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -325,13 +419,24 @@
           "time_info": "[00时43分 ~ 04时24分]"
         },
         {
+          "title": "宇树科技、西门子能源…默茨中国行凸显“经济”关键词，德国专家：中国不可或缺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660465",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时01分]"
+        },
+        {
           "title": "标普：基于人工智能驱动的规模和增长增强，将美光科技(MU.O)评级上调至“bbb”，展望积极。",
           "url": "https://flash.jin10.com/detail/20260227033606328800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -342,7 +447,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
