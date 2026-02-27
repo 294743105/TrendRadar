@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T09:01:02.182791+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-02-27T13:10:43.938365+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -44,17 +44,6 @@
           "time_info": "[00时43分 ~ 04时24分]"
         },
         {
-          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
-          "url": "https://wallstreetcn.com/livenews/3059885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3766259",
           "source": "华尔街见闻",
@@ -63,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 09时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 13时10分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -75,52 +64,78 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 09时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 13时10分]"
+        },
+        {
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
           "url": "https://www.cls.cn/detail/2296619",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时10分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
           "url": "https://wallstreetcn.com/articles/3766280",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时10分]"
         },
         {
           "title": "全球最大主权财富基金用Claude“扫雷”：问题公司24小时现形",
           "url": "https://www.cls.cn/detail/2296527",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时10分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
           "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时10分]"
         },
         {
           "title": "中国AI调用量首次超过美国",
@@ -145,6 +160,39 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
+          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
+          "url": "https://www.zhihu.com/question/2010325819092903282",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "如何评价消息称 DeepSeek V4 打破常规优先适配华为，冷落英伟达 AMD？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2010465986483025153",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
           "url": "https://wallstreetcn.com/livenews/3059673",
           "source": "华尔街见闻-快讯",
@@ -154,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "QuestMobile数据：头部三家AI应用春节DAU创新高，千问拿下最大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3059966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "谷歌：将于3月23日在谷歌营销平台推出Gemini Advantage。",
@@ -211,6 +270,28 @@
           "time_info": "00时44分"
         },
         {
+          "title": "演员王劲松发文怒斥被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "现代汽车集团：计划从2026年起，在韩国Saemangeum地区投入约9万亿韩元，其中，4,000亿韩元建设机器人工厂，5.8万亿韩元建设AI数据中心，1万亿韩元建设氢气生产设施，1.3万亿韩元用于太阳能发电建设。据悉，该AI数据中心将安装50000块GPU，计划2029年底前完成AI数据中心和机器人工厂的建设。",
+          "url": "https://wallstreetcn.com/livenews/3059948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
           "source": "金十数据",
@@ -225,7 +306,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "送游戏被当舔狗,吧友狂挽尊",
@@ -233,11 +314,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 09时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 13时10分]"
         },
         {
           "title": "【早报】一夜蒸发超万亿元，英伟达创10个月最大单日跌幅；华为发布代码“神器”",
@@ -247,8 +329,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时10分]"
+        },
+        {
+          "title": "整治幽灵外卖新规发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B4%E6%B2%BB%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 13时10分]"
         },
         {
           "title": "伊核最新谈判：美立场强硬，伊朗将提折中方案",
@@ -262,17 +358,15 @@
           "time_info": "[08时59分 ~ 09时01分]"
         },
         {
-          "title": "整治幽灵外卖新规发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B4%E6%B2%BB%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "美伊最新谈判细节披露，美方态度“阴晴不定”",
+          "url": "https://news.ifeng.com/c/8r4slfRrm8s",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            7,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 09时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
@@ -341,7 +435,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -355,6 +449,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "如何评价一人之下漫画最新话 802（753）？",
+          "url": "https://www.zhihu.com/question/2010602511220888887",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "中国贸促会2月例行新闻发布会将于28日召开，介绍促进中德、中美工商界合作举措等",
+          "url": "https://wallstreetcn.com/livenews/3059963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "谷歌：推出最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
@@ -377,12 +493,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "女生连续四年发布与家人告别视频",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%91%8A%E5%88%AB%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "魅族发布转型公告",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AD%85%E6%97%8F%E5%8F%91%E5%B8%83%E8%BD%AC%E5%9E%8B%E5%85%AC%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -423,11 +561,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32660465",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时10分]"
         },
         {
           "title": "标普：基于人工智能驱动的规模和增长增强，将美光科技(MU.O)评级上调至“bbb”，展望积极。",
@@ -463,6 +602,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "恒生科技指数涨逾1%。商汤涨逾7%，金蝶国际、哔哩哔哩涨逾3%，腾讯控股涨2.7%，美团涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3059960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "北美科技软件股指数ETF涨约2.7%，刷新日高至83.06美元。",
           "url": "https://wallstreetcn.com/livenews/3059657",
           "source": "华尔街见闻-快讯",
@@ -472,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "算力租赁概念持续走高，城地香江、利通电子双双涨停，云天励飞、顺网科技、首都在线、宏景科技涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3059953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         }
       ]
     }
