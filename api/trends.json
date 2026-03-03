@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T00:33:44.661407+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-04T05:15:44.439321+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美以伊战争最新动态｜伊朗德黑兰遭密集空袭",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
+        },
+        {
+          "title": "最高法发布典型案例从严惩治网暴：“开盒”曝光他人信息被告人获刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689746",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
         },
         {
           "title": "Unity 终止向所有位于中国大陆及港澳地区的组织提供海外资源商店的访问权限，对于游戏开发者有何影响？",
@@ -41,48 +52,40 @@
           "time_info": "00时33分"
         },
         {
-          "title": "最高法发布典型案例从严惩治网暴：“开盒”曝光他人信息被告人获刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32689746",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
           "url": "https://www.zhihu.com/question/2011788981294081499",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
         },
         {
           "title": "如果给一个游戏充了 50 万，但是开挂被发现了会被怎么处理？",
           "url": "https://www.zhihu.com/question/1920484658078028738",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
         },
         {
           "title": "美以伊最新局势",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E4%BC%8A%E6%9C%80%E6%96%B0%E5%B1%80%E5%8A%BF%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
         },
         {
           "title": "全国两会首场发布会如何传递开局之年的坚定信心",
@@ -92,8 +95,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
+        },
+        {
+          "title": "iPhone17e正式发布",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
         },
         {
           "title": "以色列军方向黎巴嫩南部西顿市居民发布撤离命令。",
@@ -107,71 +122,99 @@
           "time_info": "00时33分"
         },
         {
-          "title": "iPhone17e正式发布",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "以色列军方对黎巴嫩南部三座城镇发布撤离警告。",
+          "url": "https://flash.jin10.com/detail/20260304043215420800",
+          "source": "金十数据",
           "ranks": [
-            21
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
-          "url": "https://www.cls.cn/detail/2301372",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌超5％，金山云跌12.44％，万物新生跌10.02％，禾赛科技跌9.70％，小鹏汽车跌8.95％，亿航跌8.59％。",
-          "url": "https://wallstreetcn.com/livenews/3062868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "05时15分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.toutiao.com/trending/7612983983969668662/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
           "url": "https://www.cls.cn/detail/2301441",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
+        },
+        {
+          "title": "高通CEO：AI智能体将取代手机成为数字中心",
+          "url": "https://wallstreetcn.com/livenews/3062991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "05时15分"
+        },
+        {
+          "title": "马云，新年现身！谈了AI",
+          "url": "https://www.cls.cn/detail/2301784",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "Meta将开辟新的AI应用工程组织，Meta Applied AI工程组织将隶属于Reality Labs部门。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3062986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
+          "url": "https://wallstreetcn.com/livenews/3062972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
@@ -183,6 +226,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
+        },
+        {
+          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
+          "url": "https://www.cls.cn/detail/2301372",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 05时15分]"
+        },
+        {
+          "title": "防务科技初创公司Anduril Industries Inc.按估值翻倍至大约600亿美元融资大约40亿美元。 由风投公司Andreessen Horowitz与库什纳（Josh Kushner）旗下Thrive Capital领投。",
+          "url": "https://wallstreetcn.com/livenews/3062977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌超5％，金山云跌12.44％，万物新生跌10.02％，禾赛科技跌9.70％，小鹏汽车跌8.95％，亿航跌8.59％。",
+          "url": "https://wallstreetcn.com/livenews/3062868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.81%，报25448点。 恒生科技指数主连夜盘收跌0.54%，报4832点。",
+          "url": "https://wallstreetcn.com/livenews/3062969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     }
