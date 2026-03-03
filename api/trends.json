@@ -1,12 +1,49 @@
 {
-  "generated_at": "2026-03-03T09:02:06.785597+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-03-03T13:11:03.063721+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 13时11分]"
+        },
+        {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 13时11分]"
+        },
+        {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
         {
           "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3062123",
@@ -42,18 +79,6 @@
           "time_info": "[00时29分 ~ 09时02分]"
         },
         {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 09时02分]"
-        },
-        {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
           "url": "https://wallstreetcn.com/livenews/3062119",
           "source": "华尔街见闻-快讯",
@@ -65,16 +90,27 @@
           "time_info": "04时23分"
         },
         {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            12
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时11分]"
+        },
+        {
+          "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
+          "url": "https://www.zhihu.com/question/2010702851366674730",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时11分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -100,26 +136,15 @@
           "time_info": "[00时29分 ~ 04时23分]"
         },
         {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
+          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
-          "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
-          "url": "https://www.zhihu.com/question/2010702851366674730",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "time_info": "[13时10分 ~ 13时11分]"
         },
         {
           "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
@@ -150,7 +175,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -161,7 +186,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -177,6 +202,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "AI表格Agent接入钉钉群",
+          "url": "https://wallstreetcn.com/livenews/3062395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
           "url": "https://wallstreetcn.com/livenews/3062029",
           "source": "华尔街见闻-快讯",
@@ -186,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：为了使新时代的金融生态系统（特点是通过AI和区块链的融合产生新的金融服务）得以发展，有必要建立一种机制，以确保交易的透明度和真实性，特别是支付的安全性和稳健性。",
+          "url": "https://flash.jin10.com/detail/20260303120834177800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "iPadAir 没高刷",
@@ -202,7 +249,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
@@ -238,6 +285,28 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
+          "title": "美以伊战争最新动态｜伊朗称击中美空军基地大楼",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
+          "url": "https://www.zhihu.com/question/2011788981294081499",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -266,7 +335,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -282,6 +351,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 09时02分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
+          "url": "https://www.cls.cn/detail/2300445",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
         },
         {
           "title": "我从来没玩过恐怖游戏，第一次玩《生化危机 9：安魂曲》，可以得到什么忠告？",
@@ -306,6 +386,50 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
+          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "伊朗发布袭击美军基地画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "iPhone17e正式发布",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "伊朗西阿塞拜疆省警察指挥中心发布通告称，乌鲁米耶多个地区传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260303123632455800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "标普全球能源表示，还将停止在同一“收市定价”交易窗口内发布从霍尔木兹海峡内装船的中东成品油买卖报价。 将不再接受将液化天然气（LNG）运输的装船港指定为卡塔尔出口工厂或阿联酋的Das Island设施。",
           "url": "https://wallstreetcn.com/livenews/3062040",
           "source": "华尔街见闻-快讯",
@@ -326,12 +450,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "全国两会首场新闻发布会将于今日下午3点开启",
+          "url": "https://wallstreetcn.com/livenews/3062396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -341,8 +476,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时11分]"
+        },
+        {
+          "title": "我国太空生物试验取得新进展",
+          "url": "https://www.douyin.com/hot/2416552",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "time_info": "[13时10分 ~ 13时11分]"
         },
         {
           "title": "【数据看盘】化工ETF上周份额大减，晓程科技龙虎榜现机构与北向资金博弈",
@@ -368,6 +514,17 @@
           "time_info": "[04时22分 ~ 04时23分]"
         },
         {
+          "title": "日本央行行长植田和男在东京举行的金融科技大会上发表讲话时，没有提及货币政策。 植田和男表示，将继续与相关机构合作协调，致力于打造适合下一个时代的金融生态系统。",
+          "url": "https://wallstreetcn.com/livenews/3062414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.86%，报26109点。 恒生科技指数主连夜盘收涨0.85%，报5007点。",
           "url": "https://wallstreetcn.com/livenews/3062114",
           "source": "华尔街见闻-快讯",
@@ -377,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "恒生科技指数日内再次跌超1%，零跑汽车跌超5%，小鹏汽车、蔚来跌超4%，华虹半导体、小米跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3062398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     }
