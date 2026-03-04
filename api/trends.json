@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-04T05:15:44.439321+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-03-04T08:59:33.004279+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "最高法发布典型案例从严惩治网暴：“开盒”曝光他人信息被告人获刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689746",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 08时59分]"
+        },
         {
           "title": "美以伊战争最新动态｜伊朗德黑兰遭密集空袭",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -19,15 +31,26 @@
           "time_info": "[00时33分 ~ 05时15分]"
         },
         {
-          "title": "最高法发布典型案例从严惩治网暴：“开盒”曝光他人信息被告人获刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32689746",
-          "source": "澎湃新闻",
+          "title": "美以伊战争最新动态｜特朗普或派军舰赴霍尔木兹海峡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 05时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "中国石油发布公告",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "Unity 终止向所有位于中国大陆及港澳地区的组织提供海外资源商店的访问权限，对于游戏开发者有何影响？",
@@ -41,6 +64,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "中国驻迪拜总领馆发布特别提醒",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E8%BF%AA%E6%8B%9C%E6%80%BB%E9%A2%86%E9%A6%86%E5%8F%91%E5%B8%83%E7%89%B9%E5%88%AB%E6%8F%90%E9%86%92%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "两会首场发布会举行，全国政协会议议程公布",
           "url": "https://www.cls.cn/detail/2301022",
           "source": "财联社热门",
@@ -50,6 +84,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "如果给一个游戏充了 50 万，但是开挂被发现了会被怎么处理？",
+          "url": "https://www.zhihu.com/question/1920484658078028738",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 08时59分]"
         },
         {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
@@ -64,39 +111,29 @@
           "time_info": "[00时33分 ~ 05时15分]"
         },
         {
-          "title": "如果给一个游戏充了 50 万，但是开挂被发现了会被怎么处理？",
-          "url": "https://www.zhihu.com/question/1920484658078028738",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 05时15分]"
-        },
-        {
           "title": "美以伊最新局势",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E4%BC%8A%E6%9C%80%E6%96%B0%E5%B1%80%E5%8A%BF%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
             12,
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 08时59分]"
         },
         {
           "title": "全国两会首场发布会如何传递开局之年的坚定信心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32691929",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 08时59分]"
         },
         {
           "title": "iPhone17e正式发布",
@@ -104,11 +141,34 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 08时59分]"
+        },
+        {
+          "title": "澳大利亚S&P/ASX 200指数在第四季度GDP数据公布后波动不大，最新下跌1.5%，报 8941.40点。",
+          "url": "https://wallstreetcn.com/livenews/3063107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "全国政协十四届四次会议发布会",
+          "url": "https://www.douyin.com/hot/2417509",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "以色列军方向黎巴嫩南部西顿市居民发布撤离命令。",
@@ -128,7 +188,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         }
@@ -136,18 +196,19 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "19岁天才少年做AI应用年入2亿",
           "url": "https://www.toutiao.com/trending/7612983983969668662/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 08时59分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -158,8 +219,43 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 08时59分]"
+        },
+        {
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "马云，新年现身！谈了AI",
+          "url": "https://www.cls.cn/detail/2301784",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时33分 ~ 05时15分]"
+          "time_info": "[05时15分 ~ 08时59分]"
+        },
+        {
+          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 08时59分]"
         },
         {
           "title": "高通CEO：AI智能体将取代手机成为数字中心",
@@ -168,20 +264,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
         {
-          "title": "马云，新年现身！谈了AI",
-          "url": "https://www.cls.cn/detail/2301784",
-          "source": "财联社热门",
+          "title": "Claude崩了，全球AI因何“熔断”？",
+          "url": "https://wallstreetcn.com/articles/3766631",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "08时59分"
         },
         {
           "title": "Meta将开辟新的AI应用工程组织，Meta Applied AI工程组织将隶属于Reality Labs部门。（华尔街日报）",
@@ -190,20 +286,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
         {
-          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
-          "source": "澎湃新闻",
+          "title": "建议为AI生成内容添加不可去除水印",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
+          "source": "百度热搜",
           "ranks": [
-            19
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "08时59分"
         },
         {
           "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
@@ -212,7 +308,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -250,11 +346,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 08时59分]"
         },
         {
           "title": "防务科技初创公司Anduril Industries Inc.按估值翻倍至大约600亿美元融资大约40亿美元。 由风投公司Andreessen Horowitz与库什纳（Josh Kushner）旗下Thrive Capital领投。",
@@ -263,7 +360,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -285,7 +382,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         }
