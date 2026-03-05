@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T04:22:17.616735+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-03-05T09:01:46.775770+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
+        },
+        {
+          "title": "抢钱?全男组装Steam要价1k",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351370&amp;topic_name=%E6%8A%A2%E9%92%B1%3F%E5%85%A8%E7%94%B7%E7%BB%84%E8%A3%85Steam%E8%A6%81%E4%BB%B71k",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
         },
         {
           "title": "美以伊战争最新动态｜美国防部首次回应伊朗小学遭袭",
@@ -30,15 +41,15 @@
           "time_info": "[00时29分 ~ 04时22分]"
         },
         {
-          "title": "抢钱?全男组装Steam要价1k",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351370&amp;topic_name=%E6%8A%A2%E9%92%B1%3F%E5%85%A8%E7%94%B7%E7%BB%84%E8%A3%85Steam%E8%A6%81%E4%BB%B71k",
-          "source": "贴吧",
+          "title": "美以伊战争最新动态｜参议院末能阻止特朗普继续动武",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "苹果春季发布会",
@@ -46,11 +57,24 @@
           "source": "抖音",
           "ranks": [
             6,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
+        },
+        {
+          "title": "小浪花跑两会｜甄子丹委员回应《镖人》爆火：对中国武侠电影备感振奋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32698639",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
         },
         {
           "title": "CSGO回归Steam",
@@ -68,17 +92,6 @@
           "title": "济南“草莓阿姨”爆火",
           "url": "https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E2%80%9C%E8%8D%89%E8%8E%93%E9%98%BF%E5%A7%A8%E2%80%9D%E7%88%86%E7%81%AB",
           "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
-        },
-        {
-          "title": "小浪花跑两会｜甄子丹委员回应《镖人》爆火：对中国武侠电影备感振奋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32698639",
-          "source": "澎湃新闻",
           "ranks": [
             10
           ],
@@ -128,9 +141,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
@@ -158,41 +182,90 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
-          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
-          "url": "https://www.zhihu.com/question/2012192001999726052",
+          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
+          "url": "https://www.zhihu.com/question/1922608207504867947",
           "source": "知乎",
           "ranks": [
-            14,
-            4
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
         },
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
           "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
           "source": "百度热搜",
           "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
+        },
+        {
+          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
+          "url": "https://www.zhihu.com/question/2011731606025499798",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
+        },
+        {
+          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
+          "url": "https://www.zhihu.com/question/2012192001999726052",
+          "source": "知乎",
+          "ranks": [
+            14,
+            4,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
+        },
+        {
+          "title": "委员张凯丽：短剧、AI都是我关注的",
+          "url": "https://www.toutiao.com/trending/7612728904813592630/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "据英国金融时报：继人工智能合作之后，OpenAI寻求美国国防部提供更多监控方面的保障。",
+          "url": "https://flash.jin10.com/detail/20260305084158764800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -203,19 +276,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
-        },
-        {
-          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
-          "url": "https://www.zhihu.com/question/1922608207504867947",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -226,19 +288,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 09时01分]"
         },
         {
-          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
-          "url": "https://www.zhihu.com/question/2011731606025499798",
-          "source": "知乎",
+          "title": "美军被曝使用Claude AI空袭伊朗，负责情报评估与目标识别，专家发出严厉警告",
+          "url": "https://wallstreetcn.com/articles/3766696",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
@@ -247,7 +309,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -258,16 +320,49 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "博通CEO预计明年公司AI芯片销售额将超过1000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3063928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
+          "url": "https://www.cls.cn/detail/2303150",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
         {
           "title": "政协委员告诉你什么最让马斯克破防",
           "url": "https://www.toutiao.com/trending/7612652724908441610/",
@@ -280,13 +375,24 @@
           "time_info": "[00时29分 ~ 00时31分]"
         },
         {
+          "title": "首场“委员通道”聚焦什么？“苏超”、量子科技和硅基生产力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32700250",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "欧盟已经对来自法国、瑞典、英国的公司清单进行精简，用于管理其既定的Scaleup Europe Fund计划。 欧盟委员会将是该项目的创始投资者之一，私人投资者、养老基金也将参与其中。 该项目的融资目标为250亿欧元，将侧重于战略性科技与公司。",
           "url": "https://wallstreetcn.com/livenews/3063836",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -297,7 +403,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
