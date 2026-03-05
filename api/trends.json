@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-05T13:09:17.472819+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-03-05T16:49:04.409716+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            14,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 16时49分]"
+        },
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
           "url": "https://www.zhihu.com/question/1922608207504867947",
@@ -91,19 +105,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 13时09分]"
-        },
-        {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
           "url": "https://www.cls.cn/detail/2302628",
           "source": "财联社热门",
@@ -114,6 +115,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 09时01分]"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 16时49分]"
+        },
+        {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         },
         {
           "title": "美军被曝使用Claude AI空袭伊朗，负责情报评估与目标识别，专家发出严厉警告",
@@ -127,15 +151,15 @@
           "time_info": "09时01分"
         },
         {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
+          "title": "恒生指数收盘涨0.3%，能源、AI板块领涨，南向资金净卖出277.35亿港元",
+          "url": "https://wallstreetcn.com/livenews/3064358",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时09分"
+          "time_info": "16时49分"
         },
         {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
@@ -144,7 +168,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -155,7 +179,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -188,7 +212,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -199,7 +223,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -221,7 +245,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -232,9 +256,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "阿联酋工业和先进技术部长、阿布扎比国家石油公司集团CEO阿尔·贾比尔：Ruwais液化天然气项目建设进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/3064333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "工业和信息化部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%",
@@ -243,7 +278,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
@@ -251,7 +286,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -265,6 +300,19 @@
           "time_info": "[00时29分 ~ 09时01分]"
         },
         {
+          "title": "抢钱?全男组装Steam要价1k",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351370&amp;topic_name=%E6%8A%A2%E9%92%B1%3F%E5%85%A8%E7%94%B7%E7%BB%84%E8%A3%85Steam%E8%A6%81%E4%BB%B71k",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 16时49分]"
+        },
+        {
           "title": "美以伊战争最新动态｜美国防部首次回应伊朗小学遭袭",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -276,16 +324,28 @@
           "time_info": "[00时29分 ~ 04时22分]"
         },
         {
-          "title": "抢钱?全男组装Steam要价1k",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351370&amp;topic_name=%E6%8A%A2%E9%92%B1%3F%E5%85%A8%E7%94%B7%E7%BB%84%E8%A3%85Steam%E8%A6%81%E4%BB%B71k",
-          "source": "贴吧",
+          "title": "小浪花跑两会｜甄子丹委员回应《镖人》爆火：对中国武侠电影备感振奋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32698639",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            13
+            10,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 13时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 16时49分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜伊朗：用导弹击中美国油轮",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         },
         {
           "title": "苹果春季发布会",
@@ -319,22 +379,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
         {
-          "title": "小浪花跑两会｜甄子丹委员回应《镖人》爆火：对中国武侠电影备感振奋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32698639",
+          "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            8,
-            6
+            19,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 13时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 16时49分]"
         },
         {
           "title": "CSGO回归Steam",
@@ -372,6 +432,17 @@
           "time_info": "[00时29分 ~ 04时22分]"
         },
         {
+          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2012656426984699325",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 16时49分]"
+        },
+        {
           "title": "雷军发布2026两会建议",
           "url": "https://www.douyin.com/hot/2418271",
           "source": "抖音",
@@ -384,16 +455,26 @@
           "time_info": "[00时29分 ~ 04时22分]"
         },
         {
-          "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
-          "source": "澎湃新闻",
+          "title": "投资于人！政府工作报告最新部署",
+          "url": "https://www.toutiao.com/trending/7613409342791929363/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 13时09分]"
+          "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
+          "title": "美政府出手,强拆腾讯游戏股权",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351407&amp;topic_name=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%2C%E5%BC%BA%E6%8B%86%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E8%82%A1%E6%9D%83",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         },
         {
           "title": "比亚迪将发布第二代刀片电池",
@@ -407,15 +488,26 @@
           "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
-          "url": "https://www.zhihu.com/question/2012656426984699325",
-          "source": "知乎",
+          "title": "苹果新品发布会全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
+          "title": "高中生现场直击苹果发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         },
         {
           "title": "提醒：北京时间03:00，美联储将发布褐皮书。",
@@ -454,18 +546,32 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 13时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 16时49分]"
+        },
+        {
+          "title": "首场“委员通道”聚焦什么？“苏超”、量子科技和硅基生产力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32700250",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 16时49分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -480,16 +586,27 @@
           "time_info": "[09时01分 ~ 13时09分]"
         },
         {
-          "title": "首场“委员通道”聚焦什么？“苏超”、量子科技和硅基生产力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32700250",
-          "source": "澎湃新闻",
+          "title": "阿里巴巴在杭州成立智能科技新公司",
+          "url": "https://wallstreetcn.com/livenews/3064377",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
             1
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "科技部部长：中国芯片攻关取得新突破",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E9%83%A8%E9%83%A8%E9%95%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E6%94%BB%E5%85%B3%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            27
+          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 13时09分]"
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 16时49分]"
         },
         {
           "title": "政协委员告诉你什么最让马斯克破防",
@@ -501,17 +618,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时31分]"
-        },
-        {
-          "title": "科技部部长：中国芯片攻关取得新突破",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E9%83%A8%E9%83%A8%E9%95%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E6%94%BB%E5%85%B3%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
         },
         {
           "title": "欧盟已经对来自法国、瑞典、英国的公司清单进行精简，用于管理其既定的Scaleup Europe Fund计划。 欧盟委员会将是该项目的创始投资者之一，私人投资者、养老基金也将参与其中。 该项目的融资目标为250亿欧元，将侧重于战略性科技与公司。",
@@ -542,7 +648,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -553,7 +659,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
