@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T16:49:04.409716+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-03-05T20:32:22.739916+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI猫咪的复工vlog",
@@ -15,11 +15,12 @@
             12,
             14,
             24,
-            30
+            30,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 16时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 20时32分]"
         },
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
@@ -105,6 +106,30 @@
           "time_info": "09时01分"
         },
         {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 20时32分]"
+        },
+        {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
           "url": "https://www.cls.cn/detail/2302628",
           "source": "财联社热门",
@@ -117,27 +142,27 @@
           "time_info": "[00时29分 ~ 09时01分]"
         },
         {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时49分]"
-        },
-        {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
           "url": "https://www.cls.cn/detail/2303258",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 20时32分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美军被曝使用Claude AI空袭伊朗，负责情报评估与目标识别，专家发出严厉警告",
@@ -157,7 +182,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -171,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "比Deepfake更严重的AI出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美军称AI工具在对伊行动中发挥关键作用",
@@ -267,7 +303,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -286,7 +322,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -384,6 +420,39 @@
           "time_info": "13时09分"
         },
         {
+          "title": "美以伊战争最新动态｜伊朗前总统内贾德露面？假的",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "韩国发布一级能源预警，将严打哄抬价格等行为",
+          "url": "https://wallstreetcn.com/livenews/3064476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "影石Insta360发布Snap手机自拍屏，售价499元起",
+          "url": "https://wallstreetcn.com/livenews/3064475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
           "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
           "source": "澎湃新闻",
@@ -395,6 +464,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 16时49分]"
+        },
+        {
+          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2012656426984699325",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 20时32分]"
         },
         {
           "title": "CSGO回归Steam",
@@ -409,6 +489,17 @@
           "time_info": "[00时29分 ~ 04时22分]"
         },
         {
+          "title": "投资于人！政府工作报告最新部署",
+          "url": "https://www.toutiao.com/trending/7613409342791929363/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 20时32分]"
+        },
+        {
           "title": "济南“草莓阿姨”爆火",
           "url": "https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E2%80%9C%E8%8D%89%E8%8E%93%E9%98%BF%E5%A7%A8%E2%80%9D%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -418,6 +509,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 04时22分]"
+        },
+        {
+          "title": "美政府出手,强拆腾讯游戏股权",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351407&amp;topic_name=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%2C%E5%BC%BA%E6%8B%86%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E8%82%A1%E6%9D%83",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 20时32分]"
         },
         {
           "title": "苹果发布会",
@@ -432,15 +535,16 @@
           "time_info": "[00时29分 ~ 04时22分]"
         },
         {
-          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
-          "url": "https://www.zhihu.com/question/2012656426984699325",
-          "source": "知乎",
+          "title": "苹果新品发布会全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
           "ranks": [
+            23,
             14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时49分]"
+          "time_info": "[16时48分 ~ 20时32分]"
         },
         {
           "title": "雷军发布2026两会建议",
@@ -455,26 +559,16 @@
           "time_info": "[00时29分 ~ 04时22分]"
         },
         {
-          "title": "投资于人！政府工作报告最新部署",
-          "url": "https://www.toutiao.com/trending/7613409342791929363/",
-          "source": "今日头条",
+          "title": "高中生现场直击苹果发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
-        },
-        {
-          "title": "美政府出手,强拆腾讯游戏股权",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351407&amp;topic_name=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%87%BA%E6%89%8B%2C%E5%BC%BA%E6%8B%86%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E8%82%A1%E6%9D%83",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 20时32分]"
         },
         {
           "title": "比亚迪将发布第二代刀片电池",
@@ -488,26 +582,15 @@
           "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "苹果新品发布会全复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
+          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
+          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
+          "source": "凤凰网",
           "ranks": [
-            23
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
-        },
-        {
-          "title": "高中生现场直击苹果发布会",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "提醒：北京时间03:00，美联储将发布褐皮书。",
@@ -546,7 +629,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -554,11 +637,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 16时49分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 20时32分]"
         },
         {
           "title": "首场“委员通道”聚焦什么？“苏超”、量子科技和硅基生产力",
@@ -567,11 +651,12 @@
           "ranks": [
             6,
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 16时49分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 20时32分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -592,7 +677,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -653,6 +738,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "【数据看盘】“北向+游资+机构” 疯狂抢筹岩山科技，多家机构集体出逃油气股",
+          "url": "https://www.cls.cn/detail/2304010",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "恒生科技指数转为涨跌持平，此前一度涨1.8%。",
           "url": "https://wallstreetcn.com/livenews/3064176",
           "source": "华尔街见闻-快讯",
@@ -673,6 +769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "景顺纳指科技ETF：二级市场交易价溢价 3月6日开市起停牌至10:30",
+          "url": "https://wallstreetcn.com/livenews/3064438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
