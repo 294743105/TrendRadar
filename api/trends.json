@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T04:27:28.303409+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-06T09:06:18.559623+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
         {
           "title": "美以伊战争最新动态｜谢锋答引毛泽东诗词谈当前局势",
@@ -19,15 +19,27 @@
           "time_info": "[01时59分 ~ 04时27分]"
         },
         {
+          "title": "美以伊战争最新动态｜美宣布摧毁超过30艘伊朗军舰",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
           "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2012972722834073577",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 09时06分]"
         },
         {
           "title": "提振消费！2026年这些最新部署",
@@ -37,19 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时27分]"
-        },
-        {
-          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
-          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 09时06分]"
         },
         {
           "title": "美政府出手,强拆腾讯游戏股权",
@@ -59,8 +60,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 09时06分]"
         },
         {
           "title": "苹果新品发布会全复盘",
@@ -68,7 +69,52 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            19
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 09时06分]"
+        },
+        {
+          "title": "“麻辣拌界史铁生”爆火",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BA%BB%E8%BE%A3%E6%8B%8C%E7%95%8C%E5%8F%B2%E9%93%81%E7%94%9F%E2%80%9D%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "麦当劳 CEO 发布新品汉堡试吃视频，被网友调侃表情像「吃糠咽菜」，如何看待这次公关营销「翻车」？",
+          "url": "https://www.zhihu.com/question/2012486365992936364",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
+          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -97,6 +143,28 @@
           "time_info": "01时59分"
         },
         {
+          "title": "Anthropic 就其与美国国防部的争端发表声明。 Anthropic 表示已收到国防部的信函，确认公司已被列为“美国国家安全供应链风险单位”。 国防部与公司周五发布的声明一致 ，绝大多数客户并未受到供应链风险认定的影响。 公司重申，过去几天里一直与国防部保持着富有成效的沟通。 Anthropic称，五角大楼的行为在法律上站不住脚。 并表示，别无选择，只能诉诸法律。 公司目前最重要的优先事项，是确保一线战士和国家安全专家不会失去这些重要的工具。 公司此前唯一的顾虑，仅在于对“全自动武器”和“大规模国内监视”的例外条款。 公司将向国防部及国家安全机构提供我们的模型，仅收取象征性费用，并由我司工程师提供持续的技术支持。 在过渡期间，只要有必要且只要公司获得许可，公司将持续提供模型支持。",
+          "url": "https://wallstreetcn.com/livenews/3064730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "市场监管总局发布2月23日-3月1日无条件批准经营者集中案件列表。",
+          "url": "https://flash.jin10.com/detail/20260306083227368800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
           "title": "伊朗总统召开内阁会议评估最新局势，要求确保公共服务不间断运行",
           "url": "https://wallstreetcn.com/livenews/3064612",
           "source": "华尔街见闻-快讯",
@@ -117,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "两名美国高级官员表示：美国已发布为期30天的临时豁免，允许将目前滞留在海上的俄罗斯原油出售给印度，以缓解全球石油市场压力。",
+          "url": "https://wallstreetcn.com/livenews/3064712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "两会受权发布｜关于《中华人民共和国国家发展规划法（草案）》的说明（摘要）。（新华社）",
@@ -161,12 +240,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "已有13家上市公司发布2025年年度分红预案",
+          "url": "https://wallstreetcn.com/livenews/3064703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "两名美国高级官员：美国已发布为期30天的临时豁免，允许向印度出售目前滞留在海上的俄罗斯石油，以缓解全球石油市场的压力。",
+          "url": "https://flash.jin10.com/detail/20260306075715857800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -180,6 +281,43 @@
           "time_info": "[01时59分 ~ 04时27分]"
         },
         {
+          "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
+          "url": "https://www.cls.cn/detail/2304328",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 09时06分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 09时06分]"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4",
+          "url": "https://www.toutiao.com/trending/7613911179013918271/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
           "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
           "source": "凤凰网",
@@ -191,28 +329,15 @@
           "time_info": "[01时59分 ~ 04时27分]"
         },
         {
-          "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
-          "url": "https://www.cls.cn/detail/2304328",
-          "source": "财联社热门",
+          "title": "忍住AI让我把食欲忍住",
+          "url": "https://www.douyin.com/hot/2420009",
+          "source": "抖音",
           "ranks": [
-            13,
-            11
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时27分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时27分]"
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -232,7 +357,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -254,7 +379,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -265,7 +390,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -276,7 +401,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         }
@@ -284,7 +409,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "首定航天支柱、七提量子科技 2026政府工作报告释放最强科创信号",
@@ -295,8 +420,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 09时06分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -339,11 +464,23 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 09时06分]"
+        },
+        {
+          "title": "政府工作报告提出培育发展未来能源、量子科技、具身智能、脑机接口、 6G 等未来产业，行业将迎来哪些利好？",
+          "url": "https://www.zhihu.com/question/2011177014359513086",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时27分]"
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     }
