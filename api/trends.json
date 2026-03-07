@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T04:19:47.110767+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-03-07T08:56:54.322730+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -39,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -48,22 +49,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
           "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -71,11 +74,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -85,8 +89,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
+        },
+        {
+          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
+          "url": "https://flash.jin10.com/detail/20260307034037320800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
+          "time_info": "[04时19分 ~ 08时56分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -111,6 +127,29 @@
           "time_info": "[00时27分 ~ 04时19分]"
         },
         {
+          "title": "AI短剧霍去病持续刷屏",
+          "url": "https://www.douyin.com/hot/2421579",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 08时56分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
@@ -122,15 +161,59 @@
           "time_info": "00时27分"
         },
         {
-          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
-          "url": "https://flash.jin10.com/detail/20260307034037320800",
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "TESnaiyou 假赛",
+          "url": "https://s.weibo.com/weibo?q=TESnaiyou%20%E5%81%87%E8%B5%9B&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
+          "url": "https://www.zhihu.com/question/1992302419741266883",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "据英国金融时报：美国规则草案要求，民用政府合同应允许“任何合法”用途使用（AI）模型。",
+          "url": "https://flash.jin10.com/detail/20260307080944483800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "08时56分"
+        },
+        {
+          "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260307080857687800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
@@ -155,24 +238,13 @@
           "time_info": "00时27分"
         },
         {
-          "title": "AI短剧霍去病持续刷屏",
-          "url": "https://www.douyin.com/hot/2421579",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
           "url": "https://wallstreetcn.com/livenews/3065420",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -194,6 +266,18 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "证监会发布《关于短线交易监管的若干规定》",
+          "url": "https://www.cls.cn/detail/2305727",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
+        },
+        {
           "title": "吴清最新定调，13项重要看点，10组重要数据",
           "url": "https://www.cls.cn/detail/2305257",
           "source": "财联社热门",
@@ -205,37 +289,76 @@
           "time_info": "[00时27分 ~ 04时19分]"
         },
         {
-          "title": "证监会发布《关于短线交易监管的若干规定》",
-          "url": "https://www.cls.cn/detail/2305727",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
-        },
-        {
           "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
           "url": "https://www.zhihu.com/question/2012986900298871194",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
         },
         {
           "title": "小米新发布移动端 Agent 产品「Xiaomi miclaw」，开启小范围封测，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2013221026566202540",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
+        },
+        {
+          "title": "失落星船马拉松好玩吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E8%90%BD%E6%98%9F%E8%88%B9%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%A5%BD%E7%8E%A9%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
+        },
+        {
+          "title": "清华毕业生都去哪了？最新数据公布",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86%EF%BC%9F%E6%9C%80%E6%96%B0%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
+        },
+        {
+          "title": "不是说概念神都很强吗，那如果一个人打的每把游戏都百分百输，他怎么走上人生巅峰？",
+          "url": "https://www.zhihu.com/question/5229096312",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
+        },
+        {
+          "title": "杨笠粉丝会爆火,保安硬扛全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351458&amp;topic_name=%E6%9D%A8%E7%AC%A0%E7%B2%89%E4%B8%9D%E4%BC%9A%E7%88%86%E7%81%AB%2C%E4%BF%9D%E5%AE%89%E7%A1%AC%E6%89%9B%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 08时56分]"
         },
         {
           "title": "通行量降至个位数！最新报告：霍尔木兹海峡航运几乎完全停滞",
@@ -260,59 +383,13 @@
           "time_info": "[00时27分 ~ 04时19分]"
         },
         {
-          "title": "失落星船马拉松好玩吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E8%90%BD%E6%98%9F%E8%88%B9%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%A5%BD%E7%8E%A9%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
-        },
-        {
-          "title": "清华毕业生都去哪了？最新数据公布",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86%EF%BC%9F%E6%9C%80%E6%96%B0%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
-        },
-        {
-          "title": "不是说概念神都很强吗，那如果一个人打的每把游戏都百分百输，他怎么走上人生巅峰？",
-          "url": "https://www.zhihu.com/question/5229096312",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
-        },
-        {
-          "title": "杨笠粉丝会爆火,保安硬扛全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351458&amp;topic_name=%E6%9D%A8%E7%AC%A0%E7%B2%89%E4%B8%9D%E4%BC%9A%E7%88%86%E7%81%AB%2C%E4%BF%9D%E5%AE%89%E7%A1%AC%E6%89%9B%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 04时19分]"
-        },
-        {
           "title": "苹果新品发布会全复盘",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -334,7 +411,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -373,7 +450,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         }
