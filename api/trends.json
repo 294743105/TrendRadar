@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-03-08T00:15:22.890048+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-08T04:13:27.608708+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "3人48小时做出5亿播放量AI短剧",
-          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
         },
         {
           "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
@@ -41,6 +31,75 @@
           "time_info": "00时15分"
         },
         {
+          "title": "3人48小时做出5亿播放量AI短剧",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "TES教练 Naiyou说季后赛输的都是假赛",
+          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "林俊旸离职风波暴露了大厂与技术负责人的哪些分歧？你认为该如何化解「既要、又要、还要」的 AI 管理难题？",
+          "url": "https://www.zhihu.com/question/2013358487866996726",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
           "url": "https://www.cls.cn/detail/2305626",
           "source": "财联社热门",
@@ -52,44 +111,11 @@
           "time_info": "00时15分"
         },
         {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
           "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
           "source": "澎湃新闻",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "TES教练 Naiyou说季后赛输的都是假赛",
-          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -120,8 +146,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "杨笠粉丝会爆火,保安硬扛全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351458&amp;topic_name=%E6%9D%A8%E7%AC%A0%E7%B2%89%E4%B8%9D%E4%BC%9A%E7%88%86%E7%81%AB%2C%E4%BF%9D%E5%AE%89%E7%A1%AC%E6%89%9B%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
         },
         {
           "title": "逐玉最新的表白方式",
@@ -144,17 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "杨笠粉丝会爆火,保安硬扛全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351458&amp;topic_name=%E6%9D%A8%E7%AC%A0%E7%B2%89%E4%B8%9D%E4%BC%9A%E7%88%86%E7%81%AB%2C%E4%BF%9D%E5%AE%89%E7%A1%AC%E6%89%9B%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
         }
       ]
     },
@@ -170,8 +196,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时13分]"
         }
       ]
     }
