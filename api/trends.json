@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T04:13:27.608708+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-03-08T09:01:33.305903+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "假如AI取代了UP主",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E5%8F%96%E4%BB%A3%E4%BA%86UP%E4%B8%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
@@ -48,11 +59,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 09时01分]"
         },
         {
           "title": "在AI的加速时代，我们到底在害怕错过什么？",
@@ -67,6 +79,18 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
+          "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 09时01分]"
+        },
+        {
           "title": "TES教练 Naiyou说季后赛输的都是假赛",
           "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -78,13 +102,24 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
+          "title": "院士：不要天天想AI替代谁",
+          "url": "https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%A4%A9%E5%A4%A9%E6%83%B3AI%E6%9B%BF%E4%BB%A3%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -95,9 +130,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
+          "url": "https://www.zhihu.com/question/2013564166326215304",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "AI写作48小时生成500万字长篇小说",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C48%E5%B0%8F%E6%97%B6%E7%94%9F%E6%88%90500%E4%B8%87%E5%AD%97%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
+          "url": "https://wallstreetcn.com/livenews/3065778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -111,15 +179,26 @@
           "time_info": "00时15分"
         },
         {
-          "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
+          "title": "“龙虾”狂欢①4个月25万星标！开源智能体“龙虾”为何能席卷AI圈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32723518",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "09时01分"
+        },
+        {
+          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
@@ -131,12 +210,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "用AI动画片求婚谁不心动啊",
+          "url": "https://www.douyin.com/hot/2422221",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "证监会发布《关于短线交易监管的若干规定》",
@@ -146,8 +236,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 09时01分]"
+        },
+        {
+          "title": "白宫叫停涉伊朗冲突威胁的联邦安全警报发布",
+          "url": "https://wallstreetcn.com/livenews/3065787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "白宫叫停涉伊朗冲突威胁的联邦安全警报发布",
+          "url": "https://flash.jin10.com/detail/20260308083312592800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "杨笠粉丝会爆火,保安硬扛全场",
@@ -157,19 +269,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 09时01分]"
         },
         {
           "title": "逐玉最新的表白方式",
           "url": "https://www.douyin.com/hot/2422647",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 09时01分]"
         },
         {
           "title": "巴基斯坦信息部：副总理与联邦财政部长和联邦石油部长共同召开新闻发布会。总理已成立一个委员会。我们正在努力尽量减少对民众的负担。",
@@ -181,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "苹果新品短的发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E7%9F%AD%E7%9A%84%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
