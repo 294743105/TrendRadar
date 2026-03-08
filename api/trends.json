@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T09:01:33.305903+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-03-08T13:05:53.833352+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -26,9 +26,31 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 13时05分]"
+        },
+        {
+          "title": "奋进十五五AI超燃大片",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%8B%E8%BF%9B%E5%8D%81%E4%BA%94%E4%BA%94AI%E8%B6%85%E7%87%83%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "13时05分"
+        },
+        {
+          "title": "AI龙虾爆火有人几天赚了26万",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E6%9C%89%E4%BA%BA%E5%87%A0%E5%A4%A9%E8%B5%9A%E4%BA%8626%E4%B8%87%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
@@ -60,11 +82,24 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 13时05分]"
+        },
+        {
+          "title": "院士：不要天天想AI替代谁",
+          "url": "https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%A4%A9%E5%A4%A9%E6%83%B3AI%E6%9B%BF%E4%BB%A3%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 13时05分]"
         },
         {
           "title": "在AI的加速时代，我们到底在害怕错过什么？",
@@ -91,6 +126,18 @@
           "time_info": "[00时15分 ~ 09时01分]"
         },
         {
+          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 13时05分]"
+        },
+        {
           "title": "TES教练 Naiyou说季后赛输的都是假赛",
           "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -102,15 +149,15 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
-          "title": "院士：不要天天想AI替代谁",
-          "url": "https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%A4%A9%E5%A4%A9%E6%83%B3AI%E6%9B%BF%E4%BB%A3%E8%B0%81",
-          "source": "百度热搜",
+          "title": "高盛的判断：Claude Cowork成首个“代理工作流可信案例”，OpenClaw展示未来人机交互方向",
+          "url": "https://wallstreetcn.com/articles/3766958",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "13时05分"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -141,9 +188,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "AI写作48小时生成500万字长篇小说",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C48%E5%B0%8F%E6%97%B6%E7%94%9F%E6%88%90500%E4%B8%87%E5%AD%97%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "AI写作48小时生成500万字长篇小说",
@@ -152,7 +210,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -163,7 +221,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -185,18 +243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -218,15 +265,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "千问AI眼镜G1现货开售",
+          "url": "https://wallstreetcn.com/livenews/3065809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "证监会发布《关于短线交易监管的若干规定》",
@@ -246,7 +304,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -257,20 +315,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "马来西亚通报MH370最新搜寻进展 暂未发现飞机残骸",
+          "url": "https://flash.jin10.com/detail/20260308114907180800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "杨笠粉丝会爆火,保安硬扛全场",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351458&amp;topic_name=%E6%9D%A8%E7%AC%A0%E7%B2%89%E4%B8%9D%E4%BC%9A%E7%88%86%E7%81%AB%2C%E4%BF%9D%E5%AE%89%E7%A1%AC%E6%89%9B%E5%85%A8%E5%9C%BA",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 13时05分]"
         },
         {
           "title": "逐玉最新的表白方式",
@@ -278,11 +348,34 @@
           "source": "抖音",
           "ranks": [
             23,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 13时05分]"
+        },
+        {
+          "title": "伊朗、美国、以色列公布最新战报",
+          "url": "https://www.cls.cn/detail/2306227",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "养龙虾为什么爆火",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E9%BE%99%E8%99%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%86%E7%81%AB%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "巴基斯坦信息部：副总理与联邦财政部长和联邦石油部长共同召开新闻发布会。总理已成立一个委员会。我们正在努力尽量减少对民众的负担。",
@@ -302,7 +395,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
