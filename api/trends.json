@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-09T13:16:07.211435+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-09T16:32:00.738554+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "深圳龙岗拟首发“AI龙虾十条”",
+          "url": "https://wallstreetcn.com/articles/3766977",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 16时32分]"
+        },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
@@ -32,16 +45,16 @@
           "time_info": "[00时14分 ~ 09时01分]"
         },
         {
-          "title": "深圳龙岗拟首发“AI龙虾十条”",
-          "url": "https://wallstreetcn.com/articles/3766977",
-          "source": "华尔街见闻",
+          "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
+          "url": "https://www.cls.cn/detail/2306525",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            3
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 16时32分]"
         },
         {
           "title": "AI养“龙虾”警惕安全风险",
@@ -56,16 +69,16 @@
           "time_info": "[00时14分 ~ 09时01分]"
         },
         {
-          "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
-          "url": "https://www.cls.cn/detail/2306525",
-          "source": "财联社热门",
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时32分]"
         },
         {
           "title": "董明珠：我都不怕被AI替代年轻人怕啥",
@@ -77,6 +90,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 16时32分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -114,6 +150,18 @@
           "time_info": "[00时14分 ~ 09时01分]"
         },
         {
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时32分]"
+        },
+        {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -125,26 +173,15 @@
           "time_info": "[00时14分 ~ 04时14分]"
         },
         {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
           "ranks": [
-            26
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时14分 ~ 13时16分]"
-        },
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "time_info": "[13时15分 ~ 16时32分]"
         },
         {
           "title": "小哥AI换脸Kpop歌手一夜爆红",
@@ -158,35 +195,13 @@
           "time_info": "[13时15分 ~ 13时16分]"
         },
         {
-          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
-          "url": "https://www.cls.cn/detail/2306605",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
           "title": "机构：2025年全球AI眼镜出货量达870万台 同比大幅增长322%",
           "url": "https://wallstreetcn.com/livenews/3066197",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -200,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "MiniMax 发布龙虾新技能 股价盘中大涨20%领跑AI板块",
+          "url": "https://wallstreetcn.com/livenews/3066332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "AI “养龙虾”火了！上市公司扎堆回应",
@@ -216,7 +242,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗、美国、以色列公布最新战报",
@@ -229,6 +255,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 09时01分]"
+        },
+        {
+          "title": "欧洲斯托克波动率指数飙升至38点上方，为2025年4月以来首次，最新上涨近7个点。",
+          "url": "https://wallstreetcn.com/livenews/3066366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "网民发布“摘器官”谣言被拘",
@@ -293,7 +330,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
@@ -301,8 +338,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "“龙虾”上桌，上市公司抢着“养”！OpenClaw引爆科技圈",
+          "url": "https://www.cls.cn/detail/2306947",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
         {
           "title": "加快高水平科技自立自强",
           "url": "https://www.toutiao.com/trending/7614776501439135753/",
@@ -315,6 +363,28 @@
           "time_info": "[00时14分 ~ 09时01分]"
         },
         {
+          "title": "全面降本延续！多家银行春节后定调过“紧日子”，押注金融科技方向不变",
+          "url": "https://www.cls.cn/detail/2306867",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.35%，恒生科技指数收跌0.12%，MiniMax收涨超23%，山东墨龙上涨25%；南向资金净买入额超370亿港元，创历史最高单日净买入纪录。",
+          "url": "https://wallstreetcn.com/livenews/3066356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "三星电子领跌韩国芯片科技股，最新下跌8.9%。",
           "url": "https://flash.jin10.com/detail/20260309082350452800",
           "source": "金十数据",
@@ -324,6 +394,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "农业农村部部长韩俊：我国农业科技进步贡献率超64%，农业无人机全世界最多",
+          "url": "https://wallstreetcn.com/livenews/3066347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
