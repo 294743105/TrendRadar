@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-10T13:05:49.140955+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-03-10T16:28:03.013999+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 16时28分]"
+        },
         {
           "title": "yilai加入BLG无畏契约",
           "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
@@ -57,17 +69,6 @@
           "time_info": "[00时44分 ~ 08时55分]"
         },
         {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 13时05分]"
-        },
-        {
           "title": "清华经管院长谈AI“龙虾”",
           "url": "https://www.douyin.com/hot/2424946",
           "source": "抖音",
@@ -85,7 +86,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -113,6 +114,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 04时20分]"
+        },
+        {
+          "title": "周鸿祎称AI正迎来全新进化",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0AI%E6%AD%A3%E8%BF%8E%E6%9D%A5%E5%85%A8%E6%96%B0%E8%BF%9B%E5%8C%96%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "AI龙虾为何那么“生猛”",
+          "url": "https://www.douyin.com/hot/2425335",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "恒生指数收盘涨2.17%，AIGC概念领涨，腾讯控股涨超7%",
+          "url": "https://wallstreetcn.com/livenews/3067156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "Anthropic：计划在Claude Code中推出“代码审查”（Code Review）功能，该功能将率在Claude for Teams和Claude for Enterprise客户的研究预览版中推出。",
@@ -165,7 +199,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         }
@@ -173,7 +207,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "失落星船马拉松游戏评测",
@@ -187,15 +221,49 @@
           "time_info": "08时55分"
         },
         {
+          "title": "华为将于3月20日发布数据存储新品",
+          "url": "https://wallstreetcn.com/livenews/3067165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "根据IDC最新发布的《中国可穿戴设备市场季度跟踪报告》，2025年中国腕戴设备市场出货量为7,390万台，同比增长20.8%。其中，华为以2510万台出货量，34%市场份额稳居中国市场出货量第一。",
           "url": "https://wallstreetcn.com/livenews/3067010",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 16时28分]"
+        },
+        {
+          "title": "「拼豆」爆火掀年轻人手作热潮，有门店年入 40 万，为何会让年轻人如此「上头」？这是种什么消费心理？",
+          "url": "https://www.zhihu.com/question/1993266628503237180",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 16时28分]"
         },
         {
           "title": "天津最新油价公布",
@@ -209,17 +277,6 @@
           "time_info": "08时55分"
         },
         {
-          "title": "美媒最新民调：特朗普支持率下滑至44%",
-          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
           "title": "我国发布「十五五」规划纲要草案，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2012872737916461690",
           "source": "知乎",
@@ -231,24 +288,35 @@
           "time_info": "08时55分"
         },
         {
+          "title": "广期所发布关于多晶硅期货ps2703、碳酸锂期货lc2703合约有关事项的公告",
+          "url": "https://flash.jin10.com/detail/20260310160435729800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "广期所发布关于多晶硅期货ps2703、碳酸锂期货lc2703合约有关事项的公告",
+          "url": "https://wallstreetcn.com/livenews/3067149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "“龙虾”爆火 傅盛“产品运”又应验",
           "url": "https://www.toutiao.com/trending/7615422253848612394/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "「拼豆」爆火掀年轻人手作热潮，有门店年入 40 万，为何会让年轻人如此「上头」？这是种什么消费心理？",
-          "url": "https://www.zhihu.com/question/1993266628503237180",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -259,7 +327,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -281,6 +349,21 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "被扼杀的F1巅峰科技去了哪",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E6%89%BC%E6%9D%80%E7%9A%84F1%E5%B7%85%E5%B3%B0%E7%A7%91%E6%8A%80%E5%8E%BB%E4%BA%86%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            22,
+            14,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 16时28分]"
+        },
+        {
           "title": "标普500指数初步收涨0.8%，科技板块涨1.6%，能源板块跌0.6%。 纳斯达克100指数初步收涨1.3%，成分股中，西部数据初步收涨6.2%，科磊涨5.9%，希捷科技、拉姆研究、AMD、阿斯麦ADR、英特尔至少涨4.7%，思科跌3.2%，特许通讯跌4.2%。 卡特彼勒初步收涨3.1%，英伟达涨2.5%，安进涨2%，领跑道指成分股，IBM则跌2.1%，波音跌2.7%，思科表现最差。",
           "url": "https://wallstreetcn.com/livenews/3066718",
           "source": "华尔街见闻-快讯",
@@ -292,18 +375,16 @@
           "time_info": "04时20分"
         },
         {
-          "title": "被扼杀的F1巅峰科技去了哪",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E6%89%BC%E6%9D%80%E7%9A%84F1%E5%B7%85%E5%B3%B0%E7%A7%91%E6%8A%80%E5%8E%BB%E4%BA%86%E5%93%AA",
+          "title": "如何客观认识中国科技实力",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%AE%A2%E8%A7%82%E8%AE%A4%E8%AF%86%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%AE%9E%E5%8A%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            22,
-            14,
-            9
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 13时05分]"
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 16时28分]"
         },
         {
           "title": "纳指实现V形反转，此前一度跌1.4%。半导体指数涨超1.2%，生物科技指数涨超0.6%。 标普500指数仍然跌超0.4%，道指维持400点、0.8%的跌幅，银行指数目前跌2.5%。 彭博美元指数回吐涨幅，油价涨势减退。",
@@ -315,17 +396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "如何客观认识中国科技实力",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%AE%A2%E8%A7%82%E8%AE%A4%E8%AF%86%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%AE%9E%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.41%，报25370点。 恒生科技指数主连夜盘收涨0.51%，报4954点。",
@@ -360,22 +430,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%87%86%E4%B8%89%E5%8F%8C%E7%BB%9D%E6%9D%80",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 16时28分]"
         },
         {
           "title": "亚历山大绝杀掘金",
           "url": "https://www.douyin.com/hot/2425141",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 16时28分]"
         }
       ]
     }
