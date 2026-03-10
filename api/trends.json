@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-03-11T00:44:55.615882+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-11T04:21:31.125537+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "brahma AI与谷歌云构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3067459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
         {
           "title": "高校出手,AI龙虾被禁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351656&amp;topic_name=%E9%AB%98%E6%A0%A1%E5%87%BA%E6%89%8B%2CAI%E9%BE%99%E8%99%BE%E8%A2%AB%E7%A6%81",
           "source": "贴吧",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
+        },
+        {
+          "title": "brahma AI与谷歌云构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3067459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +37,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
+        },
+        {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
         },
         {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
@@ -63,26 +86,48 @@
           "time_info": "00时44分"
         },
         {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
+          "title": "建议不允许青少年用AI做作业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "04时21分"
         },
         {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
+          "title": "亚马逊赢得美国法庭禁令，封杀Perplexity AI购物机器人",
+          "url": "https://wallstreetcn.com/livenews/3067538",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "04时21分"
+        },
+        {
+          "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3067532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
+          "url": "https://flash.jin10.com/detail/20260311035704540800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "院士说文科生绝不会被AI替代",
@@ -99,7 +144,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "国家互联网应急中心发布OpenClaw安全应用风险提示",
@@ -109,19 +154,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
         },
         {
           "title": "「拼豆」爆火掀年轻人手作热潮，有门店年入 40 万，为何会让年轻人如此「上头」？这是种什么消费心理？",
           "url": "https://www.zhihu.com/question/1993266628503237180",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
         },
         {
           "title": "原来这些爆火的文案都是王源写的",
@@ -131,8 +177,103 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
+        },
+        {
+          "title": "伊朗议会议长：一艘油轮在美军舰艇护航下穿越霍尔木兹海峡？也许在PlayStation游戏里会发生吧！（美能源部长声称美军护送油轮通过了霍尔木兹海峡，随后删帖）",
+          "url": "https://flash.jin10.com/detail/20260311035830469800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美国中央司令部发布视频，声称正在削弱伊朗在海上投射的力量和骚扰国际航运的能力。",
+          "url": "https://flash.jin10.com/detail/20260311035000484800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "沙特外交大臣与俄罗斯外长通电话，就地区局势最新发展交换意见。",
+          "url": "https://wallstreetcn.com/livenews/3067519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "【美官员称“海军护航油轮通过霍尔木兹海峡”后删帖，伊朗回应：纯属谎言】美国能源部长克里斯·赖特当地时间10日在社交媒体发布帖文表示，美国海军已成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流向全球市场。但该帖文随后不久被删除。一名消息人士表示，美国海军尚未在霍尔木兹海峡为油轮提供护航。过去一周，美国政府内部一直在讨论海军护航行动的启动时机和条件。伊朗伊斯兰革命卫队海军司令回应美国能源部长这一声明称，“所谓美国军方护送油轮通过霍尔木兹海峡的说法纯属谎言。美国及其盟友的任何行动都将在伊朗导弹和无人机的射程范围内被阻止。” (央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3067515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "标普500指数初步收跌0.3%，能源板块跌1.3%，科技板块大致持平，电信板块涨0.1%。 纳斯达克100指数初步收跌0.1%，成分股中，AppLovin初步收跌7.8%，汤森路透跌6.9%，Axon跌5.1%，阿斯麦ADR、思科涨超1%，拼多多涨2.1%，英特尔涨2.4%，希捷科技涨2.5%，美光涨3.2%，VRTX涨8.2%。 波音初步收跌3.2%，领跌道指成分股，Salesforce跌2.1%，雪佛龙跌1.6%，微软跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3067549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "【数据看盘】外资与机构激烈博弈东山精密，多路资金抢筹光迅科技",
+          "url": "https://www.cls.cn/detail/2308610",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
+        },
+        {
+          "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，这将为能源行业和数据中心带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2013408348217836162",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.10%，报25936点。 恒生科技指数主连夜盘收涨0.57%，报5086点。",
+          "url": "https://wallstreetcn.com/livenews/3067531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -148,8 +289,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时21分]"
         },
         {
           "title": "亚历山大绝杀掘金",
@@ -157,34 +298,6 @@
           "source": "抖音",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【数据看盘】外资与机构激烈博弈东山精密，多路资金抢筹光迅科技",
-          "url": "https://www.cls.cn/detail/2308610",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，这将为能源行业和数据中心带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2013408348217836162",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
