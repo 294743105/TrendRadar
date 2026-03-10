@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T08:55:48.464681+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-03-10T13:05:49.140955+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "yilai加入BLG无畏契约",
@@ -63,9 +63,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 13时05分]"
         },
         {
           "title": "清华经管院长谈AI“龙虾”",
@@ -74,9 +74,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3067011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "小片片解读AI神作牌子",
@@ -121,7 +132,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -146,12 +157,128 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "腾讯股价涨超6%，领涨恒生科技指数成分股，此前腾讯正式推出AI智能助手WorkBuddy，花旗将腾讯此举视为其AI发展的里程碑。",
+          "url": "https://wallstreetcn.com/livenews/3066984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "失落星船马拉松游戏评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E8%90%BD%E6%98%9F%E8%88%B9%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "根据IDC最新发布的《中国可穿戴设备市场季度跟踪报告》，2025年中国腕戴设备市场出货量为7,390万台，同比增长20.8%。其中，华为以2510万台出货量，34%市场份额稳居中国市场出货量第一。",
+          "url": "https://wallstreetcn.com/livenews/3067010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "天津最新油价公布",
+          "url": "https://www.toutiao.com/trending/7614679243054530601/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "我国发布「十五五」规划纲要草案，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2012872737916461690",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "“龙虾”爆火 傅盛“产品运”又应验",
+          "url": "https://www.toutiao.com/trending/7615422253848612394/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "「拼豆」爆火掀年轻人手作热潮，有门店年入 40 万，为何会让年轻人如此「上头」？这是种什么消费心理？",
+          "url": "https://www.zhihu.com/question/1993266628503237180",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "阿联酋发布导弹威胁警报。",
+          "url": "https://flash.jin10.com/detail/20260310121813486800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "SK海力士引领韩国芯片股反弹，SK海力士股价最新上涨9.1%。",
+          "url": "https://flash.jin10.com/detail/20260310080720220800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "标普500指数初步收涨0.8%，科技板块涨1.6%，能源板块跌0.6%。 纳斯达克100指数初步收涨1.3%，成分股中，西部数据初步收涨6.2%，科磊涨5.9%，希捷科技、拉姆研究、AMD、阿斯麦ADR、英特尔至少涨4.7%，思科跌3.2%，特许通讯跌4.2%。 卡特彼勒初步收涨3.1%，英伟达涨2.5%，安进涨2%，领跑道指成分股，IBM则跌2.1%，波音跌2.7%，思科表现最差。",
@@ -171,11 +298,12 @@
           "ranks": [
             8,
             22,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 08时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 13时05分]"
         },
         {
           "title": "纳指实现V形反转，此前一度跌1.4%。半导体指数涨超1.2%，生物科技指数涨超0.6%。 标普500指数仍然跌超0.4%，道指维持400点、0.8%的跌幅，银行指数目前跌2.5%。 彭博美元指数回吐涨幅，油价涨势减退。",
@@ -187,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "如何客观认识中国科技实力",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%AE%A2%E8%A7%82%E8%AE%A4%E8%AF%86%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%AE%9E%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.41%，报25370点。 恒生科技指数主连夜盘收涨0.51%，报4954点。",
@@ -206,59 +345,37 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
       ]
     },
     {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 2,
       "titles": [
         {
-          "title": "失落星船马拉松游戏评测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E8%90%BD%E6%98%9F%E8%88%B9%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "title": "亚历山大准三双绝杀",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%E5%87%86%E4%B8%89%E5%8F%8C%E7%BB%9D%E6%9D%80",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "13时05分"
         },
         {
-          "title": "天津最新油价公布",
-          "url": "https://www.toutiao.com/trending/7614679243054530601/",
-          "source": "今日头条",
+          "title": "亚历山大绝杀掘金",
+          "url": "https://www.douyin.com/hot/2425141",
+          "source": "抖音",
           "ranks": [
-            6
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "我国发布「十五五」规划纲要草案，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2012872737916461690",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "SK海力士引领韩国芯片股反弹，SK海力士股价最新上涨9.1%。",
-          "url": "https://flash.jin10.com/detail/20260310080720220800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "13时05分"
         }
       ]
     }
