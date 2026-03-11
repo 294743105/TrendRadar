@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T16:27:47.591513+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-03-11T20:32:20.127063+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             12,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 20时32分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -45,6 +46,28 @@
           "time_info": "00时44分"
         },
         {
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "AI龙虾爆火,大神在线答疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "两会现场 我问了AI这样一个问题",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
           "source": "百度热搜",
@@ -56,6 +79,31 @@
           "time_info": "[00时44分 ~ 13时07分]"
         },
         {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 20时32分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 20时32分]"
+        },
+        {
           "title": "建议不允许青少年用AI做作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -65,6 +113,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时21分 ~ 08时57分]"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 20时32分]"
         },
         {
           "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
@@ -91,16 +151,16 @@
           "time_info": "[00时44分 ~ 04时21分]"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            12
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时07分 ~ 16时27分]"
+          "time_info": "[16时27分 ~ 20时32分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -136,15 +196,15 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
+          "title": "Gemini五连绝世",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "20时32分"
         },
         {
           "title": "AI短剧火热，业内人士称“是接下来最大风口”，行业内90%公司仍处于亏损状态",
@@ -169,17 +229,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "谷歌公司发布Gemini Embedding 2。",
           "url": "https://wallstreetcn.com/livenews/3067453",
           "source": "华尔街见闻-快讯",
@@ -191,15 +240,26 @@
           "time_info": "00时44分"
         },
         {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "20时32分"
+        },
+        {
+          "title": "抖音再战社交，“小火人”打头阵：上线世界广场，内测AI精灵聊天",
+          "url": "https://wallstreetcn.com/livenews/3068063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "亚马逊赢得美国法庭禁令，封杀Perplexity AI购物机器人",
@@ -233,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "百度：DuClaw允许百度AI云用户访问OpenClaw。",
+          "url": "https://flash.jin10.com/detail/20260311200418601800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -279,6 +350,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "院士说文科生绝不会被AI替代",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E6%96%87%E7%A7%91%E7%94%9F%E7%BB%9D%E4%B8%8D%E4%BC%9A%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -288,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "Meta：宣布在先进AI领域的新投资，推出帮助用户识别和避开诈骗者的工具。 将在Facebook、Messenger和WhatsApp推出新工具，以帮助防范诈骗。",
+          "url": "https://wallstreetcn.com/livenews/3068045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "安大略省教师退休基金（OTPP）公共与私人投资首席投资官Gillian Brown：由于人工智能（AI）的不确定性，我们对软件类资产进行了调整。 而在医疗保健领域，我们认为该行业在特定时期内存在过度购买，从而产生了‘投资年份风险’（vintage risk），因此也进行了估值下修。 除此之外，其他调整更多是属于公司特有的风险。（彭博）",
@@ -304,7 +397,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "国家互联网应急中心发布OpenClaw安全应用风险提示",
@@ -338,7 +431,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -377,6 +470,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "工信部发布关于防范OpenClaw（“龙虾”）开源智能体安全风险的“六要六不要”建议",
+          "url": "https://wallstreetcn.com/livenews/3068061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "伊朗议会议长：一艘油轮在美军舰艇护航下穿越霍尔木兹海峡？也许在PlayStation游戏里会发生吧！（美能源部长声称美军护送油轮通过了霍尔木兹海峡，随后删帖）",
           "url": "https://flash.jin10.com/detail/20260311035830469800",
           "source": "金十数据",
@@ -394,7 +498,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -421,6 +525,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "《电力厂站足式机器人巡检》标准正式发布，咸亨国际子公司等13家企业参与起草",
+          "url": "https://wallstreetcn.com/livenews/3068041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "【美官员称“海军护航油轮通过霍尔木兹海峡”后删帖，伊朗回应：纯属谎言】美国能源部长克里斯·赖特当地时间10日在社交媒体发布帖文表示，美国海军已成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流向全球市场。但该帖文随后不久被删除。一名消息人士表示，美国海军尚未在霍尔木兹海峡为油轮提供护航。过去一周，美国政府内部一直在讨论海军护航行动的启动时机和条件。伊朗伊斯兰革命卫队海军司令回应美国能源部长这一声明称，“所谓美国军方护送油轮通过霍尔木兹海峡的说法纯属谎言。美国及其盟友的任何行动都将在伊朗导弹和无人机的射程范围内被阻止。” (央视新闻)",
           "url": "https://wallstreetcn.com/livenews/3067515",
           "source": "华尔街见闻-快讯",
@@ -435,7 +550,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】国家互联网应急中心提示“龙虾”风险；上交所发声！事关支持科技创新和新质生产力发展",
@@ -482,6 +597,18 @@
           "time_info": "[00时44分 ~ 04时21分]"
         },
         {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 20时32分]"
+        },
+        {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，背后动因是什么？将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2013408348217836162",
           "source": "知乎",
@@ -516,15 +643,15 @@
           "time_info": "13时07分"
         },
         {
-          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
-          "source": "澎湃新闻",
+          "title": "美国中央司令部：太空部队正在帮助保护美军。",
+          "url": "https://flash.jin10.com/detail/20260311200003235800",
+          "source": "金十数据",
           "ranks": [
-            14
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "20时32分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.10%，报25936点。 恒生科技指数主连夜盘收涨0.57%，报5086点。",
@@ -559,11 +686,12 @@
           "url": "https://www.zhihu.com/question/2014970131302863058",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 20时32分]"
         },
         {
           "title": "亚历山大准三双绝杀",
