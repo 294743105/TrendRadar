@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T04:26:08.383385+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-03-13T08:59:52.801769+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -19,6 +19,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "“乐山大佛是大禹雕像”系AI生成",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
@@ -26,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 08时59分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -35,11 +46,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 08时59分]"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -53,13 +65,35 @@
           "time_info": "00时46分"
         },
         {
+          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
+          "url": "https://www.cls.cn/detail/2311468",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "软银股价一度下跌5.8%，此前Jefferies因OpenAI投资风险上升而将软银评级从“持有”下调至“弱于大盘”。",
+          "url": "https://wallstreetcn.com/livenews/3069234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
           "url": "https://flash.jin10.com/detail/20260313034321354800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -81,7 +115,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -92,7 +126,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -108,6 +142,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "马斯克：AI奇点后“钱将不再重要”",
+          "url": "https://www.toutiao.com/trending/7615104402223038506/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "马斯克：Digital Optimus将适用于所有配备AI4的汽车。",
           "url": "https://flash.jin10.com/detail/20260312235514093800",
           "source": "金十数据",
@@ -117,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美媒：Meta因性能问题推迟发布新AI模型",
+          "url": "https://flash.jin10.com/detail/20260313080255959800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -130,13 +186,24 @@
           "time_info": "00时46分"
         },
         {
+          "title": "Meta在出现性能担忧后推迟了新AI模型的推出。Meta已将“Avocado”（牛油果）模型的发布时间从本月推迟至至少5月份。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3069209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
           "url": "https://wallstreetcn.com/livenews/3069106",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -155,7 +222,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
@@ -176,7 +243,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -198,7 +265,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -220,7 +287,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -234,13 +301,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（3月13日）",
+          "url": "https://flash.jin10.com/detail/20260313074527129800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "F1中国站新闻发布会",
+          "url": "https://search.bilibili.com/all?keyword=F1%E4%B8%AD%E5%9B%BD%E7%AB%99%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊发布个人照片",
           "url": "https://wallstreetcn.com/livenews/3069057",
@@ -253,22 +342,23 @@
           "time_info": "00时46分"
         },
         {
+          "title": "周杰伦官宣3月24日发布新专辑",
+          "url": "https://www.douyin.com/hot/2428320",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 08时59分]"
+        },
+        {
           "title": "近期多部门发布提示「养龙虾」安全提示，新技术与风险该如何平衡？",
           "url": "https://www.zhihu.com/question/2015138293377935117",
           "source": "知乎",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 04时26分]"
-        },
-        {
-          "title": "周杰伦官宣3月24日发布新专辑",
-          "url": "https://www.douyin.com/hot/2428320",
-          "source": "抖音",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -284,6 +374,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "游戏角色跳跃动作是如何设计的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E8%B7%B3%E8%B7%83%E5%8A%A8%E4%BD%9C%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "伊朗最高领袖发布个人照片",
+          "url": "https://www.toutiao.com/trending/7615941078433464374/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "代表建议游戏平台凌晨 1 点到 5 点强制关闭，成年人的游戏时间也要被限制吗？若实行会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2015376786591014918",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     }
