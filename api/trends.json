@@ -1,12 +1,49 @@
 {
-  "generated_at": "2026-03-14T13:06:42.217345+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-03-14T16:21:33.531807+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "鹅厂抄袭AI龙虾,创始人开喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351810&amp;topic_name=%E9%B9%85%E5%8E%82%E6%8A%84%E8%A2%ADAI%E9%BE%99%E8%99%BE%2C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%BC%80%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 16时21分]"
+        },
+        {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 16时21分]"
+        },
         {
           "title": "DeepSeek V4 为什么还不发布？",
           "url": "https://www.zhihu.com/question/2014783631814580088",
@@ -19,19 +56,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 08时58分]"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 13时06分]"
         },
         {
           "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
@@ -71,15 +95,26 @@
           "time_info": "[08时58分 ~ 13时06分]"
         },
         {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
+          "title": "美国商务部撤回拟议的AI芯片出口管制新规",
+          "url": "https://wallstreetcn.com/livenews/3070033",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "16时21分"
+        },
+        {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
@@ -110,7 +145,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -148,6 +183,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "政府网站显示，美国商务部撤回关于AI芯片出口的拟议规则",
+          "url": "https://flash.jin10.com/detail/20260314140852478800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "Mosaic股价跌幅扩大至5.9%。",
           "url": "https://wallstreetcn.com/livenews/3069973",
           "source": "华尔街见闻-快讯",
@@ -162,7 +208,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "国家网络安全通报中心发布OpenClaw安全风险预警",
@@ -174,8 +220,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 16时21分]"
         },
         {
           "title": "“施工图”发布 “十五五”这样干",
@@ -184,9 +230,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "315晚会主题发布",
+          "url": "https://www.douyin.com/hot/2429917",
+          "source": "抖音",
+          "ranks": [
+            14,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 16时21分]"
         },
         {
           "title": "最新金融数据出炉：前两月社融规模增量9.6万亿，贷款供需两端积极因素增多",
@@ -202,16 +261,16 @@
           "time_info": "[00时28分 ~ 08时58分]"
         },
         {
-          "title": "315晚会主题发布",
-          "url": "https://www.douyin.com/hot/2429917",
-          "source": "抖音",
+          "title": "美媒披露美军最新伤亡情况",
+          "url": "https://news.ifeng.com/c/8rTsbyso9X3",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            4
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时28分 ~ 13时06分]"
+          "time_info": "[13时06分 ~ 16时21分]"
         },
         {
           "title": "伊朗最高领袖发布个人照片",
@@ -223,17 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 04时21分]"
-        },
-        {
-          "title": "美媒披露美军最新伤亡情况",
-          "url": "https://news.ifeng.com/c/8rTsbyso9X3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "美国能源部： 能源部启动战略石油储备紧急交换计划，以稳定全球石油供应。 发布一份关于从战略石油储备中交换原油的征收建议书（RFP），这是本周早些时候宣布的1.72亿桶原油交换计划的一部分。首份RFP将涉及8600万桶原油。",
@@ -253,9 +301,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "上海发布31项新质要素，加速培育新质生产力",
+          "url": "https://wallstreetcn.com/livenews/3070096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "美军何时护航油轮通过霍尔木兹海峡？特朗普最新表态：很快",
@@ -275,9 +334,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "问界M6内饰官图发布",
+          "url": "https://www.toutiao.com/trending/7616988113851780635/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "美国能源部：发布从战略石油储备中进行原油置换的招标公告，这是本周早些时候宣布的1.72亿桶置换计划的一部分。",
@@ -308,7 +378,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         }
@@ -346,11 +416,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 13时06分]"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 16时21分]"
         },
         {
           "title": "【数据看盘】“北向+机构+游资” 集体出逃光迅科技，量化资金、一线游资联手抢筹化工人气股",
