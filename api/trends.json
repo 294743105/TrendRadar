@@ -1,299 +1,55 @@
 {
-  "generated_at": "2026-03-15T20:25:49.765391+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-03-16T00:18:22.085103+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 12,
       "titles": [
         {
-          "title": "央视「3·15」晚会主题发布，将关注食品安全、公共安全、金融安全、广告市场等领域，哪些看点值得关注？",
-          "url": "https://www.zhihu.com/question/2016099547433161361",
-          "source": "知乎",
+          "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
+          "url": "https://www.cls.cn/detail/2313341",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 20时25分]"
-        },
-        {
-          "title": "刘文祥刚爆火就塌房",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%96%87%E7%A5%A5%E5%88%9A%E7%88%86%E7%81%AB%E5%B0%B1%E5%A1%8C%E6%88%BF%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "Kimi爆火，月之暗面估值冲到180亿美元 ，不到3个月翻了4倍！",
-          "url": "https://wallstreetcn.com/articles/3767528",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 16时24分]"
-        },
-        {
-          "title": "战雷上央视,游戏画面被打假",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351822&amp;topic_name=%E6%88%98%E9%9B%B7%E4%B8%8A%E5%A4%AE%E8%A7%86%2C%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2%E8%A2%AB%E6%89%93%E5%81%87",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 20时25分]"
-        },
-        {
-          "title": "中办、国办发布关于推进社会工作专业人员队伍建设的意见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32768221",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 09时08分]"
-        },
-        {
-          "title": "两会受权发布丨关于2025年中央和地方预算执行情况与2026年中央和地方预算草案的报告",
-          "url": "https://wallstreetcn.com/livenews/3070175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 09时08分]"
-        },
-        {
-          "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32732284",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 20时25分]"
-        },
-        {
-          "title": "两会受权发布｜关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3070170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
-          "title": "书店老板“诊断式荐书”爆火",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A6%E5%BA%97%E8%80%81%E6%9D%BF%E2%80%9C%E8%AF%8A%E6%96%AD%E5%BC%8F%E8%8D%90%E4%B9%A6%E2%80%9D%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
-          "title": "中国互联网金融协会发布《关于OpenClaw在互联网金融行业应用安全的风险提示》",
-          "url": "https://wallstreetcn.com/livenews/3070226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "夯爆了,追觅自研cpu发布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351828&amp;topic_name=%E5%A4%AF%E7%88%86%E4%BA%86%2C%E8%BF%BD%E8%A7%85%E8%87%AA%E7%A0%94cpu%E5%8F%91%E5%B8%83",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "三亚发布购房风险提示",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E5%8F%91%E5%B8%83%E8%B4%AD%E6%88%BF%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美军发布“林肯”号航母最新视频",
-          "url": "https://www.toutiao.com/trending/7616619304323842084/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布，对其影响有多大？有哪些好的应对方式？",
-          "url": "https://www.zhihu.com/question/2016435583233255060",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "李宇春想唱就唱最新直拍",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%AE%87%E6%98%A5%E6%83%B3%E5%94%B1%E5%B0%B1%E5%94%B1%E6%9C%80%E6%96%B0%E7%9B%B4%E6%8B%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 20时25分]"
-        },
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 09时08分]"
-        },
-        {
-          "title": "xAI核心团队基本跑光",
-          "url": "https://www.toutiao.com/trending/7617270651551747634/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            18,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 20时25分]"
-        },
-        {
-          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
-          "url": "https://wallstreetcn.com/articles/3767512",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 09时08分]"
-        },
-        {
-          "title": "内测输给Gemini，还套壳？！Meta千亿自研大模型遭延期",
-          "url": "https://wallstreetcn.com/articles/3767525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 16时24分]"
-        },
-        {
-          "title": "马斯克xAI联创团队几乎全跑了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 16时24分]"
-        },
-        {
-          "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
-          "url": "https://wallstreetcn.com/articles/3767515",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "00时18分"
         },
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
           "url": "https://wallstreetcn.com/articles/3767535",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "00时18分"
+        },
+        {
+          "title": "315曝光AI大模型遭投毒操控",
+          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "315晚会曝光“AI投毒产业链”",
+          "url": "https://www.douyin.com/hot/2431845",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
@@ -302,156 +58,186 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
-          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "00时18分"
         },
         {
-          "title": "84岁奶奶为AI霸总花近万还要嫁给他",
-          "url": "https://s.weibo.com/weibo?q=%2384%E5%B2%81%E5%A5%B6%E5%A5%B6%E4%B8%BAAI%E9%9C%B8%E6%80%BB%E8%8A%B1%E8%BF%91%E4%B8%87%E8%BF%98%E8%A6%81%E5%AB%81%E7%BB%99%E4%BB%96%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "美国法官：马斯克使用氯胺酮的情况不得在OpenAI欺诈案审理中被探究",
-          "url": "https://wallstreetcn.com/livenews/3070282",
+          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
+          "url": "https://wallstreetcn.com/livenews/3070375",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "吉林一号太空实拍海上动态船只视频发布，甚至能看清甲板细节，这意味着什么？有哪些技术飞跃值得关注？",
-          "url": "https://www.zhihu.com/question/2015403166217234028",
-          "source": "知乎",
-          "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
-          "url": "https://wallstreetcn.com/articles/3767500",
-          "source": "华尔街见闻",
+          "title": "六指内塔尼亚胡是AI替身？真相来了",
+          "url": "https://www.toutiao.com/trending/7617060842857267209/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            8
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 09时08分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "Space X IPO，马斯克要学“马老师”",
-          "url": "https://wallstreetcn.com/articles/3767527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 16时24分]"
-        },
-        {
-          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
-          "url": "https://www.cls.cn/detail/2313116",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 20时25分]"
-        },
-        {
-          "title": "获马斯克背书的英国新政党正与法拉奇争夺选民",
-          "url": "https://wallstreetcn.com/livenews/3070288",
+          "title": "专家：AI大模型投毒是新型不正当竞争",
+          "url": "https://wallstreetcn.com/livenews/3070365",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "咱中国在太空炼出的“丹药”长这样",
-          "url": "https://www.baidu.com/s?wd=%E5%92%B1%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%82%BC%E5%87%BA%E7%9A%84%E2%80%9C%E4%B8%B9%E8%8D%AF%E2%80%9D%E9%95%BF%E8%BF%99%E6%A0%B7",
-          "source": "百度热搜",
-          "ranks": [
-            14
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "00时18分"
         },
         {
-          "title": "深度揭秘太空光伏计划",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8F%AD%E7%A7%98%E5%A4%AA%E7%A9%BA%E5%85%89%E4%BC%8F%E8%AE%A1%E5%88%92",
+          "title": "实测AI推荐如何被操控",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
           "source": "bilibili 热搜",
           "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "315晚会曝光“AI投毒产业链”",
+          "url": "https://www.toutiao.com/trending/7616979498366140452/",
+          "source": "今日头条",
+          "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时15分"
+          "time_info": "00时18分"
         },
         {
-          "title": "马斯克：超大型半导体制造工厂TeraFAB项目将在7天内启动。",
-          "url": "https://flash.jin10.com/detail/20260314214348744800",
-          "source": "金十数据",
+          "title": "美国交通部长Duffy：我们准备就霍尔木兹海峡通航问题提供保险。 Caine正分析（美国军队）何时才能安全地（提供）护航。 可能会在一天之后开始提供护航，也可能还要一周。",
+          "url": "https://wallstreetcn.com/livenews/3070357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "00时18分"
         }
       ]
     },
     {
-      "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 6,
       "titles": [
         {
-          "title": "2526 赛季 NBA 常规赛湖人 127:125 加时战胜掘金，东契奇绝杀，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2016442922027988746",
-          "source": "知乎",
+          "title": "以总理发布视频自证仍“在世” 称将继续对伊朗行动",
+          "url": "https://flash.jin10.com/detail/20260315234905473800",
+          "source": "金十数据",
           "ranks": [
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "00时18分"
+        },
+        {
+          "title": "以总理发布视频自证仍“在世”，称将继续对伊朗行动",
+          "url": "https://wallstreetcn.com/livenews/3070385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "夯爆了,追觅自研cpu发布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351828&amp;topic_name=%E5%A4%AF%E7%88%86%E4%BA%86%2C%E8%BF%BD%E8%A7%85%E8%87%AA%E7%A0%94cpu%E5%8F%91%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布，对其影响有多大？有哪些好的应对方式？",
+          "url": "https://www.zhihu.com/question/2016435583233255060",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "战雷上央视,游戏画面被打假",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351822&amp;topic_name=%E6%88%98%E9%9B%B7%E4%B8%8A%E5%A4%AE%E8%A7%86%2C%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2%E8%A2%AB%E6%89%93%E5%81%87",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32732284",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——超级央行周来袭，美日英欧瑞加央行决议轮番“炸场”；阿里、腾讯等多家科技公司财报将公布",
+          "url": "https://flash.jin10.com/detail/20260315214911547800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     }
