@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T01:13:47.821622+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-18T04:55:09.233057+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,19 +15,54 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
           "url": "https://www.zhihu.com/question/2016992148197750088",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
+        },
+        {
+          "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
+          "url": "https://www.zhihu.com/question/2016981407864414269",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
+        },
+        {
+          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
+          "url": "https://www.cls.cn/detail/2315814",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
+        },
+        {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
         },
         {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
@@ -35,17 +70,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
-          "url": "https://www.zhihu.com/question/2016981407864414269",
-          "source": "知乎",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,26 +98,15 @@
           "time_info": "01时13分"
         },
         {
-          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
-          "url": "https://www.cls.cn/detail/2315814",
-          "source": "财联社热门",
+          "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
+          "url": "https://wallstreetcn.com/livenews/3071875",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "于谦说怕AI偷看相册",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "04时55分"
         },
         {
           "title": "德国央行行长：AI创造的就业有望多于被取缔的岗位",
@@ -105,12 +118,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "报道：亚马逊预计AI将推动AWS销售额于2036年达到6000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3071871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "重磅意见发布 全面开展儿童友好建设",
@@ -120,8 +144,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
         },
         {
           "title": "伊朗媒体发布拉里贾尼手写悼词",
@@ -131,30 +155,54 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "一人公司爆火银行坐不住了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E7%88%86%E7%81%AB%E9%93%B6%E8%A1%8C%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
         },
         {
           "title": "如何看待网络游戏首次被纳入「十五五」规划？这会对国内游戏行业发展与出海带来哪些影响？",
           "url": "https://www.zhihu.com/question/2016817221809218289",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
+        },
+        {
+          "title": "一人公司爆火银行坐不住了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E7%88%86%E7%81%AB%E9%93%B6%E8%A1%8C%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
+        },
+        {
+          "title": "如何看待《杀戮尖塔 2》转到 godot 引擎并大获成功，这对于独立游戏开发者有什么启示？",
+          "url": "https://www.zhihu.com/question/2015546277190993578",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 04时55分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3071896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "04时55分"
         },
         {
           "title": "英伟达CEO黄仁勋：1万亿美元+的收入预期具有强烈的“能见度”。 这样的预期还仅仅包含了Blackwell和Rubin芯片。 这个预期还不包括即将发布的新品，也不包括新增的地区和市场。 希望预定和发货等业务规模将超过1万亿美元。 1万亿美元这个目标将继续膨胀。 季度预期可以超过（市场）预期。 客户希望确保自己能获得（充足的）供应。",
@@ -193,7 +241,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -203,8 +251,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
         },
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -214,8 +262,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
+        },
+        {
+          "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "04时55分"
         },
         {
           "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
@@ -225,8 +284,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 04时55分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，能源板块收涨1.02%，可选消费板块涨1%，电信板块涨0.67%，信息技术/科技板块涨0.21%，保健板块跌0.92%。",
+          "url": "https://wallstreetcn.com/livenews/3071893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "04时55分"
         }
       ]
     }
