@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T04:55:09.233057+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-03-18T09:05:22.659294+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,8 +15,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 09时05分]"
+        },
+        {
+          "title": "三星电子联席CEO全永铉：芯片业务首席技术官SONG JAI-HYUK辞去董事会职务。",
+          "url": "https://flash.jin10.com/detail/20260318085708351800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -24,11 +46,36 @@
           "source": "知乎",
           "ranks": [
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 09时05分]"
+        },
+        {
+          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
+          "url": "https://www.cls.cn/detail/2315814",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 09时05分]"
+        },
+        {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 09时05分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -37,28 +84,6 @@
           "ranks": [
             8,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时55分]"
-        },
-        {
-          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
-          "url": "https://www.cls.cn/detail/2315814",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时55分]"
-        },
-        {
-          "title": "于谦说怕AI偷看相册",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -74,6 +99,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "三星电子联合首席执行官Jun：已对股东回报政策进行了深入审查，将长期致力于提升股东价值。 将董事会成员人数从9人减至8人。 芯片业务首席技术官Song Jai-hyuk辞去董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3071991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "OpenAI官宣推出迄今最强大小型模型",
+          "url": "https://www.toutiao.com/trending/7618381122107346468/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -98,15 +145,59 @@
           "time_info": "01时13分"
         },
         {
+          "title": "七部门发AI安全治理3年计划？谣言",
+          "url": "https://www.toutiao.com/trending/7618388030847700530/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "摩根士丹利：上调宁德时代A和H股目标价 储能出货量料受AI需求提振",
+          "url": "https://wallstreetcn.com/livenews/3071985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "男二以下 AI演员",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
           "url": "https://wallstreetcn.com/livenews/3071875",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "三星电子：由AI驱动的强劲芯片需求将持续至2026年。 由于存储芯片价格上涨，预计个人电脑和移动设备的出货量可能出现下滑。",
+          "url": "https://wallstreetcn.com/livenews/3071973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "德国央行行长：AI创造的就业有望多于被取缔的岗位",
@@ -126,7 +217,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         }
@@ -134,7 +225,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "重磅意见发布 全面开展儿童友好建设",
@@ -144,8 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 09时05分]"
         },
         {
           "title": "伊朗媒体发布拉里贾尼手写悼词",
@@ -164,11 +255,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 09时05分]"
         },
         {
           "title": "一人公司爆火银行坐不住了",
@@ -181,6 +273,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 04时55分]"
+        },
+        {
+          "title": "杭州多地发布购房补贴活动，购买一套房补贴 10 万元消费券，对当地楼市有哪些影响？会有更多地方跟进吗？",
+          "url": "https://www.zhihu.com/question/2017278657140319985",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 09时05分]"
         },
         {
           "title": "如何看待《杀戮尖塔 2》转到 godot 引擎并大获成功，这对于独立游戏开发者有什么启示？",
@@ -200,7 +304,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -227,21 +331,21 @@
           "time_info": "01时13分"
         },
         {
-          "title": "杭州多地发布购房补贴活动，购买一套房补贴 10 万元消费券，对当地楼市有哪些影响？会有更多地方跟进吗？",
-          "url": "https://www.zhihu.com/question/2017278657140319985",
-          "source": "知乎",
+          "title": "这三类药物千万别吃错 医生最新提醒",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%89%E7%B1%BB%E8%8D%AF%E7%89%A9%E5%8D%83%E4%B8%87%E5%88%AB%E5%90%83%E9%94%99+%E5%8C%BB%E7%94%9F%E6%9C%80%E6%96%B0%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
           "ranks": [
-            16
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "09时05分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -272,7 +376,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -294,9 +398,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "固高科技：现阶段与接下来几年会重点拓展高端微纳装备领域应用落地",
+          "url": "https://flash.jin10.com/detail/20260318083130117800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     }
