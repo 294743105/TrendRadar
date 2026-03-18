@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-19T01:02:58.263374+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-19T04:24:48.238523+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
           "url": "https://www.zhihu.com/question/2017627475413262735",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
         },
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -41,6 +42,18 @@
           "time_info": "01时02分"
         },
         {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
+        },
+        {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
           "url": "https://www.cls.cn/detail/2316633",
           "source": "财联社热门",
@@ -48,19 +61,75 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
         },
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
           "url": "https://wallstreetcn.com/articles/3767836",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
+        },
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
+        },
+        {
+          "title": "王兴兴谈具身智能的GPT时刻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
+        },
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
+        },
+        {
+          "title": "网友抵制AI演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -74,77 +143,66 @@
           "time_info": "01时02分"
         },
         {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
+          "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
+          "url": "https://wallstreetcn.com/livenews/3072659",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "04时24分"
         },
         {
-          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
-          "url": "https://www.zhihu.com/question/2017543464514974274",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "王兴兴谈具身智能的GPT时刻",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "04时24分"
         },
         {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
+          "title": "鲍威尔：AI的通胀影响不明，短期内不会出现需要立即降息的情况",
+          "url": "https://flash.jin10.com/detail/20260319035753875800",
+          "source": "金十数据",
           "ranks": [
-            16
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "网友抵制AI演员",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 4,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "标普500指数的11个板块全线溃败，日用消费品板块收跌2.44%，可选消费板块跌2.32%，原材料板块跌2.25%，信息技术/科技板块跌1.24%跌幅居中，能源板块跌0.16%“领跑”。",
+          "url": "https://wallstreetcn.com/livenews/3072678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美光科技第二财季云存储营收77.5亿美元，核心数据中心营收56.9亿美元。第二财季营收238.6亿美元，分析师预期197.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
         {
           "title": "马斯克正与美国证券交易委员会（SEC）进行和解谈判，准备SpaceX IPO。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3072590",
@@ -164,8 +222,74 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
+        },
+        {
+          "title": "美光科技(MU.O)第二季度核心数据中心业务营收56.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260319040513684800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美光科技(MU.O)第二季度调整后毛利率为74.9%，市场预期为69.1%。",
+          "url": "https://flash.jin10.com/detail/20260319040449721800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，微博初步收跌10.8%，腾讯音乐跌9.4%，奇富科技跌8.3%，理想跌5.1%，腾讯控股跌4.7%，拼多多跌3.5%，比亚迪、文远知行、百胜中国、小鹏、小马智行、美团、小米集团、网易至少跌超1%，阿特斯太阳能、世纪互联则至多收涨1.5%，新东方涨3.6%，中通快递涨7.3%，金山云涨12.6%。",
+          "url": "https://wallstreetcn.com/livenews/3072672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美光科技(MU.O)批准将季度股息提高30%。",
+          "url": "https://flash.jin10.com/detail/20260319040449352800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美联储决议声明发布日，标普500指数初步收跌1.3%，可选消费、日用消费品板块跌超2.3%，原材料板块跌2.1%，金融、科技、电信板块至少跌1.1%，能源板块微跌不足0.1%“表现最佳”。 纳斯达克100指数初步收跌1.4%，成分股中，Strategy跌6.1%，特许通讯跌5.9%，星巴克跌5%，康卡斯特等跌超4%，天然气供应商Diamondback Energy涨1.5%，AMD涨1.7%，Datadog涨2%，英特尔涨2.4%，核电股CEG涨3.3%。 道指初步收跌超700点，成分股麦当劳、家得宝、宝洁、Visa、耐克至多跌3.3%领跌，摩根大通、雪佛龙至多涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3072670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美光科技(MU.O)预计第三季度调整后毛利率约为81%，此前预期为72.4%。",
+          "url": "https://flash.jin10.com/detail/20260319040339975800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "美媒：马斯克拟就推特持股披露问题与SEC和解，为SpaceX IPO铺路",
@@ -179,6 +303,28 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美光科技(MU.O)美股盘后涨2%。",
+          "url": "https://flash.jin10.com/detail/20260319040336883800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美光科技(MU.O)预期第三季度营收327.5亿美元至342.5亿美元，市场预期为243亿美元。",
+          "url": "https://flash.jin10.com/detail/20260319040317218800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "据AXIOS：马斯克正与美国证交会进行和解谈判，准备SpaceX IPO。",
           "url": "https://flash.jin10.com/detail/20260319004035540800",
           "source": "金十数据",
@@ -188,12 +334,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美光科技(MU.O)第二季度营收238.6亿美元，市场预期191.6亿美元，上年同期80.53亿美元。",
+          "url": "https://flash.jin10.com/detail/20260319040156807800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "周杰伦太阳之子最新预告",
@@ -203,8 +360,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
         },
         {
           "title": "籽岷又爆典:玩家需适应游戏",
@@ -214,8 +371,30 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 04时24分]"
+        },
+        {
+          "title": "提醒：美联储主席鲍威尔新闻发布会结束，FOMC将于4月28-29日举行下一轮货币政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3072660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "04时24分"
+        },
+        {
+          "title": "《关于在全社会推进儿童友好建设的意见》发布，将带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2017384049476379393",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     }
