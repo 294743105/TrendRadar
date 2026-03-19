@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T09:04:48.072032+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-03-19T13:19:45.330779+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -20,22 +20,22 @@
           "time_info": "[01时02分 ~ 04时24分]"
         },
         {
+          "title": "昆仑万维拉升涨近7%，天工AI大模型SkyReels V4登上Artificial Analysis榜单全球第一。",
+          "url": "https://wallstreetcn.com/livenews/3072940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
           "url": "https://flash.jin10.com/detail/20260319005023876800",
           "source": "金十数据",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "被黑产投毒的AI还可信吗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -48,11 +48,23 @@
           "ranks": [
             7,
             8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 13时19分]"
+        },
+        {
+          "title": "被黑产投毒的AI还可信吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 09时04分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -72,33 +84,61 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 09时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 13时19分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 09时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 13时19分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 13时19分]"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时02分 ~ 09时04分]"
+          "time_info": "[01时02分 ~ 13时19分]"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 13时19分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -112,18 +152,6 @@
           "time_info": "[01时02分 ~ 04时24分]"
         },
         {
-          "title": "AI短片流金谷恩仇录",
-          "url": "https://www.douyin.com/hot/2435233",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 09时04分]"
-        },
-        {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
           "url": "https://www.cls.cn/detail/2316793",
           "source": "财联社热门",
@@ -135,16 +163,28 @@
           "time_info": "[01时02分 ~ 04时24分]"
         },
         {
-          "title": "易小星参加B站AI创作大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
           "ranks": [
-            21,
-            14
+            18,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时24分 ~ 09时04分]"
+          "time_info": "[09时04分 ~ 13时19分]"
+        },
+        {
+          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
+          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -164,7 +204,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -175,20 +215,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
         {
-          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
-          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2017645383652696499",
           "source": "知乎",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "13时19分"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -202,15 +242,37 @@
           "time_info": "04时24分"
         },
         {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "13时19分"
+        },
+        {
+          "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787960",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "微短剧专业学生制作AI漫剧1分钟100元",
+          "url": "https://www.toutiao.com/trending/7617807310119288875/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "鲍威尔：AI的通胀影响不明，短期内不会出现需要立即降息的情况",
@@ -224,13 +286,24 @@
           "time_info": "04时24分"
         },
         {
+          "title": "XR研究院：千问AI眼镜开售首周线上份额超70%",
+          "url": "https://wallstreetcn.com/livenews/3072898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "报道：汇丰考虑在未来几年大幅裁员，出于AI因素考量",
           "url": "https://wallstreetcn.com/livenews/3072758",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         }
@@ -238,8 +311,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "小米超强钢获得国家级科技一等奖",
+          "url": "https://www.toutiao.com/trending/7618129522013847561/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
         {
           "title": "标普500指数的11个板块全线溃败，日用消费品板块收跌2.44%，可选消费板块跌2.32%，原材料板块跌2.25%，信息技术/科技板块跌1.24%跌幅居中，能源板块跌0.16%“领跑”。",
           "url": "https://wallstreetcn.com/livenews/3072678",
@@ -409,7 +493,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "周杰伦太阳之子最新预告",
@@ -423,15 +507,27 @@
           "time_info": "[01时02分 ~ 09时04分]"
         },
         {
+          "title": "如何评价小米 3 月 19 日发布的 Xiaomi MiMo-V2-Pro / Omni/TTS?",
+          "url": "https://www.zhihu.com/question/2017762947045295328",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "籽岷又爆典:玩家需适应游戏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352034&amp;topic_name=%E7%B1%BD%E5%B2%B7%E5%8F%88%E7%88%86%E5%85%B8%3A%E7%8E%A9%E5%AE%B6%E9%9C%80%E9%80%82%E5%BA%94%E6%B8%B8%E6%88%8F",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 09时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 13时19分]"
         },
         {
           "title": "美元兑韩元最新上涨1.2%，报1501.25。",
@@ -440,7 +536,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -465,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "上海发布实施方案：优化老年人就业支持",
+          "url": "https://wallstreetcn.com/livenews/3072895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     },
@@ -479,7 +586,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         }
