@@ -1,33 +1,49 @@
 {
-  "generated_at": "2026-03-21T04:20:05.896150+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-03-21T08:57:29.452311+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "宇树科技招股书公开 冲刺科创板具身智能第一股",
           "url": "https://www.cls.cn/detail/2319719",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
+        },
+        {
+          "title": "宇树科技科创板 IPO 申请获受理，拟融资 42.02 亿元，对宇树有哪些利好？未来前景怎么样？",
+          "url": "https://www.zhihu.com/question/2018383636429239354",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9,
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
         },
         {
           "title": "字节跳动413亿元出售沐瞳科技",
           "url": "https://www.toutiao.com/trending/7619266987387633710/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时57分]"
         },
         {
           "title": "本周，标普累跌约2.3%，能源板块累涨约2.9%；道指累跌约2.2%，纳指累跌约2.3%，半导体指数累跌约0.2%。 周五当天，标普500指数初步收跌1.5%，公用事业板块跌4%，房地产板块跌3%，科技板块跌超2%，能源板块涨0.2%。 纳斯达克100指数初步收跌1.9%，成分股中，核电股CEG跌11.1%，西部数据跌7.8%，希捷科技跌5.6%，CrowdStrike跌5.4%，Diamondback Energy涨1.1%，Arm控股涨1.7%。 霍尼韦尔初步收跌3.3%，与英伟达、波音领跌道指成分股，高盛、Visa、VZ则至少涨超0.4%领跑。",
@@ -36,7 +52,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -47,24 +63,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
-        },
-        {
-          "title": "宇树科技科创板 IPO 申请获受理，拟融资 42.02 亿元，对宇树有哪些利好？未来前景怎么样？",
-          "url": "https://www.zhihu.com/question/2018383636429239354",
-          "source": "知乎",
-          "ranks": [
-            19,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
         },
         {
           "title": "上交所受理宇树科技IPO申请",
@@ -90,15 +94,37 @@
           "time_info": "[00时29分 ~ 04时20分]"
         },
         {
+          "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3074385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "美股低开低走，道指收跌0.97%，标普500指数收跌1.51%，纳指跌2.01%。超微电脑(SMCI.O)跌超33%，英伟达(NVDA.O)跌3.2%，美光科技(MU.O)跌4.8%。纳斯达克中国金龙指数跌2.8%，小鹏汽车(XPEV.N)跌8.2%。",
           "url": "https://flash.jin10.com/detail/20260321040036809800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "宇树科技IPO获受理，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
+          "url": "https://wallstreetcn.com/articles/3768005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "标普500指数跌幅扩大至2%，公用事业板块跌3.96%，房地产板块跌3.13%，科技板块跌2.6%跌幅第三大，能源板块涨0.3%。 纳斯达克100指数跌2.4%，成分股核电公司Constellation Energy跌11.78%，西部数据、美光科技、希捷科技至多跌7.62%，英特尔、阿斯麦ADR、拉姆研究、特斯拉至少跌3.97%，英伟达跌3.61%，Meta跌2.95%，Paychex、Diamondback Energy、Workday、Arm控股至少涨超1%。 纳斯达克综合指数较10月29日收盘位回撤超10%。",
@@ -107,9 +133,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "宇树科技科创板IPO获受理：拟募资42.02亿元，去年营收17亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32801162",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（3月20日），美国科技股七巨头（Magnificent 7）指数跌2.00%，报185.18点，本周累计下跌2.48%，3月16-17日高位窄幅震荡，3月18-20日持续走低。 “超大”市值科技股指数跌1.99%，报352.43点，本周累跌2.19%。",
+          "url": "https://wallstreetcn.com/livenews/3074383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "恒生指数主连夜盘收跌2.08%，报24725点。 恒生科技指数主连夜盘收跌2.14%，报4762点。",
@@ -118,7 +166,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -132,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
+          "url": "https://wallstreetcn.com/livenews/3074361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
@@ -144,11 +203,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -166,11 +226,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -179,11 +240,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -192,11 +254,12 @@
           "ranks": [
             23,
             22,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -204,22 +267,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
         },
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
           "url": "https://www.zhihu.com/question/2016876183153768141",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时57分]"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -327,6 +392,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "NBA状元热门首轮爆冷",
+          "url": "https://search.bilibili.com/all?keyword=NBA%E7%8A%B6%E5%85%83%E7%83%AD%E9%97%A8%E9%A6%96%E8%BD%AE%E7%88%86%E5%86%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     }
