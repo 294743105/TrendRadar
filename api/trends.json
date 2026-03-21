@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T13:02:08.440796+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-03-21T16:19:33.776050+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "宇树科技招股书公开 冲刺科创板具身智能第一股",
@@ -60,6 +60,17 @@
           "time_info": "[04时19分 ~ 08时57分]"
         },
         {
+          "title": "“十五五”规划纲要提到哪些科技热词",
+          "url": "https://www.toutiao.com/trending/7619605828634529290/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "本周，标普累跌约2.3%，能源板块累涨约2.9%；道指累跌约2.2%，纳指累跌约2.3%，半导体指数累跌约0.2%。 周五当天，标普500指数初步收跌1.5%，公用事业板块跌4%，房地产板块跌3%，科技板块跌超2%，能源板块涨0.2%。 纳斯达克100指数初步收跌1.9%，成分股中，核电股CEG跌11.1%，西部数据跌7.8%，希捷科技跌5.6%，CrowdStrike跌5.4%，Diamondback Energy涨1.1%，Arm控股涨1.7%。 霍尼韦尔初步收跌3.3%，与英伟达、波音领跌道指成分股，高盛、Visa、VZ则至少涨超0.4%领跑。",
           "url": "https://wallstreetcn.com/livenews/3074326",
           "source": "华尔街见闻-快讯",
@@ -99,22 +110,24 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 16时19分]"
         },
         {
           "title": "印度实力露馅,科技全线拉胯",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352144&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%AE%9E%E5%8A%9B%E9%9C%B2%E9%A6%85%2C%E7%A7%91%E6%8A%80%E5%85%A8%E7%BA%BF%E6%8B%89%E8%83%AF",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时19分]"
         },
         {
           "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
@@ -127,6 +140,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 13时02分]"
+        },
+        {
+          "title": "宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
+          "url": "https://wallstreetcn.com/articles/3768005",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "梅姨落网背后的打拐黑科技",
+          "url": "https://www.douyin.com/hot/2438541",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
+          "url": "https://flash.jin10.com/detail/20260321154514979800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美股低开低走，道指收跌0.97%，标普500指数收跌1.51%，纳指跌2.01%。超微电脑(SMCI.O)跌超33%，英伟达(NVDA.O)跌3.2%，美光科技(MU.O)跌4.8%。纳斯达克中国金龙指数跌2.8%，小鹏汽车(XPEV.N)跌8.2%。",
@@ -208,8 +254,186 @@
       ]
     },
     {
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 16时19分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时20分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 16时19分]"
+        },
+        {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 13时02分]"
+        },
+        {
+          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
+          "url": "https://www.zhihu.com/question/2016876183153768141",
+          "source": "知乎",
+          "ranks": [
+            20,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 13时02分]"
+        },
+        {
+          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
+          "url": "https://flash.jin10.com/detail/20260321155755350800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            22,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 08时57分]"
+        },
+        {
+          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
+          "url": "https://www.zhihu.com/question/2017644548151616976",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时19分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时20分]"
+        },
+        {
+          "title": "博主用AI手搓应用1个多月赚近九千",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
+        },
+        {
+          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
+          "url": "https://www.zhihu.com/question/2017816580403246847",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "抵制没用 AI演员已经杀进影视圈",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%B5%E5%88%B6%E6%B2%A1%E7%94%A8+AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E6%9D%80%E8%BF%9B%E5%BD%B1%E8%A7%86%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
+          "url": "https://wallstreetcn.com/livenews/3074229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美以伊战争丨伊朗官媒发布多张最高领袖照片",
@@ -246,15 +470,15 @@
           "time_info": "[00时29分 ~ 04时20分]"
         },
         {
-          "title": "华为将发布首款风冷散热手机",
-          "url": "https://wallstreetcn.com/livenews/3074408",
-          "source": "华尔街见闻-快讯",
+          "title": "风云四号C星首套观测图像发布",
+          "url": "https://www.douyin.com/hot/2438267",
+          "source": "抖音",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "16时19分"
         },
         {
           "title": "华为将发布首款风冷散热手机",
@@ -263,9 +487,45 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
+          "url": "https://www.cls.cn/detail/2320263",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时19分]"
+        },
+        {
+          "title": "靠人脉才能加上蛋糕商家微信号，有人专程「打飞的」吃糕，「主理人蛋糕」为啥能爆火？买它到底是在买什么？",
+          "url": "https://www.zhihu.com/question/2018260588451606734",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时19分]"
+        },
+        {
+          "title": "华为将发布首款风冷散热手机",
+          "url": "https://wallstreetcn.com/livenews/3074408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 16时19分]"
         },
         {
           "title": "籽岷又爆典:玩家需适应游戏",
@@ -279,26 +539,16 @@
           "time_info": "[00时29分 ~ 04时20分]"
         },
         {
-          "title": "靠人脉才能加上蛋糕商家微信号，有人专程「打飞的」吃糕，「主理人蛋糕」为啥能爆火？买它到底是在买什么？",
-          "url": "https://www.zhihu.com/question/2018260588451606734",
-          "source": "知乎",
+          "title": "风云四号C星首套观测图像发布，综合能力达到世界先进水平",
+          "url": "https://wallstreetcn.com/livenews/3074396",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            12,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
-          "url": "https://www.cls.cn/detail/2320263",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "time_info": "[13时02分 ~ 16时19分]"
         },
         {
           "title": "如何评价《杀戮尖塔 2》3.20 发布的更新内容？",
@@ -335,164 +585,11 @@
           "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "风云四号C星首套观测图像发布，综合能力达到世界先进水平",
-          "url": "https://wallstreetcn.com/livenews/3074396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
           "title": "Steam春促",
           "url": "https://s.weibo.com/weibo?q=Steam%E6%98%A5%E4%BF%83&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 13时02分]"
-        },
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时20分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 13时02分]"
-        },
-        {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 13时02分]"
-        },
-        {
-          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
-          "url": "https://www.zhihu.com/question/2016876183153768141",
-          "source": "知乎",
-          "ranks": [
-            20,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 13时02分]"
-        },
-        {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            22,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 08时57分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 08时57分]"
-        },
-        {
-          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
-          "url": "https://www.zhihu.com/question/2017644548151616976",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时20分]"
-        },
-        {
-          "title": "博主用AI手搓应用1个多月赚近九千",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
-          "url": "https://wallstreetcn.com/livenews/3074229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
