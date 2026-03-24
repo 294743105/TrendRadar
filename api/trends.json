@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T16:38:08.919916+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-03-24T20:40:59.089234+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -13,11 +13,26 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时38分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 20时40分]"
+        },
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 20时40分]"
         },
         {
           "title": "普通人如何制作AI视频",
@@ -32,19 +47,6 @@
           "time_info": "[00时43分 ~ 08时58分]"
         },
         {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 16时38分]"
-        },
-        {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
           "url": "https://www.cls.cn/detail/2322334",
           "source": "财联社热门",
@@ -55,6 +57,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时18分 ~ 16时38分]"
+        },
+        {
+          "title": "官方定调！AI时代“词元经济”崛起",
+          "url": "https://www.cls.cn/detail/2322996",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
@@ -84,11 +97,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 20时40分]"
         },
         {
           "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
@@ -113,15 +127,48 @@
           "time_info": "00时43分"
         },
         {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "港股收评：恒指收涨2.79% 新消费概念、AI应用股持续走强",
           "url": "https://flash.jin10.com/detail/20260324161539220800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "市场消息：挪威国家石油公司已启动巴西Raia项目的钻井阶段。",
+          "url": "https://flash.jin10.com/detail/20260324200254484800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "Meta挖角AI初创公司Dreamer团队",
@@ -133,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "西门子中国联手宇树、阿里云，打造工业AI生态系统",
+          "url": "https://wallstreetcn.com/livenews/3075929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "AI写歌走红程序员9个月赚20万",
@@ -155,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司",
+          "url": "https://wallstreetcn.com/livenews/3075921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
@@ -175,6 +244,18 @@
           "time_info": "[00时43分 ~ 08时58分]"
         },
         {
+          "title": "如何评价周杰伦《太阳之子》的最新 MV？",
+          "url": "https://www.zhihu.com/question/2019769399599477553",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 20时40分]"
+        },
+        {
           "title": "李在明涉国防最新表态",
           "url": "https://news.ifeng.com/c/8rjSp4r3K0R",
           "source": "凤凰网",
@@ -185,17 +266,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 13时19分]"
-        },
-        {
-          "title": "如何评价周杰伦《太阳之子》的最新 MV？",
-          "url": "https://www.zhihu.com/question/2019769399599477553",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "布伦特原油期货续涨，最新涨2%至每桶101.99美元。",
@@ -232,6 +302,18 @@
           "time_info": "[04时27分 ~ 13时19分]"
         },
         {
+          "title": "以总统刚开完发布会就遇火箭弹袭击",
+          "url": "https://www.toutiao.com/trending/7620672080866508842/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 20时40分]"
+        },
+        {
           "title": "余承东首次缺席鸿蒙智行发布会",
           "url": "https://www.toutiao.com/trending/7619722057303031862/",
           "source": "今日头条",
@@ -248,17 +330,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "以总统刚开完发布会就遇火箭弹袭击",
-          "url": "https://www.toutiao.com/trending/7620672080866508842/",
-          "source": "今日头条",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -331,11 +402,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时38分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 20时40分]"
         },
         {
           "title": "Strategy拟筹资逾400亿美元，从而加速购买比特币",
@@ -399,7 +471,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -410,7 +482,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
