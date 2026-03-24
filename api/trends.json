@@ -1,490 +1,364 @@
 {
-  "generated_at": "2026-03-24T20:40:59.089234+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-03-25T00:48:55.258139+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
+          "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3076091",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            4,
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 20时40分]"
-        },
-        {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 20时40分]"
-        },
-        {
-          "title": "普通人如何制作AI视频",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 08时58分]"
-        },
-        {
-          "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
-          "url": "https://www.cls.cn/detail/2322334",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时38分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "官方定调！AI时代“词元经济”崛起",
           "url": "https://www.cls.cn/detail/2322996",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
-          "url": "https://wallstreetcn.com/livenews/3075317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
-          "url": "https://www.cls.cn/detail/2322062",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 13时19分]"
-        },
-        {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 20时40分]"
-        },
-        {
-          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
-          "url": "https://www.zhihu.com/question/2019761369977767358",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "内娱影视行业AI化是好是坏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A8%B1%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9AAI%E5%8C%96%E6%98%AF%E5%A5%BD%E6%98%AF%E5%9D%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "港股收评：恒指收涨2.79% 新消费概念、AI应用股持续走强",
-          "url": "https://flash.jin10.com/detail/20260324161539220800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "市场消息：挪威国家石油公司已启动巴西Raia项目的钻井阶段。",
-          "url": "https://flash.jin10.com/detail/20260324200254484800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "Meta挖角AI初创公司Dreamer团队",
-          "url": "https://wallstreetcn.com/livenews/3075373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "西门子中国联手宇树、阿里云，打造工业AI生态系统",
-          "url": "https://wallstreetcn.com/livenews/3075929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "AI写歌走红程序员9个月赚20万",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
-          "url": "https://wallstreetcn.com/livenews/3075367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司",
-          "url": "https://wallstreetcn.com/livenews/3075921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "如何看待华为 3 月 23 日举办的春季新品发布会？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019430438742049214",
-          "source": "知乎",
-          "ranks": [
-            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 08时58分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "如何评价周杰伦《太阳之子》的最新 MV？",
-          "url": "https://www.zhihu.com/question/2019769399599477553",
-          "source": "知乎",
+          "title": "谷歌公司：在谷歌电视（Google TV）新增三款Gemini功能。",
+          "url": "https://wallstreetcn.com/livenews/3076087",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 20时40分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "李在明涉国防最新表态",
-          "url": "https://news.ifeng.com/c/8rjSp4r3K0R",
-          "source": "凤凰网",
+          "title": "OpenAI：扩大智能体商务协议（Agentic Commerce Protocol，简称ACP）。 ACP将支持产品发现。 （ACP）在ChatGPT中支持产品发现。",
+          "url": "https://wallstreetcn.com/livenews/3076085",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 13时19分]"
-        },
-        {
-          "title": "布伦特原油期货续涨，最新涨2%至每桶101.99美元。",
-          "url": "https://wallstreetcn.com/livenews/3075519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "00时48分"
         },
         {
-          "title": "印度NIFTY 50指数回吐部分涨幅，最新上涨0.65%。",
-          "url": "https://flash.jin10.com/detail/20260324131213492800",
+          "title": "据华尔街日报：Meta首席技术官安德鲁·博斯沃思将负责监管公司的“面向工作的AI”计划，公司重心正从元宇宙转移。",
+          "url": "https://flash.jin10.com/detail/20260325002113000800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "拳头最新全球战力榜 BLG第一",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%B3%E5%A4%B4%E6%9C%80%E6%96%B0%E5%85%A8%E7%90%83%E6%88%98%E5%8A%9B%E6%A6%9C%20BLG%E7%AC%AC%E4%B8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 13时19分]"
-        },
-        {
-          "title": "以总统刚开完发布会就遇火箭弹袭击",
-          "url": "https://www.toutiao.com/trending/7620672080866508842/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 20时40分]"
-        },
-        {
-          "title": "余承东首次缺席鸿蒙智行发布会",
-          "url": "https://www.toutiao.com/trending/7619722057303031862/",
-          "source": "今日头条",
-          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "警惕免费领游戏皮肤的骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E5%85%8D%E8%B4%B9%E9%A2%86%E6%B8%B8%E6%88%8F%E7%9A%AE%E8%82%A4%E7%9A%84%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "如果给丧尸设计一种「致口腔纤维化」的生化药剂，让它们张嘴困难无法攻击，在丧尸游戏里合理吗？",
-          "url": "https://www.zhihu.com/question/2018475089969063023",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "美国发布海外公民安全警告",
-          "url": "https://www.douyin.com/hot/2440076",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 04时28分]"
-        },
-        {
-          "title": "世界气象组织发布报告：地球能量失衡程度达新高",
-          "url": "https://wallstreetcn.com/livenews/3075397",
+          "title": "OpenAI：介绍OpenAI Foundation的最新情况。 预计未来一年将投资至少10亿美元。 将在未来一个月介绍相关情况。",
+          "url": "https://wallstreetcn.com/livenews/3076083",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "科技春耕与春日经济共绘希望田野",
-          "url": "https://www.toutiao.com/trending/7620147172323049508/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 08时58分]"
+          "time_info": "00时48分"
         },
         {
-          "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时28分]"
-        },
-        {
-          "title": "史上最大造芯计划启动，马斯克胃口为何这么大",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32816082",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 20时40分]"
-        },
-        {
-          "title": "Strategy拟筹资逾400亿美元，从而加速购买比特币",
-          "url": "https://wallstreetcn.com/livenews/3075399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2019363621617025238",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 08时58分]"
-        },
-        {
-          "title": "【数据看盘】化工ETF上周份额大减 一线游资联手量化资金抢筹太空光伏人气股",
-          "url": "https://www.cls.cn/detail/2321668",
-          "source": "财联社热门",
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时28分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "报道：日本自卫队大幅扩充太空部队规模",
-          "url": "https://wallstreetcn.com/livenews/3075303",
+          "title": "报告称AI将全面取代这六大岗位",
+          "url": "https://www.toutiao.com/trending/7620795844911959606/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
+          "url": "https://wallstreetcn.com/livenews/3076076",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "00时48分"
         },
         {
-          "title": "恒生指数主连夜盘收涨2.76%，报25020点。 恒生科技指数主连夜盘收涨2.68%，报4828点。",
-          "url": "https://wallstreetcn.com/livenews/3075385",
+          "title": "Shopify：从本周开始，数百万商家可以通过Agentic店面向ChatGPT用户销售商品。",
+          "url": "https://flash.jin10.com/detail/20260325001430896800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "OpenAI Nonprofit任命了多位领导人，希望在2026年开支10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076075",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "00时48分"
         },
         {
-          "title": "恒生指数收盘涨2.79%，恒生科技指数涨2.51%",
-          "url": "https://wallstreetcn.com/livenews/3075780",
-          "source": "华尔街见闻-快讯",
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "00时48分"
         },
         {
-          "title": "香港恒生指数3月24日（周二）收盘上涨681.24点，涨幅2.79%，报25063.71点；<br/>香港恒生科技指数3月24日（周二）收盘上涨118.41点，涨幅2.51%，报4830.89点；<br/>国企指数3月24日（周二）收盘上涨191.71点，涨幅2.31%，报8499.53点；<br/>红筹指数3月24日（周二）收盘上涨69.98点，涨幅1.69%，报4210.08点。",
-          "url": "https://flash.jin10.com/detail/20260324161449486800",
+          "title": "OpenAI：沃伊切赫·扎雷姆巴加入OpenAI基金会，担任人工智能韧性负责人。",
+          "url": "https://flash.jin10.com/detail/20260325000929683800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "美股软件股暴跌，报道称亚马逊推出新AI工具",
+          "url": "https://wallstreetcn.com/livenews/3076068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "OpenAI：杰夫·阿诺德加入OpenAI基金会，担任运营总监。罗伯特·凯登也将加入OpenAI基金会，担任首席财务官。",
+          "url": "https://flash.jin10.com/detail/20260325000839371800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
+          "url": "https://wallstreetcn.com/livenews/3076067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "Brett Adcock旗下初创公司Hark正致力于开发与家庭相关的AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3076064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "OpenAI：基金会预计明年将至少投资10亿美元，用于生命科学与疾病治愈、就业与经济影响以及人工智能韧性等领域。",
+          "url": "https://flash.jin10.com/detail/20260325000601292800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "00时48分"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
+          "url": "https://wallstreetcn.com/livenews/3076056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "OpenAI：OpenAI基金会预计明年将投资至少10亿美元，将在未来几个月内分享最新进展。",
+          "url": "https://flash.jin10.com/detail/20260325000106185800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "史上最大造芯计划启动，马斯克胃口为何这么大",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32816082",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "太空加油站新进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E5%8A%A0%E6%B2%B9%E7%AB%99%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "10倍涨幅，千元股价！CPO人气股源杰科技2025年年报披露",
+          "url": "https://www.cls.cn/detail/2323328",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "张雪峰去世，公司发布讣告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32822483",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "张雪峰公司发布讣告",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "火了还没适应的明星最好玩了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E4%BA%86%E8%BF%98%E6%B2%A1%E9%80%82%E5%BA%94%E7%9A%84%E6%98%8E%E6%98%9F%E6%9C%80%E5%A5%BD%E7%8E%A9%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "以总统刚开完发布会就遇火箭弹袭击",
+          "url": "https://www.toutiao.com/trending/7620672080866508842/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     }
