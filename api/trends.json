@@ -1,33 +1,152 @@
 {
-  "generated_at": "2026-03-26T00:52:36.587548+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-26T04:27:46.852328+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 5,
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 8,
       "titles": [
+        {
+          "title": "标普500指数的11个板块中，原材料板块收涨1.97%，可选消费板块涨1.18%，信息技术/科技板块涨0.56%，能源板块跌0.53%。",
+          "url": "https://wallstreetcn.com/livenews/3076889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32822267",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 04时27分]"
+        },
+        {
+          "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3076887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "标普500指数收涨35.53点，涨幅0.54%，报6591.90点。 道琼斯工业平均指数收涨305.43点，涨幅0.66%，报46429.49点。 纳斯达克综合指数（纳指）收涨167.931点，涨幅0.77%，报21929.825点。 纳斯达克100指数收涨160.528点，涨幅0.67%，报24162.976点。 费城半导体指数收涨1.21%，报7967.745点。 费城证交所KBW银行指数收涨0.48%，报154.11点。 纳斯达克生物科技指数收涨2.64%，报5729.51点。",
+          "url": "https://wallstreetcn.com/livenews/3076884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "市场消息：白宫已拒绝埃隆·马斯克关于在部分停摆期间支付运输安全管理局员工工资的提议。",
+          "url": "https://flash.jin10.com/detail/20260326034658802800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.86%，报6897.01点。 热门中概股里，宝尊电商初步收涨15.5%，美团涨13.8%，京东涨8.3%，阿特斯太阳能涨7.8%，金山云涨6.5%，拼多多涨4.5%，阿里涨3.6%，百度涨2.8%，新东方、小米涨超2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.29%，中概互联网指数ETF（KWEB）收涨3.04%。 XtrackersHarvest中证50（ASHS）收涨2.61%，德银嘉实沪深300指数ETF（ASHR）收涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3076882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美国银行客户上周是科技股创纪录的净买家，他们抛售其他一切资产。",
+          "url": "https://wallstreetcn.com/livenews/3076880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.40%，报25268点。 恒生科技指数主连夜盘收跌0.65%，报4903点。",
+          "url": "https://wallstreetcn.com/livenews/3076860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
+          "url": "https://wallstreetcn.com/livenews/3076892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 04时27分]"
         },
         {
           "title": "Token AI时代的新KPI",
           "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 04时27分]"
+        },
+        {
+          "title": "短剧演员成AI技术第一批“牺牲品”",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "04时27分"
         },
         {
           "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
@@ -73,11 +192,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32828365",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 04时27分]"
         },
         {
           "title": "酱板鸭视频爆火 证明了谁才是真主角",
@@ -85,23 +205,6 @@
           "source": "百度热搜",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32822267",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
