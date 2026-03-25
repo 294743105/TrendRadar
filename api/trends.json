@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T16:36:48.412457+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-03-25T20:38:37.515824+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -51,7 +51,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -187,6 +187,31 @@
           "time_info": "[00时48分 ~ 09时03分]"
         },
         {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 20时38分]"
+        },
+        {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 20时38分]"
+        },
+        {
           "title": "报告称AI将全面取代这六大岗位",
           "url": "https://www.toutiao.com/trending/7620795844911959606/",
           "source": "今日头条",
@@ -211,16 +236,28 @@
           "time_info": "[00时48分 ~ 04时31分]"
         },
         {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 20时38分]"
+        },
+        {
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时03分 ~ 16时36分]"
+          "time_info": "[16时36分 ~ 20时38分]"
         },
         {
           "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
@@ -240,18 +277,6 @@
           "source": "财联社热门",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 16时36分]"
-        },
-        {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -281,16 +306,16 @@
           "time_info": "[09时03分 ~ 16时36分]"
         },
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
           "ranks": [
-            20,
-            18
+            16,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 16时36分]"
+          "time_info": "[16时36分 ~ 20时38分]"
         },
         {
           "title": "据华尔街日报 ：OpenAI公司表示，计划停止其Sora视频平台的应用程序。该产品去年发布时曾风光一时，但此后便从公众视野中淡出。",
@@ -332,7 +357,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -354,18 +379,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -379,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
+          "url": "https://www.zhihu.com/question/2010673619001419372",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
@@ -431,7 +456,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -478,17 +503,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
-          "url": "https://www.zhihu.com/question/2019437515753398973",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "OpenAI：沃伊切赫·扎雷姆巴加入OpenAI基金会，担任人工智能韧性负责人。",
@@ -579,6 +593,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "程一笑：截至26年1月可灵AI ARR已超3亿美元，预计今年收入翻倍以上增长",
+          "url": "https://flash.jin10.com/detail/20260325193948964800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
           "url": "https://wallstreetcn.com/livenews/3076056",
           "source": "华尔街见闻-快讯",
@@ -596,7 +621,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -615,7 +640,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "张雪峰去世，公司发布讣告",
@@ -625,8 +650,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 20时38分]"
         },
         {
           "title": "“人生真好玩 下辈子还来”",
@@ -737,9 +762,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "北京发布2026年第二轮拟供商品住宅用地清单，共涉及4宗地",
+          "url": "https://wallstreetcn.com/livenews/3076660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "黄天鹅就鸡蛋角黄素抽检结果发布声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828365",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "北京发布2026年第二轮拟供宅地清单",
+          "url": "https://flash.jin10.com/detail/20260325195442502800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "以总统刚开完发布会就遇火箭弹袭击",
@@ -753,6 +811,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "国家新闻出版署公布2026年3月份进口网络游戏审批信息，共3款游戏获批。",
+          "url": "https://wallstreetcn.com/livenews/3076637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "据The Information：SpaceX的最新估值为1.25万亿美元，但要到IPO前几周才会确定实际的发行规模和估值。",
           "url": "https://flash.jin10.com/detail/20260325082008523800",
           "source": "金十数据",
@@ -764,6 +833,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "国家新闻出版署公布2026年3月份国产网络游戏审批信息，共130款游戏获批。",
+          "url": "https://wallstreetcn.com/livenews/3076632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "市场消息：苹果计划通过全新外观和聊天功能来升级Siri，预计将在6月8日的开发者大会上发布新Siri。",
           "url": "https://flash.jin10.com/detail/20260325025055186800",
           "source": "金十数据",
@@ -773,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "拼多多最新财报：“千亿扶持”投入一周年，全年营收同比增长10%",
+          "url": "https://wallstreetcn.com/livenews/3076628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "多家银行发布贵金属市场风险提示",
@@ -789,7 +880,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -837,6 +928,18 @@
           "time_info": "[00时48分 ~ 09时03分]"
         },
         {
+          "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32822267",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 20时38分]"
+        },
+        {
           "title": "标普500指数初步收跌0.4%，电信板块跌2.5%，科技、房地产板块跌0.7%，原材料板块涨1.7%，能源板块涨1.8%。 纳斯达克100指数初步收跌0.8%，成分股中，Axon跌9.7%，Atlassian跌8.2%，Zscaler跌8%，Workday跌5.6%，财捷、Datadog、Applovin、CrowdStrike、TTWO至少跌4.7%，天然气公司Diamondback Energy则涨2.6%，ADI、应用材料、德州仪器、科磊至多涨3.4%，希捷科技涨5.2%领跑。 Salesforce初步收跌6.3%，领跌道指成分股，IBM、微软、迪士尼、亚马逊、波音至多跌3%，摩根大通涨0.7%，雪佛龙涨0.7%，联合健康、沃尔玛、耐克涨超1%，卡特彼勒涨2%，思科涨2.5%。 费城半导体指数涨1.1%，费城银行指数涨1.1%。",
           "url": "https://wallstreetcn.com/livenews/3076179",
           "source": "华尔街见闻-快讯",
@@ -848,26 +951,26 @@
           "time_info": "04时31分"
         },
         {
-          "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32822267",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "美股太空概念股盘前上扬，DXYZ大涨近15%，Rocket Lab、AST SpaceMobile、Redwire、Planet Labs涨超3%，Destiny Tech100上涨17.7%，消息称SpaceX据悉最快本周递表。",
           "url": "https://flash.jin10.com/detail/20260325161629723800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "闪迪子公司拟通过私募方式收购南亚科技约1.39亿股股份，交易金额约10亿美元。该战略股权投资约占南亚科技已发行普通股的3.9%。收购价格较南亚科技30日均价折价15%。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "港股科技股尾盘持续拉升，美团涨超15%，京东、阿里巴巴涨超4%。",
@@ -876,7 +979,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -898,7 +1001,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -909,9 +1012,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "天沃科技：2025年净利润4697.4万元，同比增长95.41%",
+          "url": "https://flash.jin10.com/detail/20260325193839139800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.04%，报24972点。 恒生科技指数主连夜盘收跌0.08%，报4806点。",
