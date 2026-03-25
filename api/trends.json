@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T04:31:12.197827+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-03-25T09:03:49.740594+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -20,13 +20,35 @@
           "time_info": "[00时48分 ~ 04时31分]"
         },
         {
+          "title": "SK海力士：得益于AI，存储需求预计将在中长期内持续扩大。 2026年，HBM预计将继续成为存储市场增长的核心驱动力。",
+          "url": "https://wallstreetcn.com/livenews/3076282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "AI时代最离谱的KPI",
+          "url": "https://www.douyin.com/hot/2442005",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "据华尔街日报：OpenAI也将停止提供面向开发者的Sora版本，并且不会在ChatGPT中支持视频功能。",
           "url": "https://flash.jin10.com/detail/20260325035809155800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -48,7 +70,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -59,7 +81,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -68,11 +90,61 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 09时03分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 09时03分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 09时03分]"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 09时03分]"
+        },
+        {
+          "title": "Claude刚刚杀死了OpenClaw！",
+          "url": "https://wallstreetcn.com/articles/3768255",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时31分]"
+          "time_info": "[04时30分 ~ 09时03分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -81,29 +153,6 @@
           "ranks": [
             13,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时31分]"
-        },
-        {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时31分]"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -122,36 +171,13 @@
           "time_info": "[00时48分 ~ 04时31分]"
         },
         {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时31分]"
-        },
-        {
-          "title": "Claude刚刚杀死了OpenClaw！",
-          "url": "https://wallstreetcn.com/articles/3768255",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 04时31分]"
-        },
-        {
           "title": "据华尔街日报 ：OpenAI公司表示，计划停止其Sora视频平台的应用程序。该产品去年发布时曾风光一时，但此后便从公众视野中淡出。",
           "url": "https://flash.jin10.com/detail/20260325034504235800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -173,7 +199,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -184,9 +210,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
+          "url": "https://www.cls.cn/detail/2323532",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "OpenAI：扩大智能体商务协议（Agentic Commerce Protocol，简称ACP）。 ACP将支持产品发现。 （ACP）在ChatGPT中支持产品发现。",
@@ -200,6 +237,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
+          "url": "https://wallstreetcn.com/articles/3768225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "据华尔街日报：Meta首席技术官安德鲁·博斯沃思将负责监管公司的“面向工作的AI”计划，公司重心正从元宇宙转移。",
           "url": "https://flash.jin10.com/detail/20260325002113000800",
           "source": "金十数据",
@@ -211,6 +259,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "OpenAI：介绍OpenAI Foundation的最新情况。 预计未来一年将投资至少10亿美元。 将在未来一个月介绍相关情况。",
           "url": "https://wallstreetcn.com/livenews/3076083",
           "source": "华尔街见闻-快讯",
@@ -220,6 +279,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
+          "url": "https://www.cls.cn/detail/2323553",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
+          "url": "https://www.cls.cn/detail/2323662",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
@@ -261,9 +342,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "短剧撞脸迪丽热巴别甩锅AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%92%9E%E8%84%B8%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%AB%E7%94%A9%E9%94%85AI%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "OpenAI：沃伊切赫·扎雷姆巴加入OpenAI基金会，担任人工智能韧性负责人。",
@@ -297,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "深圳：到2028年AI服务器全产业链产品产能与出货量实现跨越式增长",
+          "url": "https://flash.jin10.com/detail/20260325082104187800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
@@ -357,7 +460,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "张雪峰去世，公司发布讣告",
@@ -367,8 +470,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 09时03分]"
+        },
+        {
+          "title": "多家银行发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "“人生真好玩 下辈子还来”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%BA%E7%94%9F%E7%9C%9F%E5%A5%BD%E7%8E%A9+%E4%B8%8B%E8%BE%88%E5%AD%90%E8%BF%98%E6%9D%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "iOS26.4正式版发布",
+          "url": "https://search.bilibili.com/all?keyword=iOS26.4%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -377,20 +513,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "张雪峰公司发布讣告",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时31分]"
         },
         {
           "title": "火了还没适应的明星最好玩了",
@@ -398,7 +523,19 @@
           "source": "微博",
           "ranks": [
             16,
-            25
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 09时03分]"
+        },
+        {
+          "title": "张雪峰公司发布讣告",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -438,21 +575,43 @@
           "time_info": "00时48分"
         },
         {
+          "title": "据The Information：SpaceX的最新估值为1.25万亿美元，但要到IPO前几周才会确定实际的发行规模和估值。",
+          "url": "https://flash.jin10.com/detail/20260325082008523800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "市场消息：苹果计划通过全新外观和聊天功能来升级Siri，预计将在6月8日的开发者大会上发布新Siri。",
           "url": "https://flash.jin10.com/detail/20260325025055186800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "多家银行发布贵金属市场风险提示",
+          "url": "https://www.toutiao.com/trending/7620849842151751716/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -496,8 +655,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 09时03分]"
         },
         {
           "title": "标普500指数初步收跌0.4%，电信板块跌2.5%，科技、房地产板块跌0.7%，原材料板块涨1.7%，能源板块涨1.8%。 纳斯达克100指数初步收跌0.8%，成分股中，Axon跌9.7%，Atlassian跌8.2%，Zscaler跌8%，Workday跌5.6%，财捷、Datadog、Applovin、CrowdStrike、TTWO至少跌4.7%，天然气公司Diamondback Energy则涨2.6%，ADI、应用材料、德州仪器、科磊至多涨3.4%，希捷科技涨5.2%领跑。 Salesforce初步收跌6.3%，领跌道指成分股，IBM、微软、迪士尼、亚马逊、波音至多跌3%，摩根大通涨0.7%，雪佛龙涨0.7%，联合健康、沃尔玛、耐克涨超1%，卡特彼勒涨2%，思科涨2.5%。 费城半导体指数涨1.1%，费城银行指数涨1.1%。",
@@ -506,9 +665,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "券商3月调研图谱浮现，科技与高端制造成机构“心头好”",
+          "url": "https://wallstreetcn.com/livenews/3076255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.04%，报24972点。 恒生科技指数主连夜盘收跌0.08%，报4806点。",
@@ -517,7 +687,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
