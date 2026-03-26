@@ -1,106 +1,11 @@
 {
-  "generated_at": "2026-03-26T04:27:46.852328+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-03-26T09:08:49.038532+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "标普500指数的11个板块中，原材料板块收涨1.97%，可选消费板块涨1.18%，信息技术/科技板块涨0.56%，能源板块跌0.53%。",
-          "url": "https://wallstreetcn.com/livenews/3076889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32822267",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 04时27分]"
-        },
-        {
-          "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3076887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "标普500指数收涨35.53点，涨幅0.54%，报6591.90点。 道琼斯工业平均指数收涨305.43点，涨幅0.66%，报46429.49点。 纳斯达克综合指数（纳指）收涨167.931点，涨幅0.77%，报21929.825点。 纳斯达克100指数收涨160.528点，涨幅0.67%，报24162.976点。 费城半导体指数收涨1.21%，报7967.745点。 费城证交所KBW银行指数收涨0.48%，报154.11点。 纳斯达克生物科技指数收涨2.64%，报5729.51点。",
-          "url": "https://wallstreetcn.com/livenews/3076884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "市场消息：白宫已拒绝埃隆·马斯克关于在部分停摆期间支付运输安全管理局员工工资的提议。",
-          "url": "https://flash.jin10.com/detail/20260326034658802800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.86%，报6897.01点。 热门中概股里，宝尊电商初步收涨15.5%，美团涨13.8%，京东涨8.3%，阿特斯太阳能涨7.8%，金山云涨6.5%，拼多多涨4.5%，阿里涨3.6%，百度涨2.8%，新东方、小米涨超2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.29%，中概互联网指数ETF（KWEB）收涨3.04%。 XtrackersHarvest中证50（ASHS）收涨2.61%，德银嘉实沪深300指数ETF（ASHR）收涨2.09%。",
-          "url": "https://wallstreetcn.com/livenews/3076882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国银行客户上周是科技股创纪录的净买家，他们抛售其他一切资产。",
-          "url": "https://wallstreetcn.com/livenews/3076880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.40%，报25268点。 恒生科技指数主连夜盘收跌0.65%，报4903点。",
-          "url": "https://wallstreetcn.com/livenews/3076860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
@@ -109,21 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
+          "title": "华尔街惊呼：AI最大赢家已换人",
+          "url": "https://www.toutiao.com/trending/7620277693901586442/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 04时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -131,33 +35,71 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 09时08分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 09时08分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
           "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 09时08分]"
         },
         {
           "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
           "url": "https://www.zhihu.com/question/2020204147274642238",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 09时08分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正投资人工智能初创公司Isara，该公司最近从投资者处筹集了9400万美元，而OpenAI以6.5亿美元的估值投资了该公司。",
+          "url": "https://flash.jin10.com/detail/20260326083429340800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "09时08分"
+        },
+        {
+          "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
+          "url": "https://wallstreetcn.com/livenews/3076984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
@@ -184,20 +126,182 @@
       ]
     },
     {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 2,
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "据港交所文件：易点天下网络科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260326084125217800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "标普500指数的11个板块中，原材料板块收涨1.97%，可选消费板块涨1.18%，信息技术/科技板块涨0.56%，能源板块跌0.53%。",
+          "url": "https://wallstreetcn.com/livenews/3076889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32822267",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 04时27分]"
+        },
+        {
+          "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3076887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "标普500指数收涨35.53点，涨幅0.54%，报6591.90点。 道琼斯工业平均指数收涨305.43点，涨幅0.66%，报46429.49点。 纳斯达克综合指数（纳指）收涨167.931点，涨幅0.77%，报21929.825点。 纳斯达克100指数收涨160.528点，涨幅0.67%，报24162.976点。 费城半导体指数收涨1.21%，报7967.745点。 费城证交所KBW银行指数收涨0.48%，报154.11点。 纳斯达克生物科技指数收涨2.64%，报5729.51点。",
+          "url": "https://wallstreetcn.com/livenews/3076884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "市场消息：白宫已拒绝埃隆·马斯克关于在部分停摆期间支付运输安全管理局员工工资的提议。",
+          "url": "https://flash.jin10.com/detail/20260326034658802800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.86%，报6897.01点。 热门中概股里，宝尊电商初步收涨15.5%，美团涨13.8%，京东涨8.3%，阿特斯太阳能涨7.8%，金山云涨6.5%，拼多多涨4.5%，阿里涨3.6%，百度涨2.8%，新东方、小米涨超2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.29%，中概互联网指数ETF（KWEB）收涨3.04%。 XtrackersHarvest中证50（ASHS）收涨2.61%，德银嘉实沪深300指数ETF（ASHR）收涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3076882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美国银行客户上周是科技股创纪录的净买家，他们抛售其他一切资产。",
+          "url": "https://wallstreetcn.com/livenews/3076880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.40%，报25268点。 恒生科技指数主连夜盘收跌0.65%，报4903点。",
+          "url": "https://wallstreetcn.com/livenews/3076860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
         {
           "title": "黄天鹅就鸡蛋角黄素抽检结果发布声明",
           "url": "https://m.thepaper.cn/newsDetail_forward_32828365",
           "source": "澎湃新闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 09时08分]"
+        },
+        {
+          "title": "中东战火烧个不停 巴斯夫发布第五份涨价公告 基础胺类涨幅可达30%",
+          "url": "https://www.cls.cn/detail/2324965",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "伊朗拒绝美国停战提议！关于是否开展谈判，双方最新表态",
+          "url": "https://www.cls.cn/detail/2325068",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "家里给了 200w，打算做独立游戏，怎么做才能活下来？",
+          "url": "https://www.zhihu.com/question/2018661495609783295",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "剧版《哈利波特》发布首支预告",
+          "url": "https://www.baidu.com/s?wd=%E5%89%A7%E7%89%88%E3%80%8A%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E3%80%8B%E5%8F%91%E5%B8%83%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "酱板鸭视频爆火 证明了谁才是真主角",
