@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-27T13:29:53.456550+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-03-27T16:38:14.236161+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "周董新歌爆火,文旅圈集体狂欢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352381&amp;topic_name=%E5%91%A8%E8%91%A3%E6%96%B0%E6%AD%8C%E7%88%86%E7%81%AB%2C%E6%96%87%E6%97%85%E5%9C%88%E9%9B%86%E4%BD%93%E7%8B%82%E6%AC%A2",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 16时38分]"
+        },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
           "url": "https://wallstreetcn.com/articles/3768391",
@@ -19,17 +33,64 @@
           "time_info": "[00时51分 ~ 04时26分]"
         },
         {
-          "title": "周董新歌爆火,文旅圈集体狂欢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352381&amp;topic_name=%E5%91%A8%E8%91%A3%E6%96%B0%E6%AD%8C%E7%88%86%E7%81%AB%2C%E6%96%87%E6%97%85%E5%9C%88%E9%9B%86%E4%BD%93%E7%8B%82%E6%AC%A2",
-          "source": "贴吧",
+          "title": "罗技回应发布侮辱性广告",
+          "url": "https://www.douyin.com/hot/2444760",
+          "source": "抖音",
           "ranks": [
-            5,
+            19,
+            9,
             7,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 16时38分]"
+        },
+        {
+          "title": "封关百日成绩单发布",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%81%E5%85%B3%E7%99%BE%E6%97%A5%E6%88%90%E7%BB%A9%E5%8D%95%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "罗技就「广告侮辱消费者」道歉，称员工擅自发布，将深刻检讨，暴露出其宣发方面哪些问题？对品牌影响有多大？",
+          "url": "https://www.zhihu.com/question/2020603008002605570",
+          "source": "知乎",
+          "ranks": [
+            1,
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 16时38分]"
+        },
+        {
+          "title": "中国发布芯片研发突破成果",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E8%8A%AF%E7%89%87%E7%A0%94%E5%8F%91%E7%AA%81%E7%A0%B4%E6%88%90%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "教育部发布20条严禁清单",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8320%E6%9D%A1%E4%B8%A5%E7%A6%81%E6%B8%85%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.7%，报360.19点。 在十个板块中，北欧工业板块跌幅最大。 博利登Boliden AB跌19.9%，在一众北欧个股里表现最差，这家业务涉及铜矿等的矿业公司介绍了Garpenberg矿场的最新情况，生产所受干扰比预料的更加糟糕。",
@@ -43,30 +104,17 @@
           "time_info": "00时52分"
         },
         {
-          "title": "罗技回应发布侮辱性广告",
-          "url": "https://www.douyin.com/hot/2444760",
-          "source": "抖音",
+          "title": "美最新民调显示：近六成美国人认为对伊朗军事行动“过头”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837291",
+          "source": "澎湃新闻",
           "ranks": [
             19,
             9,
-            7,
-            22
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 13时29分]"
-        },
-        {
-          "title": "罗技就「广告侮辱消费者」道歉，称员工擅自发布，将深刻检讨，暴露出其宣发方面哪些问题？对品牌影响有多大？",
-          "url": "https://www.zhihu.com/question/2020603008002605570",
-          "source": "知乎",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 16时38分]"
         },
         {
           "title": "伊朗陆军司令发出最新警告",
@@ -78,6 +126,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 04时26分]"
+        },
+        {
+          "title": "罗技中国为涉嫌侮辱消费者致歉：运营人员跳过审核流程擅自发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32839318",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时38分]"
+        },
+        {
+          "title": "教育部发布20条严禁清单",
+          "url": "https://www.douyin.com/hot/2445159",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时38分]"
+        },
+        {
+          "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32841964",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时38分]"
         },
         {
           "title": "罗技回应发布侮辱性广告",
@@ -102,16 +186,37 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "美最新民调显示：近六成美国人认为对伊朗军事行动“过头”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837291",
-          "source": "澎湃新闻",
+          "title": "《乘风2026》全阵容发布 公演将直播",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%B9%98%E9%A3%8E2026%E3%80%8B%E5%85%A8%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83+%E5%85%AC%E6%BC%94%E5%B0%86%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            9
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时08分 ~ 13时29分]"
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "研究称部分玩家在游戏通关后容易患上「通关抑郁」，为什么会产生这种心理？通关后劲太大又该怎么缓解？",
+          "url": "https://www.zhihu.com/question/2020527976538796897",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "字节跳动发布2026年首份纪律通报，强化信息安全治理",
+          "url": "https://wallstreetcn.com/livenews/3078055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "教育部发布20条严禁清单",
@@ -120,29 +225,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "教育部发布20条严禁清单",
-          "url": "https://www.douyin.com/hot/2445159",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "罗技中国为涉嫌侮辱消费者致歉：运营人员跳过审核流程擅自发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32839318",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -153,7 +236,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -167,17 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32841964",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
         },
         {
           "title": "首都经贸大学校园歌手大赛爆火",
@@ -197,7 +269,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -230,9 +302,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "乌克兰外交部长：在巴黎会见了印度外长，双方讨论了中东局势的最新发展。",
+          "url": "https://flash.jin10.com/detail/20260327161618785800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "20条“严禁”！教育部发布负面清单",
@@ -241,7 +324,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -252,7 +335,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         }
@@ -260,7 +343,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -272,6 +355,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 04时26分]"
+        },
+        {
+          "title": "Naiyou终身禁赛",
+          "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
+          "url": "https://www.cls.cn/detail/2326528",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时38分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时38分]"
         },
         {
           "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
@@ -311,6 +429,40 @@
           "time_info": "[00时51分 ~ 09时08分]"
         },
         {
+          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
+          "url": "https://www.zhihu.com/question/2020423157757028308",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时38分]"
+        },
+        {
+          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
+          "url": "https://www.zhihu.com/question/2020472799739814121",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时38分]"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
@@ -322,26 +474,26 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
-          "url": "https://www.cls.cn/detail/2326528",
-          "source": "财联社热门",
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
-          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
-          "url": "https://www.zhihu.com/question/2020423157757028308",
-          "source": "知乎",
+          "title": "AI对战争有什么影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%88%98%E4%BA%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
@@ -353,28 +505,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
-          "url": "https://www.zhihu.com/question/2020472799739814121",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
         },
         {
           "title": "荷兰法院：X和Grok公司若违规，将被处以每日10万欧元罚款。",
@@ -416,7 +546,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         }
@@ -424,7 +554,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技自立自强迈出新步伐",
@@ -433,7 +563,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -472,13 +602,24 @@
           "time_info": "09时08分"
         },
         {
+          "title": "恒生指数收盘涨0.38%，恒生科技指数涨0.35%",
+          "url": "https://wallstreetcn.com/livenews/3078048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "A股先进封装板块午后拉升，鼎龙股份盘中创新高，盛剑科技涨停，安集科技、上海新阳、赛微电子、宏昌电子、光力科技跟涨。",
           "url": "https://flash.jin10.com/detail/20260327130836383800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -525,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "香港恒生指数03月27日（周五）收盘上涨95.45点，涨幅0.38%，报24951.88点。<br/>香港恒生科技指数03月27日（周五）收盘上涨16.47点，涨幅0.35%，报4778.01点;<br/>国企指数03月27日（周五）收盘上涨63.84点，涨幅0.76%，报8453.77点。<br/>红筹指数03月27日（周五）收盘上涨4.96点，涨幅0.12%，报4164.38点。",
+          "url": "https://flash.jin10.com/detail/20260327161638764800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
