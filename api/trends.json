@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-28T00:41:49.203343+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-03-28T04:24:37.414382+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
         {
           "title": "一行代码破甲,AI水军现原形",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -37,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -46,6 +35,17 @@
           "source": "贴吧",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -59,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -70,19 +70,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
           "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
+        },
+        {
+          "title": "Naiyou终身禁赛",
+          "url": "https://www.douyin.com/hot/2446027",
+          "source": "抖音",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
         },
         {
           "title": "美国费城联储主席Anna Paulson（2026年FOMC票委）：（美国和以色列发动的）伊朗战争已经给美国通胀也经济增长带来新的风险。 长期通胀预期可能变得更加脆弱。 并没有迹象表明劳动力市场助燃通胀。 不可能预料到人工智能（AI）的影响范围。",
@@ -96,15 +109,15 @@
           "time_info": "00时41分"
         },
         {
-          "title": "Naiyou终身禁赛",
-          "url": "https://www.douyin.com/hot/2446027",
-          "source": "抖音",
+          "title": "据英国金融时报：因AI驱动的短缺交易回落，内存芯片股票市值蒸发1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260328034557564800",
+          "source": "金十数据",
           "ranks": [
-            20
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "04时24分"
         },
         {
           "title": "智谱正式开放GLM-5.1",
@@ -120,6 +133,89 @@
       ]
     },
     {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
+          "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "本周，标普累跌约2%——连续第五周下跌，能源板块累涨约6%；道指累跌约1%，纳指累跌约3.2%。 标普500指数初步收跌1.6%，可选消费板块跌3.1%，金融、电信、科技板块至多跌2.7%，能源板块涨1.6%。 纳斯达克100指数初步收跌1.8%，成分股中，Datadog初步收跌约8%，Arm控股跌7.2%，爱彼迎、派拓网络、Zscaler、CrowdStrike、新思科技等至多跌6.2%，西部数据则涨1%，百事、核电股CEG涨2.1%。 亚马逊初步收跌约4%，领跌道指成分股，联合健康、Salesforce、Visa、摩根大通、思科、迪士尼、微软也至多跌3.6%，可口可乐则涨1.1%，雪佛龙涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3078469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，纳指跌2.22%，生物科技指数跌2.91%，半导体指数跌1.93%，银行指数跌2.64%。",
+          "url": "https://wallstreetcn.com/livenews/3078466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
+          "url": "https://wallstreetcn.com/livenews/3078461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
+          "url": "https://flash.jin10.com/detail/20260328040624554800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.89%，报24630点。 恒生科技指数主连夜盘收跌1.62%，报4683点。",
+          "url": "https://wallstreetcn.com/livenews/3078452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普与莫迪通话讨论中东局势 马斯克参与",
+          "url": "https://flash.jin10.com/detail/20260328034803956800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
       "match_count": 6,
       "titles": [
@@ -131,41 +227,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
         },
         {
           "title": "中国发布芯片研发突破成果",
           "url": "https://www.toutiao.com/trending/7621556799306268691/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
         },
         {
           "title": "网络神曲“留不住的玉芬”爆火",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E7%A5%9E%E6%9B%B2%E2%80%9C%E7%95%99%E4%B8%8D%E4%BD%8F%E7%9A%84%E7%8E%89%E8%8A%AC%E2%80%9D%E7%88%86%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "研究称部分玩家在游戏通关后容易患上「通关抑郁」，为什么会产生这种心理？通关后劲太大又该怎么缓解？",
-          "url": "https://www.zhihu.com/question/2020527976538796897",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
         },
         {
           "title": "周董新歌爆火,文旅圈集体狂欢",
@@ -173,6 +260,17 @@
           "source": "贴吧",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 04时24分]"
+        },
+        {
+          "title": "研究称部分玩家在游戏通关后容易患上「通关抑郁」，为什么会产生这种心理？通关后劲太大又该怎么缓解？",
+          "url": "https://www.zhihu.com/question/2020527976538796897",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
