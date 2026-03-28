@@ -1,55 +1,83 @@
 {
-  "generated_at": "2026-03-29T00:20:14.341176+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-29T04:17:46.417734+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一个视频了解AI常识",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
           "url": "https://www.cls.cn/detail/2327720",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
           "url": "https://www.zhihu.com/question/2020874143453725371",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
+        },
+        {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
+        },
+        {
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "智谱 GLM-5.1 面向所有 codingplan 用户开放，对开发者意味着什么？",
@@ -63,37 +91,26 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
           "url": "https://wallstreetcn.com/livenews/3078600",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 04时17分]"
+        },
+        {
+          "title": "做量化搞 quant 会被 ai 取代吗?",
+          "url": "https://www.zhihu.com/question/598668295",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "04时17分"
         }
       ]
     },
@@ -109,19 +126,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "高科技这块也是让三轮闯进来了",
           "url": "https://www.douyin.com/hot/2446211",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "美国科技巨头遭遇近一年最严重抛售",
@@ -131,14 +149,14 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "老板拍煲仔饭无人知 拍女儿意外爆火",
@@ -150,6 +168,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "中国军号发布视频：真正的史诗",
+          "url": "https://www.douyin.com/hot/2446822",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "在五月天演唱会玩上了正版游戏",
+          "url": "https://www.douyin.com/hot/2446361",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         }
       ]
     }
