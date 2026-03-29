@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T13:31:55.005286+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-03-29T16:28:17.046812+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             8,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 09时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 16时28分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -28,11 +29,12 @@
             7,
             8,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 16时28分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -41,11 +43,12 @@
           "ranks": [
             12,
             13,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 16时28分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -54,11 +57,12 @@
           "ranks": [
             19,
             20,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 16时28分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -86,6 +90,30 @@
           "time_info": "[00时19分 ~ 04时17分]"
         },
         {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 16时28分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 16时28分]"
+        },
+        {
           "title": "智谱 GLM-5.1 面向所有 codingplan 用户开放，对开发者意味着什么？",
           "url": "https://www.zhihu.com/question/2020954059209803141",
           "source": "知乎",
@@ -108,37 +136,26 @@
           "time_info": "[00时20分 ~ 04时17分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
           "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
           "url": "https://wallstreetcn.com/articles/3768640",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
         {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
+          "title": "宇树科技王兴兴：具身智能GPT时刻大概还需两到三年",
+          "url": "https://wallstreetcn.com/livenews/3078665",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "16时28分"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -165,8 +182,105 @@
       ]
     },
     {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "“未来之城”科技点亮智慧生活",
+          "url": "https://www.toutiao.com/trending/7622214726345457700/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 09时11分]"
+        },
+        {
+          "title": "中国太空基建新成果",
+          "url": "https://www.douyin.com/hot/2447092",
+          "source": "抖音",
+          "ranks": [
+            19,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 16时28分]"
+        },
+        {
+          "title": "高科技这块也是让三轮闯进来了",
+          "url": "https://www.douyin.com/hot/2446211",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
+        },
+        {
+          "title": "美国科技巨头遭遇近一年最严重抛售",
+          "url": "https://www.cls.cn/detail/2327706",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 04时17分]"
+        },
+        {
+          "title": "宇树科技亚洲首家体验店将落户上海",
+          "url": "https://www.toutiao.com/trending/7622505333801467930/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "百邦科技：筹划控制权变更事项 股票停牌",
+          "url": "https://flash.jin10.com/detail/20260329154926393800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "宇树科技亚洲首店亮相",
+          "url": "https://flash.jin10.com/detail/20260329083543259800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "围绕“面向世界科技前沿”，中关村论坛年会发布5项重大成果",
+          "url": "https://flash.jin10.com/detail/20260329145521097800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "诺华制药在《新英格兰医学杂志》上发布的IgAN数据显示，Fabhalta(R)使肾功能下降速度减缓了49.3%。",
@@ -175,7 +289,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -215,6 +329,18 @@
           "time_info": "[09时11分 ~ 13时31分]"
         },
         {
+          "title": "中科院文献中心：不再更新、发布已推出22年的期刊分区表",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852180",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 16时28分]"
+        },
+        {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（3月29日）",
           "url": "https://flash.jin10.com/detail/20260329083347922800",
           "source": "金十数据",
@@ -226,17 +352,6 @@
           "time_info": "09时11分"
         },
         {
-          "title": "中科院文献中心：不再更新、发布已推出22年的期刊分区表",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852180",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
           "title": "在五月天演唱会玩上了正版游戏",
           "url": "https://www.douyin.com/hot/2446361",
           "source": "抖音",
@@ -246,69 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“未来之城”科技点亮智慧生活",
-          "url": "https://www.toutiao.com/trending/7622214726345457700/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 09时11分]"
         },
         {
-          "title": "高科技这块也是让三轮闯进来了",
-          "url": "https://www.douyin.com/hot/2446211",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
-          "title": "中国太空基建新成果",
-          "url": "https://www.douyin.com/hot/2447092",
-          "source": "抖音",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 13时31分]"
-        },
-        {
-          "title": "美国科技巨头遭遇近一年最严重抛售",
-          "url": "https://www.cls.cn/detail/2327706",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
-          "title": "宇树科技亚洲首店亮相",
-          "url": "https://flash.jin10.com/detail/20260329083543259800",
+          "title": "全球首个通用智能人“通通”3.0正式发布",
+          "url": "https://flash.jin10.com/detail/20260329145403618800",
           "source": "金十数据",
           "ranks": [
-            11
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "16时28分"
         }
       ]
     }
