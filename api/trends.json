@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T09:11:06.553572+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-03-29T13:31:55.005286+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 09时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 13时31分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -39,11 +40,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 09时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 13时31分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -51,11 +53,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 09时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 13时31分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -63,11 +66,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 09时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 13时31分]"
         },
         {
           "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
@@ -104,6 +108,39 @@
           "time_info": "[00时20分 ~ 04时17分]"
         },
         {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
+          "url": "https://wallstreetcn.com/articles/3768640",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "做量化搞 quant 会被 ai 取代吗?",
           "url": "https://www.zhihu.com/question/598668295",
           "source": "知乎",
@@ -121,9 +158,94 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "诺华制药在《新英格兰医学杂志》上发布的IgAN数据显示，Fabhalta(R)使肾功能下降速度减缓了49.3%。",
+          "url": "https://flash.jin10.com/detail/20260329131556903800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "中国军号发布视频：真正的史诗",
+          "url": "https://www.douyin.com/hot/2446822",
+          "source": "抖音",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 09时11分]"
+        },
+        {
+          "title": "老板拍煲仔饭无人知 拍女儿意外爆火",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E6%8B%8D%E7%85%B2%E4%BB%94%E9%A5%AD%E6%97%A0%E4%BA%BA%E7%9F%A5+%E6%8B%8D%E5%A5%B3%E5%84%BF%E6%84%8F%E5%A4%96%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "智能网联汽车等系列团体标准发布 加速共性关键技术转化与应用",
+          "url": "https://wallstreetcn.com/livenews/3078634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 13时31分]"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（3月29日）",
+          "url": "https://flash.jin10.com/detail/20260329083347922800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "中科院文献中心：不再更新、发布已推出22年的期刊分区表",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852180",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "在五月天演唱会玩上了正版游戏",
+          "url": "https://www.douyin.com/hot/2446361",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         }
       ]
     },
@@ -155,6 +277,18 @@
           "time_info": "[00时19分 ~ 04时17分]"
         },
         {
+          "title": "中国太空基建新成果",
+          "url": "https://www.douyin.com/hot/2447092",
+          "source": "抖音",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时31分]"
+        },
+        {
           "title": "美国科技巨头遭遇近一年最严重抛售",
           "url": "https://www.cls.cn/detail/2327706",
           "source": "财联社热门",
@@ -166,88 +300,15 @@
           "time_info": "[00时19分 ~ 04时17分]"
         },
         {
-          "title": "中国太空基建新成果",
-          "url": "https://www.douyin.com/hot/2447092",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
           "title": "宇树科技亚洲首店亮相",
           "url": "https://flash.jin10.com/detail/20260329083543259800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "中国军号发布视频：真正的史诗",
-          "url": "https://www.douyin.com/hot/2446822",
-          "source": "抖音",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 09时11分]"
-        },
-        {
-          "title": "老板拍煲仔饭无人知 拍女儿意外爆火",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E6%8B%8D%E7%85%B2%E4%BB%94%E9%A5%AD%E6%97%A0%E4%BA%BA%E7%9F%A5+%E6%8B%8D%E5%A5%B3%E5%84%BF%E6%84%8F%E5%A4%96%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（3月29日）",
-          "url": "https://flash.jin10.com/detail/20260329083347922800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "智能网联汽车等系列团体标准发布 加速共性关键技术转化与应用",
-          "url": "https://wallstreetcn.com/livenews/3078634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "在五月天演唱会玩上了正版游戏",
-          "url": "https://www.douyin.com/hot/2446361",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "09时11分"
         }
       ]
     }
