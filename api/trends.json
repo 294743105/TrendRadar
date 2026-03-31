@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-31T04:34:00.401799+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-03-31T09:09:55.511349+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "科技股暴跌释放反转信号 华尔街吹响“抄底”号角",
+          "url": "https://www.cls.cn/detail/2329636",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 09时09分]"
+        },
         {
           "title": "马斯克撕破了一块遮羞布",
           "url": "https://news.ifeng.com/c/8ruED34F9fY",
@@ -30,27 +42,17 @@
           "time_info": "00时45分"
         },
         {
-          "title": "科技股暴跌释放反转信号 华尔街吹响“抄底”号角",
-          "url": "https://www.cls.cn/detail/2329636",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 04时34分]"
-        },
-        {
           "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
           "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 09时09分]"
         },
         {
           "title": "标普500指数的11个板块中，工业板块收跌1.61%，信息技术/科技板块跌1.49%，能源板块跌0.87%，金融板块则涨1.1%。",
@@ -59,7 +61,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -81,7 +83,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -92,9 +94,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "胜宏科技在最新披露的投资者关系活动记录表中称，公司正在全力以赴推进扩产，稳步推进2030年千亿产值目标落地。当前各环节进度顺利，公司扩产速度已处于行业领先水平。",
+          "url": "https://flash.jin10.com/detail/20260331084250252800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "美国参议院民主党成员Warren、白宫、Waters发函总统特朗普的财政部长贝森特，调查马斯克牵涉证券法的问题。 他们质疑马斯克干预企业透明法案。",
@@ -103,7 +116,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -114,7 +127,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -125,7 +138,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
@@ -133,19 +146,29 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "title": "AI短剧 偷脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "国行版苹果AI",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
           "source": "bilibili 热搜",
           "ranks": [
-            17,
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -154,6 +177,18 @@
           "ranks": [
             19,
             20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 09时09分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -202,13 +237,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "国行版苹果AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "英伟达预期市盈率跌至AI热潮以来最低水平",
+          "url": "https://wallstreetcn.com/livenews/3079663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "人类即将时隔半个世纪再赴月球 最新情况如何？涉及哪些上市公司？",
+          "url": "https://www.cls.cn/detail/2329735",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
         {
           "title": "我国发布首个氢能产品耐久性验证体系",
           "url": "https://www.douyin.com/hot/2449001",
@@ -225,22 +293,24 @@
           "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E5%A4%A7%E4%BD%9C%E5%89%8D%E7%9E%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[04时33分 ~ 09时09分]"
         },
         {
           "title": "归环最新实机PV",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%92%E7%8E%AF%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BAPV",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[04时33分 ~ 09时09分]"
         },
         {
           "title": "“车路云一体化”频迎利好：多个“团标”密集发布 启明信息8000万中标长春项目",
