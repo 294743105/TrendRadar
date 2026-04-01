@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T00:44:00.861765+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-02T04:33:31.044962+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -23,11 +23,12 @@
           "url": "https://www.douyin.com/hot/2451216",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -37,63 +38,79 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
           "url": "https://www.zhihu.com/question/2022254775757009403",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -107,21 +124,21 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
+          "title": "如何看待 3.31 Claude Code 源码泄露一事？",
+          "url": "https://www.zhihu.com/question/2022398469655074136",
+          "source": "知乎",
           "ranks": [
-            30
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "今年第二批！宇树科技、中科宇航被抽中首发企业现场检查",
@@ -131,30 +148,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "美伊释放停战信号，纳指涨超1%，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.7%，工业、电信、原材料、科技板块至少张约1%，能源板块跌3.8%。 纳斯达克100指数初步收涨1.2%，成分股中，西部数据涨10%，美光科技涨8.8%，英特尔涨8.8%，希捷科技涨7.8%，迈威尔科技涨7.6%，AppLovin跌2.4%，Zscaler跌2.5%，T-Mobile跌2.7%，Diamondback Energy跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3081101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "央行等四部门联合召开科技金融工作交流推进会",
           "url": "https://www.cls.cn/detail/2332377",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "【每日收评】三大指数均涨超1%，医药板块持续爆发，科技股集体回暖",
@@ -174,9 +204,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.01%，报25301点。 恒生科技指数主连夜盘收跌0.15%，报4743点。",
+          "url": "https://wallstreetcn.com/livenews/3081085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "标普500指数涨幅扩大至1%，工业板块目前涨2.1%，电信、科技、可选消费、原材料板块至少涨1.3%，能源板块重挫3.8%。 道指目前涨418点、涨幅0.9%，纳指涨314点、涨幅1.4%，生物科技指数涨1%，半导体指数涨3.6%，银行指数涨1.7%，罗素2000指数也涨1.3%。",
@@ -185,7 +226,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         }
@@ -193,29 +234,31 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "被精心设计的内存涨价游戏",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "有线耳机爆火原因",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E7%88%86%E7%81%AB%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
@@ -225,8 +268,30 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "如何评价《洛克王国：世界》称自己「登顶游戏免费榜、畅销总榜第一」，并发邮件感谢玩家？",
+          "url": "https://www.zhihu.com/question/2021172612127008460",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "伊朗总统发布致美国民众的信",
+          "url": "https://wallstreetcn.com/livenews/3081080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         }
       ]
     }
