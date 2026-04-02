@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-04-02T16:44:10.678212+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-04-02T20:43:06.436889+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            14,
-            15,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 16时44分]"
-        },
         {
           "title": "Claude Opus是否会淘汰程序员",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
@@ -34,8 +19,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 16时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 20时43分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -46,7 +31,23 @@
             17,
             16,
             24,
-            25
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 20时43分]"
+        },
+        {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14,
+            15,
+            27,
+            19
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -65,6 +66,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 16时44分]"
+        },
+        {
+          "title": "周鸿祎谈Claude Code源码泄露",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88Claude%20Code%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -102,6 +114,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 13时28分]"
+        },
+        {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 20时43分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -184,17 +208,6 @@
           "time_info": "[09时07分 ~ 13时28分]"
         },
         {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
           "title": "被AI短剧盗脸成丑角 女模特发声",
           "url": "https://www.baidu.com/s?wd=%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E6%88%90%E4%B8%91%E8%A7%92+%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -226,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "美国科技公司宣布的裁员人数持续增加 AI成主要推手",
+          "url": "https://wallstreetcn.com/livenews/3081587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "如何看待 3.31 Claude Code 源码泄露一事？",
@@ -272,6 +296,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "蓝思科技：AI服务器订单饱满 具身智能机器人批量出货",
+          "url": "https://flash.jin10.com/detail/20260402201831430800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "工信部原副部长王江平谈“龙虾”：要关注AI发展的一体两面",
           "url": "https://wallstreetcn.com/livenews/3081305",
           "source": "华尔街见闻-快讯",
@@ -297,7 +332,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "被精心设计的内存涨价游戏",
@@ -325,6 +360,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时43分 ~ 13时28分]"
+        },
+        {
+          "title": "粉底液将军为何会爆火",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E5%BA%95%E6%B6%B2%E5%B0%86%E5%86%9B%E4%B8%BA%E4%BD%95%E4%BC%9A%E7%88%86%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 20时43分]"
+        },
+        {
+          "title": "如何把太阳之子做成游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 20时43分]"
         },
         {
           "title": "有线耳机爆火原因",
@@ -364,28 +423,6 @@
           "time_info": "[04时33分 ~ 13时28分]"
         },
         {
-          "title": "粉底液将军为何会爆火",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E5%BA%95%E6%B6%B2%E5%B0%86%E5%86%9B%E4%B8%BA%E4%BD%95%E4%BC%9A%E7%88%86%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 16时44分]"
-        },
-        {
-          "title": "如何把太阳之子做成游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
           "title": "为什么很多游戏里的「二周目」，只是让玩家带着装备重新打一遍，而不是让 NPC 知道「你上周目干过什么」？",
           "url": "https://www.zhihu.com/question/2021280682983309943",
           "source": "知乎",
@@ -419,6 +456,17 @@
           "time_info": "[16时43分 ~ 16时44分]"
         },
         {
+          "title": "清明节假期出游注意！文旅部最新提示",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E6%B3%A8%E6%84%8F%EF%BC%81%E6%96%87%E6%97%85%E9%83%A8%E6%9C%80%E6%96%B0%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
           "title": "美国总统特朗普将于十分钟后发表全国讲话，就伊朗问题发布“重要更新”。",
           "url": "https://flash.jin10.com/detail/20260402085000000800",
           "source": "金十数据",
@@ -447,7 +495,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -513,7 +561,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
@@ -521,7 +569,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "今年第二批！宇树科技、中科宇航被抽中首发企业现场检查",
@@ -559,13 +607,24 @@
           "time_info": "[09时07分 ~ 13时28分]"
         },
         {
+          "title": "马斯克确认停产特斯拉两款车型",
+          "url": "https://www.douyin.com/hot/2451990",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
           "title": "港股收评：恒生指数跌0.7% 恒生科技指数跌1.63%",
           "url": "https://flash.jin10.com/detail/20260402161322707800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -576,7 +635,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -627,13 +686,24 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
+          "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
+          "url": "https://www.cls.cn/detail/2333532",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
           "title": "港股收盘，恒指收跌0.7%，科指收跌1.63%。商业航天、芯片股全天走弱，蓝思科技(06613.HK)跌约9%，华虹半导体(01347.HK)跌约5%。",
           "url": "https://flash.jin10.com/detail/20260402160858636800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -655,7 +725,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
