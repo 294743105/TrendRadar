@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T00:52:50.007201+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-03T04:24:05.355729+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
         },
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -48,52 +48,67 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
+        },
+        {
+          "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
+          "url": "https://wallstreetcn.com/livenews/3081768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "04时24分"
         }
       ]
     },
@@ -102,15 +117,39 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "如何把太阳之子做成游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
+        },
+        {
           "title": "张雪的爆火像极了2年前的雷军",
           "url": "https://www.toutiao.com/trending/7623294526719836166/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
+        },
+        {
+          "title": "清明节假期出游注意！文旅部最新提示",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E6%B3%A8%E6%84%8F%EF%BC%81%E6%96%87%E6%97%85%E9%83%A8%E6%9C%80%E6%96%B0%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
         },
         {
           "title": "谷歌(GOOG.O)推出GEMMA 4，自本周起，任何拥有谷歌账号的用户均可免费使用最新视频生成模型VEO 3.1制作视频片段。",
@@ -122,58 +161,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "如何把太阳之子做成游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "清明节假期出游注意！文旅部最新提示",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E6%B3%A8%E6%84%8F%EF%BC%81%E6%96%87%E6%97%85%E9%83%A8%E6%9C%80%E6%96%B0%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "NBA季后赛你更想湖人首轮碰谁",
-          "url": "https://www.toutiao.com/trending/7623756945594171411/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
           "url": "https://www.cls.cn/detail/2333532",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.58%，报25233点。 恒生科技指数主连夜盘收涨0.64%，报4689点。",
+          "url": "https://wallstreetcn.com/livenews/3081759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已与沙特公共投资基金就2026年IPO的基石投资进行洽谈。 一家沙特基金正考虑在SpaceX的IPO中认购50亿美元的基石投资。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3081745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Coinbase在推进稳定币业务过程中扫清关键监管障碍",
+          "url": "https://wallstreetcn.com/livenews/3081767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "NBA季后赛你更想湖人首轮碰谁",
+          "url": "https://www.toutiao.com/trending/7623756945594171411/",
+          "source": "今日头条",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
