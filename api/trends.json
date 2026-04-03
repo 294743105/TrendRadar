@@ -1,8 +1,140 @@
 {
-  "generated_at": "2026-04-03T09:09:31.949595+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-04-03T13:29:17.440870+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "如何把太阳之子做成游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            13,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 13时29分]"
+        },
+        {
+          "title": "张雪的爆火像极了2年前的雷军",
+          "url": "https://www.toutiao.com/trending/7623294526719836166/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
+        },
+        {
+          "title": "清明节假期出游注意！文旅部最新提示",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E6%B3%A8%E6%84%8F%EF%BC%81%E6%96%87%E6%97%85%E9%83%A8%E6%9C%80%E6%96%B0%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时24分]"
+        },
+        {
+          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
+          "url": "https://www.cls.cn/detail/2334039",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 13时29分]"
+        },
+        {
+          "title": "美国ITC发布对具有视频功能的笔记本电脑等的337部分终裁",
+          "url": "https://wallstreetcn.com/livenews/3081971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "为啥感觉 VR 游戏已经没啥前途了，到底还有啥瓶颈没有解决？",
+          "url": "https://www.zhihu.com/question/1980051538677363940",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "谷歌(GOOG.O)推出GEMMA 4，自本周起，任何拥有谷歌账号的用户均可免费使用最新视频生成模型VEO 3.1制作视频片段。",
+          "url": "https://flash.jin10.com/detail/20260403000526812800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "最新险资重仓股名单出炉 38股获险资新进重仓",
+          "url": "https://flash.jin10.com/detail/20260403123856453800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "国家医保局发布医疗机构医疗保障定点管理暂行办法",
+          "url": "https://flash.jin10.com/detail/20260403122458262800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        }
+      ]
+    },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
       "match_count": 10,
@@ -31,22 +163,36 @@
           "time_info": "00时52分"
         },
         {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 13时29分]"
+        },
+        {
+          "title": "Claude Opus是否会淘汰程序员",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 13时29分]"
+        },
+        {
           "title": "用Claude Code源码自制客户端",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
           "source": "bilibili 热搜",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 09时09分]"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -92,18 +238,6 @@
           "time_info": "[00时52分 ~ 09时09分]"
         },
         {
-          "title": "Claude Opus是否会淘汰程序员",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 09时09分]"
-        },
-        {
           "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
           "url": "https://wallstreetcn.com/livenews/3081768",
           "source": "华尔街见闻-快讯",
@@ -121,102 +255,27 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "谷歌最新模型Gemma4发布",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "如何把太阳之子做成游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 09时09分]"
-        },
-        {
-          "title": "张雪的爆火像极了2年前的雷军",
-          "url": "https://www.toutiao.com/trending/7623294526719836166/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 04时24分]"
-        },
-        {
-          "title": "清明节假期出游注意！文旅部最新提示",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E6%98%8E%E8%8A%82%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E6%B3%A8%E6%84%8F%EF%BC%81%E6%96%87%E6%97%85%E9%83%A8%E6%9C%80%E6%96%B0%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 04时24分]"
-        },
-        {
-          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
-          "url": "https://www.cls.cn/detail/2334039",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "为啥感觉 VR 游戏已经没啥前途了，到底还有啥瓶颈没有解决？",
-          "url": "https://www.zhihu.com/question/1980051538677363940",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "谷歌(GOOG.O)推出GEMMA 4，自本周起，任何拥有谷歌账号的用户均可免费使用最新视频生成模型VEO 3.1制作视频片段。",
-          "url": "https://flash.jin10.com/detail/20260403000526812800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "09时09分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "A股商业航天板块午后下挫，中衡设计跌停，飞沃科技跌超10%，中超控股跌超9%，神剑股份、广联航空、巨力索具、航天宏图跟跌。此前天龙三号运载火箭发射失利。",
+          "url": "https://wallstreetcn.com/livenews/3081979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
         {
           "title": "横店东磁：未参与特斯拉太空光伏计划",
           "url": "https://flash.jin10.com/detail/20260403085946331800",
@@ -224,9 +283,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "A股商业航天板块午后下挫，中衡设计跌停，飞沃科技跌超10%，中超控股跌超9%，神剑股份、广联航空、巨力索具、航天宏图跟跌。",
+          "url": "https://flash.jin10.com/detail/20260403130651802800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "战火烧向科技公司！亚马逊中东云计算中心遭袭 更多基础设施成为目标",
+          "url": "https://www.cls.cn/detail/2334022",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 13时29分]"
         },
         {
           "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
@@ -239,17 +321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 04时24分]"
-        },
-        {
-          "title": "战火烧向科技公司！亚马逊中东云计算中心遭袭 更多基础设施成为目标",
-          "url": "https://www.cls.cn/detail/2334022",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.58%，报25233点。 恒生科技指数主连夜盘收涨0.64%，报4689点。",
@@ -272,13 +343,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "优必选科技招募首席科学家 年薪最高可达1.24亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3081954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "2026年全国工业和信息化科技创新和产业创新融合发展工作座谈会在苏州召开",
+          "url": "https://flash.jin10.com/detail/20260403122112494800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "雷霆43分大胜湖人",
+          "url": "https://www.douyin.com/hot/2453525",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "杜兰特是NBA史上最难防的得分手吗",
+          "url": "https://www.toutiao.com/trending/7624211948520538150/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
         {
           "title": "NBA季后赛你更想湖人首轮碰谁",
           "url": "https://www.toutiao.com/trending/7623756945594171411/",
@@ -301,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "2526 赛季 NBA 常规赛湖人 96:139 雷霆，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2023335475146957848",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     }
