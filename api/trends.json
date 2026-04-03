@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-03T16:40:33.966534+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-04-03T20:35:09.276656+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "谷歌最新模型Gemma4发布",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
         {
           "title": "如何把太阳之子做成游戏",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
@@ -30,8 +19,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 16时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 20时35分]"
+        },
+        {
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
@@ -49,11 +49,12 @@
           "url": "https://www.zhihu.com/question/2023334141517657226",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 20时35分]"
         },
         {
           "title": "张雪的爆火像极了2年前的雷军",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 04时24分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 20时35分]"
         },
         {
           "title": "清明节假期出游注意！文旅部最新提示",
@@ -91,13 +103,46 @@
           "time_info": "[09时09分 ~ 13时29分]"
         },
         {
+          "title": "为什么游戏里魔法师永远是体弱、脆皮、拄拐杖的刻板印象？有没有肌肉、近战、狂战士型的反套路魔法师？",
+          "url": "https://www.zhihu.com/question/2022969399204751300",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "优思益发布海外工厂情况声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E5%8F%91%E5%B8%83%E6%B5%B7%E5%A4%96%E5%B7%A5%E5%8E%82%E6%83%85%E5%86%B5%E5%A3%B0%E6%98%8E%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
+          "title": "云初令全阵容发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%88%9D%E4%BB%A4%E5%85%A8%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
           "title": "伊朗媒体发布美国F35残骸照",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E7%BE%8E%E5%9B%BDF35%E6%AE%8B%E9%AA%B8%E7%85%A7%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -111,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "白宫发布年度预算说明：削减国内开支同时大幅增加国防预算",
+          "url": "https://flash.jin10.com/detail/20260403200504953800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "为啥感觉 VR 游戏已经没啥前途了，到底还有啥瓶颈没有解决？",
@@ -130,7 +186,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -144,17 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "最新险资重仓股名单出炉 38股获险资新进重仓",
@@ -248,7 +293,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -259,7 +304,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -281,7 +326,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -314,7 +359,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -336,6 +381,20 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 20时35分]"
+        },
+        {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
           "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
           "source": "澎湃新闻",
@@ -346,19 +405,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时52分 ~ 09时09分]"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 16时40分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -453,7 +499,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -480,11 +526,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 20时35分]"
         },
         {
           "title": "杜兰特是NBA史上最难防的得分手吗",
