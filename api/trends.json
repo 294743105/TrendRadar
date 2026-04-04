@@ -1,23 +1,59 @@
 {
-  "generated_at": "2026-04-04T09:04:08.283982+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-04-04T13:18:15.001667+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "东部战区发布海报",
+          "url": "https://www.douyin.com/hot/2454660",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "东部战区发布海报《为了这个省》，展示统一后台湾省清明节场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895016",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时23分 ~ 13时18分]"
+        },
+        {
+          "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
+          "url": "https://www.cls.cn/detail/2335226",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
         {
           "title": "谷歌官方发布最新模型Gemma4",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 09时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 13时18分]"
         },
         {
           "title": "如何把太阳之子做成游戏",
@@ -25,11 +61,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 09时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 13时18分]"
         },
         {
           "title": "阚清子 尊重游戏规则",
@@ -44,16 +81,16 @@
           "time_info": "[00时27分 ~ 09时04分]"
         },
         {
-          "title": "东部战区发布海报《为了这个省》，展示统一后台湾省清明节场景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895016",
-          "source": "澎湃新闻",
+          "title": "阚清子：我尊重游戏规则",
+          "url": "https://www.douyin.com/hot/2454459",
+          "source": "抖音",
           "ranks": [
-            16,
-            6
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 09时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时18分]"
         },
         {
           "title": "联合国副秘书长怒斥美方：不要把冲突当“游戏表演”",
@@ -67,17 +104,6 @@
           "time_info": "[00时27分 ~ 04时23分]"
         },
         {
-          "title": "阚清子：我尊重游戏规则",
-          "url": "https://www.douyin.com/hot/2454459",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        },
-        {
           "title": "优思益发布海外工厂情况声明",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E5%8F%91%E5%B8%83%E6%B5%B7%E5%A4%96%E5%B7%A5%E5%8E%82%E6%83%85%E5%86%B5%E5%A3%B0%E6%98%8E%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -88,6 +114,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 04时23分]"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3082376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
@@ -129,7 +166,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -162,7 +199,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -173,7 +210,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -192,7 +229,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -201,11 +238,60 @@
           "ranks": [
             2,
             3,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 09时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 13时18分]"
+        },
+        {
+          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
+          "url": "https://www.zhihu.com/question/2022610310935115479",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时23分 ~ 13时18分]"
+        },
+        {
+          "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
+          "url": "https://flash.jin10.com/detail/20260404125453767800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 13时18分]"
+        },
+        {
+          "title": "千问AI打车上线后周环比增长超1500%",
+          "url": "https://wallstreetcn.com/livenews/3082383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -221,37 +307,13 @@
           "time_info": "[00时27分 ~ 09时04分]"
         },
         {
-          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
-          "url": "https://www.zhihu.com/question/2022610310935115479",
-          "source": "知乎",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 09时04分]"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 09时04分]"
-        },
-        {
           "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
           "url": "https://wallstreetcn.com/livenews/3082355",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -303,8 +365,30 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "我国成立太空算力产业协同平台",
+          "url": "https://www.douyin.com/hot/2454693",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "从优必选、宇树科技财报 解码中国人形机器人差异化突围逻辑",
+          "url": "https://www.cls.cn/detail/2335220",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
         {
           "title": "比特币目前跌0.1%，暂报66872美元。 伊朗Press TV援引伊朗官员报道称，伊朗可以在霍尔木兹海峡封闭状态下维持多年，并将切断美国的军事后勤支持。",
           "url": "https://wallstreetcn.com/livenews/3082268",
@@ -345,7 +429,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         }
