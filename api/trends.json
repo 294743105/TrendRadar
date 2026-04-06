@@ -1,537 +1,177 @@
 {
-  "generated_at": "2026-04-06T20:42:43.220799+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-04-07T00:34:58.391163+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 7,
       "titles": [
         {
-          "title": "腾讯AI闯祸,拿唐山地震玩梗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时12分]"
-        },
-        {
-          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 13时54分]"
-        },
-        {
-          "title": "AI时代，如何打赢人脸保护战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时12分]"
-        },
-        {
-          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
-          "url": "https://wallstreetcn.com/articles/3769308",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 20时42分]"
-        },
-        {
-          "title": "Claude禁止OpenClaw接入",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 13时54分]"
-        },
-        {
-          "title": "Space X并购xAI目的何在",
-          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 13时54分]"
-        },
-        {
-          "title": "GPT6要来了吗",
-          "url": "https://search.bilibili.com/all?keyword=GPT6%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "妈妈不知儿子去世跟AI儿子聊了1年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=8&Refer=top",
+          "title": "公司用AI复刻离职员工继续工作",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%94%A8AI%E5%A4%8D%E5%88%BB%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E7%BB%A7%E7%BB%AD%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            8,
-            6,
-            19
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时12分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
+          "url": "https://flash.jin10.com/detail/20260407000320677800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
           "url": "https://www.zhihu.com/question/2024413032667772670",
           "source": "知乎",
           "ranks": [
-            9,
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 20时42分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
-          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
-          "url": "https://www.zhihu.com/question/2022702768251564692",
-          "source": "知乎",
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 20时42分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年4月5日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 20时42分]"
-        },
-        {
-          "title": "男子用AI写歌仅版权赚了5位数",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E5%86%99%E6%AD%8C%E4%BB%85%E7%89%88%E6%9D%83%E8%B5%9A%E4%BA%865%E4%BD%8D%E6%95%B0%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
           "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "中国AI大模型调用量环比增逾31%，连续五周超越美国",
-          "url": "https://wallstreetcn.com/livenews/3082722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "00时34分"
         },
         {
-          "title": "室内空气系统供应商Madison Air Solutions寻求通过IPO筹资至多22.3亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3082806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3082679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "OpenAI发布AI时代产业政策白皮书，呼吁建立公共财富基金与快速响应安全网",
-          "url": "https://wallstreetcn.com/livenews/3082798",
-          "source": "华尔街见闻-快讯",
+          "title": "AI翻唱淘金小镇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BF%BB%E5%94%B1%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87",
+          "source": "bilibili 热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "00时34分"
         },
         {
-          "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
-          "url": "https://flash.jin10.com/detail/20260406121342962800",
-          "source": "金十数据",
+          "title": "张婧仪方AI短剧侵权维权",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%96%B9AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E7%BB%B4%E6%9D%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 16,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "伊朗媒体发布“被击落”美军军机图像：残骸遍地，余烟飘散",
-          "url": "https://wallstreetcn.com/articles/3769293",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 17时01分]"
-        },
-        {
-          "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
-          "url": "https://www.cls.cn/detail/2335226",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 17时01分]"
-        },
-        {
-          "title": "伊朗发布被击落美军机画面",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E8%A2%AB%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 13时54分]"
-        },
         {
           "title": "胖东来回应鸡蛋被检出角黄素，称检测结果全部合格，指责王海测评发布不实信息，怎样解读？王海测评要担责吗？",
           "url": "https://www.zhihu.com/question/2024220346748859602",
           "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "李荣浩李白最新现场4K饭拍",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%9D%8E%E7%99%BD%E6%9C%80%E6%96%B0%E7%8E%B0%E5%9C%BA4K%E9%A5%AD%E6%8B%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时12分]"
-        },
-        {
-          "title": "《海贼王》最新话「世界之王」伊姆首曝，你如何评价这一设定？",
-          "url": "https://www.zhihu.com/question/2023022201482354730",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 13时54分]"
-        },
-        {
-          "title": "多家券商最新策略观点：后市不悲观，静待进攻号",
-          "url": "https://wallstreetcn.com/livenews/3082739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "00时34分"
         },
         {
-          "title": "据CNN：白宫在当地时间12:22（北京时间00:22）发布媒体术语“lid”（“lid”术语暗示总统当天不会再公开露面）。",
-          "url": "https://flash.jin10.com/detail/20260406021409152800",
-          "source": "金十数据",
+          "title": "解锁神二十一乘组最新工作周记",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E9%94%81%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B9%98%E7%BB%84%E6%9C%80%E6%96%B0%E5%B7%A5%E4%BD%9C%E5%91%A8%E8%AE%B0%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "00时34分"
         },
         {
-          "title": "以色列国防军：伊朗最新发射的针对以色列南部的弹道导弹可能已被拦截。目前没有伤亡报告。",
-          "url": "https://flash.jin10.com/detail/20260406130636800800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "巴基斯坦外交部：巴基斯坦外交部长与沙特外交部长通话，就最新地区局势发展进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260406021046862800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "莫氏鸡煲爆火后的离谱现状",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E7%88%86%E7%81%AB%E5%90%8E%E7%9A%84%E7%A6%BB%E8%B0%B1%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=10&Refer=top",
+          "title": "中国男生在宿舍做的风铃在iG上爆火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%81%9A%E7%9A%84%E9%A3%8E%E9%93%83%E5%9C%A8iG%E4%B8%8A%E7%88%86%E7%81%AB&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "00时34分"
         },
         {
-          "title": "特朗普的“最后通牒”让避险光芒失色！国际银价暴跌20%只是“纸面游戏”？| Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260406201531086800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "青岛9部门联合发布 推动57个过亿元汽车产业项目建设",
-          "url": "https://flash.jin10.com/detail/20260406082029293800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "伊朗称正审阅调解方最新停火提案：拒绝以临时停火交换开放海峡，美“没做好永久停火准备”",
-          "url": "https://wallstreetcn.com/livenews/3082760",
+          "title": "摩根大通下调对特斯拉的盈利预测 该公司发布的一季度交付量不及预期",
+          "url": "https://wallstreetcn.com/livenews/3082868",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "00时34分"
         },
         {
-          "title": "印度NIFTY指数延续涨势，最新上涨0.67%。",
-          "url": "https://flash.jin10.com/detail/20260406155055279800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "洛克王国好玩吗",
-          "url": "https://www.douyin.com/hot/2455064",
-          "source": "抖音",
+          "title": "洛克王国世界好玩在哪里",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C%E5%A5%BD%E7%8E%A9%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "我国将加快太空算力产业生态培育",
-          "url": "https://www.douyin.com/hot/2457153",
-          "source": "抖音",
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 20时42分]"
-        },
-        {
-          "title": "摩根士丹利：将希捷科技(STX.O)目标价从468.00美元上调至582.00美元。将西部数据(WDC.O)目标价从369.00美元上调至380.00美元。",
-          "url": "https://flash.jin10.com/detail/20260406204019878800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "美股存储板块盘前上涨，闪迪涨超4%，美光科技涨近4%，西部数据涨近3%，希捷科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3082776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "亚马逊数据中心遇袭：搬上太空能躲过导弹吗？",
-          "url": "https://wallstreetcn.com/articles/3769291",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 13时54分]"
-        },
-        {
-          "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
-          "url": "https://wallstreetcn.com/livenews/3082650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
-          "title": "比特币一度上涨逾3.5%，站上7万美元/枚。",
-          "url": "https://wallstreetcn.com/livenews/3082822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "比特币维持0.7%的跌幅，暂报66786美元。 福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。 如果不“迅速”达成伊朗协议，考虑“破坏一切”。",
-          "url": "https://wallstreetcn.com/livenews/3082644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "00时34分"
         },
         {
           "title": "美宇航员太空中意外半裸出镜",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%87%E8%88%AA%E5%91%98%E5%A4%AA%E7%A9%BA%E4%B8%AD%E6%84%8F%E5%A4%96%E5%8D%8A%E8%A3%B8%E5%87%BA%E9%95%9C%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7625461037991837732/",
+          "source": "今日头条",
           "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2526 赛季 NBA 常规赛湖人 128:134 独行侠，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2024392218778038976",
-          "source": "知乎",
-          "ranks": [
-            18
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "00时34分"
         }
       ]
     }
