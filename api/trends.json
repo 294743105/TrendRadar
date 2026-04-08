@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T13:43:41.634563+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-04-08T16:50:53.208643+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 16时50分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -26,7 +27,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -37,18 +38,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
-          "url": "https://www.zhihu.com/question/2023389785188745917",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -58,11 +48,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 16时50分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -70,11 +61,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 16时50分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -83,22 +75,47 @@
           "ranks": [
             18,
             15,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 16时50分]"
         },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
           "url": "https://www.zhihu.com/question/2024876426596291384",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时50分]"
+        },
+        {
+          "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
+          "url": "https://www.zhihu.com/question/2023389785188745917",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时50分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "16时50分"
         },
         {
           "title": "芭比大战AI偶像",
@@ -129,7 +146,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -162,15 +179,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "据Axios：Anthropic已发布其最新模型Claude Mythos Preview的能力报告。由于该模型在网络安全领域表现出的能力过于强大，公司决定暂不向公众开放，而是通过“Project Glasswing项目”授权给特定的科技和网络安全公司进行测试与漏洞修复。",
+          "url": "https://flash.jin10.com/detail/20260408161945750800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -184,6 +212,19 @@
           "time_info": "04时34分"
         },
         {
+          "title": "天舟十号飞行任务标识正式发布",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E6%A0%87%E8%AF%86%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 16时50分]"
+        },
+        {
           "title": "白宫：特朗普已获悉巴基斯坦最新提议",
           "url": "https://wallstreetcn.com/livenews/3083712",
           "source": "华尔街见闻-快讯",
@@ -193,18 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "天舟十号飞行任务标识正式发布",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E6%A0%87%E8%AF%86%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 09时11分]"
         },
         {
           "title": "白宫称特朗普已获悉巴基斯坦最新提议",
@@ -217,6 +246,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 13时43分]"
+        },
+        {
+          "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
+          "url": "https://www.zhihu.com/question/2025124518817973047",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时50分]"
         },
         {
           "title": "人民日报批某地为民办事沦为“数字游戏”：数据好看了，群众满意度却下降了",
@@ -270,20 +311,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
         {
-          "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
-          "url": "https://www.zhihu.com/question/2025124518817973047",
-          "source": "知乎",
+          "title": "国际原子能机构：国际原子能机构总干事格罗西欢迎中东最新进展，以及旨在就包括伊朗核计划在内的关键问题达成协议的外交回归。",
+          "url": "https://flash.jin10.com/detail/20260408162112617800",
+          "source": "金十数据",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "16时50分"
+        },
+        {
+          "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32924115",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "伊朗战事最新进展",
@@ -292,7 +344,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -306,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "中证指数有限公司发布中证高等级综合债指数系列",
+          "url": "https://flash.jin10.com/detail/20260408161637603800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "据Politico：美国网络安全与基础设施安全局周二发布的一份新通告称，伊朗黑客正在利用美国水务和能源供应商关键软件系统中的网络漏洞。",
@@ -322,7 +385,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
@@ -342,7 +405,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -358,13 +421,24 @@
           "time_info": "04时34分"
         },
         {
+          "title": "太强了不敢公开！Anthropic推出“神话”新模型，暂时仅限科技巨头试用",
+          "url": "https://wallstreetcn.com/articles/3769434",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "恒生指数涨幅扩大至3%，恒生科技指数现涨4.5%。美团涨超10%，阿里巴巴涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3083996",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -419,9 +493,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨3.09%，恒生科技指数收涨5.22%。华虹半导体涨超14%，中芯国际涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3084161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，美光科技、闪迪涨超8%，西部数据、希捷科技涨超7%。能源股大跌，西方石油下跌7.8%，APA集团下跌9.8%，钻井能源下跌7.9%，康菲石油下跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3084152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "以太坊上涨6%至2,240美元，比特币上涨约4%至71,892美元。",
@@ -438,7 +534,7 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "马龙放弃NBA帅位执教大学明智吗",
@@ -453,15 +549,48 @@
           "time_info": "[00时44分 ~ 04时34分]"
         },
         {
+          "title": "詹姆斯缺战雷霆",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%BC%BA%E6%88%98%E9%9B%B7%E9%9C%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "美股加密货币股盘前走高，Coinbase上涨5.2%，Strategy上涨6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3084178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "数据角度找NBA最强新秀",
           "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E6%8D%AE%E8%A7%92%E5%BA%A6%E6%89%BENBA%E6%9C%80%E5%BC%BA%E6%96%B0%E7%A7%80",
           "source": "bilibili 热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "2526 赛季 NBA 常规赛雷霆 123:87 湖人，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2025161446296678976",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     }
