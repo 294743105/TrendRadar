@@ -1,29 +1,85 @@
 {
-  "generated_at": "2026-04-09T00:50:46.107797+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-09T04:46:26.061779+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3084479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
         {
           "title": "员工离职变AI,上班不能停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
           "source": "贴吧",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
+        },
+        {
+          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
+          "url": "https://www.zhihu.com/question/2024823845052269102",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
+        },
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
+        },
+        {
+          "title": "Claude防话痨插件爆火",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E9%98%B2%E8%AF%9D%E7%97%A8%E6%8F%92%E4%BB%B6%E7%88%86%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
+        },
+        {
+          "title": "AI染指鬼灭,日网友气急跳脚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
+        },
+        {
+          "title": "万斯称十点提案有多个版本 有些像是AI写的",
+          "url": "https://flash.jin10.com/detail/20260409042844092800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3084479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -39,68 +95,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 7,
+      "titles": [
         {
-          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
-          "url": "https://www.zhihu.com/question/2024823845052269102",
-          "source": "知乎",
+          "title": "破解地面算力“能耗焦虑”，太空算力产业生态提速构建",
+          "url": "https://www.cls.cn/detail/2338372",
+          "source": "财联社热门",
           "ranks": [
-            20
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
         },
         {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "周三（4月8日），纳斯达克网络安全ETF收涨0.63%，ETFMG网络安全ETF涨0.33%，北美科技软件股指数ETF跌0.93%。",
+          "url": "https://wallstreetcn.com/livenews/3084566",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "04时46分"
         },
         {
-          "title": "Claude防话痨插件爆火",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E9%98%B2%E8%AF%9D%E7%97%A8%E6%8F%92%E4%BB%B6%E7%88%86%E7%81%AB",
-          "source": "bilibili 热搜",
+          "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
+          "url": "https://wallstreetcn.com/livenews/3084565",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "04时46分"
         },
         {
-          "title": "AI染指鬼灭,日网友气急跳脚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
-          "source": "贴吧",
+          "title": "标普500指数的11个板块中，工业板块收涨3.75%，电信、原材料板块涨约3.4%，可选消费、信息技术/科技板块涨约2.8%，能源板块则收跌3.66%。",
+          "url": "https://wallstreetcn.com/livenews/3084563",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "04时46分"
+        },
+        {
+          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
+          "url": "https://wallstreetcn.com/livenews/3084561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "标普500指数初步收涨2.5%，工业、电信、原材料板块涨超3%，可选消费、科技、金融板块涨超2%，能源板块跌3.7%。 纳斯达克100指数初步收涨2.8%，成分股中，英特尔初步收涨10.9%，MPWR涨10%，拉姆研究、阿斯麦ADR、应用材料、西部数据至少涨约8.5%，天然气供应商Diamondback Energy则跌4.6%，Palantir跌6.1%，Workday跌6.7%。 道指初步收盘狂飙大约1300点、涨幅2.9%，成分股SHW涨6.9%，卡特彼勒涨6.3%，家得宝涨5.3%，高盛涨4.5%表现第四，Salesforce则跌6.5%，雪佛龙跌8.5%。",
+          "url": "https://wallstreetcn.com/livenews/3084560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.34%，报25859点。 恒生科技指数主连夜盘收跌0.28%，报4928点。",
+          "url": "https://wallstreetcn.com/livenews/3084542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32924115",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
         {
           "title": "NASA发布“最清晰的月球照片”",
           "url": "https://www.douyin.com/hot/2459602",
@@ -109,8 +194,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
+        },
+        {
+          "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32924115",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
         },
         {
           "title": "达利欧最新长文：世界大战“已开场”，五年内爆发概率超过50%",
@@ -120,8 +217,31 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
+        },
+        {
+          "title": "天舟十号飞行任务标识正式发布",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E6%A0%87%E8%AF%86%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 04时46分]"
+        },
+        {
+          "title": "美债收益率于美联储会议纪要发布后转涨",
+          "url": "https://wallstreetcn.com/livenews/3084556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "04时46分"
         },
         {
           "title": "据英国金融时报：Meta Platforms(META.O)发布扎克伯格大手笔投资后的首款人工智能模型Muse Spark。",
@@ -140,34 +260,6 @@
           "source": "抖音",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "天舟十号飞行任务标识正式发布",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E6%A0%87%E8%AF%86%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "破解地面算力“能耗焦虑”，太空算力产业生态提速构建",
-          "url": "https://www.cls.cn/detail/2338372",
-          "source": "财联社热门",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
