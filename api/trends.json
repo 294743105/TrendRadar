@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-10T00:57:40.777034+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-10T04:40:07.705201+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
+        },
         {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
           "url": "https://flash.jin10.com/detail/20260410004158650800",
@@ -19,15 +30,15 @@
           "time_info": "00时57分"
         },
         {
-          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
-          "source": "澎湃新闻",
+          "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
+          "url": "https://wallstreetcn.com/livenews/3085326",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "04时40分"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -37,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -48,8 +59,65 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
+        },
+        {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
+        },
+        {
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 04时40分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)重新调配工程师以改进AI模型。",
+          "url": "https://flash.jin10.com/detail/20260410035916165800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "04时40分"
         },
         {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
@@ -63,43 +131,21 @@
           "time_info": "00时57分"
         },
         {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
+          "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3085301",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "04时40分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "字节发布全双工语音大模型Seeduplex",
@@ -109,8 +155,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
         },
         {
           "title": "哀鸿风评稀烂,龙族游戏危了",
@@ -120,19 +166,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
         },
         {
-          "title": "据黎巴嫩广场电视台：黎巴嫩尚未从美国方面收到有关与以色列展开谈判的开始日期的最新消息，此次谈判预计将于下周启动，目前黎巴嫩正等待美方对此事的回应。",
-          "url": "https://flash.jin10.com/detail/20260410002957329800",
-          "source": "金十数据",
+          "title": "美国公布最新月球背面照片",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%9C%88%E7%90%83%E8%83%8C%E9%9D%A2%E7%85%A7%E7%89%87",
+          "source": "百度热搜",
           "ranks": [
-            13
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
         },
         {
           "title": "大疆Pocket 4将于4月16日发布",
@@ -142,15 +189,38 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
         },
         {
           "title": "NASA发布有史以来最清晰月球照",
           "url": "https://www.toutiao.com/trending/7626135639670472746/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
+        },
+        {
+          "title": "武汉发布暴雨红色预警",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 04时40分]"
+        },
+        {
+          "title": "据黎巴嫩广场电视台：黎巴嫩尚未从美国方面收到有关与以色列展开谈判的开始日期的最新消息，此次谈判预计将于下周启动，目前黎巴嫩正等待美方对此事的回应。",
+          "url": "https://flash.jin10.com/detail/20260410002957329800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -166,34 +236,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "美国公布最新月球背面照片",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%9C%88%E7%90%83%E8%83%8C%E9%9D%A2%E7%85%A7%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "【数据看盘】光迅科技龙虎榜现10亿抢筹大战 “北向+游资+机构” 涌入东山精密",
           "url": "https://www.cls.cn/detail/2339309",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
+        },
+        {
+          "title": "周四（4月9日），美股行业ETF多数收涨，半导体ETF涨1.75%，报430.31美元，突破2月25日所创收盘历史最高位426.16美元。 可选消费ETF涨1.73%，科技行业ETF涨0.27%，全球航空业ETF、网络股指数ETF至多跌0.64%，能源业ETF跌1.24%。",
+          "url": "https://wallstreetcn.com/livenews/3085322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "04时40分"
+        },
+        {
+          "title": "标普500指数的11个板块中，可选消费板块收涨2.46%，工业板块涨1.04%，电信板块涨0.93%，信息技术/科技板块涨0.38%，能源板块跌1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3085318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "万亿阵营扩容至9家！2025年上市银行科技金融全景扫描：总规模逼近30万亿 最高增速60%",
@@ -205,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.70%，报25900点。 恒生科技指数主连夜盘收涨0.44%，报4839点。",
+          "url": "https://wallstreetcn.com/livenews/3085292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     },
@@ -217,11 +310,12 @@
           "url": "https://www.douyin.com/hot/2461123",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时40分]"
         }
       ]
     }
