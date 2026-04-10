@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T04:40:07.705201+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-04-10T09:12:00.964507+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -17,6 +17,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 04时40分]"
+        },
+        {
+          "title": "微信回应夫妻用AI写公众号年赚200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 09时12分]"
+        },
+        {
+          "title": "微信回应夫妻用AI写公众号年赚200万",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
         },
         {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
@@ -36,9 +70,46 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 09时12分]"
+        },
+        {
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 09时12分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 09时12分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -63,50 +134,15 @@
           "time_info": "[00时57分 ~ 04时40分]"
         },
         {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
+          "title": "Anthropic新AI太强 美联储和财政部召开紧急会议",
+          "url": "https://flash.jin10.com/detail/20260410084126391800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            14
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时40分]"
-        },
-        {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时40分]"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时40分]"
-        },
-        {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "Meta Platforms(META.O)重新调配工程师以改进AI模型。",
@@ -115,9 +151,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "美国财长贝森特召集华尔街CEO们讨论Anthropic的AI模型Mythos",
+          "url": "https://wallstreetcn.com/livenews/3085414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
@@ -131,13 +178,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "阿里巴巴领投对AI视频生成公司生数科技的一轮3亿美元融资",
+          "url": "https://wallstreetcn.com/livenews/3085403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
           "url": "https://wallstreetcn.com/livenews/3085301",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         }
@@ -145,19 +203,8 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "字节发布全双工语音大模型Seeduplex",
-          "url": "https://www.toutiao.com/trending/7626368681664626731/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时40分]"
-        },
         {
           "title": "哀鸿风评稀烂,龙族游戏危了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353015&amp;topic_name=%E5%93%80%E9%B8%BF%E9%A3%8E%E8%AF%84%E7%A8%80%E7%83%82%2C%E9%BE%99%E6%97%8F%E6%B8%B8%E6%88%8F%E5%8D%B1%E4%BA%86",
@@ -166,8 +213,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 09时12分]"
+        },
+        {
+          "title": "字节发布全双工语音大模型Seeduplex",
+          "url": "https://www.toutiao.com/trending/7626368681664626731/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 09时12分]"
+        },
+        {
+          "title": "NASA发布有史以来最清晰月球照",
+          "url": "https://www.toutiao.com/trending/7626135639670472746/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 09时12分]"
         },
         {
           "title": "美国公布最新月球背面照片",
@@ -193,16 +264,26 @@
           "time_info": "[00时57分 ~ 04时40分]"
         },
         {
-          "title": "NASA发布有史以来最清晰月球照",
-          "url": "https://www.toutiao.com/trending/7626135639670472746/",
-          "source": "今日头条",
+          "title": "满足群众就近就便看病需求，加快建设分级诊疗体系若干措施发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934976",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            23
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时40分]"
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "《苏丹的游戏》一年免费更新三倍内容却迎来差评？作为买断制游戏，新内容免费却吃差评，是否有点多此一举？",
+          "url": "https://www.zhihu.com/question/2024252811030930000",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
         },
         {
           "title": "武汉发布暴雨红色预警",
@@ -216,6 +297,17 @@
           "time_info": "[04时39分 ~ 04时40分]"
         },
         {
+          "title": "SBTI作者深夜发布新链接",
+          "url": "https://s.weibo.com/weibo?q=%23SBTI%E4%BD%9C%E8%80%85%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E6%96%B0%E9%93%BE%E6%8E%A5%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
           "title": "据黎巴嫩广场电视台：黎巴嫩尚未从美国方面收到有关与以色列展开谈判的开始日期的最新消息，此次谈判预计将于下周启动，目前黎巴嫩正等待美方对此事的回应。",
           "url": "https://flash.jin10.com/detail/20260410002957329800",
           "source": "金十数据",
@@ -225,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "迅销公司股价延续涨势，最新上涨9.3%，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260410082334649800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "美国国债收益率在以色列表示将尽快启动与黎巴嫩的直接谈判后下跌；10年期美国国债收益率最新下跌2.2个基点，报4.269%。",
@@ -241,7 +344,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "【数据看盘】光迅科技龙虎榜现10亿抢筹大战 “北向+游资+机构” 涌入东山精密",
@@ -256,13 +359,35 @@
           "time_info": "[00时57分 ~ 04时40分]"
         },
         {
+          "title": "深交所公告，港股通标的证券名单调入挚达科技，2026年04月10日起生效。",
+          "url": "https://flash.jin10.com/detail/20260410084928671800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "深交所公告，港股通标的证券名单调入挚达科技，2026年04月10日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3085421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "周四（4月9日），美股行业ETF多数收涨，半导体ETF涨1.75%，报430.31美元，突破2月25日所创收盘历史最高位426.16美元。 可选消费ETF涨1.73%，科技行业ETF涨0.27%，全球航空业ETF、网络股指数ETF至多跌0.64%，能源业ETF跌1.24%。",
           "url": "https://wallstreetcn.com/livenews/3085322",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         },
@@ -273,7 +398,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         },
@@ -295,7 +420,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         }
@@ -311,11 +436,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 09时12分]"
         }
       ]
     }
