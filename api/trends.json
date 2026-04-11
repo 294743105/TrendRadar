@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T16:31:10.880813+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-04-11T20:29:58.531658+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
@@ -52,6 +52,41 @@
           "time_info": "04时24分"
         },
         {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时29分]"
+        },
+        {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            21,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时29分]"
+        },
+        {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
           "url": "https://www.zhihu.com/question/2025899367144453577",
           "source": "知乎",
@@ -61,17 +96,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 04时24分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时31分]"
         },
         {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
@@ -97,17 +121,6 @@
           "time_info": "[04时23分 ~ 04时24分]"
         },
         {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时31分]"
-        },
-        {
           "title": "中国AI芯片格局反转",
           "url": "https://www.toutiao.com/trending/7627057914037289014/",
           "source": "今日头条",
@@ -117,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 04时24分]"
+        },
+        {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -136,7 +160,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -169,7 +193,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -243,7 +267,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "贵阳女孩玩「拼豆」在熨烫时触电离世，当好玩和要命只有一线之隔，谁该为网红玩具「带病」流行负责？",
@@ -269,6 +293,21 @@
           "time_info": "[00时40分 ~ 09时07分]"
         },
         {
+          "title": "哀鸿风评稀烂,龙族游戏危了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353015&amp;topic_name=%E5%93%80%E9%B8%BF%E9%A3%8E%E8%AF%84%E7%A8%80%E7%83%82%2C%E9%BE%99%E6%97%8F%E6%B8%B8%E6%88%8F%E5%8D%B1%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15,
+            22,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 20时29分]"
+        },
+        {
           "title": "小米食堂发布「小米」冰激凌，有标准版、 Pro 版、 Max 版三种版本，怎样看待小米把产品思维刻进日常？",
           "url": "https://www.zhihu.com/question/2025963750629423063",
           "source": "知乎",
@@ -284,25 +323,12 @@
           "url": "https://www.zhihu.com/question/2026019159750788716",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 16时31分]"
-        },
-        {
-          "title": "哀鸿风评稀烂,龙族游戏危了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353015&amp;topic_name=%E5%93%80%E9%B8%BF%E9%A3%8E%E8%AF%84%E7%A8%80%E7%83%82%2C%E9%BE%99%E6%97%8F%E6%B8%B8%E6%88%8F%E5%8D%B1%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            15,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 20时29分]"
         },
         {
           "title": "警方捣毁游戏外挂窝点全记录",
@@ -342,6 +368,30 @@
           "time_info": "[09时07分 ~ 16时31分]"
         },
         {
+          "title": "司机开路虎加油后逃单，江西警方发布警情通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32946262",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时29分]"
+        },
+        {
+          "title": "内蒙古自贸试验区如何建？9张海报看懂这场发布会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32947621",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时29分]"
+        },
+        {
           "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
           "url": "https://www.zhihu.com/question/2025560267992376641",
           "source": "知乎",
@@ -364,28 +414,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 04时24分]"
-        },
-        {
-          "title": "司机开路虎加油后逃单，江西警方发布警情通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32946262",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时31分]"
-        },
-        {
-          "title": "内蒙古自贸试验区如何建？9张海报看懂这场发布会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32947621",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时31分]"
         },
         {
           "title": "湖北发布最新癌症年报",
@@ -427,7 +455,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -441,12 +469,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "孙怡 赵子琪淘汰发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E6%80%A1%20%E8%B5%B5%E5%AD%90%E7%90%AA%E6%B7%98%E6%B1%B0%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "追觅科技俞浩要砸 2 亿年薪招首席科学家，疑因宇树科技挖人抢项目发飙，这薪资是什么水平？双方竞争关系如何？",
@@ -492,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
+          "url": "https://www.zhihu.com/question/2025926047250605746",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.16%，报25964点。 恒生科技指数主连夜盘收涨0.21%，报4879点。",
