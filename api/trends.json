@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T13:50:22.307430+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-04-12T16:36:39.374053+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "内蒙古自贸试验区如何建？9张海报看懂这场发布会",
@@ -42,17 +42,6 @@
           "time_info": "[09时15分 ~ 09时16分]"
         },
         {
-          "title": "新版“海南省智能网联汽车管理办法”拟4、5月发布",
-          "url": "https://wallstreetcn.com/livenews/3086337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
           "title": "美国副总统万斯将在伊斯兰堡召开新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260412085321581800",
           "source": "金十数据",
@@ -70,29 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "十项促进两岸交流合作措施发布",
-          "url": "https://www.douyin.com/hot/2463529",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
-          "url": "https://wallstreetcn.com/articles/3769754",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -101,11 +68,84 @@
           "url": "https://www.cls.cn/detail/2341410",
           "source": "财联社热门",
           "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时36分]"
+        },
+        {
+          "title": "新版“海南省智能网联汽车管理办法”拟4、5月发布",
+          "url": "https://wallstreetcn.com/livenews/3086337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时36分]"
+        },
+        {
+          "title": "十项促进两岸交流合作措施发布",
+          "url": "https://www.douyin.com/hot/2463529",
+          "source": "抖音",
+          "ranks": [
+            5,
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时36分]"
+        },
+        {
+          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
+          "url": "https://wallstreetcn.com/articles/3769754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时36分]"
+        },
+        {
+          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954249",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时36分]"
+        },
+        {
+          "title": "伊朗谈判代表团将举行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3086324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时36分]"
+        },
+        {
+          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
+          "url": "https://wallstreetcn.com/livenews/3086319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时36分]"
         },
         {
           "title": "十项促进两岸交流合作政策措施发布",
@@ -114,7 +154,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -141,37 +181,15 @@
           "time_info": "09时16分"
         },
         {
-          "title": "伊朗谈判代表团将举行新闻发布会",
-          "url": "https://wallstreetcn.com/livenews/3086324",
-          "source": "华尔街见闻-快讯",
+          "title": "独立游戏是否是只有前 1% 的天才才可以成功的行业？",
+          "url": "https://www.zhihu.com/question/2017604550131999606",
+          "source": "知乎",
           "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
-          "url": "https://wallstreetcn.com/livenews/3086319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954249",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "16时36分"
         },
         {
           "title": "伊朗谈判代表团将举行新闻发布会",
@@ -180,7 +198,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -191,7 +209,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
@@ -199,8 +217,20 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 16时36分]"
+        },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
           "url": "https://wallstreetcn.com/articles/3769738",
@@ -213,18 +243,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 09时16分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 13时50分]"
         },
         {
           "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
@@ -244,7 +262,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -291,28 +309,41 @@
           "url": "https://www.zhihu.com/question/2025695905764962890",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时36分]"
         },
         {
           "title": "让AI与AI互相聊天会聊出什么",
           "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E4%B8%8EAI%E4%BA%92%E7%9B%B8%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%81%8A%E5%87%BA%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 16时36分]"
+        },
+        {
+          "title": "OpenAI CEO住所遭袭",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "16时36分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "宇树科技人形机器人跑出10米/秒",
@@ -320,11 +351,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 16时36分]"
         },
         {
           "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
@@ -369,9 +401,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "马斯克的“西方微信”要上线了",
+          "url": "https://flash.jin10.com/detail/20260412134153811800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     }
