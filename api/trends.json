@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T17:43:45.234804+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-04-15T20:54:39.892780+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 20时54分]"
         },
         {
           "title": "月薪3万，去内蒙草原给DeepSeek守机房",
@@ -33,6 +34,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 17时43分]"
+        },
+        {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时54分]"
         },
         {
           "title": "Claude：Claude Code中的“例程”（routines）现已进入研究预览阶段。只需配置一次例程（包括提示词、代码仓库以及连接器），它即可按计划调度运行、通过API调用触发，或根据事件自动执行。例程运行在Web基础设施上，因此无需保持本地电脑开启。",
@@ -92,15 +105,15 @@
           "time_info": "[13时56分 ~ 17时43分]"
         },
         {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
+          "title": "DeepSeek招人去内蒙草原“守机房”",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E4%BA%BA%E5%8E%BB%E5%86%85%E8%92%99%E8%8D%89%E5%8E%9F%E2%80%9C%E5%AE%88%E6%9C%BA%E6%88%BF%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "20时54分"
         },
         {
           "title": "港股AI应用板块部分走低，智谱(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超8%，迅策(03317.HK)跌超6%。",
@@ -120,7 +133,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -197,6 +210,18 @@
           "time_info": "[00时55分 ~ 04时42分]"
         },
         {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时54分]"
+        },
+        {
           "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3088208",
           "source": "华尔街见闻-快讯",
@@ -206,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "AI初创公司Hilbert完成2800万美元A轮融资",
+          "url": "https://flash.jin10.com/detail/20260415204514760800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
@@ -230,15 +266,15 @@
           "time_info": "04时42分"
         },
         {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
+          "title": "国芯科技：新一代基于RISC-V架构的抗量子高性能汽车电子AI MCU新产品CCRC4XXX(原CCFC3009PT)于近日在公司内部测试中获得成功。",
+          "url": "https://flash.jin10.com/detail/20260415204421303800",
+          "source": "金十数据",
           "ranks": [
-            17
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "20时54分"
         },
         {
           "title": "网易云音乐回应争议广告：系合作方未经许可对广告素材进行AI二创",
@@ -247,7 +283,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -258,7 +294,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -269,7 +305,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         }
@@ -277,8 +313,22 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "玩家老杨的游戏人生",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%AE%B6%E8%80%81%E6%9D%A8%E7%9A%84%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            21,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 20时54分]"
+        },
         {
           "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
           "url": "https://www.cls.cn/detail/2344264",
@@ -292,17 +342,17 @@
           "time_info": "[09时14分 ~ 13时57分]"
         },
         {
-          "title": "玩家老杨的游戏人生",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%AE%B6%E8%80%81%E6%9D%A8%E7%9A%84%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F",
-          "source": "bilibili 热搜",
+          "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972727",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            21,
-            13
+            9,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 20时54分]"
         },
         {
           "title": "鸡煲公主爆火前后反差",
@@ -333,7 +383,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -350,6 +400,17 @@
           "time_info": "[09时14分 ~ 13时57分]"
         },
         {
+          "title": "2026软科中国大学排名发布",
+          "url": "https://www.douyin.com/hot/2466951",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：巴基斯坦的一位外交消息人士表示，德黑兰与伊斯兰堡之间就伊斯兰堡谈判后的最新进展，正保持着持续且密集的意见交换。",
           "url": "https://flash.jin10.com/detail/20260415041123711800",
           "source": "金十数据",
@@ -361,16 +422,17 @@
           "time_info": "04时42分"
         },
         {
-          "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972727",
-          "source": "澎湃新闻",
+          "title": "为什么电影 24 帧感觉很顺畅，但是游戏低于 60fps 就很难受呢？",
+          "url": "https://www.zhihu.com/question/2025990332119040866",
+          "source": "知乎",
           "ranks": [
-            9,
-            5
+            16,
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 20时54分]"
         },
         {
           "title": "教育部发布通知，要求严禁幼儿园提前教授小学阶段课程内容，这一规定有何影响？",
@@ -385,18 +447,6 @@
           "time_info": "[00时55分 ~ 04时42分]"
         },
         {
-          "title": "为什么电影 24 帧感觉很顺畅，但是游戏低于 60fps 就很难受呢？",
-          "url": "https://www.zhihu.com/question/2025990332119040866",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 17时43分]"
-        },
-        {
           "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
           "url": "https://www.cls.cn/detail/2344256",
           "source": "财联社热门",
@@ -407,6 +457,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时14分 ~ 13时57分]"
+        },
+        {
+          "title": "国外新提案!游戏关服出离线版",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353276&amp;topic_name=%E5%9B%BD%E5%A4%96%E6%96%B0%E6%8F%90%E6%A1%88%21%E6%B8%B8%E6%88%8F%E5%85%B3%E6%9C%8D%E5%87%BA%E7%A6%BB%E7%BA%BF%E7%89%88",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时54分]"
+        },
+        {
+          "title": "机构发布“2026中国大学排名”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32970088",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时54分]"
         },
         {
           "title": "央行发布 2026 年一季度及 3 月社融初步数据，存量同比增 7.9%，M2 维持 8% 以上增长，对此你怎么看？",
@@ -453,37 +527,26 @@
           "time_info": "[13时56分 ~ 13时57分]"
         },
         {
-          "title": "国外新提案!游戏关服出离线版",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353276&amp;topic_name=%E5%9B%BD%E5%A4%96%E6%96%B0%E6%8F%90%E6%A1%88%21%E6%B8%B8%E6%88%8F%E5%85%B3%E6%9C%8D%E5%87%BA%E7%A6%BB%E7%BA%BF%E7%89%88",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "机构发布“2026中国大学排名”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32970088",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "江苏最新癌情发布",
           "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%9C%80%E6%96%B0%E7%99%8C%E6%83%85%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "沃尔沃发布会",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%83%E5%B0%94%E6%B2%83%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "据福克斯新闻：美国白宫将于当地时间周三举行报税日新闻发布会，美国财政部长贝森特和小企业管理局局长洛夫勒将出席。",
@@ -508,6 +571,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "小鹏GX把四大安全测试场搬到发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FGX%E6%8A%8A%E5%9B%9B%E5%A4%A7%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E5%9C%BA%E6%90%AC%E5%88%B0%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "5月1日起实施 多部门联合发布《口岸重点管控外来物种名录》",
           "url": "https://wallstreetcn.com/livenews/3088177",
           "source": "华尔街见闻-快讯",
@@ -525,7 +599,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         }
@@ -533,7 +607,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -554,9 +628,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "河南省委书记刘宁到濮阳市调研推动新材料产业科技创新等工作",
+          "url": "https://wallstreetcn.com/livenews/3088540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
+          "url": "https://www.cls.cn/detail/2344645",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时54分]"
         },
         {
           "title": "5天暴涨45% 张小泉被炒成“科技股”",
@@ -570,17 +667,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 09时14分]"
-        },
-        {
-          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
-          "url": "https://www.cls.cn/detail/2344645",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
         },
         {
           "title": "标普500指数的11个板块中，电信板块收涨3.18%，可选消费板块涨2.54%，信息技术/科技板块涨1.66%，能源板块收跌2.16%。",
@@ -655,9 +741,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "春光科技：拟募资7.51亿元用于三项目 智慧电源项目效益良好",
+          "url": "https://flash.jin10.com/detail/20260415203743544800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "A股算力租赁板块午后短线拉升，杰创智能、宏景科技涨超10%，恒润股份、中贝通信、顺网科技短线拉升。",
@@ -677,7 +774,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -696,7 +793,7 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "你看过狄龙在NBA的哪些名场面",
@@ -719,6 +816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "NBA附加赛能赚多少钱",
+          "url": "https://www.douyin.com/hot/2467070",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "正直播NBA附加赛：热火vs黄蜂",
