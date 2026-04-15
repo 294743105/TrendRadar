@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-04-15T09:14:50.354564+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-04-15T13:57:06.003137+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
+          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
+          "url": "https://wallstreetcn.com/articles/3769935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 13时57分]"
+        },
         {
           "title": "Claude：Claude Code中的“例程”（routines）现已进入研究预览阶段。只需配置一次例程（包括提示词、代码仓库以及连接器），它即可按计划调度运行、通过API调用触发，或根据事件自动执行。例程运行在Web基础设施上，因此无需保持本地电脑开启。",
           "url": "https://flash.jin10.com/detail/20260415004937638800",
@@ -53,17 +78,27 @@
           "time_info": "04时42分"
         },
         {
-          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
-          "url": "https://wallstreetcn.com/articles/3769935",
+          "title": "港股AI应用板块部分走低，智谱(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超8%，迅策(03317.HK)跌超6%。",
+          "url": "https://flash.jin10.com/detail/20260415132253511800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时55分 ~ 09时14分]"
+          "time_info": "[04时42分 ~ 13时57分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -125,15 +160,26 @@
           "time_info": "[00时55分 ~ 04时42分]"
         },
         {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时42分 ~ 09时14分]"
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
+          "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3088208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
@@ -161,8 +207,32 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 13时57分]"
+        },
+        {
+          "title": "玩家老杨的游戏人生",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%AE%B6%E8%80%81%E6%9D%A8%E7%9A%84%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 13时57分]"
+        },
         {
           "title": "鸡煲公主爆火前后反差",
           "url": "https://s.weibo.com/weibo?q=%23%E9%B8%A1%E7%85%B2%E5%85%AC%E4%B8%BB%E7%88%86%E7%81%AB%E5%89%8D%E5%90%8E%E5%8F%8D%E5%B7%AE%23&t=31&band_rank=2&Refer=top",
@@ -170,7 +240,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -186,15 +256,16 @@
           "time_info": "04时42分"
         },
         {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
+          "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
+          "url": "https://www.cls.cn/detail/2344176",
           "source": "财联社热门",
           "ranks": [
-            4
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 13时57分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：巴基斯坦的一位外交消息人士表示，德黑兰与伊斯兰堡之间就伊斯兰堡谈判后的最新进展，正保持着持续且密集的意见交换。",
@@ -206,28 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        },
-        {
-          "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
-          "url": "https://www.cls.cn/detail/2344176",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "玩家老杨的游戏人生",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%AE%B6%E8%80%81%E6%9D%A8%E7%9A%84%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 09时14分]"
         },
         {
           "title": "教育部发布通知，要求严禁幼儿园提前教授小学阶段课程内容，这一规定有何影响？",
@@ -246,11 +295,78 @@
           "url": "https://www.cls.cn/detail/2344256",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 13时57分]"
+        },
+        {
+          "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972727",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
+          "title": "央行发布 2026 年一季度及 3 月社融初步数据，存量同比增 7.9%，M2 维持 8% 以上增长，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027320025485177826",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
+          "title": "为什么电影 24 帧感觉很顺畅，但是游戏低于 60fps 就很难受呢？",
+          "url": "https://www.zhihu.com/question/2025990332119040866",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
+          "title": "“鸡煲大公主”爆火前后反差",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%B8%A1%E7%85%B2%E5%A4%A7%E5%85%AC%E4%B8%BB%E2%80%9D%E7%88%86%E7%81%AB%E5%89%8D%E5%90%8E%E5%8F%8D%E5%B7%AE",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
+          "title": "机构发布“2026中国大学排名”",
+          "url": "https://www.toutiao.com/trending/7628549936241557510/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
+        {
+          "title": "机构发布“2026中国大学排名”",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E6%9E%84%E5%8F%91%E5%B8%83%E2%80%9C2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
         },
         {
           "title": "据福克斯新闻：美国白宫将于当地时间周三举行报税日新闻发布会，美国财政部长贝森特和小企业管理局局长洛夫勒将出席。",
@@ -270,15 +386,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "5月1日起实施 多部门联合发布《口岸重点管控外来物种名录》",
+          "url": "https://wallstreetcn.com/livenews/3088177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -317,6 +444,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
+          "url": "https://wallstreetcn.com/livenews/3088207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "标普500指数涨幅扩大至1%，电信板块涨3%，可选消费板块涨2.5%，科技板块涨1%，能源板块跌2.2%。",
           "url": "https://wallstreetcn.com/livenews/3087871",
           "source": "华尔街见闻-快讯",
@@ -350,6 +488,28 @@
           "time_info": "04时42分"
         },
         {
+          "title": "市场传闻Meta进行供应商审核 剑桥科技回应",
+          "url": "https://wallstreetcn.com/livenews/3088193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "A股算力租赁板块午后短线拉升，杰创智能、宏景科技涨超10%，恒润股份、中贝通信、顺网科技短线拉升。",
+          "url": "https://flash.jin10.com/detail/20260415130224383800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.88%，报26145点。 恒生科技指数主连夜盘收涨1.75%，报4943点。",
           "url": "https://wallstreetcn.com/livenews/3087929",
           "source": "华尔街见闻-快讯",
@@ -364,8 +524,19 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "你看过狄龙在NBA的哪些名场面",
+          "url": "https://www.toutiao.com/trending/7628619260533014579/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 13时57分]"
+        },
         {
           "title": "NBA附加赛",
           "url": "https://s.weibo.com/weibo?q=%23NBA%E9%99%84%E5%8A%A0%E8%B5%9B%23&t=31&band_rank=9&Refer=top",
@@ -373,7 +544,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -384,7 +555,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         }
