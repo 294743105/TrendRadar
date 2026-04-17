@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T13:58:16.822447+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-04-17T17:08:08.331638+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -14,11 +14,24 @@
           "ranks": [
             4,
             6,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 13时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 17时08分]"
+        },
+        {
+          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
+          "url": "https://www.cls.cn/detail/2347047",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 17时08分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -38,7 +51,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -53,17 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 13时58分]"
-        },
-        {
-          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
-          "url": "https://www.cls.cn/detail/2347047",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -83,9 +85,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 17时08分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -137,16 +151,16 @@
           "time_info": "[09时16分 ~ 13时58分]"
         },
         {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            19
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时16分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 17时08分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -222,18 +236,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "国产AI激光“灭蚊神器”海外爆单",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -244,7 +247,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -258,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "AI龙头业绩与指引双双提振信心 瑞银仍看好AI长期趋势",
+          "url": "https://flash.jin10.com/detail/20260417165554147800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
@@ -277,9 +291,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "黄仁勋：DeepSeek如果先在华为平台适配，对美国来说非常糟糕。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3089919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
@@ -296,8 +321,19 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "神二十三发射、重复使用火箭飞行验证，今年中国航天重点任务发布",
+          "url": "https://www.cls.cn/detail/2347298",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
         {
           "title": "教资成绩发布",
           "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9%E5%8F%91%E5%B8%83",
@@ -305,9 +341,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "大疆 Pocket 4 发布，哪项升级最值得关注？Pocket 3 用户该不该入手？",
+          "url": "https://www.zhihu.com/question/2025971510033084970",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 17时08分]"
         },
         {
           "title": "地铁2039最新预告片",
@@ -369,15 +417,15 @@
           "time_info": "[01时02分 ~ 04时38分]"
         },
         {
-          "title": "大疆 Pocket 4 发布，哪项升级最值得关注？Pocket 3 用户该不该入手？",
-          "url": "https://www.zhihu.com/question/2025971510033084970",
-          "source": "知乎",
+          "title": "女子ZARA试衣被针扎最新进展",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90ZARA%E8%AF%95%E8%A1%A3%E8%A2%AB%E9%92%88%E6%89%8E%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
           "ranks": [
-            8
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "全球最大船用风力旋筒助推系统发布",
@@ -386,9 +434,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3089933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "鸿蒙应用开发者激励计划 2026 发布，在生态由规模转质量阶段，开发者如何打造精品鸿蒙应用赢取激励？",
@@ -397,9 +456,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "港交所发布有关缩短香港股票现货市场结算周期的谘询文件",
+          "url": "https://flash.jin10.com/detail/20260417165047238800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "以色列国防军：鉴于最新局势发展，正为来自黎巴嫩方向可能出现的袭击做准备，重点关注以色列北部地区。以军正在进行持续的形势评估。目前本土司令部的防护指引没有变化。",
@@ -416,7 +486,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
@@ -430,6 +500,29 @@
           "time_info": "01时02分"
         },
         {
+          "title": "香港交易所信息显示，贝莱德（BlackRock）在舜宇光学科技(02382.HK)的持股比例于04月13日从6.95%升至7.02%。",
+          "url": "https://flash.jin10.com/detail/20260417170437512800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
+          "url": "https://www.cls.cn/detail/2347163",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 17时08分]"
+        },
+        {
           "title": "【数据看盘】多家机构激烈博弈大族激光 量化联手游资抢筹长信科技",
           "url": "https://www.cls.cn/detail/2346360",
           "source": "财联社热门",
@@ -440,6 +533,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 04时38分]"
+        },
+        {
+          "title": "创业板指再创近11年新高，光通信爆发，源杰科技成“新股王”，茅台跌4%，恒科指跌1%",
+          "url": "https://wallstreetcn.com/articles/3770209",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "马斯克要求“光速”推进Terafab 已向供应商询问设备报价与交付时间",
@@ -476,17 +580,6 @@
           "time_info": "04时38分"
         },
         {
-          "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
-          "url": "https://www.cls.cn/detail/2347163",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
           "url": "https://wallstreetcn.com/livenews/3089562",
           "source": "华尔街见闻-快讯",
@@ -504,7 +597,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -515,7 +608,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
