@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T09:10:09.847072+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-04-18T13:29:37.137209+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "如何看待橘子海乐队向华为终端发布侵权声明，要求在 7 日之内赔偿道歉？",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 13时29分]"
         },
         {
           "title": "《王者荣耀世界》移动端已于 17 日 7 点开服，如何评价这款游戏在移动端的表现？",
@@ -76,13 +76,24 @@
           "time_info": "[09时09分 ~ 09时10分]"
         },
         {
+          "title": "特朗普：将在周六举行新闻发布会。 新闻发布会与伊朗无关。",
+          "url": "https://wallstreetcn.com/livenews/3090399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（4月18日）",
           "url": "https://flash.jin10.com/detail/20260418082341807800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -93,9 +104,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "长城魏牌正式发布归元S平台",
+          "url": "https://wallstreetcn.com/livenews/3090391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "墨西哥政府发布了一项关于4月18日至24日期间汽油和柴油税收激励的决议。",
@@ -104,7 +126,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -120,13 +142,35 @@
           "time_info": "00时41分"
         },
         {
+          "title": "伊朗发布霍尔木兹海峡船舶通行新规",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%88%B9%E8%88%B6%E9%80%9A%E8%A1%8C%E6%96%B0%E8%A7%84%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "魏建军发布会批评魏牌高管团队",
+          "url": "https://www.toutiao.com/trending/7629907988916047414/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "特朗普称很快发布第一批UFO文件",
           "url": "https://wallstreetcn.com/livenews/3090367",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -137,7 +181,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -148,7 +192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -159,7 +203,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         }
@@ -167,7 +211,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -175,11 +219,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 09时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 13时29分]"
         },
         {
           "title": "OpenAI高管Kevin Weil离职。（Wired）",
@@ -198,11 +243,34 @@
           "source": "贴吧",
           "ranks": [
             23,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 09时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 13时29分]"
+        },
+        {
+          "title": "刺猬猫AI文霸榜,作者魔法对轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "粉红蓝莓是AI生成的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "高盛：AI的未来，要有光！",
@@ -217,6 +285,30 @@
           "time_info": "[04时33分 ~ 09时10分]"
         },
         {
+          "title": "AI重塑竞争格局，券商金融科技投入稳增长",
+          "url": "https://wallstreetcn.com/livenews/3090380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 13时29分]"
+        },
+        {
+          "title": "xAI宣布推出Grok语音转文本和Grok文本转语音功能。",
+          "url": "https://wallstreetcn.com/livenews/3090379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 13时29分]"
+        },
+        {
           "title": "实测Claude Opus 4.7",
           "url": "https://www.douyin.com/hot/2469364",
           "source": "抖音",
@@ -228,26 +320,15 @@
           "time_info": "[09时09分 ~ 09时10分]"
         },
         {
-          "title": "AI重塑竞争格局，券商金融科技投入稳增长",
-          "url": "https://wallstreetcn.com/livenews/3090380",
-          "source": "华尔街见闻-快讯",
+          "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
+          "url": "https://wallstreetcn.com/articles/3770310",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "xAI宣布推出Grok语音转文本和Grok文本转语音功能。",
-          "url": "https://wallstreetcn.com/livenews/3090379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "13时29分"
         },
         {
           "title": "市场消息：精神航空（Spirit Airlines）因油价飙升威胁复苏，寻求美国政府援助。精神航空已向特朗普政府申请数亿美元的紧急资金支持。",
@@ -289,7 +370,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         }
@@ -297,19 +378,8 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "本周，标普累涨约4.5%，道指累涨约3.2%，纳指累涨6.6%。 周五当天，标普500指数初步收涨1.2%，可选消费、工业、科技、房地产、保健、日用消费品板块涨超1%，能源部哪跌2.9%。 纳斯达克100指数初步收涨1.2%，成分股中，Strategy初步收涨11.8%，ADI涨5.1%，MPWR、迈威尔科技、万豪国际、德康医疗至少涨4.2%，美国油服贝克休斯跌1.4%，Diamondback Energy跌3.4%，奈飞跌9.5%。 道指初步收涨超800点，成分股SHW涨3.8%，家得宝、Merck、卡特彼勒、宝洁、高盛、3M、苹果、联合健康、沃尔玛涨超2%，雪佛龙跌2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3090318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
         {
           "title": "创业板指再创近11年新高，光通信爆发，源杰科技成“新股王”，茅台跌4%，恒科指跌1%",
           "url": "https://wallstreetcn.com/articles/3770209",
@@ -320,8 +390,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 09时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 13时29分]"
+        },
+        {
+          "title": "本周，标普累涨约4.5%，道指累涨约3.2%，纳指累涨6.6%。 周五当天，标普500指数初步收涨1.2%，可选消费、工业、科技、房地产、保健、日用消费品板块涨超1%，能源部哪跌2.9%。 纳斯达克100指数初步收涨1.2%，成分股中，Strategy初步收涨11.8%，ADI涨5.1%，MPWR、迈威尔科技、万豪国际、德康医疗至少涨4.2%，美国油服贝克休斯跌1.4%，Diamondback Energy跌3.4%，奈飞跌9.5%。 道指初步收涨超800点，成分股SHW涨3.8%，家得宝、Merck、卡特彼勒、宝洁、高盛、3M、苹果、联合健康、沃尔玛涨超2%，雪佛龙跌2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3090318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "【数据看盘】近9亿元资金抢筹光迅科技 “北向+游资”合力买入云南锗业",
@@ -358,6 +439,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时33分 ~ 09时10分]"
+        },
+        {
+          "title": "马斯克：SpaceX和特斯拉将始终是台积电的重要客户。 台积电无法生产所需数量的芯片。 如果台积电能够生产芯片，我们就无需“Terafab”芯片工厂项目了。",
+          "url": "https://wallstreetcn.com/livenews/3090400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "恒生指数主连夜盘收涨1.22%，报26502点。 恒生科技指数主连夜盘收涨1.45%，报5118点。",
