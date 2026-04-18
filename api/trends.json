@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-18T16:36:46.108505+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-04-18T20:34:08.723069+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
+          "url": "https://www.cls.cn/detail/2348142",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时09分 ~ 20时34分]"
+        },
         {
           "title": "如何看待橘子海乐队向华为终端发布侵权声明，要求在 7 日之内赔偿道歉？",
           "url": "https://www.zhihu.com/question/2028483142109996288",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时41分 ~ 09时10分]"
-        },
-        {
-          "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
-          "url": "https://www.cls.cn/detail/2348142",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 16时36分]"
         },
         {
           "title": "《王者荣耀世界》移动端已于 17 日 7 点开服，如何评价这款游戏在移动端的表现？",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "中国游戏公司财报盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8%E8%B4%A2%E6%8A%A5%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（4月18日）",
@@ -212,7 +223,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -222,11 +233,12 @@
             3,
             4,
             11,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 20时34分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -234,11 +246,23 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 20时34分]"
+        },
+        {
+          "title": "起点百分之十的新书使用 AI 润色，起点会因为 AI 文而完蛋吗？",
+          "url": "https://www.zhihu.com/question/2028416884643472906",
+          "source": "知乎",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 16时36分]"
+          "time_info": "[20时33分 ~ 20时34分]"
         },
         {
           "title": "OpenAI高管Kevin Weil离职。（Wired）",
@@ -276,6 +300,19 @@
           "time_info": "13时29分"
         },
         {
+          "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
+          "url": "https://wallstreetcn.com/articles/3770310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 20时34分]"
+        },
+        {
           "title": "高盛：AI的未来，要有光！",
           "url": "https://wallstreetcn.com/articles/3770214",
           "source": "华尔街见闻",
@@ -288,16 +325,15 @@
           "time_info": "[04时33分 ~ 09时10分]"
         },
         {
-          "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
-          "url": "https://wallstreetcn.com/articles/3770310",
+          "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
+          "url": "https://wallstreetcn.com/articles/3770313",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 16时36分]"
+          "time_info": "[20时33分 ~ 20时34分]"
         },
         {
           "title": "AI重塑竞争格局，券商金融科技投入稳增长",
@@ -363,7 +399,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -426,7 +462,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -525,7 +561,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
