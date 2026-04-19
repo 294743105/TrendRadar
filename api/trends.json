@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-19T16:41:49.913530+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-04-19T20:32:42.754105+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 20时32分]"
+        },
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
           "url": "https://wallstreetcn.com/articles/3770310",
@@ -34,6 +46,48 @@
           "time_info": "[00时25分 ~ 09时18分]"
         },
         {
+          "title": "up主转战AI动画遭手绘党声讨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            12,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 20时32分]"
+        },
+        {
+          "title": "刺猬猫AI文霸榜,作者魔法对轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            16,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 20时32分]"
+        },
+        {
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            25,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 20时32分]"
+        },
+        {
           "title": "DeepSeek被曝启动融资",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
           "source": "bilibili 热搜",
@@ -46,57 +100,6 @@
           "time_info": "[13时53分 ~ 16时41分]"
         },
         {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时41分]"
-        },
-        {
-          "title": "up主转战AI动画遭手绘党声讨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 16时41分]"
-        },
-        {
-          "title": "刺猬猫AI文霸榜,作者魔法对轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 16时41分]"
-        },
-        {
-          "title": "AI入侵产业,2D国漫公司倒闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 16时41分]"
-        },
-        {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
           "url": "https://wallstreetcn.com/articles/3770323",
           "source": "华尔街见闻",
@@ -106,6 +109,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 20时32分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -169,18 +185,6 @@
           "time_info": "[13时53分 ~ 16时41分]"
         },
         {
-          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时41分]"
-        },
-        {
           "title": "AI 说的「稳稳地接住你」到底是什么意思？",
           "url": "https://www.zhihu.com/question/2028251818384192677",
           "source": "知乎",
@@ -220,7 +224,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -236,13 +240,35 @@
           "time_info": "13时53分"
         },
         {
+          "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
+          "url": "https://www.zhihu.com/question/2029139595183367444",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "智谱2025年收入7.243亿元人民币，同比增长131.9%，2024年为3.12亿元。",
+          "url": "https://wallstreetcn.com/livenews/3090573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "DeepSeek被曝融资20亿",
           "url": "https://www.toutiao.com/trending/7630341053001829938/",
           "source": "今日头条",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -260,9 +286,142 @@
       ]
     },
     {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
+          "url": "https://www.cls.cn/detail/2348142",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 16时41分]"
+        },
+        {
+          "title": "中国军号发布视频《枕戈待旦》：中国军队从不惧怕挑衅！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33001078",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            8,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 20时32分]"
+        },
+        {
+          "title": "如何看阿里最新开源的 Qwen3.6 Flash（Qwen3.6-35B-A3B）模型？",
+          "url": "https://www.zhihu.com/question/2028243224301454445",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "中国军号发布视频枕戈待旦",
+          "url": "https://www.douyin.com/hot/2470946",
+          "source": "抖音",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时41分]"
+        },
+        {
+          "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
+          "url": "https://www.cls.cn/detail/2348368",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
+          "url": "https://flash.jin10.com/detail/20260419021741854800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普称美国政府找到了许多关于 UFO「非常有趣」的文件，第一批文件将很快发布，可能有哪些内容？",
+          "url": "https://www.zhihu.com/question/2028860085451978679",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "华电科工发布10项新技术新产品",
+          "url": "https://flash.jin10.com/detail/20260419111439971800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "美国国务院发布关于刚果民主共和国代表与刚果河联盟/“M23运动”之间进展的联合声明，称各方同意不对民众生存必需的物品进行任何攻击、破坏、移除或使其失效。",
+          "url": "https://flash.jin10.com/detail/20260419045759908800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
       "match_count": 8,
       "titles": [
+        {
+          "title": "高科技产品惊艳亮相消博会",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%83%8A%E8%89%B3%E4%BA%AE%E7%9B%B8%E6%B6%88%E5%8D%9A%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 20时32分]"
+        },
+        {
+          "title": "消博会上的硬核科技展现未来趋势",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%B1%95%E7%8E%B0%E6%9C%AA%E6%9D%A5%E8%B6%8B%E5%8A%BF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 20时32分]"
+        },
         {
           "title": "雪峰科技股东户数降17.09%",
           "url": "https://www.toutiao.com/trending/7629523264462159914/",
@@ -275,35 +434,13 @@
           "time_info": "09时18分"
         },
         {
-          "title": "高科技产品惊艳亮相消博会",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%83%8A%E8%89%B3%E4%BA%AE%E7%9B%B8%E6%B6%88%E5%8D%9A%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "消博会上的硬核科技展现未来趋势",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%B1%95%E7%8E%B0%E6%9C%AA%E6%9D%A5%E8%B6%8B%E5%8A%BF%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
           "title": "ST京蓝：靶材业务尚未正式启动生产 鑫联科技资产注入存不确定性",
           "url": "https://flash.jin10.com/detail/20260419160537375800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -350,105 +487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
-          "url": "https://www.cls.cn/detail/2348142",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 16时41分]"
-        },
-        {
-          "title": "中国军号发布视频《枕戈待旦》：中国军队从不惧怕挑衅！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33001078",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 16时41分]"
-        },
-        {
-          "title": "如何看阿里最新开源的 Qwen3.6 Flash（Qwen3.6-35B-A3B）模型？",
-          "url": "https://www.zhihu.com/question/2028243224301454445",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "中国军号发布视频枕戈待旦",
-          "url": "https://www.douyin.com/hot/2470946",
-          "source": "抖音",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时41分]"
-        },
-        {
-          "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
-          "url": "https://flash.jin10.com/detail/20260419021741854800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "特朗普称美国政府找到了许多关于 UFO「非常有趣」的文件，第一批文件将很快发布，可能有哪些内容？",
-          "url": "https://www.zhihu.com/question/2028860085451978679",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "华电科工发布10项新技术新产品",
-          "url": "https://flash.jin10.com/detail/20260419111439971800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "美国国务院发布关于刚果民主共和国代表与刚果河联盟/“M23运动”之间进展的联合声明，称各方同意不对民众生存必需的物品进行任何攻击、破坏、移除或使其失效。",
-          "url": "https://flash.jin10.com/detail/20260419045759908800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
         }
       ]
     },
