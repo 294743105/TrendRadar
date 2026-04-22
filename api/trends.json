@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T14:16:06.793641+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-04-22T17:11:10.703674+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -55,6 +55,18 @@
           "time_info": "[09时14分 ~ 14时16分]"
         },
         {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 17时11分]"
+        },
+        {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
           "url": "https://flash.jin10.com/detail/20260422004214145800",
           "source": "金十数据",
@@ -77,6 +89,54 @@
           "time_info": "00时52分"
         },
         {
+          "title": "OpenAI向美国政府及五眼联盟盟友简报新型网络产品。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3092463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
+          "url": "https://www.zhihu.com/question/2029861890638045761",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 17时11分]"
+        },
+        {
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 17时11分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 17时11分]"
+        },
+        {
           "title": "AI围剿影视圈,演员签卖身契",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
           "source": "贴吧",
@@ -86,18 +146,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 09时14分]"
-        },
-        {
-          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
-          "url": "https://www.zhihu.com/question/2029861890638045761",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 14时16分]"
         },
         {
           "title": "《灵魂摆渡》电影全AI生成",
@@ -124,37 +172,37 @@
           "time_info": "[00时51分 ~ 04时39分]"
         },
         {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
+          "title": "丈夫用AI做“跳河轻生”图 妻子报警",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E7%94%A8AI%E5%81%9A%E2%80%9C%E8%B7%B3%E6%B2%B3%E8%BD%BB%E7%94%9F%E2%80%9D%E5%9B%BE+%E5%A6%BB%E5%AD%90%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
-          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
-          "url": "https://www.zhihu.com/question/1984557341190873580",
-          "source": "知乎",
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "美联储主席提名人沃什：美联储应该更加深入地挖掘人工智能（AI）的生产力意义。 数据中心产能将把需求提高几个百分点。",
@@ -166,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "英伟达近期已向韩国主要电力设备企业提出，希望将数据中心基础设施设计为基于约800V直流的系统，目前其正与韩国企业私下推进讨论数据中心具体合作方案讨论。 (韩国The Asia Business Daily)",
+          "url": "https://wallstreetcn.com/livenews/3092442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
@@ -236,105 +295,8 @@
       ]
     },
     {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3092086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "拆解游戏工业的财务结构",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%B8%E6%88%8F%E5%B7%A5%E4%B8%9A%E7%9A%84%E8%B4%A2%E5%8A%A1%E7%BB%93%E6%9E%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 09时14分]"
-        },
-        {
-          "title": "女孩挪用1700万打赏 父亲最新回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A81700%E4%B8%87%E6%89%93%E8%B5%8F+%E7%88%B6%E4%BA%B2%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 09时14分]"
-        },
-        {
-          "title": "如何控制游戏平衡性？",
-          "url": "https://www.zhihu.com/question/24689673",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "宁德时代发布第三代神行超充电池",
-          "url": "https://www.toutiao.com/trending/7630684576390332454/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "游戏厂商叫苦:离线版成本太高",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353575&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%8F%AB%E8%8B%A6%3A%E7%A6%BB%E7%BA%BF%E7%89%88%E6%88%90%E6%9C%AC%E5%A4%AA%E9%AB%98",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
-        },
-        {
-          "title": "宁德时代发布第三代神行超充电池",
-          "url": "https://www.douyin.com/hot/2474314",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "美联储主席提名人沃什：每年召开超过4次联邦公开市场委员会（FOMC）会议是合适的。 （在被问及是否在每次FOMC会议后都举行新闻发布会时，他表示）目前并不缺乏透明度。 如果美联储主席举行新闻发布会，听取记者的提问很重要。",
-          "url": "https://wallstreetcn.com/livenews/3091983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊僵局持续，企业盈利提振市场，纳指新高，科技股普涨，油价续跌",
@@ -363,11 +325,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 17时11分]"
+        },
+        {
+          "title": "新东方教育科技集团第三财季净营收14.2亿美元，预估13.6亿美元。 第三财季调整后每ADS收益0.95美元，预估0.90美元。 第三财季一般及行政开支3.821亿美元，预估3.919亿美元。 第三财季经营利润1.803亿美元，预估1.574亿美元。 新东方教育科技集团预计第四财季净营收14.3亿美元至14.7亿美元，市场预估14.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "标普500指数的11个板块普遍收跌，房地产板块跌1.94%，公用事业、工业、电信、原材料、保健板块也至多跌1.75%，信息技术/科技板块跌0.23%表现顺数第二，能源板块则收涨1.31%。",
@@ -412,6 +386,181 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "恒生指数收盘跌1.22%，恒生科技指数跌1.93%",
+          "url": "https://wallstreetcn.com/livenews/3092429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "银禧科技：一季度归母净利润3842.18万元，同比增长114.45%",
+          "url": "https://flash.jin10.com/detail/20260422162008630800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "据港交所文件：北京圆心科技集团股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260422161935097800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "美股盘前，半导体股普涨，阿斯麦涨约1%，ARM涨约2.5%，美光科技涨约1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3092421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "十年老歌因一段魔性舞蹈再度爆火",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%81%E5%B9%B4%E8%80%81%E6%AD%8C%E5%9B%A0%E4%B8%80%E6%AE%B5%E9%AD%94%E6%80%A7%E8%88%9E%E8%B9%88%E5%86%8D%E5%BA%A6%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
+          "title": "游戏厂商叫苦:离线版成本太高",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353575&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%8F%AB%E8%8B%A6%3A%E7%A6%BB%E7%BA%BF%E7%89%88%E6%88%90%E6%9C%AC%E5%A4%AA%E9%AB%98",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 17时11分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3092086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "拆解游戏工业的财务结构",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%B8%E6%88%8F%E5%B7%A5%E4%B8%9A%E7%9A%84%E8%B4%A2%E5%8A%A1%E7%BB%93%E6%9E%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 09时14分]"
+        },
+        {
+          "title": "女孩挪用1700万打赏 父亲最新回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A81700%E4%B8%87%E6%89%93%E8%B5%8F+%E7%88%B6%E4%BA%B2%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 09时14分]"
+        },
+        {
+          "title": "张雪机车发布召回通告",
+          "url": "https://www.toutiao.com/trending/7631483497093271076/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
+          "title": "游戏侵权案告破,嫌犯全部落网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353592&amp;topic_name=%E6%B8%B8%E6%88%8F%E4%BE%B5%E6%9D%83%E6%A1%88%E5%91%8A%E7%A0%B4%2C%E5%AB%8C%E7%8A%AF%E5%85%A8%E9%83%A8%E8%90%BD%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
+          "title": "如何控制游戏平衡性？",
+          "url": "https://www.zhihu.com/question/24689673",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
+        },
+        {
+          "title": "宁德时代发布第三代神行超充电池",
+          "url": "https://www.toutiao.com/trending/7630684576390332454/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
+        },
+        {
+          "title": "宁德时代发布第三代神行超充电池",
+          "url": "https://www.douyin.com/hot/2474314",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美联储主席提名人沃什：每年召开超过4次联邦公开市场委员会（FOMC）会议是合适的。 （在被问及是否在每次FOMC会议后都举行新闻发布会时，他表示）目前并不缺乏透明度。 如果美联储主席举行新闻发布会，听取记者的提问很重要。",
+          "url": "https://wallstreetcn.com/livenews/3091983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
@@ -424,11 +573,12 @@
           "url": "https://www.zhihu.com/question/2030220283953533005",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 17时11分]"
         }
       ]
     }
