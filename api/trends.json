@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T04:43:09.208137+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-04-24T09:19:54.703489+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
-        },
-        {
-          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
-          "url": "https://www.zhihu.com/question/2027998176116777421",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -38,8 +26,57 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
+        },
+        {
+          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
+          "url": "https://www.zhihu.com/question/2027998176116777421",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
+        },
+        {
+          "title": "黄仁勋号召全体员工使用OpenAI Codex",
+          "url": "https://flash.jin10.com/detail/20260424084633654800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "对比实测3大AI生图模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
+        },
+        {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
         },
         {
           "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
@@ -66,27 +103,15 @@
           "time_info": "[01时08分 ~ 04时43分]"
         },
         {
-          "title": "对比实测3大AI生图模型",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "Meta 强制监控员工的鼠标和键盘用于训练 AI，如何看待这种强制「蒸馏」行为？涉嫌违法吗？",
+          "url": "https://www.zhihu.com/question/2030615939436077697",
+          "source": "知乎",
           "ranks": [
-            26,
-            12
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
-        },
-        {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "英特尔一季度营收135.8亿美元，分析师预期123.6亿美元。 一季度数据中心、AI营收50.5亿美元，分析师预期44.1亿美元。 一季度客户计算营收77.3亿美元，分析师预期 一季度英特尔代工（Intel Foundry）营收54.2亿美元，分析师预期48.1亿美元。 一季度调整后每股收益（EPS）为0.29美元，分析师预期0.01美元。 预计二季度营收138亿-148亿美元，分析师预期130.4亿美元。 预计二季度调整后EPS为0.20美元，分析师预期0.086美元。 英特尔美股盘后狂飙17%。",
@@ -95,9 +120,75 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "AI电力巨头捷报频传 西门子能源因“需求强劲”上调全年业绩指引",
+          "url": "https://www.cls.cn/detail/2354138",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "GPT Image2 到底什么是真的",
+          "url": "https://s.weibo.com/weibo?q=GPT%20Image2%20%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E6%98%AF%E7%9C%9F%E7%9A%84&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "GPT Image2 有图无真相",
+          "url": "https://s.weibo.com/weibo?q=GPT%20Image2%20%E6%9C%89%E5%9B%BE%E6%97%A0%E7%9C%9F%E7%9B%B8&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "GPT Image2或结束有图有真相时代",
+          "url": "https://www.baidu.com/s?wd=GPT+Image2%E6%88%96%E7%BB%93%E6%9D%9F%E6%9C%89%E5%9B%BE%E6%9C%89%E7%9C%9F%E7%9B%B8%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "AI编码公司Cognition正以250亿美元估值进行融资谈判",
+          "url": "https://flash.jin10.com/detail/20260424081450427800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "有人用AI恶搞保安扇女子耳光视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E7%94%A8AI%E6%81%B6%E6%90%9E%E4%BF%9D%E5%AE%89%E6%89%87%E5%A5%B3%E5%AD%90%E8%80%B3%E5%85%89%E8%A7%86%E9%A2%91%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "AI演员还算不算演员",
@@ -114,7 +205,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊媒首次发布扣押集装箱船画面",
@@ -145,11 +236,56 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353612&amp;topic_name=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E6%8E%89%E9%93%BE%E5%AD%90%2Cz7%E5%8F%91%E5%B8%83%E4%BC%9A%E8%B6%B4%E7%AA%9D",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
+        },
+        {
+          "title": "最新亚洲大学排名：清华北大前二",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E4%BA%9A%E6%B4%B2%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%EF%BC%9A%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E5%89%8D%E4%BA%8C",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "美国国防部将于北京时间今晚8:00就“史诗狂怒”行动召开新闻发布会，美国国防部长赫格塞思将出席。",
+          "url": "https://flash.jin10.com/detail/20260424084928957800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "2026中国航天日主题曲发布",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5%E4%B8%BB%E9%A2%98%E6%9B%B2%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "中国航天最新“剧透” 长五B、北斗、新一代载人飞船都安排上了",
+          "url": "https://www.cls.cn/detail/2354251",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "姚顺雨带队发布混元 Hy3 preview 模型，已接入元宝，能力体验如何？",
@@ -169,22 +305,57 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
         },
         {
           "title": "游戏厂商叫苦:离线版成本太高",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353575&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%8F%AB%E8%8B%A6%3A%E7%A6%BB%E7%BA%BF%E7%89%88%E6%88%90%E6%9C%AC%E5%A4%AA%E9%AB%98",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
+        },
+        {
+          "title": "净利同比增长480%！350亿锂电池概念股发布一季报|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2353924",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "中国航天最新“剧透”来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%9C%80%E6%96%B0%E2%80%9C%E5%89%A7%E9%80%8F%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "纳斯达克100指数期货涨幅扩大至0.5%，此前英特尔发布强劲财报。",
+          "url": "https://wallstreetcn.com/livenews/3093578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
@@ -192,6 +363,31 @@
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
       "match_count": 5,
       "titles": [
+        {
+          "title": "光模块龙头中际旭创总市值站上万亿，最近 1 年股价飙升超 10 倍，估值合理吗？对 A 股科技板块意味着什么？",
+          "url": "https://www.zhihu.com/question/2030585016900653696",
+          "source": "知乎",
+          "ranks": [
+            16,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
+        },
+        {
+          "title": "马斯克算法撕开日本遮羞布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 09时19分]"
+        },
         {
           "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3770645",
@@ -205,36 +401,13 @@
           "time_info": "[01时08分 ~ 04时43分]"
         },
         {
-          "title": "光模块龙头中际旭创总市值站上万亿，最近 1 年股价飙升超 10 倍，估值合理吗？对 A 股科技板块意味着什么？",
-          "url": "https://www.zhihu.com/question/2030585016900653696",
-          "source": "知乎",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
-        },
-        {
-          "title": "马斯克算法撕开日本遮羞布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 04时43分]"
-        },
-        {
           "title": "英特尔：数据中心CPU需求强劲，期待与马斯克合作",
           "url": "https://wallstreetcn.com/livenews/3093512",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -245,7 +418,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         }
