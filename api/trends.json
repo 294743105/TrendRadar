@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-24T09:19:54.703489+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-04-24T14:02:35.682699+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 17,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 09时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 14时02分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -43,15 +44,92 @@
           "time_info": "[01时08分 ~ 09时19分]"
         },
         {
+          "title": "这些图片居然都是AI的",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%BA%9B%E5%9B%BE%E7%89%87%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AFAI%E7%9A%84&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "DeepSeek V4 发布",
+          "url": "https://www.douyin.com/hot/2477208",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2030963929510310856",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
+          "url": "https://wallstreetcn.com/articles/3770782",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "黄仁勋号召全体员工使用OpenAI Codex",
           "url": "https://flash.jin10.com/detail/20260424084633654800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "万字回顾DeepSeek演进之路",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
+          "url": "https://www.cls.cn/detail/2354408",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "GPT Image2 恐怖谷",
+          "url": "https://s.weibo.com/weibo?q=GPT%20Image2%20%E6%81%90%E6%80%96%E8%B0%B7&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "对比实测3大AI生图模型",
@@ -103,15 +181,70 @@
           "time_info": "[01时08分 ~ 04时43分]"
         },
         {
+          "title": "DeepSeek-V4 预览版正式上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek-V4+%E9%A2%84%E8%A7%88%E7%89%88%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
+          "url": "https://www.cls.cn/detail/2354272",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "Meta 强制监控员工的鼠标和键盘用于训练 AI，如何看待这种强制「蒸馏」行为？涉嫌违法吗？",
           "url": "https://www.zhihu.com/question/2030615939436077697",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "GPT-Image-2 发布，设计师和普通人之间的门槛消失了吗？",
+          "url": "https://www.zhihu.com/question/2030191146043974386",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "DeepSeek-V4预览版上线 对计算和显存的需求降低 百万字上下文成标配",
+          "url": "https://www.cls.cn/detail/2354495",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "如何看待 MiroMind 被指要求在中国孵化的 AI 大模型核心技术和团队转移到国外，否则竞业限制？",
+          "url": "https://www.zhihu.com/question/2030235662557951222",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "英特尔一季度营收135.8亿美元，分析师预期123.6亿美元。 一季度数据中心、AI营收50.5亿美元，分析师预期44.1亿美元。 一季度客户计算营收77.3亿美元，分析师预期 一季度英特尔代工（Intel Foundry）营收54.2亿美元，分析师预期48.1亿美元。 一季度调整后每股收益（EPS）为0.29美元，分析师预期0.01美元。 预计二季度营收138亿-148亿美元，分析师预期130.4亿美元。 预计二季度调整后EPS为0.20美元，分析师预期0.086美元。 英特尔美股盘后狂飙17%。",
@@ -131,9 +264,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "港股大模型概念股智谱、Minimax午后跌幅扩大，智谱跌超9%，Minimax跌超4%，此前DeepSeek V4预览版发布。",
+          "url": "https://wallstreetcn.com/livenews/3093717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "DeepSeek融资为何谁都不想错过",
+          "url": "https://www.toutiao.com/trending/7632134652576140850/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "重磅！DeepSeek V4来了 定价揭晓",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81DeepSeek+V4%E6%9D%A5%E4%BA%86+%E5%AE%9A%E4%BB%B7%E6%8F%AD%E6%99%93",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "GPT Image2 到底什么是真的",
@@ -142,9 +308,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "DeepSeekV4预览版本上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "DeepSeek V4拥有百万字超长上下文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E6%8B%A5%E6%9C%89%E7%99%BE%E4%B8%87%E5%AD%97%E8%B6%85%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "DeepSeek-V4预览版本正式上线",
+          "url": "https://www.toutiao.com/trending/7631414915676782633/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "GPT Image2 有图无真相",
@@ -153,9 +352,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "DeepSeek v4 百万上下文",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "GPT Image2或结束有图有真相时代",
@@ -164,9 +374,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "DeepSeek V4适配国产芯片",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "AI编码公司Cognition正以250亿美元估值进行融资谈判",
@@ -175,9 +396,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "GPT5.5实测",
+          "url": "https://search.bilibili.com/all?keyword=GPT5.5%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "有人用AI恶搞保安扇女子耳光视频",
@@ -186,7 +418,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -200,12 +432,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "港股大模型概念股午后跌幅扩大，智谱(02513.HK)跌超9%，MiniMax(00100.HK)跌5.77%，此前DeepSeek-V4的预览版本正式上线并同步开源。",
+          "url": "https://flash.jin10.com/detail/20260424130703159800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "GPT-5.5发布 有哪些升级",
+          "url": "https://www.toutiao.com/trending/7631171240271609919/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊媒首次发布扣押集装箱船画面",
@@ -237,22 +491,24 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 09时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 14时02分]"
         },
         {
-          "title": "最新亚洲大学排名：清华北大前二",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E4%BA%9A%E6%B4%B2%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%EF%BC%9A%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E5%89%8D%E4%BA%8C",
-          "source": "百度热搜",
+          "title": "中国航天最新“剧透” 长五B、北斗、新一代载人飞船都安排上了",
+          "url": "https://www.cls.cn/detail/2354251",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 14时02分]"
         },
         {
           "title": "美国国防部将于北京时间今晚8:00就“史诗狂怒”行动召开新闻发布会，美国国防部长赫格塞思将出席。",
@@ -261,7 +517,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -272,18 +528,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "中国航天最新“剧透” 长五B、北斗、新一代载人飞船都安排上了",
-          "url": "https://www.cls.cn/detail/2354251",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -298,6 +543,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 04时43分]"
+        },
+        {
+          "title": "最新亚洲大学排名：清华北大前二",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E4%BA%9A%E6%B4%B2%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%EF%BC%9A%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E5%89%8D%E4%BA%8C",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 14时02分]"
         },
         {
           "title": "解析黑袍纠察队最新集",
@@ -325,15 +582,59 @@
           "time_info": "[01时08分 ~ 09时19分]"
         },
         {
+          "title": "国家税务总局发布纳税人合规开具发票正负面清单",
+          "url": "https://flash.jin10.com/detail/20260424133537203800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "爆火后UP主二刷莫氏鸡煲",
+          "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E7%81%AB%E5%90%8EUP%E4%B8%BB%E4%BA%8C%E5%88%B7%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "净利同比增长480%！350亿锂电池概念股发布一季报|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2353924",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "洛克风靡全网,洋人翻墙肝游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353671&amp;topic_name=%E6%B4%9B%E5%85%8B%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%BD%91%2C%E6%B4%8B%E4%BA%BA%E7%BF%BB%E5%A2%99%E8%82%9D%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "爆火的苏超变味了吗",
+          "url": "https://www.douyin.com/hot/2475963",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "中国航天最新“剧透”来了",
@@ -342,9 +643,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "阶跃发布新一代自动语音识别模型StepAudio 2.5 ASR",
+          "url": "https://wallstreetcn.com/livenews/3093712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "纳斯达克100指数期货涨幅扩大至0.5%，此前英特尔发布强劲财报。",
@@ -353,7 +665,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         }
@@ -361,7 +673,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "光模块龙头中际旭创总市值站上万亿，最近 1 年股价飙升超 10 倍，估值合理吗？对 A 股科技板块意味着什么？",
@@ -410,6 +722,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "A股半导体产业链涨势扩大，华虹公司、海光信息、盛科通信均涨超10%，大普微、灿芯股份、芯海科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3093718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股华为算力概念拉升，润和软件、众诚科技涨超10%，此前远东传动、深圳华强涨停，卓易信息、法本信息、拓维信息、软通动力、亚康股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260424131935307800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股数字芯片设计板块走高，富瀚微涨停，海光信息、盛科通信涨超10%，沐曦股份、寒武纪、峰岹科技、摩尔线程、瑞芯微等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260424130405960800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "恒生科技指数转涨，华虹半导体大涨逾12%，中芯国际涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3093699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.46%，报25802点。 恒生科技指数主连夜盘收跌0.76%，报4830点。",
