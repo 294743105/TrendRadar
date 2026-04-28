@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T04:48:41.927712+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-04-28T09:29:01.845482+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -13,11 +13,34 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 09时29分]"
+        },
+        {
+          "title": "DeepSeek注册资本提高50%",
+          "url": "https://flash.jin10.com/detail/20260428090321726800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "DeepSeek注册资本提高50%",
+          "url": "https://wallstreetcn.com/livenews/3095322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -25,11 +48,13 @@
           "source": "知乎",
           "ranks": [
             18,
-            5
+            5,
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 09时29分]"
         },
         {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
@@ -40,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 09时29分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -52,8 +77,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 09时29分]"
         },
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -61,11 +86,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 09时29分]"
         },
         {
           "title": "被AI骗去毒蛇窝徒步",
@@ -88,6 +114,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 04时48分]"
+        },
+        {
+          "title": "桥水高管发出警告：AI对传统软件公司构成“生存性风险”",
+          "url": "https://www.cls.cn/detail/2357343",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
@@ -140,7 +188,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -184,7 +232,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
@@ -192,8 +240,30 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357431",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.81%，暂报2646.68点。 MarketVectorTM数字资产100中盘指数跌2.67%，报2840.14点。 MarketVector数字资产100指数跌1.88%，报15109.57点。 目前，Solana跌2.99%，狗狗币跌1.90%，XRP跌3.13%。 比特币跌2.08%，暂报76615.68美元；以太坊跌3.81%，暂报2277.61美元。",
           "url": "https://wallstreetcn.com/livenews/3095150",
@@ -212,9 +282,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "花旗：上调澜起科技A和H股目标价，季报超预期并料受益于人工智能需求",
+          "url": "https://wallstreetcn.com/livenews/3095325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "标普500指数的11个板块多数收跌，日用消费品板块跌1.18%，房地产板块跌0.84%，信息技术/科技板块则收涨0.46%，金融板块涨0.65%，电信板块涨0.94%。",
@@ -223,7 +304,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -245,7 +326,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -256,7 +337,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
@@ -264,19 +345,8 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "微信最新公告：立即挂断 不要回答",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%80%E6%96%B0%E5%85%AC%E5%91%8A%EF%BC%9A%E7%AB%8B%E5%8D%B3%E6%8C%82%E6%96%AD+%E4%B8%8D%E8%A6%81%E5%9B%9E%E7%AD%94",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时48分]"
-        },
         {
           "title": "中消协发布“五一”消费提示",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B6%88%E5%8D%8F%E5%8F%91%E5%B8%83%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E6%B6%88%E8%B4%B9%E6%8F%90%E7%A4%BA",
@@ -285,8 +355,32 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 09时29分]"
+        },
+        {
+          "title": "微信最新公告：立即挂断 不要回答",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%9C%80%E6%96%B0%E5%85%AC%E5%91%8A%EF%BC%9A%E7%AB%8B%E5%8D%B3%E6%8C%82%E6%96%AD+%E4%B8%8D%E8%A6%81%E5%9B%9E%E7%AD%94",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 09时29分]"
+        },
+        {
+          "title": "金莎媒体发布会孕相",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AD%95%E7%9B%B8%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 04时48分]"
+          "time_info": "[09时28分 ~ 09时29分]"
         },
         {
           "title": "净利同比增长11.53倍！1200亿光芯片龙头发布一季报|盘后公告集锦",
@@ -298,6 +392,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 04时48分]"
+        },
+        {
+          "title": "消息人士：特朗普对伊朗最新提议不满意",
+          "url": "https://flash.jin10.com/detail/20260428081635439800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     }
