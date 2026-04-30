@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T01:08:17.534377+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-01T04:52:19.944938+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -26,19 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
-          "url": "https://www.zhihu.com/question/2031352480852915686",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -48,41 +37,56 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
-          "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
-          "url": "https://wallstreetcn.com/livenews/3097635",
-          "source": "华尔街见闻-快讯",
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
           "ranks": [
-            8
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
           "url": "https://wallstreetcn.com/articles/3771311",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
+        },
+        {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15,
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
@@ -90,6 +94,40 @@
           "source": "财联社热门",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
+        },
+        {
+          "title": "深圳14岁男孩用AI备考押中奥赛题",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
+        },
+        {
+          "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
+          "url": "https://wallstreetcn.com/livenews/3097635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -118,15 +156,15 @@
           "time_info": "01时08分"
         },
         {
-          "title": "DeepSeek多模态模型来了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：AI将创造大量就业机会。",
+          "url": "https://wallstreetcn.com/livenews/3097697",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "04时52分"
         },
         {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
@@ -134,17 +172,6 @@
           "source": "知乎",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -160,23 +187,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
-        },
-        {
-          "title": "深圳14岁男孩用AI备考押中奥赛题",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "悟空号发布新成果",
@@ -186,8 +202,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "中方关于日本拥核问题的工作文件发布",
@@ -197,19 +213,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2033187099386590088",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "上海快递行业劳动规则协议发布：面对投诉，不得未经核实就处罚快递员",
@@ -219,19 +236,42 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "三角洲行动最新攻略来了",
           "url": "https://www.douyin.com/hot/2484032",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
+        },
+        {
+          "title": "幻月新游戏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BB%E6%9C%88%E6%96%B0%E6%B8%B8%E6%88%8F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "04时52分"
+        },
+        {
+          "title": "独立游戏会不会出现饱和状态?",
+          "url": "https://www.zhihu.com/question/1973121218904355991",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "GTA6还不发布的原因",
@@ -251,17 +291,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "马斯克庭审交叉询问环节多次失控",
-          "url": "https://www.toutiao.com/trending/7634565775876951571/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
           "url": "https://www.cls.cn/detail/2361259",
           "source": "财联社热门",
@@ -269,30 +298,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
+        },
+        {
+          "title": "马斯克庭审交叉询问环节多次失控",
+          "url": "https://www.toutiao.com/trending/7634565775876951571/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
           "url": "https://wallstreetcn.com/articles/3771319",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         },
         {
           "title": "闻泰科技将变更为*ST闻泰",
           "url": "https://www.toutiao.com/trending/7634557457460629035/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 04时52分]"
         }
       ]
     }
