@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T17:56:39.115471+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-04-30T21:40:41.620906+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -15,11 +15,12 @@
             5,
             4,
             9,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 21时40分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -70,6 +71,21 @@
           "time_info": "[01时14分 ~ 09时31分]"
         },
         {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            14,
+            15,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 21时40分]"
+        },
+        {
           "title": "AI驱动多项业务增长！Alphabet创四年最强季度营收增速，云业务飙升63%",
           "url": "https://www.cls.cn/detail/2360312",
           "source": "财联社热门",
@@ -82,18 +98,15 @@
           "time_info": "[09时31分 ~ 14时21分]"
         },
         {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek破底价,友商瑟瑟发抖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
+          "source": "贴吧",
           "ranks": [
-            16,
-            14,
-            15,
-            17
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 17时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -108,6 +121,17 @@
           "time_info": "[01时14分 ~ 04时49分]"
         },
         {
+          "title": "美国白宫AI备忘录直指引发Anthropic与五角大楼争议的关键问题。备忘录呼吁美国各机构使用多家人工智能提供商。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3097542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "港股开盘，恒生指数开跌0.40%，恒生科技指数开跌0.68%；AI应用、芯片、生物医药、新能源车企等概念涨幅居前；中国人寿(02628.HK)绩后涨超4%。",
           "url": "https://flash.jin10.com/detail/20260430092059606800",
           "source": "金十数据",
@@ -117,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
@@ -129,6 +164,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时14分 ~ 09时31分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 21时40分]"
         },
         {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
@@ -179,18 +226,6 @@
           "time_info": "[14时21分 ~ 17时56分]"
         },
         {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时56分]"
-        },
-        {
           "title": "AI 对画师的斩杀线大概在哪个位置？",
           "url": "https://www.zhihu.com/question/2012530352657282469",
           "source": "知乎",
@@ -200,6 +235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 04时49分]"
+        },
+        {
+          "title": "假如AI能模拟去世亲人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
@@ -224,6 +270,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "瑞典AI法务科技初创公司Legora扩大D轮融资，本次按56亿美元估值募集0.5亿美元，使得这一轮融资的规模达到6亿美元。 英伟达旗下风投部门NVentures参投，Atlassian、Adams Street Partners、以及Insight也有参与。",
+          "url": "https://wallstreetcn.com/livenews/3097536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "亚马逊一季度净销售1815.2亿美元，分析师预期1772.3亿美元。 一季度AWS净销售375.9亿美元，分析师预期366.8亿美元。 一季度北美净销售1041.4亿美元，分析师预期1020.8亿美元。 一季度实体店净销售57.9亿美元，分析师预期58.1亿美元。 一季度运营利润238.5亿美元，分析师预期207.5亿美元。 一季度每股收益（EPS）为2.78美元，分析师预期1.62美元。 对物业与设备的购买同比增长593亿美元，体现出对AI的投资。 预计二季度净销售1940亿-1990亿美元，分析师预期1891.5亿美元。 预计二季度运营利润200亿-240亿美元，分析师预期228.6亿美元。 亚马逊（AMZN）盘后跌4.8%。",
           "url": "https://wallstreetcn.com/livenews/3096930",
           "source": "华尔街见闻-快讯",
@@ -241,7 +298,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -252,9 +309,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "DeepSeek思考过程好萌",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "Anthropic 年收 300 亿，碾压 OpenAI，为什么 OpenAI 坐拥 9 亿周活用户，却被后来者反超？",
@@ -288,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
+          "url": "https://www.cls.cn/detail/2361143",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "Alphabet(GOOGL.O)：得益于GEMINI应用程序，第一季度针对消费者的智能应用计划创史上最佳表现。",
@@ -351,7 +430,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         }
@@ -359,7 +438,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "速通教育部新发布38个专业",
@@ -379,11 +458,12 @@
           "ranks": [
             4,
             19,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 21时40分]"
         },
         {
           "title": "中方关于日本拥核问题的工作文件发布",
@@ -392,7 +472,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -444,6 +524,18 @@
           "time_info": "[01时14分 ~ 04时49分]"
         },
         {
+          "title": "三角洲行动最新攻略来了",
+          "url": "https://www.douyin.com/hot/2484032",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 21时40分]"
+        },
+        {
           "title": "遗忘之海最新剧情PV",
           "url": "https://search.bilibili.com/all?keyword=%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E6%9C%80%E6%96%B0%E5%89%A7%E6%83%85PV",
           "source": "bilibili 热搜",
@@ -456,16 +548,28 @@
           "time_info": "[14时21分 ~ 17时56分]"
         },
         {
-          "title": "三角洲行动最新攻略来了",
-          "url": "https://www.douyin.com/hot/2484032",
-          "source": "抖音",
+          "title": "外交部发布中方关于日本拥核问题的工作文件",
+          "url": "https://www.cls.cn/detail/2360837",
+          "source": "财联社热门",
           "ranks": [
-            21,
-            20
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 21时40分]"
+        },
+        {
+          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033187099386590088",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 21时40分]"
         },
         {
           "title": "沙特外交部：王储接到了来自加拿大部长的电话，双方讨论了双边关系，回顾了两国现有的合作领域，并探讨了在多个领域增强和发展合作的方式，以及当前地区形势的最新进展及其在区域和国际层面的安全与经济影响。",
@@ -501,15 +605,15 @@
           "time_info": "09时31分"
         },
         {
-          "title": "外交部发布中方关于日本拥核问题的工作文件",
-          "url": "https://www.cls.cn/detail/2360837",
-          "source": "财联社热门",
+          "title": "悟空号发布新成果",
+          "url": "https://search.bilibili.com/all?keyword=%E6%82%9F%E7%A9%BA%E5%8F%B7%E5%8F%91%E5%B8%83%E6%96%B0%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "21时40分"
         },
         {
           "title": "宇树发布只有上半身的人形机器人，高管否认熊猫机器人抄袭魔法原子",
@@ -521,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "上海快递行业劳动规则协议发布：面对投诉，不得未经核实就处罚快递员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083077",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "香奈儿发布无底绑带鞋被吐槽抽象",
@@ -556,6 +671,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "提醒：北京时间20:45，欧洲央行行长拉加德召开货币政策新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3097526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "北京车展前后超过 15 款大六座 SUV 密集发布，真的有这么多「家庭」场景需求吗？",
           "url": "https://www.zhihu.com/question/2032471904640917642",
           "source": "知乎",
@@ -567,15 +693,15 @@
           "time_info": "01时14分"
         },
         {
-          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2033187099386590088",
-          "source": "知乎",
+          "title": "北交所发布《北京证券交易所公司债券发行上市挂牌业务指南》",
+          "url": "https://flash.jin10.com/detail/20260430210923673800",
+          "source": "金十数据",
           "ranks": [
-            18
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "21时40分"
         },
         {
           "title": "Jim Bianco：（FOMC）今天的投票解决了美联储的独立性问题。 鲍威尔并没有在新闻发布会上定义美联储的独立性。（彭博电视）",
@@ -609,23 +735,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "猪油凭什么再度爆火",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%AA%E6%B2%B9%E5%87%AD%E4%BB%80%E4%B9%88%E5%86%8D%E5%BA%A6%E7%88%86%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "GTA6还不发布的原因",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E8%BF%98%E4%B8%8D%E5%8F%91%E5%B8%83%E7%9A%84%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "习近平在加强基础研究座谈会上强调 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基",
           "url": "https://www.cls.cn/detail/2360815",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 21时40分]"
         },
         {
           "title": "港股芯片股持续冲高，天数智芯(09903.HK)涨超20%，壁仞科技(06082.HK)涨近8%，华虹半导体(01347.HK)、中芯国际(00981.HK)双双涨超7%，宏光半导体(06908.HK)、晶门半导体(02878.HK)、澜起科技(06809.HK)等个股跟涨。",
@@ -661,6 +810,18 @@
           "time_info": "01时14分"
         },
         {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 21时40分]"
+        },
+        {
           "title": "马斯克为何不惜重金拿下Cursor",
           "url": "https://www.toutiao.com/trending/7634165333766442539/",
           "source": "今日头条",
@@ -681,18 +842,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时56分]"
         },
         {
           "title": "马斯克出庭控诉奥特曼",
@@ -716,6 +865,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 04时49分]"
+        },
+        {
+          "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
+          "url": "https://www.cls.cn/detail/2361259",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "4月30日投资避雷针：闻泰科技、华夏幸福等20余股将被实施ST",
@@ -795,13 +955,24 @@
           "time_info": "14时21分"
         },
         {
+          "title": "马斯克与SpaceX天价薪酬方案有何深意",
+          "url": "https://www.toutiao.com/trending/7634521845265337862/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "路德科技：德天众享拟减持1.4894%，副总经理吴军、刘菁拟分别减持0.0473%和0.0099%",
           "url": "https://flash.jin10.com/detail/20260430171516867800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -829,7 +1000,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
