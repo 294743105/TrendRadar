@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T14:21:47.724779+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-04-30T17:56:39.115471+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 17时56分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -81,6 +82,20 @@
           "time_info": "[09时31分 ~ 14时21分]"
         },
         {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            14,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 17时56分]"
+        },
+        {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
           "url": "https://wallstreetcn.com/articles/3771182",
           "source": "华尔街见闻",
@@ -102,19 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 14时21分]"
         },
         {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
@@ -141,6 +143,19 @@
           "time_info": "[01时14分 ~ 04时49分]"
         },
         {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 17时56分]"
+        },
+        {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032593268840600541",
           "source": "知乎",
@@ -152,16 +167,28 @@
           "time_info": "[01时14分 ~ 04时49分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            14
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 14时21分]"
+          "time_info": "[14时21分 ~ 17时56分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 17时56分]"
         },
         {
           "title": "AI 对画师的斩杀线大概在哪个位置？",
@@ -173,17 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 04时49分]"
-        },
-        {
-          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
-          "url": "https://www.cls.cn/detail/2360653",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         },
         {
           "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
@@ -208,17 +224,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "亚马逊一季度净销售1815.2亿美元，分析师预期1772.3亿美元。 一季度AWS净销售375.9亿美元，分析师预期366.8亿美元。 一季度北美净销售1041.4亿美元，分析师预期1020.8亿美元。 一季度实体店净销售57.9亿美元，分析师预期58.1亿美元。 一季度运营利润238.5亿美元，分析师预期207.5亿美元。 一季度每股收益（EPS）为2.78美元，分析师预期1.62美元。 对物业与设备的购买同比增长593亿美元，体现出对AI的投资。 预计二季度净销售1940亿-1990亿美元，分析师预期1891.5亿美元。 预计二季度运营利润200亿-240亿美元，分析师预期228.6亿美元。 亚马逊（AMZN）盘后跌4.8%。",
           "url": "https://wallstreetcn.com/livenews/3096930",
           "source": "华尔街见闻-快讯",
@@ -230,13 +235,35 @@
           "time_info": "04时49分"
         },
         {
+          "title": "不是AI芯片！索罗斯门徒：电气化才是未来十年主线，看好铜、铝、电缆",
+          "url": "https://wallstreetcn.com/articles/3771280",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3097365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "Anthropic 年收 300 亿，碾压 OpenAI，为什么 OpenAI 坐拥 9 亿周活用户，却被后来者反超？",
           "url": "https://www.zhihu.com/question/2032816031513538587",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -247,7 +274,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -291,7 +318,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -316,12 +343,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "用AI代替员工的快开不起工资了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E4%BB%A3%E6%9B%BF%E5%91%98%E5%B7%A5%E7%9A%84%E5%BF%AB%E5%BC%80%E4%B8%8D%E8%B5%B7%E5%B7%A5%E8%B5%84%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "速通教育部新发布38个专业",
@@ -340,11 +378,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 17时56分]"
+        },
+        {
+          "title": "中方关于日本拥核问题的工作文件发布",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%85%B3%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%96%87%E4%BB%B6%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "鲍威尔以“俏皮话”结束主席任内最后一次发布会 强调不当“影子主席”",
@@ -394,6 +444,30 @@
           "time_info": "[01时14分 ~ 04时49分]"
         },
         {
+          "title": "遗忘之海最新剧情PV",
+          "url": "https://search.bilibili.com/all?keyword=%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E6%9C%80%E6%96%B0%E5%89%A7%E6%83%85PV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 17时56分]"
+        },
+        {
+          "title": "三角洲行动最新攻略来了",
+          "url": "https://www.douyin.com/hot/2484032",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 17时56分]"
+        },
+        {
           "title": "沙特外交部：王储接到了来自加拿大部长的电话，双方讨论了双边关系，回顾了两国现有的合作领域，并探讨了在多个领域增强和发展合作的方式，以及当前地区形势的最新进展及其在区域和国际层面的安全与经济影响。",
           "url": "https://flash.jin10.com/detail/20260430004021734800",
           "source": "金十数据",
@@ -416,17 +490,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "遗忘之海最新剧情PV",
-          "url": "https://search.bilibili.com/all?keyword=%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E6%9C%80%E6%96%B0%E5%89%A7%E6%83%85PV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "4月游戏版号公布",
           "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E6%B8%B8%E6%88%8F%E7%89%88%E5%8F%B7%E5%85%AC%E5%B8%83",
           "source": "bilibili 热搜",
@@ -438,13 +501,24 @@
           "time_info": "09时31分"
         },
         {
+          "title": "外交部发布中方关于日本拥核问题的工作文件",
+          "url": "https://www.cls.cn/detail/2360837",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "宇树发布只有上半身的人形机器人，高管否认熊猫机器人抄袭魔法原子",
           "url": "https://wallstreetcn.com/livenews/3097235",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -466,7 +540,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -493,6 +567,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033187099386590088",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "Jim Bianco：（FOMC）今天的投票解决了美联储的独立性问题。 鲍威尔并没有在新闻发布会上定义美联储的独立性。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3096915",
           "source": "华尔街见闻-快讯",
@@ -502,17 +587,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
-        },
-        {
-          "title": "三角洲行动最新攻略来了",
-          "url": "https://www.douyin.com/hot/2484032",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         },
         {
           "title": "鲍威尔担任美联储主席期间最后一次新闻发布会的要点总结",
@@ -540,8 +614,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "习近平在加强基础研究座谈会上强调 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基",
+          "url": "https://www.cls.cn/detail/2360815",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
         {
           "title": "港股芯片股持续冲高，天数智芯(09903.HK)涨超20%，壁仞科技(06082.HK)涨近8%，华虹半导体(01347.HK)、中芯国际(00981.HK)双双涨超7%，宏光半导体(06908.HK)、晶门半导体(02878.HK)、澜起科技(06809.HK)等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260430141309578800",
@@ -549,7 +634,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -598,6 +683,18 @@
           "time_info": "09时31分"
         },
         {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 17时56分]"
+        },
+        {
           "title": "马斯克出庭控诉奥特曼",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%87%BA%E5%BA%AD%E6%8E%A7%E8%AF%89%E5%A5%A5%E7%89%B9%E6%9B%BC",
           "source": "bilibili 热搜",
@@ -621,24 +718,13 @@
           "time_info": "[04时48分 ~ 04时49分]"
         },
         {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "4月30日投资避雷针：闻泰科技、华夏幸福等20余股将被实施ST",
           "url": "https://www.cls.cn/detail/2360375",
           "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -649,7 +735,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -682,7 +768,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -693,7 +779,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -704,9 +790,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "路德科技：德天众享拟减持1.4894%，副总经理吴军、刘菁拟分别减持0.0473%和0.0099%",
+          "url": "https://flash.jin10.com/detail/20260430171516867800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "纳斯达克100指数期货涨幅扩大至0.8%，受大型科技公司财报推动。",
@@ -723,8 +820,19 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "2526 赛季 NBA 季后赛火箭 99:93 湖人，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2033129345133319591",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
         {
           "title": "2526 赛季 NBA 季后赛猛龙 120:125 骑士，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2033090042831316167",
@@ -732,7 +840,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -760,7 +868,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
