@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T17:25:23.003617+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-05-01T20:49:15.040400+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -14,11 +14,26 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 20时49分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 20时49分]"
         },
         {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
@@ -30,6 +45,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时31分 ~ 17时25分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            6,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 20时49分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -46,17 +75,17 @@
           "time_info": "[01时08分 ~ 17时25分]"
         },
         {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            27,
-            28
+            10,
+            9,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时08分 ~ 17时25分]"
+          "time_info": "[09时46分 ~ 20时49分]"
         },
         {
           "title": "人民日报：不能让AI生成内容误导公众",
@@ -70,30 +99,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 17时25分]"
-        },
-        {
-          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "如何评价 Anthropic 的 Claude Code 被曝出 HERMES.md 触发隐藏计费？",
           "url": "https://www.zhihu.com/question/2033162416024985618",
           "source": "知乎",
@@ -103,6 +108,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 20时49分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -115,18 +132,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 09时46分]"
-        },
-        {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 17时25分]"
         },
         {
           "title": "DeepSeek多模态正式发布",
@@ -198,6 +203,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 04时52分]"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         },
         {
           "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
@@ -342,12 +358,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "美国防部与7家AI公司达成协议",
+          "url": "https://wallstreetcn.com/livenews/3097883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "悟空号发布新成果",
@@ -360,6 +387,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 09时46分]"
+        },
+        {
+          "title": "昂山素季获特赦，最新照曝光",
+          "url": "https://news.ifeng.com/c/8slZDVlLr3l",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 20时49分]"
+        },
+        {
+          "title": "伊朗已向巴基斯坦递交最新谈判方案",
+          "url": "https://wallstreetcn.com/livenews/3097905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "上海快递行业劳动规则协议发布：面对投诉，不得未经核实就处罚快递员",
@@ -385,6 +435,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 09时46分]"
+        },
+        {
+          "title": "德钦梅里雪山发布通告：禁止在景区未开发开放线路区域开展旅游及探险等活动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 20时49分]"
         },
         {
           "title": "遗忘之海最新剧情PV",
@@ -422,15 +484,70 @@
           "time_info": "[01时08分 ~ 04时52分]"
         },
         {
-          "title": "昂山素季获特赦，最新照曝光",
-          "url": "https://news.ifeng.com/c/8slZDVlLr3l",
-          "source": "凤凰网",
+          "title": "五一假期首日多个景区发布限流通知",
+          "url": "https://www.toutiao.com/trending/7633964422327992326/",
+          "source": "今日头条",
           "ranks": [
-            10
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
+          "title": "据美国媒体Axios：伊朗已于周四通过巴基斯坦调解人，就美方对结束战争协议的最新修正案向美方作出了回应。",
+          "url": "https://flash.jin10.com/detail/20260501201947895800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "20时49分"
+        },
+        {
+          "title": "伊朗向巴基斯坦提交了关于美伊对话的最新提案。提案文本已于周四递交。（伊通社）",
+          "url": "https://wallstreetcn.com/livenews/3097904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "现货黄金短线一度走高近20美元，最新报4585美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260501201556706800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "国际油价短线下跌，报道称伊朗就美国对协议的最新修改作出回应",
+          "url": "https://wallstreetcn.com/livenews/3097903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "伊朗周四通过巴基斯坦向美国作出了回应。伊朗就美国对协议的最新修改作出回应。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3097902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "幻月新游戏",
@@ -466,15 +583,15 @@
           "time_info": "04时52分"
         },
         {
-          "title": "德钦梅里雪山发布通告：禁止在景区未开发开放线路区域开展旅游及探险等活动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33085173",
-          "source": "澎湃新闻",
+          "title": "伊朗外长与多国外长通话 通报结束战争最新立场",
+          "url": "https://wallstreetcn.com/livenews/3097890",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "20时49分"
         },
         {
           "title": "深圳楼市新政发布 中介电话被打爆",
@@ -483,7 +600,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -494,7 +611,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -524,7 +641,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
@@ -534,8 +651,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 17时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 20时49分]"
         },
         {
           "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
@@ -546,8 +663,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 20时49分]"
         },
         {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
@@ -608,6 +725,17 @@
           "time_info": "[14时31分 ~ 14时32分]"
         },
         {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
           "title": "闻泰科技将变更为*ST闻泰",
           "url": "https://www.toutiao.com/trending/7634557457460629035/",
           "source": "今日头条",
@@ -637,7 +765,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -656,7 +784,7 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2526 赛季 NBA 季后赛掘金 98:110 森林狼，如何评价这场比赛？",
@@ -679,6 +807,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "NBA季后赛次轮首组对阵出炉",
+          "url": "https://www.toutiao.com/trending/7634166130517147702/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         },
         {
           "title": "火箭第五场战胜湖人，你觉得火箭有可能成为 NBA 历史上第一支 0:3 落后翻盘成功的球队吗？",
