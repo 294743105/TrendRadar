@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-05-05T01:20:49.052153+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-05T04:57:37.381236+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
+          "url": "https://wallstreetcn.com/livenews/3098642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
           "url": "https://wallstreetcn.com/articles/3771537",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -26,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -37,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -48,8 +72,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "马上评｜AI替岗，还是“科技向善”吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
@@ -63,37 +111,15 @@
           "time_info": "01时20分"
         },
         {
-          "title": "马上评｜AI替岗，还是“科技向善”吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
-          "source": "澎湃新闻",
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "04时57分"
         },
         {
           "title": "DeepSeek员工为何不加班",
@@ -105,6 +131,145 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "Boehly：还没有发现AI造成软件之外的行业“疲软”。",
+          "url": "https://wallstreetcn.com/livenews/3098613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "被AI抢走工作的人在忙什么",
+          "url": "https://www.toutiao.com/trending/7636039859584372251/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
+          "url": "https://wallstreetcn.com/livenews/3098567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
+          "url": "https://wallstreetcn.com/livenews/3098641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
+          "url": "https://wallstreetcn.com/livenews/3098638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "牛散集体换仓：科技稀土黄金成新猎物",
+          "url": "https://www.toutiao.com/trending/7636037468252278318/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "马斯克将支付150万美元，来了结美国SEC针对推特的案件",
+          "url": "https://wallstreetcn.com/livenews/3098637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.09%，报6881.09点。 热门中概股里，阿特斯太阳能初步收跌5.1%，携程跌2.5%，蔚来涨2.7%，大全新能源涨4%，小马智行涨5.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.66%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收跌1.02%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%。",
+          "url": "https://wallstreetcn.com/livenews/3098628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "法庭纪录显示，该和解协议不包含任何承认过错的内容，将撤销埃隆·马斯克作为个人被告的身份，并将“彻底解决本案”。",
+          "url": "https://flash.jin10.com/detail/20260505041155711800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "标普500指数初步收跌0.4%，原材料板块跌1.6%，工业板块跌1.1%，科技板块跌0.3%，能源板块涨0.7%。 纳斯达克100指数初步收跌0.2%，成分股中，ODFL初步收跌6.8%，AMD跌5.3%，高通跌4.8%，特许通讯、Arm控股跌3.8%，Insmed则涨4.9%，闪迪涨5.3%，美光科技涨6.5%。 家得宝跌3.4%，波音跌2.7%，耐克跌2.5%，领跌道指成分股，雪佛龙、Salesforce则涨0.9%，亚马逊涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3098626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "法庭纪录显示，和解协议要求埃隆·马斯克的可撤销信托支付150万美元的民事罚款。",
+          "url": "https://flash.jin10.com/detail/20260505041041738800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "法庭记录显示，美国证交会与埃隆·马斯克就其首次披露推特股份的诉讼达成和解。",
+          "url": "https://flash.jin10.com/detail/20260505040911491800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     },
@@ -120,8 +285,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -139,11 +304,12 @@
           "url": "https://www.cls.cn/detail/2360769",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "阿联酋多次发布防空警报",
@@ -173,34 +339,6 @@
           "source": "知乎",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
-          "url": "https://wallstreetcn.com/livenews/3098567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "牛散集体换仓：科技稀土黄金成新猎物",
-          "url": "https://www.toutiao.com/trending/7636037468252278318/",
-          "source": "今日头条",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
