@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T09:25:22.565097+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-05-06T14:25:30.049541+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -20,6 +20,17 @@
           "time_info": "[01时17分 ~ 09时25分]"
         },
         {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
           "url": "https://wallstreetcn.com/livenews/3098871",
           "source": "华尔街见闻-快讯",
@@ -29,6 +40,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "中方呼吁防止AI成为少数富国的游戏",
+          "url": "https://wallstreetcn.com/livenews/3099151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "从0开始了解Claude Code",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            7,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 14时25分]"
+        },
+        {
+          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
+          "url": "https://wallstreetcn.com/articles/3771572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 14时25分]"
+        },
+        {
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            30,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 14时25分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -42,19 +106,6 @@
           "time_info": "[01时17分 ~ 09时25分]"
         },
         {
-          "title": "从0开始了解Claude Code",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 09时25分]"
-        },
-        {
           "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
           "url": "https://www.zhihu.com/question/2034044394312037174",
           "source": "知乎",
@@ -62,32 +113,6 @@
             9,
             7,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 09时25分]"
-        },
-        {
-          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
-          "url": "https://wallstreetcn.com/articles/3771572",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 09时25分]"
-        },
-        {
-          "title": "UP主优化DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            30,
-            27
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -152,6 +177,29 @@
           "time_info": "[01时17分 ~ 05时21分]"
         },
         {
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 14时25分]"
+        },
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 14时25分]"
+        },
+        {
           "title": "OpenAI：在所有ChatGPT模型中引入内存源。",
           "url": "https://flash.jin10.com/detail/20260506010514286800",
           "source": "金十数据",
@@ -174,6 +222,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "英飞凌因AI需求推动增长前景，上调2026年展望",
+          "url": "https://wallstreetcn.com/livenews/3099146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "OpenAI：对于付费用户，GPT‑5.3 Instant将在未来3个月内继续可用，用户可通过模型配置设置访问，之后该版本将正式退役。",
           "url": "https://flash.jin10.com/detail/20260506010453455800",
           "source": "金十数据",
@@ -183,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "据英国金融时报：Deepseek的估值接近450亿美元。",
+          "url": "https://flash.jin10.com/detail/20260506135328653800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "OpenAI：GPT-5.5 Instant从今天开始向所有ChatGPT用户推出。",
@@ -207,6 +277,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "vibe coding 这么久了，大家有没有较好的 AI 开发模式经验沉淀下来？",
           "url": "https://www.zhihu.com/question/2032011984942649735",
           "source": "知乎",
@@ -216,28 +297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "OpenAI推出GPT-5.5 Instant",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
         },
         {
           "title": "埃克森美孚勘探副总裁John Ardill：就供应中断而言，中东冲突的全面影响尚未完全显现。 深度学习人工智能（AI）使公司在圭亚那解读地震数据的时间从数月缩短至数天。 新技术正助力埃克森美孚去开发过去曾被忽视的石油资源。 埃克森美孚预计将在年底前确定特立尼达和多巴哥勘探前景的可行性。 美国阿拉斯加的生产成本高于二叠纪盆地和圭亚那，这构成了挑战。 阿拉斯加石油生产的盈亏平衡点约为每桶 45 美元，而其他地区则为 30 美元。",
@@ -268,15 +327,143 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         }
       ]
     },
     {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "智慧春耕科技范儿十足",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E6%85%A7%E6%98%A5%E8%80%95%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E5%8D%81%E8%B6%B3%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
+        },
+        {
+          "title": "香港恒生指数5月6日（周三）开盘上涨131.04点，涨幅0.51%，报26029.65点；<br/>香港恒生科技指数5月6日（周三）开盘上涨42.01点，涨幅0.85%，报4971.69点；<br/>国企指数5月6日（周三）开盘上涨55.51点，涨幅0.64%，报8786.0点；<br/>红筹指数5月6日（周三）开盘上涨4.95点，涨幅0.11%，报4411.37点。",
+          "url": "https://flash.jin10.com/detail/20260506092109846800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "A股黄金股震荡走高，晓程科技涨近10%，四川黄金涨超8%，赤峰黄金、山金国际、湖南黄金纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3099155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "券商一季度重仓路径曝光：左手高股息防御，右手科技成长进攻，大金融成压舱石",
+          "url": "https://www.cls.cn/detail/2363022",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 14时25分]"
+        },
+        {
+          "title": "国金牟一凌：科技主导下，能源是低估的资产",
+          "url": "https://wallstreetcn.com/articles/3771584",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "港股收盘 | 内地假期三大指数集体收高 科技股强势领涨",
+          "url": "https://www.cls.cn/detail/2362901",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "腾达科技：对全部产品进行价格上调",
+          "url": "https://wallstreetcn.com/livenews/3099141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "A股电池产业链震荡拉升，容百科技涨超10%，丰元股份此前涨停，宁德时代涨近7%，蔚蓝锂芯、海科新源、国轩高科多股涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3099139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "A股PET铜箔板块午后继续拉升，德福科技触及20cm涨停，方邦股份涨超15%，汇成真空、铜冠铜箔、隆扬电子涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "标普500指数的11个板块全线收涨，原材料板块涨1.67%，信息技术/科技板块涨1.63%，工业板块涨0.86%表现第三，能源、电信板块涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3098928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.12%，报6889.48点。 热门中概股里，阿特斯太阳能初步收涨5.9%，万国数据涨4.5%，新东方涨1.1%，阿里跌0.8%，小鹏、网易跌0.9%，拼多多跌1%，蔚来跌2.3%。 ETF中，中国科技指数ETF（CQQQ）收平，中概互联网指数ETF（KWEB）收跌0.21%。 贝莱德集团旗下MSCI新兴市场ex中国ETF涨2.50%，德银嘉实沪深300指数ETF（ASHR）收涨0.68%，XtrackersHarvest中证50（ASHS）收涨0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3098925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "目瑙纵歌全网爆火 播放突破20亿次",
@@ -290,15 +477,51 @@
           "time_info": "[01时17分 ~ 05时21分]"
         },
         {
+          "title": "最高法就“开门杀”等发布司法解释",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B3%95%E5%B0%B1%E2%80%9C%E5%BC%80%E9%97%A8%E6%9D%80%E2%80%9D%E7%AD%89%E5%8F%91%E5%B8%83%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "国家安全部发布最新提醒",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%83%A8%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "祖国人太癫,博主复刻玩梗爆火",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354010&amp;topic_name=%E7%A5%96%E5%9B%BD%E4%BA%BA%E5%A4%AA%E7%99%AB%2C%E5%8D%9A%E4%B8%BB%E5%A4%8D%E5%88%BB%E7%8E%A9%E6%A2%97%E7%88%86%E7%81%AB",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 14时25分]"
+        },
+        {
+          "title": "杭州有什么好玩的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%8E%A9%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时17分 ~ 09时25分]"
+          "time_info": "[01时17分 ~ 14时25分]"
         },
         {
           "title": "红果也要付费了？最新回应",
@@ -311,18 +534,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 05时21分]"
-        },
-        {
-          "title": "杭州有什么好玩的",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%8E%A9%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 09时25分]"
         },
         {
           "title": "机器人爆火 哪些赚钱哪些裸泳",
@@ -376,88 +587,60 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "智慧春耕科技范儿十足",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E6%85%A7%E6%98%A5%E8%80%95%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E5%8D%81%E8%B6%B3%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 09时25分]"
-        },
-        {
-          "title": "香港恒生指数5月6日（周三）开盘上涨131.04点，涨幅0.51%，报26029.65点；<br/>香港恒生科技指数5月6日（周三）开盘上涨42.01点，涨幅0.85%，报4971.69点；<br/>国企指数5月6日（周三）开盘上涨55.51点，涨幅0.64%，报8786.0点；<br/>红筹指数5月6日（周三）开盘上涨4.95点，涨幅0.11%，报4411.37点。",
-          "url": "https://flash.jin10.com/detail/20260506092109846800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "券商一季度重仓路径曝光：左手高股息防御，右手科技成长进攻，大金融成压舱石",
-          "url": "https://www.cls.cn/detail/2363022",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "港股收盘 | 内地假期三大指数集体收高 科技股强势领涨",
-          "url": "https://www.cls.cn/detail/2362901",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "标普500指数的11个板块全线收涨，原材料板块涨1.67%，信息技术/科技板块涨1.63%，工业板块涨0.86%表现第三，能源、电信板块涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3098928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.12%，报6889.48点。 热门中概股里，阿特斯太阳能初步收涨5.9%，万国数据涨4.5%，新东方涨1.1%，阿里跌0.8%，小鹏、网易跌0.9%，拼多多跌1%，蔚来跌2.3%。 ETF中，中国科技指数ETF（CQQQ）收平，中概互联网指数ETF（KWEB）收跌0.21%。 贝莱德集团旗下MSCI新兴市场ex中国ETF涨2.50%，德银嘉实沪深300指数ETF（ASHR）收涨0.68%，XtrackersHarvest中证50（ASHS）收涨0.55%。",
-          "url": "https://wallstreetcn.com/livenews/3098925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "09时25分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "雷霆108:90大胜湖人",
+          "url": "https://www.douyin.com/hot/2489810",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "詹姆斯空砍27分 雷霆胜湖人总比分1-0",
+          "url": "https://www.toutiao.com/trending/7636611022769376831/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "雷霆胜湖人 詹姆斯27分难救主",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E9%9C%86%E8%83%9C%E6%B9%96%E4%BA%BA+%E8%A9%B9%E5%A7%86%E6%96%AF27%E5%88%86%E9%9A%BE%E6%95%91%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "2526 赛季 NBA 季后赛湖人 90:108 雷霆，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2035279308302841816",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
         {
           "title": "湖人vs雷霆",
           "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86&t=31&band_rank=20&Refer=top",
@@ -465,7 +648,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
