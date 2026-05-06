@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-06T05:21:54.683347+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-05-06T09:25:22.565097+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
           "url": "https://wallstreetcn.com/articles/3771568",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
         },
         {
           "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
@@ -28,6 +29,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
+        },
+        {
+          "title": "从0开始了解Claude Code",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
+        },
+        {
+          "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
+          "url": "https://www.zhihu.com/question/2034044394312037174",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
+        },
+        {
+          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
+          "url": "https://wallstreetcn.com/articles/3771572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
+        },
+        {
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
         },
         {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
@@ -42,51 +128,16 @@
           "time_info": "[01时17分 ~ 05时21分]"
         },
         {
-          "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
-          "url": "https://www.zhihu.com/question/2034044394312037174",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
-        },
-        {
-          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
-          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
-        },
-        {
-          "title": "从0开始了解Claude Code",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
-        },
-        {
-          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
-          "url": "https://wallstreetcn.com/articles/3771572",
-          "source": "华尔街见闻",
+          "title": "OpenAI或加速手机开发",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10,
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
+          "time_info": "[05时21分 ~ 09时25分]"
         },
         {
           "title": "从猫狗到水果 AI短剧还能火多久",
@@ -95,40 +146,6 @@
           "ranks": [
             23,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
-        },
-        {
-          "title": "UP主优化DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -179,24 +196,13 @@
           "time_info": "01时17分"
         },
         {
-          "title": "OpenAI或加速手机开发",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
           "title": "AMD在AI需求激增后上调了盈利预期",
           "url": "https://flash.jin10.com/detail/20260506050705680800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -210,6 +216,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "埃克森美孚勘探副总裁John Ardill：就供应中断而言，中东冲突的全面影响尚未完全显现。 深度学习人工智能（AI）使公司在圭亚那解读地震数据的时间从数月缩短至数天。 新技术正助力埃克森美孚去开发过去曾被忽视的石油资源。 埃克森美孚预计将在年底前确定特立尼达和多巴哥勘探前景的可行性。 美国阿拉斯加的生产成本高于二叠纪盆地和圭亚那，这构成了挑战。 阿拉斯加石油生产的盈亏平衡点约为每桶 45 美元，而其他地区则为 30 美元。",
@@ -232,12 +260,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "黄仁勋反驳AI末日论",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8F%8D%E9%A9%B3AI%E6%9C%AB%E6%97%A5%E8%AE%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "目瑙纵歌全网爆火 播放突破20亿次",
@@ -258,8 +297,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
         },
         {
           "title": "红果也要付费了？最新回应",
@@ -272,6 +311,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 05时21分]"
+        },
+        {
+          "title": "杭州有什么好玩的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%8E%A9%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 09时25分]"
         },
         {
           "title": "机器人爆火 哪些赚钱哪些裸泳",
@@ -292,7 +343,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -303,20 +354,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "杭州有什么好玩的",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%8E%A9%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "05时21分"
         },
         {
           "title": "英国海事贸易行动办公室（UKMTO）表示，已收到霍尔木兹海峡内发生事件的报告。 UKMTO称，经核实的消息源报告一艘货船被不明抛射物击中，报告发布时环境影响尚不明确。",
@@ -325,15 +365,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "潮语电影《给阿嬷的情书》爆火",
+          "url": "https://www.toutiao.com/trending/7636240791287431210/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "智慧春耕科技范儿十足",
@@ -343,8 +394,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 09时25分]"
+        },
+        {
+          "title": "香港恒生指数5月6日（周三）开盘上涨131.04点，涨幅0.51%，报26029.65点；<br/>香港恒生科技指数5月6日（周三）开盘上涨42.01点，涨幅0.85%，报4971.69点；<br/>国企指数5月6日（周三）开盘上涨55.51点，涨幅0.64%，报8786.0点；<br/>红筹指数5月6日（周三）开盘上涨4.95点，涨幅0.11%，报4411.37点。",
+          "url": "https://flash.jin10.com/detail/20260506092109846800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "券商一季度重仓路径曝光：左手高股息防御，右手科技成长进攻，大金融成压舱石",
+          "url": "https://www.cls.cn/detail/2363022",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "港股收盘 | 内地假期三大指数集体收高 科技股强势领涨",
+          "url": "https://www.cls.cn/detail/2362901",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "标普500指数的11个板块全线收涨，原材料板块涨1.67%，信息技术/科技板块涨1.63%，工业板块涨0.86%表现第三，能源、电信板块涨0.3%。",
@@ -353,7 +437,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -364,7 +448,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -372,8 +456,19 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "湖人vs雷霆",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
         {
           "title": "打雷霆詹姆斯还有奇迹吗",
           "url": "https://search.bilibili.com/all?keyword=%E6%89%93%E9%9B%B7%E9%9C%86%E8%A9%B9%E5%A7%86%E6%96%AF%E8%BF%98%E6%9C%89%E5%A5%87%E8%BF%B9%E5%90%97",
@@ -381,7 +476,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
