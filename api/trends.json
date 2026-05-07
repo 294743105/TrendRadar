@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T09:30:59.521462+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-05-07T14:31:03.510897+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 09时30分]"
+        },
+        {
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
+          "ranks": [
+            15,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时01分 ~ 14时31分]"
         },
         {
           "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
@@ -53,27 +66,26 @@
           "time_info": "05时01分"
         },
         {
+          "title": "千问PC端上线AI语音输入能力",
+          "url": "https://wallstreetcn.com/livenews/3099788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "立讯精密：AI端侧的产品百花齐放 但还没看到千万级的大批量机会",
           "url": "https://wallstreetcn.com/livenews/3099656",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
-        },
-        {
-          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
-          "url": "https://www.zhihu.com/question/2035415081798869913",
-          "source": "知乎",
-          "ranks": [
-            15,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 09时30分]"
         },
         {
           "title": "市场消息：由Meta支持的Scale AI公司获得了一份价值5亿美元的美国国防部合同。",
@@ -97,6 +109,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 09时30分]"
+        },
+        {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 14时31分]"
         },
         {
           "title": "有AI真好 放以前没十几亿下不来",
@@ -137,6 +160,17 @@
           "time_info": "[01时21分 ~ 09时30分]"
         },
         {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
           "title": "国家队领投DeepSeek首轮融资",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%A2%86%E6%8A%95DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -148,15 +182,15 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
-          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
-          "url": "https://wallstreetcn.com/articles/3771667",
-          "source": "华尔街见闻",
+          "title": "比亚迪正式加入IATF AISBL",
+          "url": "https://www.toutiao.com/trending/7636079480591106111/",
+          "source": "今日头条",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "黄仁勋：美国应保持AI领先地位",
@@ -168,6 +202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "EXO ai篡改记忆",
@@ -191,6 +236,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 05时01分]"
+        },
+        {
+          "title": "马斯克解散 xAI，并入 SpaceX 更名为 SpaceXAI，此举整合 AI 与航天，背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2035666551223866960",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "从0开始了解Claude Code",
@@ -217,6 +273,17 @@
           "time_info": "[01时21分 ~ 05时01分]"
         },
         {
+          "title": "xAI更名SpaceXAI",
+          "url": "https://s.weibo.com/weibo?q=%23xAI%E6%9B%B4%E5%90%8DSpaceXAI%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
           "title": "传DeepSeek首轮融资估值450亿美元",
           "url": "https://www.baidu.com/s?wd=%E4%BC%A0DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E4%BC%B0%E5%80%BC450%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -226,6 +293,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "AI机器人和尚现身韩国寺庙受戒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%92%8C%E5%B0%9A%E7%8E%B0%E8%BA%AB%E9%9F%A9%E5%9B%BD%E5%AF%BA%E5%BA%99%E5%8F%97%E6%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -257,7 +335,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -287,8 +365,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "消费基金重仓科技股，网友坐不住了，算不算“挂羊头卖狗肉”？",
+          "url": "https://www.cls.cn/detail/2364657",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
         {
           "title": "恒指高开1.21%，恒生科技指数涨2.41%",
           "url": "https://wallstreetcn.com/livenews/3099659",
@@ -296,7 +385,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -310,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "A股算力租赁板块午后持续拉升，科华数据触及涨停，此前合力泰、航锦科技、浦东建设、特发信息等10余股封板。",
+          "url": "https://flash.jin10.com/detail/20260507140900921800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "UP主解读宇树科技招股书",
@@ -356,6 +456,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股AMD涨18.2%，Arm控股涨14.4%，拉姆研究涨7.7%，阿斯麦ADR涨6.6%，拼多多涨6.3%，英伟达涨5.4%，思科跌3.2%，路透跌3.6%，VRSK跌4.8%，Workday跌5.1%，能源股Diamondback Energy跌6.3%。 纳指涨1.9%，标普涨超1.4%，道指涨700点短暂地重返5万点整数位心理关口上方、涨幅扩大至1.4%。半导体指数涨4.1%，生物科技指数涨2.1%，罗素2000指数涨1.3%。 利弗莫尔中概股龙头指数涨幅扩大至5%。",
           "url": "https://wallstreetcn.com/livenews/3099541",
           "source": "华尔街见闻-快讯",
@@ -365,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "A股光纤概念板块午后持续走强，中天科技涨停，股价创历史新高，总市值突破1300亿，此前特发信息、通鼎互联涨停，永鼎股份、长飞光纤、汇源通信、亨通光电、华脉科技均涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260507135149564800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "恒生指数主连夜盘收涨1.12%，报26423点。 恒生科技指数主连夜盘收涨1.79%，报5064点。",
@@ -381,8 +503,21 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "异环横扫海外,掀翻日本游戏圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354037&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%A8%AA%E6%89%AB%E6%B5%B7%E5%A4%96%2C%E6%8E%80%E7%BF%BB%E6%97%A5%E6%9C%AC%E6%B8%B8%E6%88%8F%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 14时31分]"
+        },
         {
           "title": "中国航天招志愿者最新消息：能玩手机",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%EF%BC%9A%E8%83%BD%E7%8E%A9%E6%89%8B%E6%9C%BA",
@@ -420,16 +555,26 @@
           "time_info": "[01时21分 ~ 09时30分]"
         },
         {
-          "title": "异环横扫海外,掀翻日本游戏圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354037&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%A8%AA%E6%89%AB%E6%B5%B7%E5%A4%96%2C%E6%8E%80%E7%BF%BB%E6%97%A5%E6%9C%AC%E6%B8%B8%E6%88%8F%E5%9C%88",
-          "source": "贴吧",
+          "title": "男子称爷爷30年前捐赠名家书画部分去向不明，天津美术学院：正处置，将发布通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105107",
+          "source": "澎湃新闻",
           "ranks": [
-            18,
-            20
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 09时30分]"
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
+          "title": "网约车的旧游戏规则正在被改写",
+          "url": "https://www.toutiao.com/trending/7636175705943982130/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "周三（5月6日），欧股“十一罗汉”几乎全面收涨，阿斯麦控股涨6.18%，LVMH集团涨5.11%，欧莱雅涨3.33%，诺和诺德在业绩报告发布后涨2.48%，德国思爱普Sap则收跌0.32%。",
@@ -449,7 +594,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -468,7 +613,7 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "复盘湖人雷霆G1",
@@ -477,11 +622,12 @@
           "ranks": [
             6,
             7,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 09时30分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 14时31分]"
         },
         {
           "title": "詹姆斯空砍27分湖人不敌雷霆",
@@ -495,6 +641,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 09时30分]"
+        },
+        {
+          "title": "2526 赛季 NBA 季后赛森林狼 95:133 马刺，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2035658141761789954",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
         }
       ]
     }
