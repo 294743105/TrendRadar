@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:51:19.604952+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-05-08T17:04:09.476606+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时32分 ~ 13时51分]"
+        },
+        {
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时56分 ~ 17时04分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时35分 ~ 13时51分]"
-        },
-        {
-          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771759",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时56分 ~ 13时51分]"
         },
         {
           "title": "“全球大模型第一股”智谱3.6亿在京买楼背后：电商掀起买地潮 下一波扫楼的是谁？",
@@ -70,6 +71,18 @@
           "time_info": "[09时32分 ~ 13时51分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 17时04分]"
+        },
+        {
           "title": "解散xAI ，马斯克和Anthropic都赢麻了",
           "url": "https://wallstreetcn.com/articles/3771763",
           "source": "华尔街见闻",
@@ -81,13 +94,35 @@
           "time_info": "[09时32分 ~ 09时33分]"
         },
         {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
           "title": "AI四小龙估值破万亿",
           "url": "https://www.toutiao.com/trending/7637337803117825590/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -120,18 +155,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -153,7 +177,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -164,7 +188,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -175,7 +199,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         }
@@ -183,7 +207,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "探访最神秘“杭州六小龙”强脑科技：业务已延伸至具身智能，估值突破120亿元",
@@ -200,13 +224,35 @@
           "time_info": "[01时35分 ~ 13时51分]"
         },
         {
+          "title": "“太空快递”即将发货",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%AA%E7%A9%BA%E5%BF%AB%E9%80%92%E2%80%9D%E5%8D%B3%E5%B0%86%E5%8F%91%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
+          "title": "科技赋能中国农业加速跑",
+          "url": "https://www.douyin.com/hot/2492301",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
           "title": "A股黄金概念板块午后拉升，恒星科技午后封板，福达合金、宝鼎科技此前封板，中国瑞林、西部黄金、四川黄金、兴业银锡等跟涨。",
           "url": "https://flash.jin10.com/detail/20260508133822383800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -233,13 +279,24 @@
           "time_info": "09时33分"
         },
         {
+          "title": "5月新发基金近90只，46家基金公司都行动了，关键词有三：ETF、固收+、科技",
+          "url": "https://www.cls.cn/detail/2365591",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
           "title": "A股光纤概念股再度拉升，昀冢科技20cm涨停，通鼎互联此前封板，长光华芯涨超10%，烽火通信、杭电股份涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3100414",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -299,13 +356,24 @@
           "time_info": "04时56分"
         },
         {
+          "title": "正虹科技：2026年4月销售生猪收入1373.48万元，同比增长40.2%",
+          "url": "https://flash.jin10.com/detail/20260508162648726800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "A股光纤概念板块午后再度拉升，昀冢科技20cm涨停，通鼎互联此前封板，长光华芯涨超10%，烽火通信、杭电股份等跟涨。",
           "url": "https://flash.jin10.com/detail/20260508131153623800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -319,13 +387,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "正虹科技：4月销售生猪1.51万头，销量环比增长769.38%，同比增长34.79%；销售收入1,373.48万元，销售收入环比增长606.03%，同比增长40.20%。",
+          "url": "https://wallstreetcn.com/livenews/3100539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
         {
           "title": "伊朗战争丨伊朗发布打击美国军舰视频",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
@@ -333,7 +423,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -362,6 +452,17 @@
           "time_info": "[01时35分 ~ 09时33分]"
         },
         {
+          "title": "钱江摩托发布声明：“国内摩托车大厂围剿张雪机车”系不实言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120361",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
           "title": "爆火排骨饭老板称一天消耗300多斤肉",
           "url": "https://www.toutiao.com/trending/7636487728271523894/",
           "source": "今日头条",
@@ -382,6 +483,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "涉及手机、眼镜、耳机等！《人工智能终端智能化分级》系列国家标准发布",
+          "url": "https://wallstreetcn.com/livenews/3100556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "助力统一大市场建设 国内贸易交易指引今日发布",
+          "url": "https://wallstreetcn.com/livenews/3100537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
@@ -390,26 +513,28 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "湖人不敌雷霆总比分0:2落后",
-          "url": "https://www.douyin.com/hot/2492047",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
           "title": "湖人0-2雷霆",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E4%BA%BA0-2%E9%9B%B7%E9%9C%86",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 17时04分]"
+        },
+        {
+          "title": "湖人不敌雷霆总比分0:2落后",
+          "url": "https://www.douyin.com/hot/2492047",
+          "source": "抖音",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 17时04分]"
         },
         {
           "title": "詹里空砍54分 雷霆再胜湖人2-0领先",
@@ -418,7 +543,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
