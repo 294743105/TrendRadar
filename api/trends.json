@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T14:09:45.432611+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-05-09T17:06:39.135167+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -19,26 +19,88 @@
           "time_info": "[01时02分 ~ 04时49分]"
         },
         {
+          "title": "Deepseek和阿里谈崩了？市场人士：双方应该没有进行谈判",
+          "url": "https://wallstreetcn.com/livenews/3101032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 17时06分]"
+        },
+        {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
           "url": "https://www.cls.cn/detail/2366653",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时06分]"
+        },
+        {
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时06分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时06分]"
+        },
+        {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 17时06分]"
         },
         {
           "title": "GAI新歌星梦MV",
@@ -54,28 +116,16 @@
           "time_info": "[01时02分 ~ 14时09分]"
         },
         {
-          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
-          "url": "https://wallstreetcn.com/articles/3771864",
-          "source": "华尔街见闻",
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 14时09分]"
-        },
-        {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
+            13,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 14时09分]"
+          "time_info": "[14时09分 ~ 17时06分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -89,6 +139,18 @@
           "time_info": "[01时02分 ~ 04时49分]"
         },
         {
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时06分]"
+        },
+        {
           "title": "私募和AI合体意味着什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -100,15 +162,48 @@
           "time_info": "[01时02分 ~ 04时49分]"
         },
         {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
-          "source": "财联社热门",
+          "title": "据悉字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://flash.jin10.com/detail/20260509162004695800",
+          "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "17时06分"
+        },
+        {
+          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
+          "url": "https://wallstreetcn.com/livenews/3101029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -117,18 +212,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -177,17 +261,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
           "title": "【美联储：与私人信用赎回相关的风险“是可控的”】美联储调查受访者在2026年春季调查中将地缘政治风险列为首位，较 2025 年秋季调查上升一位；人工智能（AI）从第 5 位升至第 3 位；私人信用从第 9 位升至第 4 位；通胀/紧缩政策从第 3 位降至第 5 位。 石油冲击在春季调查中被列为第 2 大风险；而在秋季调查中并未进入主要关注名单。 根据美联储半年一度的报告，地缘政治风险、石油冲击、人工智能、私人信用以及持续的通胀/货币紧缩是美国金融稳定面临的五大最受关注风险。 私人信用赎回请求对金融稳定构成的风险似乎有限且可控。 政策不确定性在春季调查中降至第 8 位风险；其在秋季曾是首要关注点。",
           "url": "https://wallstreetcn.com/livenews/3100904",
           "source": "华尔街见闻-快讯",
@@ -205,7 +278,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -235,7 +308,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
@@ -243,11 +316,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 14时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 17时06分]"
         },
         {
           "title": "钱江摩托发布声明：“国内摩托车大厂围剿张雪机车”系不实言论",
@@ -285,15 +359,15 @@
           "time_info": "09时31分"
         },
         {
-          "title": "凡人修仙传新场景发布",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E6%96%B0%E5%9C%BA%E6%99%AF%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "财政部发布关于下达2026年彩票市场调控资金预算的通知",
+          "url": "https://flash.jin10.com/detail/20260509164858783800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "17时06分"
         },
         {
           "title": "如果打游戏可以上清华，那么清华学生仍是现在那帮人，对吗？",
@@ -306,6 +380,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 04时49分]"
+        },
+        {
+          "title": "凡人修仙传新场景发布",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E6%96%B0%E5%9C%BA%E6%99%AF%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时06分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -329,8 +415,32 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 17时06分]"
+        },
+        {
+          "title": "百度发布文心5.1：搜索能力登顶国内，预训练成本仅为业界6%",
+          "url": "https://wallstreetcn.com/livenews/3101007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 14时09分]"
+          "time_info": "[14时09分 ~ 17时06分]"
+        },
+        {
+          "title": "ENEMY爆火的背后",
+          "url": "https://www.douyin.com/hot/2493024",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时06分]"
         },
         {
           "title": "美国此时发布UFO文件有何意图",
@@ -339,7 +449,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -355,17 +465,6 @@
           "time_info": "09时31分"
         },
         {
-          "title": "百度发布文心5.1：搜索能力登顶国内，预训练成本仅为业界6%",
-          "url": "https://wallstreetcn.com/livenews/3101007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
           "title": "海关总署发布关于进口莫桑比克野生水产品检验检疫要求的公告",
           "url": "https://flash.jin10.com/detail/20260509083623405800",
           "source": "金十数据",
@@ -377,15 +476,37 @@
           "time_info": "09时31分"
         },
         {
-          "title": "ENEMY爆火的背后",
-          "url": "https://www.douyin.com/hot/2493024",
-          "source": "抖音",
+          "title": "涉及新兴领域等方面 市场监管总局批准发布一批重要国家标准",
+          "url": "https://flash.jin10.com/detail/20260509160111552800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "无忧传媒发布王暖暖健康状况声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E4%BC%A0%E5%AA%92%E5%8F%91%E5%B8%83%E7%8E%8B%E6%9A%96%E6%9A%96%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5%E5%A3%B0%E6%98%8E%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "不是所有业绩叫响的基金都“吸粉儿”，最新调查：资金喜欢去哪？",
+          "url": "https://www.cls.cn/detail/2366674",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "17时06分"
         },
         {
           "title": "如何看待「反向接话」视频的爆火？这是否意味着受打压式教育的一代人，正通过养育下一代完成自我疗愈？",
@@ -399,13 +520,35 @@
           "time_info": "01时02分"
         },
         {
+          "title": "以军对黎巴嫩南部9个村庄发布撤离警告",
+          "url": "https://wallstreetcn.com/livenews/3101017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "百度正式发布文心大模型5.1",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E6%96%87%E5%BF%83%E5%A4%A7%E6%A8%A1%E5%9E%8B5.1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "00后夫妻经营老旧动物园爆火",
           "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A4%AB%E5%A6%BB%E7%BB%8F%E8%90%A5%E8%80%81%E6%97%A7%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%88%86%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -416,15 +559,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "预告：商务部将于下午3时举行APEC贸易部长会议专题新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260509145949839800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
@@ -438,17 +592,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "我国“太极计划”获关键突破 太空引力波探测再进一步",
-          "url": "https://wallstreetcn.com/livenews/3101014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
           "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
           "url": "https://www.cls.cn/detail/2366454",
           "source": "财联社热门",
@@ -460,6 +603,52 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 14时09分]"
+        },
+        {
+          "title": "工信部启动人工智能科技伦理审查与服务先导计划",
+          "url": "https://flash.jin10.com/detail/20260509162114709800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "工信部启动人工智能科技伦理审查与服务先导计划，加快推动审查工作落地实施",
+          "url": "https://wallstreetcn.com/livenews/3101030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "我国“太极计划”获关键突破 太空引力波探测再进一步",
+          "url": "https://wallstreetcn.com/livenews/3101014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时06分]"
+        },
+        {
+          "title": "网红牛散“鑫多多”陷争议，10倍“妖股”国晟科技游资魅影重重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33124269",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时06分]"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨2.74%，刷新收盘历史高位至6573.22点；可选消费、原材料、房地产、日用消费品板块至多涨0.5%，工业、能源、金融、保健、公用事业板块至多跌0.91%。",
@@ -490,18 +679,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "网红牛散“鑫多多”陷争议，10倍“妖股”国晟科技游资魅影重重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33124269",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -545,7 +723,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
