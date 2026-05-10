@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-10T04:33:32.404453+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-05-10T09:31:59.514533+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
+        },
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
@@ -19,28 +31,88 @@
           "time_info": "[00时39分 ~ 04时33分]"
         },
         {
-          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://wallstreetcn.com/articles/3771900",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
-        },
-        {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
           "url": "https://www.cls.cn/detail/2366780",
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
+        },
+        {
+          "title": "Deepseek和阿里谈崩了？市场人士回应",
+          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
+        },
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -54,16 +126,16 @@
           "time_info": "[00时39分 ~ 04时33分]"
         },
         {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
+          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
+          "url": "https://wallstreetcn.com/articles/3771893",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
+          "time_info": "[04时33分 ~ 09时31分]"
         },
         {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
@@ -71,28 +143,6 @@
           "source": "财联社热门",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
-        },
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -111,16 +161,16 @@
           "time_info": "[00时39分 ~ 04时33分]"
         },
         {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            13
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
+          "time_info": "[04时33分 ~ 09时31分]"
         },
         {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
@@ -147,32 +197,43 @@
           "time_info": "[00时39分 ~ 04时33分]"
         },
         {
-          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
-          "url": "https://wallstreetcn.com/articles/3771893",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
+          "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+          "url": "https://www.cls.cn/detail/2367033",
           "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "09时31分"
+        },
+        {
+          "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
@@ -186,13 +247,24 @@
           "time_info": "[00时39分 ~ 04时33分]"
         },
         {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（5月10日）",
+          "url": "https://flash.jin10.com/detail/20260510090349318800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "据卡塔尔通讯社：叙利亚总统与黎巴嫩总理讨论双边关系及地区最新局势。",
           "url": "https://flash.jin10.com/detail/20260510035717729800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -202,11 +274,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
         },
         {
           "title": "短片ENEMY爆火",
@@ -217,8 +290,20 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
+        },
+        {
+          "title": "男子打游戏中闪光弹主机不断冒火花",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%AD%E9%97%AA%E5%85%89%E5%BC%B9%E4%B8%BB%E6%9C%BA%E4%B8%8D%E6%96%AD%E5%86%92%E7%81%AB%E8%8A%B1",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
+          "time_info": "[04时33分 ~ 09时31分]"
         },
         {
           "title": "Cui71 韩国游戏",
@@ -227,27 +312,40 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
         {
-          "title": "男子打游戏中闪光弹主机不断冒火花",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%AD%E9%97%AA%E5%85%89%E5%BC%B9%E4%B8%BB%E6%9C%BA%E4%B8%8D%E6%96%AD%E5%86%92%E7%81%AB%E8%8A%B1",
+          "title": "俄乌局势迎来最新三大变数",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%E8%BF%8E%E6%9D%A5%E6%9C%80%E6%96%B0%E4%B8%89%E5%A4%A7%E5%8F%98%E6%95%B0",
           "source": "百度热搜",
           "ranks": [
-            18
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
+          "url": "https://www.cls.cn/detail/2366912",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
+        },
         {
           "title": "科技赋能 向新而行",
           "url": "https://www.toutiao.com/trending/7637788918914859071/",
@@ -256,8 +354,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
         },
         {
           "title": "太空快递跑出中国加速度",
@@ -267,31 +365,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
-        },
-        {
-          "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
-          "url": "https://www.cls.cn/detail/2366912",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
         },
         {
           "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
           "url": "https://www.cls.cn/detail/2366890",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 09时31分]"
         },
         {
           "title": "千亿级私募景林资产一季度大手笔加码科技与消费",
@@ -304,6 +391,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 04时33分]"
+        },
+        {
+          "title": "狂卖80亿美元微软持仓！知名科技对冲基金“十年持股一朝清仓”",
+          "url": "https://wallstreetcn.com/articles/3771880",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "湖人vs雷霆",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     }
