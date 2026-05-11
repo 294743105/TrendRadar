@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T14:58:40.444827+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-05-11T18:52:14.443826+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -59,11 +59,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时58分 ~ 18时52分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -153,6 +154,28 @@
           "time_info": "[00时40分 ~ 04时36分]"
         },
         {
+          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2367918",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
+          "title": "加速渗透！宠物AI手机交付订单达数万台 距离真正“人宠互通”还有多远",
+          "url": "https://www.cls.cn/detail/2367714",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
           "url": "https://wallstreetcn.com/articles/3771914",
           "source": "华尔街见闻",
@@ -181,9 +204,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "欧盟委员会：与Anthropic、OpenAI的谈判处于不同阶段。",
+          "url": "https://wallstreetcn.com/livenews/3101566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "花生AI是什么",
@@ -192,9 +226,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "欧盟委员会发言人：我们与Anthropic保持着良好的沟通，目前尚无法对可能获取该AI模型一事进行推测。",
+          "url": "https://flash.jin10.com/detail/20260511183423552800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "CPU、存储、光通信……华尔街解读AI股史诗级狂热：市场热衷追逐“瓶颈”！",
@@ -203,7 +248,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -214,7 +259,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -225,9 +270,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "欧盟委员会发言人：我们已经与Anthropic举行了四到五次会议，并在不同阶段与OpenAI和Anthropic进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260511183044315800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "Jefferies：中国AI、苹果及特斯拉供应链二季度有望获正贝塔收益",
@@ -252,15 +308,59 @@
           "time_info": "09时50分"
         },
         {
+          "title": "欧盟委员会发言人：OpenAI已与我们取得联系，目前正在就可能采取的下一步措施进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260511183013733800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "机构：预计2027年AI服务器内存需求将占DRAM市场容量近50%",
+          "url": "https://wallstreetcn.com/livenews/3101547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "欧盟委员会发言人：欢迎OpenAI有意向提供模型的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260511182844590800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "高盛认为AI推动韩国呈现K型化 利率面临压力",
           "url": "https://wallstreetcn.com/livenews/3101384",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会正就最新版ChatGPT模型与OpenAI保持联系。",
+          "url": "https://flash.jin10.com/detail/20260511182753884800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "特斯拉用AI视觉系统预测碰撞",
@@ -269,7 +369,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -280,7 +380,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -291,7 +391,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
@@ -299,7 +399,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
@@ -311,6 +411,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 04时36分]"
+        },
+        {
+          "title": "天舟十号将人工胚胎送上太空",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E5%B0%86%E4%BA%BA%E5%B7%A5%E8%83%9A%E8%83%8E%E9%80%81%E4%B8%8A%E5%A4%AA%E7%A9%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "A股商业航天概念延续强势，红板科技、风华高科、钧达股份、中航光电四股涨停，飞沃科技、沃格光电、信维通信、信科移动跟涨。",
@@ -346,6 +457,29 @@
           "time_info": "[00时40分 ~ 04时36分]"
         },
         {
+          "title": "马英九前下属：两岸若合作，科技经济武力都是世界第一",
+          "url": "https://news.ifeng.com/c/8t2C2FzVuec",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时58分 ~ 18时52分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
+          "url": "https://www.cls.cn/detail/2367989",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
           "title": "科创50涨超3%，成份股中，澜起科技涨超11%，天岳先进涨超7%，晶合集成、佰维存储涨超5%。",
           "url": "https://flash.jin10.com/detail/20260511093332618800",
           "source": "金十数据",
@@ -368,15 +502,15 @@
           "time_info": "09时50分"
         },
         {
-          "title": "马英九前下属：两岸若合作，科技经济武力都是世界第一",
-          "url": "https://news.ifeng.com/c/8t2C2FzVuec",
-          "source": "凤凰网",
+          "title": "红板科技：公司关注到近期市场对于PCB相关概念关注度较高。公司专注于印制电路板（PCB）的研发、生产和销售，主营业务不存在重大变化。",
+          "url": "https://wallstreetcn.com/livenews/3101562",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时58分"
+          "time_info": "18时52分"
         },
         {
           "title": "A股存储芯片板块盘初活跃，兴福电子20CM涨停，同有科技涨超15%，普冉股份、澜起科技涨超11%，飞凯材料涨超9%。",
@@ -440,16 +574,49 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "泰晶科技：公司光模块业务开展及业绩实现均存在较大不确定性",
+          "url": "https://wallstreetcn.com/livenews/3101526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "花旗维持美股“超配”评级 看好科技与医疗等板块",
+          "url": "https://flash.jin10.com/detail/20260511181908645800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "普京最新涉华表态，中方回应",
+          "url": "https://news.ifeng.com/c/8t2e7UEs3mk",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
         {
           "title": "消息人士：伊朗对美最新回应聚焦结束地区战争",
           "url": "https://wallstreetcn.com/livenews/3101169",
@@ -485,6 +652,18 @@
           "time_info": "[00时40分 ~ 09时50分]"
         },
         {
+          "title": "张文宏最新发声：传播路径异常",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%EF%BC%9A%E4%BC%A0%E6%92%AD%E8%B7%AF%E5%BE%84%E5%BC%82%E5%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时58分 ~ 18时52分]"
+        },
+        {
           "title": "短片ENEMY爆火",
           "url": "https://www.douyin.com/hot/2493811",
           "source": "抖音",
@@ -494,6 +673,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 04时36分]"
+        },
+        {
+          "title": "Steam手柄评测",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E6%89%8B%E6%9F%84%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "15岁女孩被强奸杀害父母最新发声",
@@ -518,15 +708,15 @@
           "time_info": "09时50分"
         },
         {
-          "title": "张文宏最新发声：传播路径异常",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%EF%BC%9A%E4%BC%A0%E6%92%AD%E8%B7%AF%E5%BE%84%E5%BC%82%E5%B8%B8",
-          "source": "百度热搜",
+          "title": "中国汽车动力电池产业创新联盟发布倡议，倡议尊重知识产权，共筑全球动力电池产业未来。",
+          "url": "https://wallstreetcn.com/livenews/3101555",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时58分"
+          "time_info": "18时52分"
         },
         {
           "title": "神舟二十三号载人飞行任务标识发布",
@@ -535,7 +725,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -551,13 +741,24 @@
           "time_info": "04时36分"
         },
         {
+          "title": "包头发布16条楼市新政，将优化公积金专项支持力度",
+          "url": "https://wallstreetcn.com/livenews/3101548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "王暖暖母亲节凌晨发布孩子视频",
           "url": "https://www.toutiao.com/trending/7637348039942783039/",
           "source": "今日头条",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -579,7 +780,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
@@ -619,7 +820,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -630,7 +831,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
