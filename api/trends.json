@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-12T18:32:18.974978+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-05-12T21:32:29.025069+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 21时32分]"
+        },
         {
           "title": "人工胚胎首次进入太空",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E8%83%9A%E8%83%8E%E9%A6%96%E6%AC%A1%E8%BF%9B%E5%85%A5%E5%A4%AA%E7%A9%BA",
@@ -20,17 +31,6 @@
           "time_info": "[09时31分 ~ 14时32分]"
         },
         {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 18时32分]"
-        },
-        {
           "title": "同兴科技：钠离子电池正极材料已陆续启动中试产品送样工作",
           "url": "https://flash.jin10.com/detail/20260512091009091800",
           "source": "金十数据",
@@ -40,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "宇树科技发布载人变形机甲 390万起",
-          "url": "https://www.toutiao.com/trending/7638860347448757798/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "微软CEO在“马斯克诉奥特曼”案中出庭作证",
@@ -81,7 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -97,6 +86,18 @@
           "time_info": "14时32分"
         },
         {
+          "title": "宇树科技发布载人变形机甲 390万起",
+          "url": "https://www.toutiao.com/trending/7638860347448757798/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时32分]"
+        },
+        {
           "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
           "url": "https://www.cls.cn/detail/2367989",
           "source": "财联社热门",
@@ -107,6 +108,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 05时09分]"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时32分]"
+        },
+        {
+          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
+          "url": "https://www.cls.cn/detail/2369167",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时32分]"
+        },
+        {
+          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
+          "url": "https://www.zhihu.com/question/2033154931448918850",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时32分]"
         },
         {
           "title": "恒指高开0.34%，报26497.03点；恒生科技指数涨 0.45%。快手涨9.9%，此前报道称快手计划分拆可灵独立上市。中芯国际、携程、蔚来涨超1%。",
@@ -126,18 +163,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -151,17 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
-          "url": "https://www.cls.cn/detail/2369167",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，能源板块收涨2.63%，原材料、工业、信息技术/科技板块至少涨1%，电信板块则收跌2.33%。",
@@ -181,7 +196,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -192,7 +207,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -230,15 +245,15 @@
           "time_info": "05时09分"
         },
         {
-          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
-          "url": "https://www.zhihu.com/question/2033154931448918850",
-          "source": "知乎",
+          "title": "双枪科技：“竹基禾塑”材料目前在中试阶段，尚未有客户订单及批量生产",
+          "url": "https://wallstreetcn.com/livenews/3102325",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "21时32分"
         },
         {
           "title": "专家：投资者要抓住“科技牛”本质",
@@ -258,7 +273,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -269,7 +284,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -283,12 +298,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "人工胚胎首次送入太空",
+          "url": "https://www.douyin.com/hot/2496297",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "宝鼎科技：目前未有高速覆铜板M7和M9产品销售，无相关订单和营业收入",
+          "url": "https://wallstreetcn.com/livenews/3102306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "普京最新涉华表态，中方回应",
@@ -303,6 +340,17 @@
           "time_info": "[01时48分 ~ 14时32分]"
         },
         {
+          "title": "宇树发布载人变形机甲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 21时32分]"
+        },
+        {
           "title": "宇树发布载人变形机甲 390万元起售",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2+390%E4%B8%87%E5%85%83%E8%B5%B7%E5%94%AE",
           "source": "百度热搜",
@@ -314,15 +362,27 @@
           "time_info": "[14时32分 ~ 18时32分]"
         },
         {
-          "title": "宇树发布载人变形机甲",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2",
-          "source": "bilibili 热搜",
+          "title": "宇树发布 GD01 载人变形机甲，定价 390 万元起，目标客户可能是谁？这一定价合理吗？",
+          "url": "https://www.zhihu.com/question/2037512541304262884",
+          "source": "知乎",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时32分 ~ 18时32分]"
+          "time_info": "[18时32分 ~ 21时32分]"
+        },
+        {
+          "title": "钢铁侠成真!宇树发布载人机甲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354208&amp;topic_name=%E9%92%A2%E9%93%81%E4%BE%A0%E6%88%90%E7%9C%9F%21%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时32分]"
         },
         {
           "title": "如何看待耿同学举报上海大学转化医学院院长苏某最新 Nature 子刊论文数据造假？究竟是怎么回事？",
@@ -336,26 +396,17 @@
           "time_info": "14时32分"
         },
         {
-          "title": "宇树发布 GD01 载人变形机甲，定价 390 万元起，目标客户可能是谁？这一定价合理吗？",
-          "url": "https://www.zhihu.com/question/2037512541304262884",
-          "source": "知乎",
+          "title": "宇树发布首款载人变形机甲：一拳能锤倒砖墙，售价390万元起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162316",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            19,
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "钢铁侠成真!宇树发布载人机甲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354208&amp;topic_name=%E9%92%A2%E9%93%81%E4%BE%A0%E6%88%90%E7%9C%9F%21%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 21时32分]"
         },
         {
           "title": "外交部回应普京最新涉华表态",
@@ -370,16 +421,29 @@
           "time_info": "[09时31分 ~ 14时32分]"
         },
         {
-          "title": "宇树发布首款载人变形机甲：一拳能锤倒砖墙，售价390万元起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33162316",
-          "source": "澎湃新闻",
+          "title": "宇树发布GD01载人变形机甲 定价390万元起",
+          "url": "https://www.cls.cn/detail/2368783",
+          "source": "财联社热门",
           "ranks": [
-            19,
+            8,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时32分 ~ 18时32分]"
+          "time_info": "[18时32分 ~ 21时32分]"
+        },
+        {
+          "title": "曾经每天玩 5 小时游戏的人，为什么在二十多岁后会「断崖式」地对游戏失去兴趣？",
+          "url": "https://www.zhihu.com/question/1969364589067105538",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 21时32分]"
         },
         {
           "title": "最新研究显示“工作时长影响肥胖率”，专家呼吁每周四天工作制",
@@ -395,16 +459,16 @@
           "time_info": "[05时09分 ~ 14时32分]"
         },
         {
-          "title": "曾经每天玩 5 小时游戏的人，为什么在二十多岁后会「断崖式」地对游戏失去兴趣？",
-          "url": "https://www.zhihu.com/question/1969364589067105538",
+          "title": "如何看待最近爆火的《ENEMY》短剧？",
+          "url": "https://www.zhihu.com/question/2034707364939576531",
           "source": "知乎",
           "ranks": [
-            9,
-            6
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时32分 ~ 18时32分]"
+          "time_info": "[18时32分 ~ 21时32分]"
         },
         {
           "title": "为什么《王者荣耀世界》的开发成本看起来这么高？游戏开发的主要开销在哪里？",
@@ -430,28 +494,6 @@
           "time_info": "09时31分"
         },
         {
-          "title": "宇树发布GD01载人变形机甲 定价390万元起",
-          "url": "https://www.cls.cn/detail/2368783",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "如何看待最近爆火的《ENEMY》短剧？",
-          "url": "https://www.zhihu.com/question/2034707364939576531",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长与新加坡外长进行了电话交谈，讨论了双边关系以及地区最新局势和外交进程。",
           "url": "https://flash.jin10.com/detail/20260512011056666800",
           "source": "金十数据",
@@ -461,6 +503,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "新华三发布面向万亿级大模型的全系列超节点产品UniPoD S80000",
+          "url": "https://wallstreetcn.com/livenews/3102330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "引导隔夜利率在政策利率水平附近运行，央行最新报告释放了哪些信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157154",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "天津老守门员施连志翻红爆火，如何评价当年引起禁赛的飞踹高峰动作？",
@@ -480,7 +544,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -491,7 +555,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -524,7 +588,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -535,7 +599,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -543,8 +607,20 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 21时32分]"
+        },
         {
           "title": "把AI用到了最有意义的场合",
           "url": "https://www.douyin.com/hot/2495756",
@@ -559,18 +635,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时48分 ~ 18时32分]"
-        },
-        {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 18时32分]"
         },
         {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
@@ -595,6 +659,20 @@
           "time_info": "05时09分"
         },
         {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            20,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 21时32分]"
+        },
+        {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2367918",
           "source": "财联社热门",
@@ -617,31 +695,6 @@
           "time_info": "09时31分"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时48分 ~ 18时32分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 18时32分]"
-        },
-        {
           "title": "AI时代如何评价各专业",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -649,11 +702,12 @@
             21,
             22,
             13,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 21时32分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -666,8 +720,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 21时32分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 21时32分]"
         },
         {
           "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
@@ -682,6 +749,17 @@
           "time_info": "[14时32分 ~ 18时32分]"
         },
         {
+          "title": "完美世界：《异环》游戏核心资产、角色立绘等不会使用AI创作",
+          "url": "https://flash.jin10.com/detail/20260512211526333800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
           "url": "https://wallstreetcn.com/livenews/3101797",
           "source": "华尔街见闻-快讯",
@@ -691,6 +769,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "据The Information：OpenAI 200亿美元的注资承诺可能使其获得人工智能芯片制造商Cerebras 11%的股权。",
+          "url": "https://flash.jin10.com/detail/20260512211350102800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "据The Information：人工智能芯片制造商Cerebras本周将以55亿美元的IPO估值上市，这将为OpenAI带来一笔可能超过50亿美元的意外之财。",
+          "url": "https://flash.jin10.com/detail/20260512211335068800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "日本财务大臣片山皋月：意识到 Mythos 及其他先进AI可能构成重大威胁。",
@@ -792,11 +892,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 21时32分]"
         },
         {
           "title": "雷霆4比0湖人",
