@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T14:42:54.056223+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-05-13T18:13:00.171573+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "马斯克库克随特朗普访华",
@@ -60,7 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -85,6 +85,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 05时22分]"
+        },
+        {
+          "title": "马斯克点赞宇树载人机甲：很酷",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2%EF%BC%9A%E5%BE%88%E9%85%B7",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时13分]"
         },
         {
           "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
@@ -134,15 +146,15 @@
           "time_info": "[05时21分 ~ 05时22分]"
         },
         {
-          "title": "马斯克点赞宇树载人机甲：很酷",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2%EF%BC%9A%E5%BE%88%E9%85%B7",
-          "source": "百度热搜",
+          "title": "【每日收评】创业板指涨2.63%，科技赛道持续爆发，绿电板块领涨",
+          "url": "https://www.cls.cn/detail/2370165",
+          "source": "财联社热门",
           "ranks": [
-            8
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "剂泰科技香港上市首日飙涨173%，此前通过IPO筹资2.7亿美元。",
@@ -184,7 +196,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -228,7 +240,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -272,7 +284,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -312,240 +324,8 @@
       ]
     },
     {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "宇树发布首款载人变形机甲：一拳能锤倒砖墙，售价390万元起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33162316",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 09时51分]"
-        },
-        {
-          "title": "钢铁侠成真!宇树发布载人机甲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354208&amp;topic_name=%E9%92%A2%E9%93%81%E4%BE%A0%E6%88%90%E7%9C%9F%21%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 14时42分]"
-        },
-        {
-          "title": "宇树发布载人变形机甲",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 09时51分]"
-        },
-        {
-          "title": "外交部回应普京最新涉华表态",
-          "url": "https://www.toutiao.com/trending/7638533400014143534/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时22分]"
-        },
-        {
-          "title": "宇树发布 GD01 载人变形机甲，定价 390 万元起，目标客户可能是谁？这一定价合理吗？",
-          "url": "https://www.zhihu.com/question/2037512541304262884",
-          "source": "知乎",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 05时22分]"
-        },
-        {
-          "title": "抽象一哥!小马云首播爆火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354231&amp;topic_name=%E6%8A%BD%E8%B1%A1%E4%B8%80%E5%93%A5%21%E5%B0%8F%E9%A9%AC%E4%BA%91%E9%A6%96%E6%92%AD%E7%88%86%E7%81%AB",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "追觅AURORA手机将于2026年第四季度发布",
-          "url": "https://wallstreetcn.com/livenews/3102771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "澎湃暗访后，河南老君山景区发布整改声明并致歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33166482",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 14时42分]"
-        },
-        {
-          "title": "宇树载人变形机甲发布",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2%E5%8F%91%E5%B8%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时22分]"
-        },
-        {
-          "title": "弗洛伦蒂诺皇马发布会解读",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%97%E6%B4%9B%E4%BC%A6%E8%92%82%E8%AF%BA%E7%9A%87%E9%A9%AC%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "如何看待最近爆火的《ENEMY》短剧？",
-          "url": "https://www.zhihu.com/question/2034707364939576531",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "以色列国防军发布视频显示，一名使用侦察设备监视以军的恐怖分子被击中消灭。以军部队继续在前防御线以南地区行动，拆除真主党的基础设施。",
-          "url": "https://flash.jin10.com/detail/20260513140503026800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3102503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。 美国总统特朗普相信，很快就能开放霍尔木兹海峡。 我们正尽可能迅速地释放战略石油储备（SPR）。 特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻）",
-          "url": "https://wallstreetcn.com/livenews/3102501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "两项港口散杂货电子单证国家标准发布 8月1日起正式实施",
-          "url": "https://wallstreetcn.com/livenews/3102752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "爆火短剧《enemy》付费版单集8.8元",
-          "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%AB%E7%9F%AD%E5%89%A7%E3%80%8Aenemy%E3%80%8B%E4%BB%98%E8%B4%B9%E7%89%88%E5%8D%95%E9%9B%868.8%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "纳斯达克100指数延续跌势，最新下跌2.1%。",
-          "url": "https://flash.jin10.com/detail/20260513011336194800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "最新情报打脸白宫：伊朗仍保留70%导弹，30处海峡基地“可作战”",
-          "url": "https://flash.jin10.com/detail/20260513135118394800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
-          "url": "https://wallstreetcn.com/livenews/3102476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "时代少年团官宣长沙发布会",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%AE%98%E5%AE%A3%E9%95%BF%E6%B2%99%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -566,9 +346,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时13分]"
+        },
+        {
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
+          "url": "https://www.cls.cn/detail/2369967",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "封神2特效 不如AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E2%E7%89%B9%E6%95%88%20%E4%B8%8D%E5%A6%82AI&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
@@ -632,6 +445,17 @@
           "time_info": "[09时51分 ~ 14时42分]"
         },
         {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
           "title": "韩国AI红利：闪崩之后，悬念才刚开始",
           "url": "https://wallstreetcn.com/articles/3772076",
           "source": "华尔街见闻",
@@ -642,6 +466,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 14时42分]"
+        },
+        {
+          "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
+          "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
@@ -656,6 +491,17 @@
           "time_info": "[09时51分 ~ 14时42分]"
         },
         {
+          "title": "马化腾回应腾讯AI是否落后",
+          "url": "https://www.toutiao.com/trending/7639279967072518180/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
           "title": "Ai 时代，现在还有人在坚持古法编程吗？",
           "url": "https://www.zhihu.com/question/2031495233876251385",
           "source": "知乎",
@@ -665,6 +511,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 05时22分]"
+        },
+        {
+          "title": "A股收盘：沪指涨0.67% AI算力走高",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.67%25+AI%E7%AE%97%E5%8A%9B%E8%B5%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "阿里巴巴Q4财报：AI相关产品收入连续十一个季度实现三位数增长 ARR突破358亿元",
+          "url": "https://wallstreetcn.com/livenews/3102910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "港股“AI药物递送第一股”剂泰科技(07666.HK)上市首日大涨173%。",
@@ -713,19 +581,278 @@
       ]
     },
     {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "宇树发布首款载人变形机甲：一拳能锤倒砖墙，售价390万元起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162316",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 09时51分]"
+        },
+        {
+          "title": "钢铁侠成真!宇树发布载人机甲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354208&amp;topic_name=%E9%92%A2%E9%93%81%E4%BE%A0%E6%88%90%E7%9C%9F%21%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 18时13分]"
+        },
+        {
+          "title": "澎湃暗访后，河南老君山景区发布整改声明并致歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33166482",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 18时13分]"
+        },
+        {
+          "title": "如何看待宇树发布载人机甲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "宇树发布载人变形机甲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 09时51分]"
+        },
+        {
+          "title": "外交部回应普京最新涉华表态",
+          "url": "https://www.toutiao.com/trending/7638533400014143534/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 05时22分]"
+        },
+        {
+          "title": "官方慌神?洛手急聘游戏策划",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354239&amp;topic_name=%E5%AE%98%E6%96%B9%E6%85%8C%E7%A5%9E%3F%E6%B4%9B%E6%89%8B%E6%80%A5%E8%81%98%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "宇树发布 GD01 载人变形机甲，定价 390 万元起，目标客户可能是谁？这一定价合理吗？",
+          "url": "https://www.zhihu.com/question/2037512541304262884",
+          "source": "知乎",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时22分]"
+        },
+        {
+          "title": "抽象一哥!小马云首播爆火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354231&amp;topic_name=%E6%8A%BD%E8%B1%A1%E4%B8%80%E5%93%A5%21%E5%B0%8F%E9%A9%AC%E4%BA%91%E9%A6%96%E6%92%AD%E7%88%86%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时13分]"
+        },
+        {
+          "title": "追觅AURORA手机将于2026年第四季度发布",
+          "url": "https://wallstreetcn.com/livenews/3102771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "弗洛伦蒂诺皇马发布会解读",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%97%E6%B4%9B%E4%BC%A6%E8%92%82%E8%AF%BA%E7%9A%87%E9%A9%AC%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时13分]"
+        },
+        {
+          "title": "宇树载人变形机甲发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2%E5%8F%91%E5%B8%83%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 05时22分]"
+        },
+        {
+          "title": "如何看待最近爆火的《ENEMY》短剧？",
+          "url": "https://www.zhihu.com/question/2034707364939576531",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "以色列国防军发布视频显示，一名使用侦察设备监视以军的恐怖分子被击中消灭。以军部队继续在前防御线以南地区行动，拆除真主党的基础设施。",
+          "url": "https://flash.jin10.com/detail/20260513140503026800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3102503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。 美国总统特朗普相信，很快就能开放霍尔木兹海峡。 我们正尽可能迅速地释放战略石油储备（SPR）。 特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3102501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "两项港口散杂货电子单证国家标准发布 8月1日起正式实施",
+          "url": "https://wallstreetcn.com/livenews/3102752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "爆火短剧《enemy》付费版单集8.8元",
+          "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%AB%E7%9F%AD%E5%89%A7%E3%80%8Aenemy%E3%80%8B%E4%BB%98%E8%B4%B9%E7%89%88%E5%8D%95%E9%9B%868.8%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "纳斯达克100指数延续跌势，最新下跌2.1%。",
+          "url": "https://flash.jin10.com/detail/20260513011336194800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "最新情报打脸白宫：伊朗仍保留70%导弹，30处海峡基地“可作战”",
+          "url": "https://flash.jin10.com/detail/20260513135118394800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3102476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "时代少年团官宣长沙发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%AE%98%E5%AE%A3%E9%95%BF%E6%B2%99%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "一天内2位NBA球员去世",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A9%E5%86%852%E4%BD%8DNBA%E7%90%83%E5%91%98%E5%8E%BB%E4%B8%96",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时13分]"
         },
         {
           "title": "NBA灰熊队29岁球员克拉克去世",
@@ -759,6 +886,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 05时22分]"
+        },
+        {
+          "title": "张元英雷霆平底鞋",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E9%9B%B7%E9%9C%86%E5%B9%B3%E5%BA%95%E9%9E%8B%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "一天内2个NBA球员去世",
