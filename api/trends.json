@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T18:04:28.570301+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-05-14T21:24:27.557374+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -14,11 +14,26 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 18时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 21时24分]"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 21时24分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -60,19 +75,6 @@
           "time_info": "[01时54分 ~ 18时04分]"
         },
         {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 18时04分]"
-        },
-        {
           "title": "据The Information：苹果(AAPL.O)正在探索在App Store中接纳AI智能体的方式。",
           "url": "https://flash.jin10.com/detail/20260514011926400800",
           "source": "金十数据",
@@ -82,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "市场监管总局：加快推进“互联网+AI监管”建设，治理网络餐饮、网红食品等问题",
+          "url": "https://wallstreetcn.com/livenews/3103743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "博主：这轮AI暴富潮太吓人",
@@ -156,6 +169,19 @@
           "time_info": "[09时53分 ~ 18时04分]"
         },
         {
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时50分 ~ 21时24分]"
+        },
+        {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
           "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
           "source": "凤凰网",
@@ -192,18 +218,6 @@
           "time_info": "[14时50分 ~ 18时04分]"
         },
         {
-          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时50分 ~ 18时04分]"
-        },
-        {
           "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
           "url": "https://www.cls.cn/detail/2370802",
           "source": "财联社热门",
@@ -213,6 +227,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时50分 ~ 14时51分]"
+        },
+        {
+          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
+          "url": "https://www.zhihu.com/question/2037926535315677917",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 21时24分]"
         },
         {
           "title": "日本批量生成AI视频抹黑中国",
@@ -303,6 +329,17 @@
           "time_info": "14时51分"
         },
         {
+          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2371414",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "微软为OpenAI相关交易合作未雨绸缪，考虑达成多笔AI交易。 此前，该公司考虑收购Cursor。（路透）",
           "url": "https://wallstreetcn.com/livenews/3103215",
           "source": "华尔街见闻-快讯",
@@ -323,17 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
-        },
-        {
-          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
-          "url": "https://www.zhihu.com/question/2037926535315677917",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
         },
         {
           "title": "OpenAI回应TanStack供应链攻击：未发现用户数据泄露",
@@ -369,6 +395,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "黄仁勋谈中国AI发展",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
           "url": "https://flash.jin10.com/detail/20260514041348939800",
           "source": "金十数据",
@@ -400,13 +437,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "黄仁勋：AI已为中国带来新的机遇",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E5%B7%B2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%B8%A6%E6%9D%A5%E6%96%B0%E7%9A%84%E6%9C%BA%E9%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "科技巨头力撑标普、纳指新高，英伟达新高，中概股指跑赢大盘，美长债三连跌",
+          "url": "https://wallstreetcn.com/articles/3772167",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 21时24分]"
+        },
         {
           "title": "【每日收评】创业板指涨2.63%，科技赛道持续爆发，绿电板块领涨",
           "url": "https://www.cls.cn/detail/2370165",
@@ -417,17 +477,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 05时15分]"
-        },
-        {
-          "title": "科技巨头力撑标普、纳指新高，英伟达新高，中概股指跑赢大盘，美长债三连跌",
-          "url": "https://wallstreetcn.com/articles/3772167",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 18时04分]"
         },
         {
           "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
@@ -453,6 +502,18 @@
           "time_info": "[01时54分 ~ 05时15分]"
         },
         {
+          "title": "美记者在北京体验中国科技",
+          "url": "https://www.douyin.com/hot/2498543",
+          "source": "抖音",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 21时24分]"
+        },
+        {
           "title": "马斯克360度转圈拍摄人民大会堂",
           "url": "https://www.douyin.com/hot/2498502",
           "source": "抖音",
@@ -464,6 +525,17 @@
           "time_info": "[14时50分 ~ 14时51分]"
         },
         {
+          "title": "黄仁勋马斯克库克手势亮了",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E6%89%8B%E5%8A%BF%E4%BA%AE%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 21时24分]"
+        },
+        {
           "title": "马斯克360度转圈拍摄人民大会堂",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -473,6 +545,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时50分 ~ 14时51分]"
+        },
+        {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://www.toutiao.com/trending/7639626639860780553/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 21时24分]"
         },
         {
           "title": "马斯克库克黄仁勋等进入会谈现场",
@@ -495,17 +579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时50分 ~ 14时51分]"
-        },
-        {
-          "title": "美记者在北京体验中国科技",
-          "url": "https://www.douyin.com/hot/2498543",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
         },
         {
           "title": "A股CPO概念股延续涨势，可川科技3连板，共进股份一字涨停，罗博特科涨超10%，剑桥科技、鹏鼎控股、联特科技、工业富联等纷纷高开。",
@@ -552,6 +625,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "马斯克携幼子现身人民大会堂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%BA%E5%B9%BC%E5%AD%90%E7%8E%B0%E8%BA%AB%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "恒指高开1.7%，恒生科技指数涨3.23%",
           "url": "https://wallstreetcn.com/livenews/3103314",
           "source": "华尔街见闻-快讯",
@@ -563,26 +647,37 @@
           "time_info": "09时53分"
         },
         {
-          "title": "黄仁勋马斯克库克手势亮了",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E6%89%8B%E5%8A%BF%E4%BA%AE%E4%BA%86",
+          "title": "马斯克小儿子穿新中式现身大会堂",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%A9%BF%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%8E%B0%E8%BA%AB%E5%A4%A7%E4%BC%9A%E5%A0%82",
           "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "马斯克回复360度转圈拍人民大会堂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%A4%8D360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "21时24分"
         },
         {
-          "title": "马斯克360度转圈拍摄人民大会堂",
-          "url": "https://www.toutiao.com/trending/7639626639860780553/",
-          "source": "今日头条",
+          "title": "宇树圆了马斯克的机甲梦，马斯克点赞：很酷！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33173788",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "21时24分"
         },
         {
           "title": "数字货币市场冲高回落，比特币一度跌穿7.9万美元",
@@ -624,9 +719,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
+        },
+        {
+          "title": "马斯克：我对此次会晤感觉不错",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E5%AF%B9%E6%AD%A4%E6%AC%A1%E4%BC%9A%E6%99%A4%E6%84%9F%E8%A7%89%E4%B8%8D%E9%94%99",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "香港恒生指数5月14日（周四）开盘上涨448.22点，涨幅1.7%，报26836.66点；<br/>香港恒生科技指数5月14日（周四）开盘上涨164.71点，涨幅3.23%，报5258.56点；<br/>国企指数5月14日（周四）开盘上涨193.62点，涨幅2.18%，报9070.0点；<br/>红筹指数5月14日（周四）开盘上涨23.18点，涨幅0.5%，报4637.33点。",
@@ -668,7 +774,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -679,9 +785,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
+        },
+        {
+          "title": "马斯克谈会晤感受：感觉不错，应该会有好的成果",
+          "url": "https://wallstreetcn.com/livenews/3103710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
@@ -696,11 +813,12 @@
           "ranks": [
             6,
             16,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 18时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 21时24分]"
         },
         {
           "title": "弗洛伦蒂诺皇马发布会解读",
@@ -709,11 +827,12 @@
           "ranks": [
             13,
             14,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 18时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 21时24分]"
         },
         {
           "title": "抽象一哥!小马云首播爆火",
@@ -759,7 +878,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -805,11 +924,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时50分 ~ 18时04分]"
+          "appearance_count": 4,
+          "time_info": "[14时50分 ~ 21时24分]"
         },
         {
           "title": "联合国副秘书长在机场遭扣留，最新回应",
@@ -906,7 +1026,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -917,7 +1037,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         }
