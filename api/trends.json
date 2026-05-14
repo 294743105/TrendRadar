@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T14:51:01.665673+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-05-14T18:04:28.570301+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 18时04分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 18时04分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 18时04分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -65,11 +65,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 18时04分]"
         },
         {
           "title": "据The Information：苹果(AAPL.O)正在探索在App Store中接纳AI智能体的方式。",
@@ -142,6 +143,19 @@
           "time_info": "[01时54分 ~ 09时53分]"
         },
         {
+          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
+          "url": "https://www.zhihu.com/question/2037950969506428373",
+          "source": "知乎",
+          "ranks": [
+            8,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 18时04分]"
+        },
+        {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
           "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
           "source": "凤凰网",
@@ -153,28 +167,41 @@
           "time_info": "[01时54分 ~ 05时15分]"
         },
         {
-          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
-          "url": "https://www.zhihu.com/question/2037950969506428373",
-          "source": "知乎",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 14时51分]"
-        },
-        {
           "title": "保姆级Claude Code速成攻略",
           "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            18
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 18时04分]"
+        },
+        {
+          "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
+          "url": "https://www.cls.cn/detail/2370937",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时54分 ~ 09时53分]"
+          "time_info": "[14时50分 ~ 18时04分]"
+        },
+        {
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 18时04分]"
         },
         {
           "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
@@ -182,28 +209,6 @@
           "source": "财联社热门",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
-        },
-        {
-          "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
-          "url": "https://www.cls.cn/detail/2370937",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
-        },
-        {
-          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -260,7 +265,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -293,7 +298,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -315,9 +320,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
+          "url": "https://www.zhihu.com/question/2037926535315677917",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "OpenAI回应TanStack供应链攻击：未发现用户数据泄露",
@@ -326,7 +342,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -381,7 +397,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -389,7 +405,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "【每日收评】创业板指涨2.63%，科技赛道持续爆发，绿电板块领涨",
@@ -410,8 +426,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 18时04分]"
         },
         {
           "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
@@ -481,6 +497,17 @@
           "time_info": "[14时50分 ~ 14时51分]"
         },
         {
+          "title": "美记者在北京体验中国科技",
+          "url": "https://www.douyin.com/hot/2498543",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "A股CPO概念股延续涨势，可川科技3连板，共进股份一字涨停，罗博特科涨超10%，剑桥科技、鹏鼎控股、联特科技、工业富联等纷纷高开。",
           "url": "https://wallstreetcn.com/livenews/3103320",
           "source": "华尔街见闻-快讯",
@@ -536,6 +563,28 @@
           "time_info": "09时53分"
         },
         {
+          "title": "黄仁勋马斯克库克手势亮了",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E6%89%8B%E5%8A%BF%E4%BA%AE%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://www.toutiao.com/trending/7639626639860780553/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "数字货币市场冲高回落，比特币一度跌穿7.9万美元",
           "url": "https://wallstreetcn.com/livenews/3103155",
           "source": "华尔街见闻-快讯",
@@ -569,6 +618,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "南向资金今日大幅净卖出97.12亿元。港股通（沪）方面，阿里巴巴-W、小米集团-W分别获净卖出26.79亿港元、6.96亿港元；腾讯控股净买入额居首，金额为3.5亿港元；港股通（深）方面，阿里巴巴-W、中国移动分别获净卖出11.17亿港元、5.39亿港元；澜起科技净买入额居首，金额为0.98亿港元。",
+          "url": "https://flash.jin10.com/detail/20260514173104575800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "香港恒生指数5月14日（周四）开盘上涨448.22点，涨幅1.7%，报26836.66点；<br/>香港恒生科技指数5月14日（周四）开盘上涨164.71点，涨幅3.23%，报5258.56点；<br/>国企指数5月14日（周四）开盘上涨193.62点，涨幅2.18%，报9070.0点；<br/>红筹指数5月14日（周四）开盘上涨23.18点，涨幅0.5%，报4637.33点。",
           "url": "https://flash.jin10.com/detail/20260514092311854800",
           "source": "金十数据",
@@ -600,12 +660,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "港股收盘：恒生指数平收，恒生科技指数收跌0.35%。阿里巴巴涨近4%，百度涨超2%；华虹半导体跌超2%，中芯国际跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3103567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "官方慌神?洛手急聘游戏策划",
@@ -613,11 +695,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 18时04分]"
         },
         {
           "title": "弗洛伦蒂诺皇马发布会解读",
@@ -629,8 +712,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 18时04分]"
         },
         {
           "title": "抽象一哥!小马云首播爆火",
@@ -638,11 +721,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 18时04分]"
         },
         {
           "title": "如何看待宇树发布载人机甲",
@@ -667,6 +751,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "斯洛伐克外交部长：斯洛伐克谴责俄罗斯对乌克兰领土的最新空袭，包括靠近斯洛伐克边界的地区。",
+          "url": "https://flash.jin10.com/detail/20260514174631735800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "与英伟达不存在任何业务关系！330亿光纤概念股发布澄清公告|盘后公告集锦",
@@ -697,11 +792,24 @@
           "source": "知乎",
           "ranks": [
             7,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 18时04分]"
+        },
+        {
+          "title": "洛克王国世界S2赛季最新PV",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8CS2%E8%B5%9B%E5%AD%A3%E6%9C%80%E6%96%B0PV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
             12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时53分 ~ 14时51分]"
+          "time_info": "[14时50分 ~ 18时04分]"
         },
         {
           "title": "联合国副秘书长在机场遭扣留，最新回应",
@@ -709,17 +817,6 @@
           "source": "凤凰网",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 14时51分]"
-        },
-        {
-          "title": "洛克王国世界S2赛季最新PV",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8CS2%E8%B5%9B%E5%AD%A3%E6%9C%80%E6%96%B0PV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -801,6 +898,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "聚焦汽车安全、智慧监控等 一批消防领域国家标准发布",
+          "url": "https://wallstreetcn.com/livenews/3103578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "政务服务集成式自助终端管理服务规范发布",
+          "url": "https://wallstreetcn.com/livenews/3103572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         }
       ]
     },
