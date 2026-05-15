@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-05-16T01:20:55.687439+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-16T04:48:10.728497+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 6,
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "证监会主席吴清最新发声",
+          "url": "https://www.toutiao.com/trending/7640049707406442550/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时48分]"
+        },
+        {
+          "title": "证监会发布衍生品新规，严控杠杆投机，上市公司股票衍生品交易被全面收紧",
+          "url": "https://www.cls.cn/detail/2372825",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时48分]"
+        },
+        {
+          "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
+          "url": "https://www.zhihu.com/question/2037259013860087102",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时48分]"
+        },
+        {
+          "title": "ENEMY主创最新作品预告",
+          "url": "https://search.bilibili.com/all?keyword=ENEMY%E4%B8%BB%E5%88%9B%E6%9C%80%E6%96%B0%E4%BD%9C%E5%93%81%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时48分]"
+        },
+        {
+          "title": "ENEMY主创最新作品预告",
+          "url": "https://www.douyin.com/hot/2500244",
+          "source": "抖音",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时48分]"
+        },
+        {
+          "title": "证监会主席吴清最新发声",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%90%B4%E6%B8%85%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 04时48分]"
+        },
+        {
+          "title": "国行Switch成单机游戏机",
+          "url": "https://www.douyin.com/hot/2499780",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 04时48分]"
+        },
+        {
+          "title": "【涨价：飞天53%vol 1L贵州茅台酒由2989元/瓶调整为3119元/瓶】i茅台5月16日发布公告，自当天零时起，贵州茅台对部分贵州茅台酒产品自营体系零售价格进行调整。公告显示，调整的产品包括：53%vol 500ml 陈年贵州茅台酒（15）由4199元/瓶调整为4279元/瓶；53%vol 500ml 贵州茅台酒（精品）由2299元/瓶调整为2359元/瓶；53%vol 500ml 贵州茅台酒（丙午马年）珍享版由2499元/瓶调整为2699元/瓶；飞天53%vol 1L贵州茅台酒由2989元/瓶调整为3119元/瓶。",
+          "url": "https://wallstreetcn.com/livenews/3104562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "巴西国家石油公司（Petrobras）首席执行官Magda Chambriard：公司希望，到2030年，在桑托斯盆地（Santos basin）离岸Aram区块的一个尚未命名的最新发现处建设两口生产井。",
+          "url": "https://wallstreetcn.com/livenews/3104607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "Deepseek不语 只是一味跟团",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E4%B8%8D%E8%AF%AD%20%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%B7%9F%E5%9B%A2&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 04时48分]"
+        },
         {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
@@ -15,8 +135,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时48分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时48分]"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
@@ -26,8 +158,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时48分]"
+        },
+        {
+          "title": "本周，标普累涨约0.3%，道指持平，纳指累涨约0.1%，半导体指数跌1%，科技股七巨头指数累涨1.2%，存储芯片指数累跌3%，AI赢家指数跌0.4%、软件先驱指数跌0.4%。 周五当天，标普500指数初步收跌1.2%，原材料板块跌2.7%，公用事业板块跌2.3%，可选消费板块跌1.9%，科技板块跌1.5%，能源板块涨2.1%。 纳斯达克100指数初步收跌1.5%，成分股中，Arm控股初步收跌7.8%，美光跌6.6%，英特尔跌6.2%，AMD跌5.6%，阿斯麦ADR跌5%，Strategy跌4.8%，特斯拉跌4.7%，Adobe则涨4.4%，汤森路透涨4.8%，Zscaler涨5%，Workday涨5.3%，德康医疗涨6.5%。 英伟达初步收跌超4.4%，波音跌3.8%，卡特彼勒跌3.5%，领跌道指成分股，雪佛龙、思科、微软、Salesforce至少涨超2%。 半导体指数跌4%，生物科技指数跌2.7%，银行指数跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3104611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "04时48分"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
@@ -35,17 +178,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
-          "url": "https://www.zhihu.com/question/2035685308566610183",
-          "source": "知乎",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -76,81 +208,31 @@
       ]
     },
     {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
       "match_count": 6,
       "titles": [
         {
-          "title": "【涨价：飞天53%vol 1L贵州茅台酒由2989元/瓶调整为3119元/瓶】i茅台5月16日发布公告，自当天零时起，贵州茅台对部分贵州茅台酒产品自营体系零售价格进行调整。公告显示，调整的产品包括：53%vol 500ml 陈年贵州茅台酒（15）由4199元/瓶调整为4279元/瓶；53%vol 500ml 贵州茅台酒（精品）由2299元/瓶调整为2359元/瓶；53%vol 500ml 贵州茅台酒（丙午马年）珍享版由2499元/瓶调整为2699元/瓶；飞天53%vol 1L贵州茅台酒由2989元/瓶调整为3119元/瓶。",
-          "url": "https://wallstreetcn.com/livenews/3104562",
+          "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
+          "url": "https://wallstreetcn.com/livenews/3104627",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "04时48分"
         },
         {
-          "title": "证监会发布衍生品新规，严控杠杆投机，上市公司股票衍生品交易被全面收紧",
-          "url": "https://www.cls.cn/detail/2372825",
-          "source": "财联社热门",
+          "title": "周五（5月15日），美股行业ETF几乎全线溃败，半导体ETF收跌3.80%，生物科技指数ETF、全球航空业ETF、全球科技股指数ETF、公用事业ETF至多跌2.63%，科技行业ETF、银行业ETF等至多跌1.81%，能源业ETF则收涨2.36%。 2026年迄今，半导体ETF维持54.48%的累计涨幅，能源业ETF累涨33.81%，全球科技股指数ETF累涨25.79%，全球航空业ETF则累跌8.94%。",
+          "url": "https://wallstreetcn.com/livenews/3104626",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "04时48分"
         },
-        {
-          "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
-          "url": "https://www.zhihu.com/question/2037259013860087102",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "ENEMY主创最新作品预告",
-          "url": "https://search.bilibili.com/all?keyword=ENEMY%E4%B8%BB%E5%88%9B%E6%9C%80%E6%96%B0%E4%BD%9C%E5%93%81%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "ENEMY主创最新作品预告",
-          "url": "https://www.douyin.com/hot/2500244",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "证监会主席吴清最新发声",
-          "url": "https://www.toutiao.com/trending/7640049707406442550/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 1,
-      "titles": [
         {
           "title": "数字货币市场周五走低，比特币在美股开盘时加速下跌",
           "url": "https://wallstreetcn.com/livenews/3104567",
@@ -161,6 +243,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "标普500指数的11个板块几乎全线溃败，原材料板块收跌2.74%，公用事业板块跌2.4%，可选消费板块跌1.84%，信息技术/科技板块跌1.61%，能源板块则收涨2.32%。",
+          "url": "https://wallstreetcn.com/livenews/3104620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美股收盘：三大指数收低 科技股显著回调",
+          "url": "https://flash.jin10.com/detail/20260516040037420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.29%，报25733点。 恒生科技指数主连夜盘收跌0.59%，报4895点。",
+          "url": "https://wallstreetcn.com/livenews/3104595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     }
