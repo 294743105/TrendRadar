@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-18T09:57:34.580168+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-05-18T15:53:48.030973+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
+          "url": "https://wallstreetcn.com/articles/3772456",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 15时53分]"
+        },
         {
           "title": "从“被太空踢一脚”到“感觉良好”",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E2%80%9C%E8%A2%AB%E5%A4%AA%E7%A9%BA%E8%B8%A2%E4%B8%80%E8%84%9A%E2%80%9D%E5%88%B0%E2%80%9C%E6%84%9F%E8%A7%89%E8%89%AF%E5%A5%BD%E2%80%9D",
@@ -19,24 +30,13 @@
           "time_info": "[00时43分 ~ 09时57分]"
         },
         {
-          "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
-          "url": "https://wallstreetcn.com/articles/3772456",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 09时57分]"
-        },
-        {
           "title": "A股铜缆高速连接板块走强，华工科技涨超8%，汇绿生态涨超7%，中天科技、鼎通科技等跟涨。",
           "url": "https://flash.jin10.com/detail/20260518093817426800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -63,6 +63,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
+          "url": "https://www.cls.cn/detail/2373552",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 15时53分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -106,7 +118,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -117,7 +129,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -128,18 +140,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
-          "url": "https://www.cls.cn/detail/2373552",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -150,9 +151,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "我国“逐日工程”研究取得重大进展，为太空筑起“无线充电站”奠定基础",
+          "url": "https://wallstreetcn.com/livenews/3105202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "马斯克：希望SpaceX的首次公开募股（IPO）尽快启动。 希望到今年年底前，让无人驾驶汽车在美国广泛普及。 认为Neuralink技术能帮助部分失明者重见光明。 计划今年进行首例针对失明症的Neuralink植入手术。",
+          "url": "https://wallstreetcn.com/livenews/3105193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "瑞典首相：居住在瑞典的8万多名印度裔群体对我们的经济和社会做出了重大贡献，尤为值得一提的是，他们为瑞典各地的高科技领域带来了亟需的专业技能。",
@@ -172,7 +195,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -183,7 +206,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -210,15 +233,37 @@
           "time_info": "00时43分"
         },
         {
+          "title": "马斯克：年内计划完成首例针对失明病症的脑机接口植入手术。",
+          "url": "https://flash.jin10.com/detail/20260518152506927800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "恒生科技指数盘初快速下挫跌逾1%。",
           "url": "https://flash.jin10.com/detail/20260518093026266800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "马斯克：一旦全面高效可重复使用的火箭技术开发成功，我们就能承载太空文明了。",
+          "url": "https://flash.jin10.com/detail/20260518152441405800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "长鑫科技：预计上半年营收1100至1200亿元，净利润500亿元至570亿元",
@@ -245,8 +290,168 @@
       ]
     },
     {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
+          "url": "https://www.zhihu.com/question/667429963",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "直击柳州5.2级地震最新进展",
+          "url": "https://www.toutiao.com/trending/7640526683279330858/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "【外交部：中方愿同美方一道全面准确落实好两国元首达成的重要共识】5月18日，外交部发言人郭嘉昆主持例行记者会。总台央视记者提问，白宫发布了特朗普总统访华的事实清单，介绍此访的有关成果，请问中方对此有何评论？郭嘉昆表示，特朗普总统访华期间，两国元首同意将“中美建设性战略稳定关系”作为两国关系的新定位，就下阶段高层交往和外交、经贸等各领域对话合作作出规划，就共同关心的国际和地区热点问题深入交换意见。中方愿同美方一道全面准确落实好两国元首达成的重要共识。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3105215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "吧友支招,60岁老哥求推游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354373&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%94%AF%E6%8B%9B%2C60%E5%B2%81%E8%80%81%E5%93%A5%E6%B1%82%E6%8E%A8%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "【外交部介绍普京访华相关安排】外交部发言人郭嘉昆主持例行记者会。有记者问，中方前天发布了普京总统将对中国进行国事访问的消息，能否具体介绍此访有关安排？中方对普京总统此访有什么期待？中方如何评价当前中俄关系？ 郭嘉昆表示，这将是普京总统第二十五次到访中国。访问期间，两国元首将就双边关系、各领域合作以及共同关心的国际地区问题交换意见。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3105210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "柳州市柳南区地震事件新闻发布会",
+          "url": "https://www.toutiao.com/trending/7640995838713675819/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "“4所高校，5个杰青”涉嫌严重学术造假？“耿同学”最新发声",
+          "url": "https://news.ifeng.com/c/8tCx8CND7cU",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 15时53分]"
+        },
+        {
+          "title": "“娜塔莎”娃娃爆火 被批暴力擦边",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A8%9C%E5%A1%94%E8%8E%8E%E2%80%9D%E5%A8%83%E5%A8%83%E7%88%86%E7%81%AB+%E8%A2%AB%E6%89%B9%E6%9A%B4%E5%8A%9B%E6%93%A6%E8%BE%B9",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "如何看待耿同学最新一期视频：一名疑似上海大学的中间人想要耿同学淡化其打假上海大学某院长之事？",
+          "url": "https://www.zhihu.com/question/2038908254177206975",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "以色列对黎巴嫩南部索莫尔、鲁明、库赛巴、胡纳和纳库拉地区发布强制撤离令。",
+          "url": "https://flash.jin10.com/detail/20260517234402403800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "据俄罗斯卫星网：俄罗斯天然气工业股份公司发布消息称，欧洲地下储气设施显示5月12日至14日的气体注入记录，创历史最低水平。",
+          "url": "https://flash.jin10.com/detail/20260518034421847800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "直击柳州5.2级地震最新进展",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%9F%B3%E5%B7%9E5.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "流动性需求仍在拖累金价 沃什当选美联储主席引发“抢椅子游戏”！| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260518152238830800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "商务部等6部门发布关于加力优化离境退税措施扩大入境消费的通知",
+          "url": "https://wallstreetcn.com/livenews/3104979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -257,8 +462,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 09时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 15时53分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -270,6 +475,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
+          "url": "https://www.cls.cn/detail/2373700",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -336,9 +552,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
+          "url": "https://www.zhihu.com/question/2037993874522629479",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -350,100 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
-          "url": "https://www.zhihu.com/question/667429963",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
-          "title": "直击柳州5.2级地震最新进展",
-          "url": "https://www.toutiao.com/trending/7640526683279330858/",
-          "source": "今日头条",
+          "title": "AI已经卷到灯了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%B7%B2%E7%BB%8F%E5%8D%B7%E5%88%B0%E7%81%AF%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "如何看待耿同学最新一期视频：一名疑似上海大学的中间人想要耿同学淡化其打假上海大学某院长之事？",
-          "url": "https://www.zhihu.com/question/2038908254177206975",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "“4所高校，5个杰青”涉嫌严重学术造假？“耿同学”最新发声",
-          "url": "https://news.ifeng.com/c/8tCx8CND7cU",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "以色列对黎巴嫩南部索莫尔、鲁明、库赛巴、胡纳和纳库拉地区发布强制撤离令。",
-          "url": "https://flash.jin10.com/detail/20260517234402403800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "据俄罗斯卫星网：俄罗斯天然气工业股份公司发布消息称，欧洲地下储气设施显示5月12日至14日的气体注入记录，创历史最低水平。",
-          "url": "https://flash.jin10.com/detail/20260518034421847800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "直击柳州5.2级地震最新进展",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%9F%B3%E5%B7%9E5.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "商务部等6部门发布关于加力优化离境退税措施扩大入境消费的通知",
-          "url": "https://wallstreetcn.com/livenews/3104979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "15时53分"
         }
       ]
     },
@@ -458,22 +613,24 @@
           "ranks": [
             19,
             23,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 09时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 15时53分]"
         },
         {
           "title": "雷霆马刺西决前瞻",
           "url": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E8%A5%BF%E5%86%B3%E5%89%8D%E7%9E%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 15时53分]"
         },
         {
           "title": "亚历山大再次当选NBA常规赛MVP",
@@ -482,7 +639,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
