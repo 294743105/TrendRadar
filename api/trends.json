@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-05-21T18:57:35.820262+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-05-21T22:34:07.764982+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 22时34分]"
+        },
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 22时34分]"
+        },
         {
           "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
           "url": "https://www.cls.cn/detail/2377636",
@@ -20,26 +44,41 @@
           "time_info": "[15时40分 ~ 18时57分]"
         },
         {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
+          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
+          "url": "https://www.cls.cn/detail/2378186",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时57分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
-          "source": "知乎",
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            18,
+            11,
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 22时34分]"
+        },
+        {
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 22时34分]"
         },
         {
           "title": "日股创两周来最大单日涨幅，AI与芯片股成主力",
@@ -53,27 +92,53 @@
           "time_info": "15时40分"
         },
         {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 22时34分]"
+        },
+        {
           "title": "逆转裁判但网文AI对决",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4%E4%BD%86%E7%BD%91%E6%96%87AI%E5%AF%B9%E5%86%B3",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
         {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            12
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 22时34分]"
+        },
+        {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 22时34分]"
         },
         {
           "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
@@ -85,6 +150,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时08分 ~ 09时55分]"
+        },
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 22时34分]"
         },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
@@ -99,62 +175,26 @@
           "time_info": "[02时08分 ~ 05时29分]"
         },
         {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
+          "title": "为什么搞AI的赚不过卖存储的",
+          "url": "https://www.toutiao.com/trending/7642241770243231286/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 18时57分]"
-        },
-        {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时57分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
-          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
-          "source": "澎湃新闻",
+          "title": "这波AI短片的梦幻联动给到夯",
+          "url": "https://www.douyin.com/hot/2507151",
+          "source": "抖音",
           "ranks": [
-            19,
-            13
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时57分]"
-        },
-        {
-          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
-          "url": "https://www.cls.cn/detail/2377977",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
@@ -185,7 +225,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -229,7 +269,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -243,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "年薪10万美元的行政助理渐被AI取代 咨询与会计巨头纷纷裁减支持岗位",
+          "url": "https://wallstreetcn.com/livenews/3107467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "SpaceX：截至3月31日的过去12个月，Grok和X的集成AI平台活跃用户超过13亿。",
@@ -289,6 +340,28 @@
           "time_info": "05时29分"
         },
         {
+          "title": "广药集团与华为签署AI制药生态合作协议",
+          "url": "https://flash.jin10.com/detail/20260521214213547800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "报道：Anthropic正洽谈使用微软的AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3107453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "谷歌在AI模型推出更有用的广告。",
           "url": "https://wallstreetcn.com/livenews/3106842",
           "source": "华尔街见闻-快讯",
@@ -303,7 +376,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "长鑫科技IPO将于5月27日上会，拟募资295亿元",
@@ -327,6 +400,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 15时40分]"
+        },
+        {
+          "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
+          "url": "https://www.cls.cn/detail/2378280",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "韩股涨到“熔断”！三星最后关头避免罢工 韩国科技股集体暴涨",
@@ -368,11 +452,35 @@
           "source": "知乎",
           "ranks": [
             17,
-            6
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 22时34分]"
+        },
+        {
+          "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
+          "url": "https://news.ifeng.com/c/8tJGUCBF9B8",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 22时34分]"
+        },
+        {
+          "title": "投了长鑫科技 合肥赚了一个合肥",
+          "url": "https://www.toutiao.com/trending/7641330476858359827/",
+          "source": "今日头条",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时57分]"
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "马斯克离全球首位万亿美元富翁又近了一步",
@@ -386,6 +494,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "美股存储股普涨，希捷科技涨超5%，西部数据涨超3%，美光科技、闪迪涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3107475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "SpaceX：预计太空探索工作将催化可能重塑地球产业的变革性突破，并催生在月球、火星及其他星球上价值数万亿美元的新市场。",
           "url": "https://flash.jin10.com/detail/20260521045626812800",
           "source": "金十数据",
@@ -395,17 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        },
-        {
-          "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
-          "url": "https://news.ifeng.com/c/8tJGUCBF9B8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
         },
         {
           "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
@@ -425,7 +533,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -450,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数下跌，日常消费品ETF、全球航空业ETF跌近2%，生物科技指数ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3107466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "SpaceX：马斯克可以选举、罢免或填补B类董事的空缺。",
@@ -513,7 +632,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -576,8 +695,23 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "勇哥餐饮最新力作:人宠烤肉店",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354429&amp;topic_name=%E5%8B%87%E5%93%A5%E9%A4%90%E9%A5%AE%E6%9C%80%E6%96%B0%E5%8A%9B%E4%BD%9C%3A%E4%BA%BA%E5%AE%A0%E7%83%A4%E8%82%89%E5%BA%97",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            20,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时08分 ~ 22时34分]"
+        },
         {
           "title": "ASML最新光刻机开始量产芯片",
           "url": "https://www.toutiao.com/trending/7641964325422239278/",
@@ -603,18 +737,15 @@
           "time_info": "[02时08分 ~ 09时55分]"
         },
         {
-          "title": "勇哥餐饮最新力作:人宠烤肉店",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354429&amp;topic_name=%E5%8B%87%E5%93%A5%E9%A4%90%E9%A5%AE%E6%9C%80%E6%96%B0%E5%8A%9B%E4%BD%9C%3A%E4%BA%BA%E5%AE%A0%E7%83%A4%E8%82%89%E5%BA%97",
-          "source": "贴吧",
+          "title": "如何看待 5 月 21 日小米发布的 YU7 GT 及 YU7 标准版，有哪些亮点与不足？",
+          "url": "https://www.zhihu.com/question/2040887832860964160",
+          "source": "知乎",
           "ranks": [
-            8,
-            10,
-            20,
-            22
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时08分 ~ 18时57分]"
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "澳元/美元短线快速走低，3年期国债收益率下行13个基点，此前澳大利亚发布4月就业报告。",
@@ -662,6 +793,29 @@
           "time_info": "[02时08分 ~ 05时29分]"
         },
         {
+          "title": "关于影片《监狱来的妈妈》，上海市电影局最新通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205205",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 22时34分]"
+        },
+        {
+          "title": "小米YU7 GT正式发布 售价38.99万元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3YU7+GT%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83+%E5%94%AE%E4%BB%B738.99%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
           "title": "为什么游戏的 BOSS，都在圆形的大场子里等你？他们就不能在楼梯间、在悬崖边、在公共厕所里跟你打？",
           "url": "https://www.zhihu.com/question/2040333578471465457",
           "source": "知乎",
@@ -672,6 +826,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 15时40分]"
+        },
+        {
+          "title": "小米新品发布会",
+          "url": "https://www.douyin.com/hot/2507460",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
+          "title": "小米17 Max发布 售价4799元起",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B317+Max%E5%8F%91%E5%B8%83+%E5%94%AE%E4%BB%B74799%E5%85%83%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
+          "title": "小米发布首款耳夹式耳机 首销价799元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA+%E9%A6%96%E9%94%80%E4%BB%B7799%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
+          "title": "雷军亮相小米新品发布会现场",
+          "url": "https://www.toutiao.com/trending/7641640348032860202/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "周杰伦七月的极光MV发布",
@@ -691,7 +889,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -702,7 +900,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -718,24 +916,13 @@
           "time_info": "15时40分"
         },
         {
-          "title": "关于影片《监狱来的妈妈》，上海市电影局最新通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205205",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
           "title": "蔚来发布2026一季度财报，整车毛利率18.8%，连续四个季度环比增长，创四年来新高",
           "url": "https://wallstreetcn.com/livenews/3107362",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -746,7 +933,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
