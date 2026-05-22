@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T15:35:00.086533+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-05-22T18:40:38.932995+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -39,6 +39,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 05时21分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            17,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 18时40分]"
         },
         {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
@@ -89,17 +103,15 @@
           "time_info": "[01时50分 ~ 09时58分]"
         },
         {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
+          "title": "朱自清散文AI率超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            17,
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 15时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "Kepler依托Claude构建金融服务业可验证AI架构",
@@ -111,6 +123,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 18时40分]"
         },
         {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
@@ -140,11 +164,12 @@
           "url": "https://www.zhihu.com/question/2040809853350831319",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 15时35分]"
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 18时40分]"
         },
         {
           "title": "不小心把DeepSeek叫成豆包",
@@ -170,17 +195,6 @@
           "time_info": "[15时34分 ~ 15时35分]"
         },
         {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 15时35分]"
-        },
-        {
           "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
           "url": "https://wallstreetcn.com/articles/3772862",
           "source": "华尔街见闻",
@@ -190,6 +204,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "朱自清《荷塘月色》AI率超60%",
+          "url": "https://www.toutiao.com/trending/7642580693547057188/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "恒生指数公司发布季检结果：恒生科技指数纳入MINIMAX-W、智谱",
+          "url": "https://wallstreetcn.com/livenews/3107977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "AMD首席执行官苏姿丰：没有人真正从AI训练中赚钱。但我们现在所看到的是，人工智能不仅进入了推理阶段，还能真正做一些智能的事情。",
@@ -212,6 +248,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
+          "url": "https://www.zhihu.com/question/2040949624073152492",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "恒生指数公司发布季检结果：MINIMAX-W、智谱获纳入恒生科技指数",
+          "url": "https://flash.jin10.com/detail/20260522180325445800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
@@ -281,11 +339,12 @@
           "ranks": [
             10,
             16,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时50分 ~ 09时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 18时40分]"
         },
         {
           "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
@@ -469,7 +528,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "关于影片《监狱来的妈妈》，上海市电影局最新通报",
@@ -501,11 +560,23 @@
           "url": "https://www.cls.cn/detail/2378704",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 15时35分]"
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 18时40分]"
+        },
+        {
+          "title": "上交所发布本周沪市市场运行情况",
+          "url": "https://flash.jin10.com/detail/20260522181724588800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "2025年全国1%人口抽样调查主要数据公报发布",
@@ -514,7 +585,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -527,8 +598,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 15时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 18时40分]"
         },
         {
           "title": "小米新品发布会",
@@ -543,6 +614,29 @@
           "time_info": "[01时50分 ~ 09时58分]"
         },
         {
+          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 18时40分]"
+        },
+        {
+          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
+          "url": "https://www.zhihu.com/question/2040888661999350787",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 18时40分]"
+        },
+        {
           "title": "小米YU7 GT正式发布 售价38.99万元",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3YU7+GT%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83+%E5%94%AE%E4%BB%B738.99%E4%B8%87%E5%85%83",
           "source": "百度热搜",
@@ -554,33 +648,11 @@
           "time_info": "[01时50分 ~ 05时21分]"
         },
         {
-          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 15时35分]"
-        },
-        {
           "title": "OBS 吸附类外挂的成熟是否代表 fps 游戏的反作弊已死?",
           "url": "https://www.zhihu.com/question/2039929172743742267",
           "source": "知乎",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 15时35分]"
-        },
-        {
-          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
-          "url": "https://www.zhihu.com/question/2040888661999350787",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -638,7 +710,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
