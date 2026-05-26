@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T15:34:50.337764+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-05-26T22:31:44.409348+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”",
@@ -60,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -190,6 +190,50 @@
           "time_info": "09时53分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨近4%，半导体ETF、全球科技股指数ETF涨超2%，能源业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3109506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "小马智行ADR一度上涨17%，创9月19日以来最大盘中涨幅。 美光科技股价飙升12%，创5月8日以来盘中最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3109505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "张雪机车5冠背后的中国黑科技",
+          "url": "https://www.toutiao.com/trending/7644146387327651371/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.95%，费城半导体指数涨超3%，美光科技涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3109503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "华天科技5月26日在互动平台表示，公司与基板企业建立稳定供应关系，目前尚无自建或者收购基板企业的规划。",
           "url": "https://flash.jin10.com/detail/20260526092721255800",
           "source": "金十数据",
@@ -199,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "晨丰科技：拟投资13.15亿元建设两个储能电站项目",
+          "url": "https://flash.jin10.com/detail/20260526214137913800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "A股算力板块低开，恒为科技逼近跌停，中贝通信、红板科技、深圳华强等个股纷纷低开。",
@@ -215,7 +270,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "华为发布“韬定律”，有哪些技术方向值得关注？",
@@ -241,13 +296,25 @@
           "time_info": "[01时28分 ~ 09时53分]"
         },
         {
+          "title": "法拉利发布首款纯电动车 Luce，起售价 435 万元，如何看待这一定价？这辆车有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2042548059943298621",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 22时31分]"
+        },
+        {
           "title": "存储散热新技术！SK海力士发布iHBM冷却方案 可降低热阻超30%",
           "url": "https://www.cls.cn/detail/2381297",
           "source": "财联社热门",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -258,7 +325,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -280,18 +347,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "法拉利发布首款纯电动车 Luce，起售价 435 万元，如何看待这一定价？这辆车有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2042548059943298621",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -307,13 +363,35 @@
           "time_info": "09时53分"
         },
         {
+          "title": "小米发布2026年一季度业绩",
+          "url": "https://www.douyin.com/hot/2513176",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "特朗普周三将在戴维营召开内阁会议。特朗普与内阁将讨论经济及外交政策最新进展。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3109517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "欧股法拉利下跌7.7%，此前发布电动汽车车型。",
           "url": "https://wallstreetcn.com/livenews/3109270",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -346,7 +424,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -360,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "费城半导体指数创历史新高，最新上涨3.8%。",
+          "url": "https://flash.jin10.com/detail/20260526214209902800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "我国发布伦理指引规范人体基因数据研究",
@@ -420,7 +509,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -429,11 +518,12 @@
           "ranks": [
             3,
             4,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 22时31分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -446,6 +536,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 04时57分]"
+        },
+        {
+          "title": "A股尾盘拉升，沪指险翻红，有色金属拉升，芯片半导体集体下挫，恒科指涨超1%，智谱再创新高",
+          "url": "https://wallstreetcn.com/articles/3773113",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 22时31分]"
         },
         {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
@@ -470,18 +583,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 04时57分]"
-        },
-        {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 15时34分]"
         },
         {
           "title": "如何看待 DeepSeek 连续多次降价？",
@@ -513,9 +614,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
+          "url": "https://www.cls.cn/detail/2381769",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
@@ -524,9 +636,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
+          "url": "https://www.cls.cn/detail/2382007",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "如何看待媒体报道《毕业论文将检测 AIGC 率，检测标准科学吗》， 该文章在知网检测 AIGC 率接近 30%？",
+          "url": "https://www.zhihu.com/question/2041915902292217866",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
@@ -551,6 +685,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "美国公司用AI辅助设计高超音速发动机",
+          "url": "https://www.toutiao.com/trending/7644167363171978778/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "AI改编庾澄庆歌手舞台",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E7%BC%96%E5%BA%BE%E6%BE%84%E5%BA%86%E6%AD%8C%E6%89%8B%E8%88%9E%E5%8F%B0",
           "source": "bilibili 热搜",
@@ -568,7 +713,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
