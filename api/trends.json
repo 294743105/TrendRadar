@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-27T05:25:55.046358+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-05-27T10:02:00.093086+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "SpaceX上市消息带飞太空板块 火箭与卫星概念股集体暴涨",
+          "url": "https://www.cls.cn/detail/2382242",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "港股商业航天股活跃，亚太卫星(01045.HK)、蓝思科技(06613.HK)涨超4%，航天控股(00031.HK)、钧达股份(02865.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260527095946778800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
         {
           "title": "马斯克：无人机制造商错误地利用了星链。",
           "url": "https://wallstreetcn.com/livenews/3109602",
@@ -19,15 +52,37 @@
           "time_info": "02时17分"
         },
         {
+          "title": "半导体产业链震荡拉升，华天科技3连板，华微电子、太极实业、苏州固锝涨停，扬杰科技、北京君正、国科微、恒烁股份、天岳先进均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3109758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "知情人士：马斯克曾与同事讨论将SpaceX与特斯拉合并",
           "url": "https://flash.jin10.com/detail/20260527052148578800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "港股芯片股震荡走高，新股云英谷科技(03310.HK)涨超78%，英诺赛科(02577.HK)涨超11%，芯智控股(02166.HK)涨超7%，兆易创新(03986.HK)涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260527095736175800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "据CNBC：埃隆·马斯克与同事讨论了将特斯拉与SpaceX合并的可能性。",
@@ -36,7 +91,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -53,13 +108,46 @@
           "time_info": "[02时16分 ~ 05时25分]"
         },
         {
+          "title": "长鑫科技今日上会 市值冲击2万亿元",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%BB%8A%E6%97%A5%E4%B8%8A%E4%BC%9A+%E5%B8%82%E5%80%BC%E5%86%B2%E5%87%BB2%E4%B8%87%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "美光科技市值突破1万亿美元",
+          "url": "https://www.douyin.com/hot/2513509",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "美光科技大涨超19%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E5%A4%A7%E6%B6%A8%E8%B6%8519%25%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "周二（5月26日），美股行业ETF涨跌各异，半导体ETF收涨4.48%，全球航空业ETF涨4.17%，全球科技股指数ETF、科技行业ETF、银行业ETF也至少涨1.10%，能源业ETF则收跌2.76%。",
           "url": "https://wallstreetcn.com/livenews/3109647",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -70,7 +158,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -86,13 +174,24 @@
           "time_info": "02时17分"
         },
         {
+          "title": "A股黄金概念盘初走弱，合百集团跌超9%，四川黄金、晓程科技跌超5%，西部黄金跌超4%，恒邦股份、湖南白银跟跌。",
+          "url": "https://flash.jin10.com/detail/20260527095113595800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美光科技市值突破1万亿美元，瑞银预计其股价未来一年可能翻番",
           "url": "https://wallstreetcn.com/livenews/3109640",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -103,9 +202,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "A股第三代半导体板块持续拉升，华微电子、苏州固锝、华天科技涨停，帝尔激光涨超17%，扬杰科技、创达新材涨超12%。",
+          "url": "https://flash.jin10.com/detail/20260527094959136800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "标普500指数收涨45.65点，涨幅0.61%，报7519.12点，突破5月14日所创收盘历史最高位7501.24点。 道琼斯工业平均指数收跌118.02点，跌幅0.23%，报50461.68点。 纳斯达克综合指数（纳指）收涨312.21点，涨幅1.19%，报26656.181点，突破5月14日所创收盘历史最高位26635.22点。 纳斯达克100指数收涨519.677点，涨幅1.76%，报30001.319点，突破5月14日所创收盘历史最高位29580.30点，成分股美光科技飙涨19.29%。",
@@ -114,9 +224,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "A股短剧游戏板块震荡拉升，掌阅科技涨停，中文在线、捷成股份涨超9%，百纳千成涨超8%，横店影视涨近7%。",
+          "url": "https://flash.jin10.com/detail/20260527094738241800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "恒指高开0.04%，报25608.78点；恒生科技指数涨0.66%。联想集团涨5%，网易、华虹半导体涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3109726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "马斯克：路透关于SpaceX星链（Starlink）的报道“不实”。 五角大楼不恰当地利用了星链民用系统。",
@@ -130,22 +262,57 @@
           "time_info": "02时17分"
         },
         {
+          "title": "A股固态电池板块震荡走高，红星发展涨停，扬杰科技涨超13%，科威尔、冰轮环境涨超9%，三祥新材、德龙激光涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260527094106121800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.07%，报25508点。 恒生科技指数主连夜盘收跌0.12%，报4936点。",
           "url": "https://wallstreetcn.com/livenews/3109621",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "恒生科技指数涨超1%，恒生指数涨0.07%。",
+          "url": "https://flash.jin10.com/detail/20260527093648984800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "A股尾盘拉升，沪指险翻红，有色金属拉升，芯片半导体集体下挫，恒科指涨超1%，智谱再创新高",
+          "url": "https://wallstreetcn.com/articles/3773113",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 10时02分]"
+        },
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
           "url": "https://www.cls.cn/detail/2382007",
@@ -169,16 +336,38 @@
           "time_info": "[02时16分 ~ 05时25分]"
         },
         {
-          "title": "A股尾盘拉升，沪指险翻红，有色金属拉升，芯片半导体集体下挫，恒科指涨超1%，智谱再创新高",
-          "url": "https://wallstreetcn.com/articles/3773113",
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
           "source": "华尔街见闻",
           "ranks": [
-            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
+          "url": "https://www.cls.cn/detail/2382213",
+          "source": "财联社热门",
+          "ranks": [
+            12,
             5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时25分]"
+          "time_info": "[05时25分 ~ 10时02分]"
+        },
+        {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 10时02分]"
         },
         {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
@@ -193,15 +382,15 @@
           "time_info": "[02时16分 ~ 05时25分]"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
+          "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
+          "url": "https://www.zhihu.com/question/2041893027963262258",
+          "source": "知乎",
           "ranks": [
-            14
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时25分]"
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "一人之下被指用AI作画",
@@ -210,18 +399,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
-          "url": "https://www.cls.cn/detail/2382213",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -232,7 +410,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -254,16 +432,38 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "智谱等在上海成立人工智能产业创投合伙企业",
+          "url": "https://wallstreetcn.com/livenews/3109717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗议会议长卡利巴夫的顾问表示，如果美国“玩文字游戏”，德黑兰将退出谈判。",
           "url": "https://flash.jin10.com/detail/20260527013502637800",
@@ -287,6 +487,18 @@
           "time_info": "02时17分"
         },
         {
+          "title": "小米发布2026年一季度业绩",
+          "url": "https://www.douyin.com/hot/2513176",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 10时02分]"
+        },
+        {
           "title": "第一大股东近期累计减持633万股 3700亿存储芯片龙头发布异动公告|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2382076",
           "source": "财联社热门",
@@ -298,22 +510,44 @@
           "time_info": "[02时16分 ~ 05时25分]"
         },
         {
-          "title": "小米发布2026年一季度业绩",
-          "url": "https://www.douyin.com/hot/2513176",
-          "source": "抖音",
+          "title": "美国公布最新月球基地建设路线图",
+          "url": "https://www.cls.cn/detail/2382272",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 05时25分]"
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "马刺雷霆天王山之战",
+          "url": "https://www.douyin.com/hot/2513570",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "马刺雷霆天王山之战",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%88%BA%E9%9B%B7%E9%9C%86%E5%A4%A9%E7%8E%8B%E5%B1%B1%E4%B9%8B%E6%88%98&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
         {
           "title": "马刺大胜雷霆攻防细节复盘",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%88%BA%E5%A4%A7%E8%83%9C%E9%9B%B7%E9%9C%86%E6%94%BB%E9%98%B2%E7%BB%86%E8%8A%82%E5%A4%8D%E7%9B%98",
