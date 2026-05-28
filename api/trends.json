@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T09:32:47.502259+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-05-28T15:46:28.301046+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 09时32分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 15时46分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -37,7 +38,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -47,11 +48,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 09时32分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 15时46分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -59,11 +61,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 09时32分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 15时46分]"
         },
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -75,6 +78,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 05时32分]"
+        },
+        {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 15时46分]"
         },
         {
           "title": "微软被曝将弃用 Claude，是因成本过高还是已掌握核心技术？",
@@ -89,6 +104,17 @@
           "time_info": "[02时24分 ~ 05时32分]"
         },
         {
+          "title": "高市早苗卷入“AI抹黑门”，但真正致命的是另两件事",
+          "url": "https://news.ifeng.com/c/8tUlGJACbtc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "美联储理事库克：可能需要长时间地观察AI对经济的结构性改变。",
           "url": "https://wallstreetcn.com/livenews/3110262",
           "source": "华尔街见闻-快讯",
@@ -100,26 +126,81 @@
           "time_info": "05时32分"
         },
         {
+          "title": "AI改写黑袍纠察队结局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
           "url": "https://www.cls.cn/detail/2383460",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
         {
-          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
-          "source": "澎湃新闻",
+          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
+          "url": "https://www.cls.cn/detail/2383558",
+          "source": "财联社热门",
           "ranks": [
-            14
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时32分"
+          "time_info": "15时46分"
+        },
+        {
+          "title": "\"DeepSeek崩了\"冲上热搜，当前已恢复",
+          "url": "https://wallstreetcn.com/livenews/3110550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "Meta开启“付费时代”：AI聊天机器人、社交流量全装进订阅服务",
+          "url": "https://www.cls.cn/detail/2383502",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "当AI愈发相信“光”的力量！美股光通信龙头大幅上调营收预期",
+          "url": "https://www.cls.cn/detail/2383585",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
@@ -139,9 +220,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "Salesforce发布温和指引，加剧市场对AI颠覆软件业的担忧",
@@ -158,7 +250,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
@@ -183,6 +275,17 @@
           "time_info": "[02时24分 ~ 05时32分]"
         },
         {
+          "title": "最亮的星致敬中国科技工作者",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
           "url": "https://flash.jin10.com/detail/20260528020659080800",
           "source": "金十数据",
@@ -194,17 +297,29 @@
           "time_info": "02时24分"
         },
         {
+          "title": "国家中医药管理局答财联社：协调相关部门持续加大国家科技计划对海洋中药的支持力度",
+          "url": "https://www.cls.cn/detail/2383827",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "长鑫科技，科创板IPO过会！",
           "url": "https://wallstreetcn.com/articles/3773236",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 09时32分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 15时46分]"
         },
         {
           "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
@@ -295,6 +410,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "评论员：科技板块抱团或向内部扩散",
+          "url": "https://www.toutiao.com/trending/7644796372088000041/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "美国国家航空航天局（NASA）：SpaceX可能是我们最伟大的商业太空探索公司。",
           "url": "https://wallstreetcn.com/livenews/3110186",
           "source": "华尔街见闻-快讯",
@@ -309,7 +435,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "经纬度：“韬定律”发布，中国企业要做规则定义者",
@@ -364,7 +490,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -378,12 +504,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
+          "url": "https://wallstreetcn.com/livenews/3110529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何评价马刺雷霆天王山之战",
@@ -398,13 +535,24 @@
           "time_info": "[02时24分 ~ 05时32分]"
         },
         {
+          "title": "NBA入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=NBA%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "雷霆马刺天王山之战全复盘",
           "url": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E9%9C%86%E9%A9%AC%E5%88%BA%E5%A4%A9%E7%8E%8B%E5%B1%B1%E4%B9%8B%E6%88%98%E5%85%A8%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         }
