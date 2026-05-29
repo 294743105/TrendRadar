@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T09:55:05.810811+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-29T15:44:59.988079+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 32,
+      "match_count": 42,
       "titles": [
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
@@ -27,19 +27,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 15时44分]"
         },
         {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
           "url": "https://www.cls.cn/detail/2384768",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 15时44分]"
+        },
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.cls.cn/detail/2384760",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 15时44分]"
         },
         {
           "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
@@ -115,6 +139,18 @@
           "time_info": "[02时31分 ~ 09时55分]"
         },
         {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 15时44分]"
+        },
+        {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
           "url": "https://wallstreetcn.com/articles/3773387",
           "source": "华尔街见闻",
@@ -122,19 +158,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 15时44分]"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
+          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
+          "url": "https://www.cls.cn/detail/2384804",
+          "source": "财联社热门",
           "ranks": [
-            8
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 15时44分]"
+        },
+        {
+          "title": "92岁老艺术家手搓AI写了封情书",
+          "url": "https://www.douyin.com/hot/2515594",
+          "source": "抖音",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 15时44分]"
         },
         {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
@@ -159,17 +208,6 @@
           "time_info": "[02时31分 ~ 05时52分]"
         },
         {
-          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.cls.cn/detail/2384760",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
           "url": "https://www.cls.cn/detail/2384259",
           "source": "财联社热门",
@@ -179,28 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 05时52分]"
-        },
-        {
-          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
-          "url": "https://www.cls.cn/detail/2384804",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
-          "title": "92岁老艺术家手搓AI写了封情书",
-          "url": "https://www.douyin.com/hot/2515594",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
@@ -254,9 +270,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "港股大模型股下挫，智谱跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3111219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
+          "url": "https://www.cls.cn/detail/2384829",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "亚马逊云服务(AWS)宣布在Amazon Bedrock和AWS上的Claude平台上推出Anthropic最先进的Opus模型Claude Opus 4.8。",
@@ -281,13 +330,46 @@
           "time_info": "02时31分"
         },
         {
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "港股智谱短线下挫，涨幅收窄至1.5%，此前一度涨超23%。",
+          "url": "https://wallstreetcn.com/livenews/3111215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
+          "url": "https://www.zhihu.com/question/2043503794751791638",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "LG电子股价大涨24%，Hyundai Mobis股价大涨11%。",
           "url": "https://wallstreetcn.com/livenews/3111020",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -358,15 +440,48 @@
           "time_info": "05时52分"
         },
         {
+          "title": "国产AI芯片三国杀",
+          "url": "https://www.toutiao.com/trending/7645160711315787327/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "港股开盘，恒指开涨0.62%，科指开涨1.05%。创想三维(03388.HK)上市首日开涨80%。联想集团(00992.HK)涨近15%，联想控股(03396.HK)涨超10%，消息面上，联想集团跟天津签署了建设新一代AI基础设施的协议。",
           "url": "https://flash.jin10.com/detail/20260529092127968800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：获取OpenAI的新模型将有助于日本加强网络安全的努力。",
+          "url": "https://flash.jin10.com/detail/20260529153517277800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "港股智谱涨超22%，市值超8800亿港元，本月累涨超125%。",
+          "url": "https://wallstreetcn.com/livenews/3111189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
@@ -408,23 +523,23 @@
           "time_info": "02时31分"
         },
         {
-          "title": "大基金出手！沪硅产业、德邦科技等遭减持",
-          "url": "https://www.cls.cn/detail/2384545",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 09时55分]"
-        },
-        {
           "title": "最亮的星致敬中国科技工作者",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
           "source": "bilibili 热搜",
           "ranks": [
             11,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 15时44分]"
+        },
+        {
+          "title": "大基金出手！沪硅产业、德邦科技等遭减持",
+          "url": "https://www.cls.cn/detail/2384545",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -459,7 +574,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -470,7 +585,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -525,7 +640,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -544,7 +659,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
@@ -582,6 +697,18 @@
           "time_info": "[02时31分 ~ 09时55分]"
         },
         {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 15时44分]"
+        },
+        {
           "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
           "url": "https://www.cls.cn/detail/2384059",
           "source": "财联社热门",
@@ -591,17 +718,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 05时52分]"
-        },
-        {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "为什么游戏里的商人总能毫发无损地出现在最终 BOSS 门口，玩家却对这种离谱的设定习以为常？",
@@ -627,6 +743,17 @@
           "time_info": "[09时54分 ~ 09时55分]"
         },
         {
+          "title": "5月“科学”流言榜发布",
+          "url": "https://www.toutiao.com/trending/7645136790484172810/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "如何看待蔚来 「突袭式」 发布新款，成都提车 9 天变旧款，车主称遭遇「背刺」？你怎么看？",
           "url": "https://www.zhihu.com/question/2043264595666658269",
           "source": "知乎",
@@ -644,7 +771,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -655,9 +782,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "比亚迪发布超级智能体“迪迪虾”",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BD%93%E2%80%9C%E8%BF%AA%E8%BF%AA%E8%99%BE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "我国牵头修订的金融业通用报文方案国际标准正式发布",
+          "url": "https://wallstreetcn.com/livenews/3111191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "诺基亚发布首款微聊手机 售价199元",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E5%BE%AE%E8%81%8A%E6%89%8B%E6%9C%BA+%E5%94%AE%E4%BB%B7199%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "芒果TV发布2026综艺片单",
@@ -674,8 +834,19 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "马刺胜雷霆 西决拖入抢七",
+          "url": "https://www.douyin.com/hot/2516030",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
         {
           "title": "NBA历年季后赛经典回顾",
           "url": "https://search.bilibili.com/all?keyword=NBA%E5%8E%86%E5%B9%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E7%BB%8F%E5%85%B8%E5%9B%9E%E9%A1%BE",
@@ -766,6 +937,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "25-26 赛季西部决赛 G6 马刺 118-91 雷霆，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2043498716909371490",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "西决抢七大战文班SGA终极对决",
+          "url": "https://www.toutiao.com/trending/7645205067330489862/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     }
