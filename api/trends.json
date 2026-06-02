@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T06:29:35.157118+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-06-02T10:12:46.842568+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
@@ -30,15 +30,48 @@
           "time_info": "[01时10分 ~ 06时29分]"
         },
         {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "英伟达发布个人AI超算",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BAAI%E8%B6%85%E7%AE%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
           "url": "https://wallstreetcn.com/livenews/3112665",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
@@ -49,19 +82,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
@@ -69,11 +103,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
         },
         {
           "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
@@ -82,9 +117,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
+          "url": "https://wallstreetcn.com/articles/3773569",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
+          "url": "https://www.zhihu.com/question/2044719064757397392",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
@@ -93,7 +150,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -126,7 +183,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -137,7 +194,203 @@
           "ranks": [
             21
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "英伟达首席执行官黄仁勋：英伟达将扩大其面向PC产品线的AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/3112715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
+          "url": "https://www.cls.cn/detail/2387242",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 06时29分]"
+        },
+        {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "A股CPO概念股盘初拉升，意华股份涨停，联特科技涨超10%，凯格精机、智立方、新易盛、东山精密涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3112744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "宇树科技科创板IPO过会，从受理到上会用时仅73天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33280884",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
+        },
+        {
+          "title": "日企黑科技:塑料变石油",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
+        },
+        {
+          "title": "中美资本市场各迎超级科技公司IPO窗口，都在担心虹吸效应？最新调查",
+          "url": "https://www.cls.cn/detail/2387034",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
+          "url": "https://wallstreetcn.com/articles/3773584",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "A股CPO概念异动拉升，意华股份涨停，联特科技、凯格精机涨超10%，新易盛、东山精密、光库科技等涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260602094553863800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "恒指低开0.01%，报25395.07点；恒生科技指数涨0.62%。金蝶国际、比亚迪股份涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3112730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "美国蓝色起源的新格伦火箭静态点火测试发生巨大爆炸，事故影响有多大？贝索斯还有机会追赶马斯克吗？",
+          "url": "https://www.zhihu.com/question/2043640705634001462",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "A股元件板块短线拉升，中京电子涨停，骏亚科技、威尔高、生益电子、风华高科、麦捷科技等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260602094056286800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "标普：上调戴尔科技评级至BBB+，前景展望稳定。",
+          "url": "https://wallstreetcn.com/livenews/3112650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "A股机器人概念盘初走强，中大力德涨停，五洋自控、绿的谐波涨超10%，昊志机电、三协电机、长盛轴承、模塑科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260602093443699800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "长鑫科技",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3112640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -145,8 +398,19 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "一批儿童相关国家标准正式发布",
+          "url": "https://www.toutiao.com/trending/7646364913358651418/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
+        },
         {
           "title": "深圳网约车市场饱和，官方发布风险提示，从经济学角度如何理解？有没有跑网约车的朋友聊聊现在还能赚到钱吗？",
           "url": "https://www.zhihu.com/question/2044417529158882132",
@@ -159,26 +423,27 @@
           "time_info": "[01时10分 ~ 06时29分]"
         },
         {
-          "title": "一批儿童相关国家标准正式发布",
-          "url": "https://www.toutiao.com/trending/7646364913358651418/",
-          "source": "今日头条",
+          "title": "伊朗向以色列发出最新警告",
+          "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "你看好英伟达即将发布的首款笔记本电脑 N1X 吗？",
           "url": "https://www.zhihu.com/question/2044358497320562857",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
         },
         {
           "title": "险资私募调仓最新路线：鸿鹄系基金减持陕西煤业，新进贵州茅台、五粮液等，太保致远持仓扩至9股",
@@ -188,8 +453,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
         },
         {
           "title": "三角洲S10赛季最新前瞻",
@@ -197,11 +462,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
         },
         {
           "title": "年内涨幅800%，挂钩海力士杠杆产品爆火，如何看这波狂热追捧？",
@@ -227,26 +493,49 @@
           "time_info": "[01时10分 ~ 06时29分]"
         },
         {
+          "title": "华强买瓜但PS1游戏版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E4%BD%86PS1%E6%B8%B8%E6%88%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 10时12分]"
+        },
+        {
+          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
+          "url": "https://www.cls.cn/detail/2387782",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "超微电脑美股盘后涨7%，追随惠与（HPE）业绩报告发布之后的表现。",
           "url": "https://wallstreetcn.com/livenews/3112653",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "华强买瓜但PS1游戏版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E4%BD%86PS1%E6%B8%B8%E6%88%8F%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "机构谈华为发布新机",
+          "url": "https://www.toutiao.com/trending/7646330453175926830/",
+          "source": "今日头条",
           "ranks": [
-            24
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "10时12分"
         },
         {
           "title": "美股光通信概念股Credo股价盘后跌超15%。 最新业绩报告显示，该公司第四财季营收4.37亿美元，季环比增长7.4%、同比增长157.0%，分析师预期4.325亿美元。 第四财季调整后每股收益（EPS）为1.16美元，分析师预期1美元。 预计第一财季营收4.65亿-4.75亿美元，分析师预期4.605亿美元。 预计第一财季调整后毛利润率67%-69%，分析师预期65%。",
@@ -255,7 +544,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -266,91 +555,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
-          "url": "https://www.cls.cn/detail/2387242",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
-        },
-        {
-          "title": "宇树科技科创板IPO过会，从受理到上会用时仅73天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33280884",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
-        },
-        {
-          "title": "日企黑科技:塑料变石油",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
-        },
-        {
-          "title": "中美资本市场各迎超级科技公司IPO窗口，都在担心虹吸效应？最新调查",
-          "url": "https://www.cls.cn/detail/2387034",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "美国蓝色起源的新格伦火箭静态点火测试发生巨大爆炸，事故影响有多大？贝索斯还有机会追赶马斯克吗？",
-          "url": "https://www.zhihu.com/question/2043640705634001462",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "标普：上调戴尔科技评级至BBB+，前景展望稳定。",
-          "url": "https://wallstreetcn.com/livenews/3112650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3112640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -365,11 +570,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354740&amp;topic_name=%E9%80%86%E5%A4%A9%E4%BA%8C%E6%B8%B8%E5%A8%98%E5%8C%96NBA%E7%90%83%E6%98%9F",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 10时12分]"
         }
       ]
     }
