@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T03:35:27.883707+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-03T06:16:05.376717+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
         },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -48,8 +48,54 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "学者：AI是当前全球股市最清晰主线",
+          "url": "https://www.toutiao.com/trending/7646756159151410742/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
           "title": "微软：微软人工智能首次推出推理大模型MAI-THINKING-1",
@@ -173,28 +219,6 @@
           "time_info": "03时35分"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "我用AI做了祖国人胜利结局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
           "title": "微软首席执行官（CEO）在 Build 大会上宣布，将把 Windows AI API 拓展至更多个人电脑（PC）。 推出Surface RTX Spark Dev Box，这是一款紧凑型开发者PC。",
           "url": "https://wallstreetcn.com/livenews/3113244",
           "source": "华尔街见闻-快讯",
@@ -204,30 +228,182 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
+          "url": "https://wallstreetcn.com/livenews/3113281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
+          "url": "https://wallstreetcn.com/livenews/3113280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "教育部发布2026年高考预警信息",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "索尼SOP游戏发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BCSOP%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "G胖力挺黄油,Steam高层挨怼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354801&amp;topic_name=G%E8%83%96%E5%8A%9B%E6%8C%BA%E9%BB%84%E6%B2%B9%2CSteam%E9%AB%98%E5%B1%82%E6%8C%A8%E6%80%BC",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "“南天门计划”最新进展曝光",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E5%A4%A9%E9%97%A8%E8%AE%A1%E5%88%92%E2%80%9D%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "给阿嬷的情书爆火的背后",
+          "url": "https://www.douyin.com/hot/2520695",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "网易游戏 26 年新游计划降至 4 款，10+ 在研项目被砍，是失血太多或谨慎观望？如何评价现今网易游戏的策略？",
+          "url": "https://www.zhihu.com/question/2042983322993913991",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "张杰工作室发布声明",
+          "url": "https://www.douyin.com/hot/2521059",
+          "source": "抖音",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "截至2025年底自产MLCC业务收入占主营业务收入比例约17%！4天3板超级电容概念股发布异动公告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2388739",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "受台风“蔷薇”影响，日本和歌山县发布最高等级5级警戒。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3113303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "受台风“蔷薇”影响 日本和歌山县发布最高等级5级警戒。",
+          "url": "https://flash.jin10.com/detail/20260603052810784800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "游戏驿站一季度净销售8.353亿美元，同比增长14%。",
+          "url": "https://wallstreetcn.com/livenews/3113286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "恒生指数主连夜盘收跌0.37%，报25853点。 恒生科技指数主连夜盘收跌0.96%，报5150点。",
-          "url": "https://wallstreetcn.com/livenews/3113250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
         {
           "title": "再升科技：相关主体编造虚假内容、误导资本市场，必要时将报案",
           "url": "https://www.cls.cn/detail/2388734",
           "source": "财联社热门",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.37%，报25853点。 恒生科技指数主连夜盘收跌0.96%，报5150点。",
+          "url": "https://wallstreetcn.com/livenews/3113250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -241,8 +417,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
         },
         {
           "title": "【焦点复盘】沪指深V反转收复60日线，硬科技方向重获资金抱团，稀贵金属概念异军突起",
@@ -252,19 +428,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
         },
         {
           "title": "6月科技产业有哪些催化？",
@@ -272,6 +437,39 @@
           "source": "财联社热门",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "日企黑科技:塑料变石油",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
+        },
+        {
+          "title": "迈威尔科技美股盘后涨9.4%。",
+          "url": "https://wallstreetcn.com/livenews/3113304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -289,87 +487,15 @@
           "time_info": "03时35分"
         },
         {
-          "title": "日企黑科技:塑料变石油",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
-          "source": "贴吧",
+          "title": "周二（6月2日），美股信息科技指数涨2.38%，报461.64点，连续多日创收盘历史新高，5月19日以来累计上涨23.35%。 标普500信息技术/科技板块涨0.92%，报7262.03点，也连续三天创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3113279",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "教育部发布2026年高考预警信息",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "G胖力挺黄油,Steam高层挨怼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354801&amp;topic_name=G%E8%83%96%E5%8A%9B%E6%8C%BA%E9%BB%84%E6%B2%B9%2CSteam%E9%AB%98%E5%B1%82%E6%8C%A8%E6%80%BC",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "“南天门计划”最新进展曝光",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E5%A4%A9%E9%97%A8%E8%AE%A1%E5%88%92%E2%80%9D%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "给阿嬷的情书爆火的背后",
-          "url": "https://www.douyin.com/hot/2520695",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "张杰工作室发布声明",
-          "url": "https://www.douyin.com/hot/2521059",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "网易游戏 26 年新游计划降至 4 款，10+ 在研项目被砍，是失血太多或谨慎观望？如何评价现今网易游戏的策略？",
-          "url": "https://www.zhihu.com/question/2042983322993913991",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "time_info": "06时16分"
         }
       ]
     },
@@ -382,11 +508,12 @@
           "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
         },
         {
           "title": "杨瀚森锐评NBA菜鸟赛季",
@@ -396,8 +523,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 06时16分]"
         }
       ]
     }
