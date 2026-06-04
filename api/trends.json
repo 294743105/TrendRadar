@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-05T02:06:56.906485+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-05T05:21:56.497763+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
-          "source": "知乎",
+          "title": "Anthropic呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/livenews/3114639",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "05时21分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：随着时间的推移，AI可以压低通胀。 还没有看到AI大规模提升生产力。",
@@ -30,15 +30,16 @@
           "time_info": "02时06分"
         },
         {
-          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773812",
-          "source": "华尔街见闻",
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
           "ranks": [
-            6
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
@@ -48,8 +49,90 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
+          "url": "https://wallstreetcn.com/articles/3773793",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
+          "url": "https://www.zhihu.com/question/13090511317",
+          "source": "知乎",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "好怕现实中也有人长AI这样",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
         },
         {
           "title": "巴克莱调查：固定收益投资者中使用AI最多的是对冲基金",
@@ -57,17 +140,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,59 +157,15 @@
           "time_info": "02时06分"
         },
         {
-          "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
-          "url": "https://wallstreetcn.com/articles/3773793",
+          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
+          "url": "https://wallstreetcn.com/articles/3773858",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
-          "url": "https://www.zhihu.com/question/13090511317",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "男子AI写歌月收入十几万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "好怕现实中也有人长AI这样",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "05时21分"
         },
         {
           "title": "高盛CEO：AI或将遏制银行工程师队伍的剧烈扩张",
@@ -160,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "猎鹰崛起AI先导片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -179,59 +218,64 @@
           "time_info": "02时06分"
         },
         {
-          "title": "豆包发布声明，称日常功能保持免费，将针对专业人群需求推出专业版，如何评价这一商业策略？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2045590595519735634",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
           "title": "火星海洋迎来最新证据",
           "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%98%9F%E6%B5%B7%E6%B4%8B%E8%BF%8E%E6%9D%A5%E6%9C%80%E6%96%B0%E8%AF%81%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "豆包发布声明，称日常功能保持免费，将针对专业人群需求推出专业版，如何评价这一商业策略？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045590595519735634",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
         },
         {
           "title": "小米寻天汽车最新谍照曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AF%BB%E5%A4%A9%E6%B1%BD%E8%BD%A6%E6%9C%80%E6%96%B0%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "高盛发布世界杯预测报告，模型显示西班牙以 26% 概率成为最大夺冠热门，用经济模型预测足球比赛可靠吗？",
-          "url": "https://www.zhihu.com/question/2045154297281827321",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
         },
         {
           "title": "新疆小羊玩偶爆火出圈",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%B0%8F%E7%BE%8A%E7%8E%A9%E5%81%B6%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88",
           "source": "百度热搜",
           "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "高盛发布世界杯预测报告，模型显示西班牙以 26% 概率成为最大夺冠热门，用经济模型预测足球比赛可靠吗？",
+          "url": "https://www.zhihu.com/question/2045154297281827321",
+          "source": "知乎",
+          "ranks": [
+            13,
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
         },
         {
           "title": "美国财长贝森特：我并不提前掌握明天将要发布的非农就业数据。",
@@ -259,19 +303,8 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "长鑫科技创始人朱一明自掏 7.68 亿股做员工激励，公司上市后预期市值 2-3 万亿，如何看待此举？",
-          "url": "https://www.zhihu.com/question/2041193028925264772",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
           "url": "https://wallstreetcn.com/articles/3773813",
@@ -280,19 +313,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        },
+        {
+          "title": "长鑫科技创始人朱一明自掏 7.68 亿股做员工激励，公司上市后预期市值 2-3 万亿，如何看待此举？",
+          "url": "https://www.zhihu.com/question/2041193028925264772",
+          "source": "知乎",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
         },
         {
           "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
           "url": "https://www.cls.cn/detail/2391088",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
         },
         {
           "title": "数字货币市场普跌，比特币在亚太早盘下探6.1万美元",
@@ -306,6 +352,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "周四（6月4日），彭博电动汽车价格回报指数跌2.40%，报3937.65点，亚太早盘显著下挫，北京时间10:00以来平缓地持续下挫。 成分股中，文远知行、小马智行跌超8%，中创新航科技集团H股收跌6.09%跌幅第三大，在上涨的五只成分股里，浙江零跑科技H股收涨0.15%，日本电产株式会社东京股价收涨0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3114621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
           "url": "https://wallstreetcn.com/livenews/3114548",
           "source": "华尔街见闻-快讯",
@@ -315,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.60%，报6597.34点。 热门中概股里，世纪互联初步收跌5.8%，亚朵、小鹏、汽车之家、理想至少跌约2.8%，腾讯涨0.1%，网易涨0.2%，小米涨0.6%，拼多多涨0.6%，百度涨1.6%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌1.28%，德银嘉实沪深300指数ETF（ASHR）收跌0.53%，XtrackersHarvest中证50（ASHS）收涨0.07%。 中概互联网指数ETF（KWEB）收跌0.33%，中国科技指数ETF（CQQQ）收涨1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3114611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -327,11 +395,29 @@
           "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E4%BA%94%E4%BD%B3%E7%90%83",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "微软 谷歌 openai 英伟达 苹果 字节跳动",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传苹果即将发布首款折叠屏手机，确认液态金属铰链方案，新技术有哪些优劣？会给国产折叠屏带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/2045477936329744808",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "05时21分"
         }
       ]
     }
