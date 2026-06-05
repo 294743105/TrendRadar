@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T01:45:30.508882+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-06T05:15:50.541630+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -15,19 +15,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
         },
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "05时15分"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
@@ -41,6 +53,17 @@
           "time_info": "01时45分"
         },
         {
+          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
+          "url": "https://flash.jin10.com/detail/20260606041131799800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
@@ -48,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
@@ -59,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
         },
         {
           "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
@@ -70,8 +93,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
+        },
+        {
+          "title": "马上评｜该对AI外呼骚扰电话出手了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -81,36 +116,48 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "马上评｜该对AI外呼骚扰电话出手了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
           "url": "https://www.cls.cn/detail/2391915",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
+        },
+        {
+          "title": "本周，标普500指数累跌约2.4%，道指累跌约0.1%，纳指累跌约4.3%，半导体指数累跌约3.2%，银行指数涨2.8%，科技股七巨头指数跌4.5%，存储芯片指数跌5.4%，软件先驱指数跌5%、AI赢家指数跌5.2%，超大规模云服务商指数跌5.9%，加密货币指数跌13.5%。 非农就业报告发布当天，标普500指数初步收跌2.5%，科技板块跌5.3%，可选消费、原材料板块跌超2%，日用消费品板块涨1.7%。 纳斯达克100指数初步收跌4.6%，成分股中，美满科技跌14.6%，Arm控股跌12.7%，美光、英特尔、闪迪、AMD、西部数据、高通跌超10%，特许通讯等涨超2%。 思科跌6.2%，英伟达跌5.7%，领跌道指成分股，可口可乐涨3.7%，宝洁涨4%。 费城半导体指数收跌10%。",
+          "url": "https://wallstreetcn.com/livenews/3115323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "05时15分"
+        },
+        {
+          "title": "英国央行行长贝利：英国的关键问题在于经济增长。 过去的经验表明，创新影响到（经济）增长需要时间。 可能不是所有行业都有足够的资源来利用人工智能（AI）。",
+          "url": "https://wallstreetcn.com/livenews/3115311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "闻泰科技起诉安世荷兰已立案",
@@ -120,8 +167,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，信息技术/科技板块收跌5.78%，可选消费、原材料板块至多跌2.43%，能源板块跌1.77%，电信板块跌1.65%，工业板块跌1.1%，日用消费品板块则涨1.64%。",
+          "url": "https://wallstreetcn.com/livenews/3115330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "05时15分"
+        },
+        {
+          "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3115328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "纳斯达克100指数下跌3%，半导体指数重挫7%，资金持续撤出科技股",
@@ -144,12 +213,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌3.56%，报6362.57点，6月2日曾涨穿50日均线（该技术指标目前报6837.06点），本周累计下跌3.40%。 热门中概股里，阿特斯太阳能跌11.7%，百度跌9.7%，小马智行跌9.2%，华住涨0.6%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌7.65%，本周回撤7.07%； 中国科技指数ETF（CQQQ）收跌5.05%，本周累跌3.20%； 德银嘉实沪深300指数ETF（ASHR）收跌3.06%，本周回撤3.03%； 中概互联网指数ETF（KWEB）收跌2.76%，本周累跌1.31%，此前三周先后跌4.67%、4.47%、0.67%； XtrackersHarvest中证50（ASHS）收跌2.29%，本周跌2.70%（延续上周回撤1.75%的表现）。",
+          "url": "https://wallstreetcn.com/livenews/3115325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌1.38%，报24544点。 恒生科技指数主连夜盘收跌2.15%，报4775点。",
+          "url": "https://wallstreetcn.com/livenews/3115306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恐慌指数VIX跃升至超两周高点；最新上涨3.32点，报18.72。",
@@ -167,28 +258,52 @@
           "url": "https://www.douyin.com/hot/2524066",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
+        },
+        {
+          "title": "美国政府发布关于铝、钢铁、铜关税的指引。标普目前跌2.6%，道指跌711点、跌幅1.38%，纳指跌4%，半导体指数重挫9.1%。",
+          "url": "https://wallstreetcn.com/livenews/3115314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "05时15分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "21世纪NBA总决赛百大炸裂瞬间",
           "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时15分]"
+        },
+        {
+          "title": "60元网购了雷霆果型榴莲",
+          "url": "https://s.weibo.com/weibo?q=60%E5%85%83%E7%BD%91%E8%B4%AD%E4%BA%86%E9%9B%B7%E9%9C%86%E6%9E%9C%E5%9E%8B%E6%A6%B4%E8%8E%B2&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "05时15分"
         }
       ]
     }
