@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T15:59:15.394650+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-06-05T19:20:04.907975+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 19时20分]"
+        },
+        {
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时20分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -28,6 +40,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 15时59分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 19时20分]"
         },
         {
           "title": "深圳国产芯片成功训练万亿级AI大模型",
@@ -63,17 +87,6 @@
           "time_info": "02时06分"
         },
         {
-          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
-          "url": "https://www.cls.cn/detail/2391554",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
           "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
           "url": "https://wallstreetcn.com/articles/3773858",
           "source": "华尔街见闻",
@@ -99,18 +112,6 @@
           "time_info": "[02时06分 ~ 05时21分]"
         },
         {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 15时59分]"
-        },
-        {
           "title": "AI脸泛滥成灾,建模师没活了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
           "source": "贴吧",
@@ -121,6 +122,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时06分 ~ 15时59分]"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时20分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时20分]"
+        },
+        {
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时20分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
@@ -158,6 +194,50 @@
           "time_info": "[02时06分 ~ 05时21分]"
         },
         {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
           "url": "https://wallstreetcn.com/articles/3773793",
           "source": "华尔街见闻",
@@ -180,6 +260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 15时59分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
@@ -217,13 +308,35 @@
           "time_info": "[02时06分 ~ 05时21分]"
         },
         {
+          "title": "中方回应外媒称AI进入“中美争霸”",
+          "url": "https://www.toutiao.com/trending/7647807825645699126/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
+          "title": "中方回应外媒称AI进入中美争霸",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%96%E5%AA%92%E7%A7%B0AI%E8%BF%9B%E5%85%A5%E4%B8%AD%E7%BE%8E%E4%BA%89%E9%9C%B8%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "鸿海：第二季度是ICT产业的传统淡季，但AI机架预计将保持持续增长趋势。 第二季度业绩远超此前预期的显著增长。 仍需密切关注全球政治和经济局势的波动影响。",
           "url": "https://wallstreetcn.com/livenews/3114905",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -234,18 +347,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -272,35 +374,13 @@
           "time_info": "02时06分"
         },
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
-          "url": "https://www.cls.cn/detail/2391541",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
           "title": "博通业绩引爆AI过热警报 今晚非农数据或成削减AI押注新借口",
           "url": "https://flash.jin10.com/detail/20260605153020575800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -352,8 +432,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "闻泰科技起诉安世荷兰已立案",
+          "url": "https://news.ifeng.com/c/8ti5dci0HPR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
           "url": "https://wallstreetcn.com/articles/3773813",
@@ -411,6 +502,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "盛洋科技：拟定增募资不超过10.76亿元用于卫星互联网通信终端智能制造项目",
+          "url": "https://flash.jin10.com/detail/20260605191246395800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
           "url": "https://www.cls.cn/detail/2391088",
           "source": "财联社热门",
@@ -424,6 +526,39 @@
           "time_info": "[02时06分 ~ 10时02分]"
         },
         {
+          "title": "闻泰科技起诉安世荷兰",
+          "url": "https://www.toutiao.com/trending/7646762485294301220/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
+          "title": "追觅科技创始人俞浩内部发文",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E7%A7%91%E6%8A%80%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%BF%9E%E6%B5%A9%E5%86%85%E9%83%A8%E5%8F%91%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
+          "title": "评论员：科技股还能抱团多久",
+          "url": "https://www.toutiao.com/trending/7647809795990228521/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "恒指低开0.27%，报25186.12点；恒生科技指数跌0.31%。联想集团跌超4%，华虹半导体跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3114720",
           "source": "华尔街见闻-快讯",
@@ -433,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "高盛资产配置研究主管认为近期科技股下跌属于健康回调",
+          "url": "https://wallstreetcn.com/livenews/3115069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "A股光纤概念板块短线拉升，鼎通科技涨超13%，球冠电缆涨超12%，长光华芯、理工光科、长飞光纤、久之洋、亨通光电等跟涨。",
@@ -468,6 +614,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "高盛资产配置研究主管认为近期科技股下跌属于健康回调",
+          "url": "https://flash.jin10.com/detail/20260605190716026800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "周四（6月4日），彭博电动汽车价格回报指数跌2.40%，报3937.65点，亚太早盘显著下挫，北京时间10:00以来平缓地持续下挫。 成分股中，文远知行、小马智行跌超8%，中创新航科技集团H股收跌6.09%跌幅第三大，在上涨的五只成分股里，浙江零跑科技H股收涨0.15%，日本电产株式会社东京股价收涨0.17%。",
           "url": "https://wallstreetcn.com/livenews/3114621",
           "source": "华尔街见闻-快讯",
@@ -496,7 +653,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -526,7 +683,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "涉与乌克兰谈判，普京最新表态",
@@ -562,17 +719,6 @@
           "time_info": "02时06分"
         },
         {
-          "title": "教育部发布2026年高考十问十答",
-          "url": "https://www.douyin.com/hot/2524066",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
           "title": "火星海洋迎来最新证据",
           "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%98%9F%E6%B5%B7%E6%B4%8B%E8%BF%8E%E6%9D%A5%E6%9C%80%E6%96%B0%E8%AF%81%E6%8D%AE",
           "source": "bilibili 热搜",
@@ -583,6 +729,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 10时02分]"
+        },
+        {
+          "title": "教育部发布2026年高考十问十答",
+          "url": "https://www.douyin.com/hot/2524066",
+          "source": "抖音",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时20分]"
         },
         {
           "title": "新疆小羊玩偶爆火出圈",
@@ -635,6 +793,17 @@
           "time_info": "[02时06分 ~ 05时21分]"
         },
         {
+          "title": "医保个账这样跨省共济 国家医保局发布规程",
+          "url": "https://wallstreetcn.com/livenews/3115064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美国财长贝森特：我并不提前掌握明天将要发布的非农就业数据。",
           "url": "https://wallstreetcn.com/livenews/3114551",
           "source": "华尔街见闻-快讯",
@@ -674,6 +843,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "21世纪NBA总决赛百大炸裂瞬间",
+          "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时20分]"
+        },
+        {
           "title": "NBA总决赛G1五佳球",
           "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E4%BA%94%E4%BD%B3%E7%90%83",
           "source": "bilibili 热搜",
@@ -693,18 +874,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "21世纪NBA总决赛百大炸裂瞬间",
-          "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
