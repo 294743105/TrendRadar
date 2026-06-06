@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T05:15:50.541630+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-06-06T09:53:16.254465+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -31,13 +31,24 @@
           "time_info": "[01时45分 ~ 05时15分]"
         },
         {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
           "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -59,42 +70,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 05时15分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 05时15分]"
-        },
-        {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 05时15分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -102,18 +80,55 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 09时53分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 09时53分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 09时53分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 09时53分]"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -132,15 +147,92 @@
           "time_info": "[01时45分 ~ 05时15分]"
         },
         {
+          "title": "创业板大跌超3%，机器人午后爆发，芯片半导体集体下挫，恒科指跌近2%，AI大模型股急跌",
+          "url": "https://wallstreetcn.com/articles/3773923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
+          "url": "https://www.zhihu.com/question/2046178335382843425",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "本周，标普500指数累跌约2.4%，道指累跌约0.1%，纳指累跌约4.3%，半导体指数累跌约3.2%，银行指数涨2.8%，科技股七巨头指数跌4.5%，存储芯片指数跌5.4%，软件先驱指数跌5%、AI赢家指数跌5.2%，超大规模云服务商指数跌5.9%，加密货币指数跌13.5%。 非农就业报告发布当天，标普500指数初步收跌2.5%，科技板块跌5.3%，可选消费、原材料板块跌超2%，日用消费品板块涨1.7%。 纳斯达克100指数初步收跌4.6%，成分股中，美满科技跌14.6%，Arm控股跌12.7%，美光、英特尔、闪迪、AMD、西部数据、高通跌超10%，特许通讯等涨超2%。 思科跌6.2%，英伟达跌5.7%，领跌道指成分股，可口可乐涨3.7%，宝洁涨4%。 费城半导体指数收跌10%。",
           "url": "https://wallstreetcn.com/livenews/3115323",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
+          "url": "https://www.zhihu.com/question/2046240341729042945",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "印度高温背后的AI问题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%83%8C%E5%90%8E%E7%9A%84AI%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
+          "url": "https://wallstreetcn.com/livenews/3115385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "开麦丨AI在电话那头等你，接还是不接？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "周五（6月5日），美股AI软件先驱指数跌4.89%，报116.06点，本周累跌5.18%。 成分股中，甲骨文收跌9.59%，铿腾电子跌8.62%，MongoDB跌7.74%，新思科技跌5.99%，ServiceNOW跌5.79%，Elastic跌5.07%，Palantir跌4.35%，Datadog、HubSpot、Adobe、微软、ServiceNOW、Salesforce、C3.ai跌3.90%-1.42%，GitHub涨0.91%，是唯一收涨的成分股。",
+          "url": "https://wallstreetcn.com/livenews/3115391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "英国央行行长贝利：英国的关键问题在于经济增长。 过去的经验表明，创新影响到（经济）增长需要时间。 可能不是所有行业都有足够的资源来利用人工智能（AI）。",
@@ -149,7 +241,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         }
@@ -157,7 +249,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "闻泰科技起诉安世荷兰已立案",
@@ -171,13 +263,35 @@
           "time_info": "[01时45分 ~ 05时15分]"
         },
         {
+          "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
+          "url": "https://www.cls.cn/detail/2392464",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "股民还在追光，股东开始减持：硬科技大涨后高管集体套现",
+          "url": "https://wallstreetcn.com/articles/3773970",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "标普500指数的11个板块中，信息技术/科技板块收跌5.78%，可选消费、原材料板块至多跌2.43%，能源板块跌1.77%，电信板块跌1.65%，工业板块跌1.1%，日用消费品板块则涨1.64%。",
           "url": "https://wallstreetcn.com/livenews/3115330",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -188,7 +302,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -202,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
+          "url": "https://wallstreetcn.com/livenews/3115378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
@@ -221,9 +346,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "一周热榜精选：强非农刺激年内加息预期，美股科技股蒸发万亿美元！",
+          "url": "https://flash.jin10.com/detail/20260606082214527800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "恒生指数主连夜盘收跌1.38%，报24544点。 恒生科技指数主连夜盘收跌2.15%，报4775点。",
@@ -232,7 +368,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         }
@@ -240,8 +376,30 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "【早报】国常会最新部署！事关未来产业；事关私募基金高质量发展，国办公布指导意见",
+          "url": "https://www.cls.cn/detail/2392513",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "100个美丽中国打卡点名单发布",
+          "url": "https://www.douyin.com/hot/2524682",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
         {
           "title": "恐慌指数VIX跃升至超两周高点；最新上涨3.32点，报18.72。",
           "url": "https://flash.jin10.com/detail/20260606011108687800",
@@ -266,21 +424,65 @@
           "time_info": "[01时45分 ~ 05时15分]"
         },
         {
+          "title": "归唐夏日游戏节全新预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%92%E5%94%90%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82%E5%85%A8%E6%96%B0%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "暴雨蓝色预警发布，山东河南等11省区市有大到暴雨",
+          "url": "https://wallstreetcn.com/livenews/3115380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（6月6日）",
+          "url": "https://flash.jin10.com/detail/20260606084142180800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国政府发布关于铝、钢铁、铜关税的指引。标普目前跌2.6%，道指跌711点、跌幅1.38%，纳指跌4%，半导体指数重挫9.1%。",
           "url": "https://wallstreetcn.com/livenews/3115314",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "UP主接力开发游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8E%A5%E5%8A%9B%E5%BC%80%E5%8F%91%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "21世纪NBA总决赛百大炸裂瞬间",
@@ -295,13 +497,46 @@
           "time_info": "[01时45分 ~ 05时15分]"
         },
         {
+          "title": "NBA总决赛马刺vs尼克斯",
+          "url": "https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A9%AC%E5%88%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "NBA总决赛：尼克斯vs马刺",
+          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%EF%BC%9A%E5%B0%BC%E5%85%8B%E6%96%AFvs%E9%A9%AC%E5%88%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "NBA",
+          "url": "https://s.weibo.com/weibo?q=NBA&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "60元网购了雷霆果型榴莲",
           "url": "https://s.weibo.com/weibo?q=60%E5%85%83%E7%BD%91%E8%B4%AD%E4%BA%86%E9%9B%B7%E9%9C%86%E6%9E%9C%E5%9E%8B%E6%A6%B4%E8%8E%B2&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         }
