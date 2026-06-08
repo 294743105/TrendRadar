@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T02:22:08.089479+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-09T05:32:10.273488+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 20,
+      "match_count": 31,
       "titles": [
         {
           "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
-          "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
-          "url": "https://www.zhihu.com/question/2047267736485631665",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -37,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -48,8 +37,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
+        },
+        {
+          "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
+          "url": "https://www.zhihu.com/question/2047267736485631665",
+          "source": "知乎",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
+        },
+        {
+          "title": "OpenAI自曝已秘密提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609052258365800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
@@ -58,7 +70,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -69,9 +81,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "OpenAI就IPO事宜向美国SEC秘密递交S-1文件",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "苹果(AAPL.O)：Siri AI将首先支持英语。",
@@ -80,9 +103,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
+          "url": "https://flash.jin10.com/detail/20260609051732279800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "苹果(AAPL.O)：Siri AI集成至相机应用，并推出全新的Siri模式。",
@@ -91,7 +125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -102,7 +136,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -111,44 +145,103 @@
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "Siri AI",
           "url": "https://s.weibo.com/weibo?q=Siri%20AI&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "日韩股市突然暴跌 AI泡沫要破了吗",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E7%AA%81%E7%84%B6%E6%9A%B4%E8%B7%8C+AI%E6%B3%A1%E6%B2%AB%E8%A6%81%E7%A0%B4%E4%BA%86%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
+        },
+        {
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
+          "url": "https://www.zhihu.com/question/2043797160312010091",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "报告称全球60%流量来自AI和机器人",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%E7%A7%B0%E5%85%A8%E7%90%8360%25%E6%B5%81%E9%87%8F%E6%9D%A5%E8%87%AAAI%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "OpenAI：尚未决定首次公开募股的时间。",
+          "url": "https://flash.jin10.com/detail/20260609051515095800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "OpenAI已提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609051454671800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "苹果(AAPL.O)：为watchOS打造专属Siri AI。",
@@ -157,7 +250,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -168,9 +261,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
+          "url": "https://flash.jin10.com/detail/20260609051127110800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
+          "url": "https://wallstreetcn.com/livenews/3116349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "苹果(AAPL.O)：预计语音听写功能的准确度将“大幅提升”。Siri的改进将涵盖Car Play和AirPods.",
@@ -179,7 +294,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -190,9 +305,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "Applied Digital（APLD.O）签署Delta Forge2项目210兆瓦租赁协议，将其“AI工厂”特许经营模式扩展至第五个园区。",
+          "url": "https://flash.jin10.com/detail/20260609040707367800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "苹果(AAPL.O)：新的AI架构支持应用操作和屏幕感知功能。",
@@ -201,7 +327,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -212,7 +338,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -223,7 +349,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         }
@@ -231,7 +357,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -241,8 +367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
@@ -252,41 +378,56 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
           "url": "https://www.cls.cn/detail/2394108",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "胜宏科技“电梯门”风波影响几何",
           "url": "https://www.toutiao.com/trending/7649016282037095978/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
+        },
+        {
+          "title": "太空电站关键技术取得突破",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E7%AB%99%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "胜宏科技回应董事长电梯视频传闻",
@@ -296,19 +437,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
-          "title": "太空电站关键技术取得突破",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E7%AB%99%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "马斯克SpaceX拒绝中国投资者",
@@ -318,8 +448,19 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
+        },
+        {
+          "title": "胜宏科技董事长“电梯门”事件",
+          "url": "https://www.douyin.com/hot/2527170",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "time_info": "[05时31分 ~ 05时32分]"
         },
         {
           "title": "美国科技记者古尔曼：（苹果WWDC 2026）主题演讲中另一个值得注意的地方是：从这些演示来看，毫无疑问它们都是真实设备上的实机录制演示。与2024年WWDC以及新版Siri最初发布时的情况不同，这次不会再让人对哪些功能是真实可用的、哪些只是展示效果产生混淆。",
@@ -328,9 +469,64 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
+          "url": "https://wallstreetcn.com/livenews/3116344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "标普500指数的11个板块普遍收跌，公用事业板块跌1.92%，房地产板块跌1.63%，原材料板块跌1.28%，电信板块跌1.07%，能源板块则收涨1.14%，信息技术/科技板块涨1.47%。",
+          "url": "https://wallstreetcn.com/livenews/3116341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "周一（6月8日），美股行业ETF涨跌各异，半导体ETF收涨5%，全球科技股指数ETF、科技行业ETF至少涨2.15%，网络股指数ETF则收跌0.43%，全球航空业ETF跌0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3116340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "纳指科技指数收涨超1.8%，半导体指数反弹5.6%",
+          "url": "https://wallstreetcn.com/livenews/3116336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.04%，报24555点。 恒生科技指数主连夜盘收跌0.06%，报4748点。",
+          "url": "https://wallstreetcn.com/livenews/3116321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
@@ -339,37 +535,40 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "菲律宾强震多国发布海啸预警",
-          "url": "https://www.douyin.com/hot/2526751",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
           "title": "双胞胎姐妹遭袭一死一伤案最新进展",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%81%AD%E8%A2%AD%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
+        },
+        {
+          "title": "菲律宾强震多国发布海啸预警",
+          "url": "https://www.douyin.com/hot/2526751",
+          "source": "抖音",
+          "ranks": [
+            4,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "这款足球游戏让我重回童年",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%AC%BE%E8%B6%B3%E7%90%83%E6%B8%B8%E6%88%8F%E8%AE%A9%E6%88%91%E9%87%8D%E5%9B%9E%E7%AB%A5%E5%B9%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         },
         {
           "title": "大作太多!新游挤爆夏日游戏节",
@@ -379,8 +578,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         }
       ]
     },
@@ -393,11 +592,12 @@
           "url": "https://www.douyin.com/hot/2527145",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时32分]"
         }
       ]
     }
