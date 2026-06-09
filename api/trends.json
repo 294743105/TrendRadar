@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-09T18:51:13.924939+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-06-09T22:16:24.088228+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 50,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 22时16分]"
+        },
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
           "url": "https://wallstreetcn.com/articles/3774087",
@@ -31,17 +43,6 @@
           "time_info": "[02时21分 ~ 05时32分]"
         },
         {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 18时51分]"
-        },
-        {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
           "url": "https://www.cls.cn/detail/2393646",
           "source": "财联社热门",
@@ -51,6 +52,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 05时32分]"
+        },
+        {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 22时16分]"
         },
         {
           "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
@@ -179,18 +193,6 @@
           "time_info": "02时22分"
         },
         {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 18时51分]"
-        },
-        {
           "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
           "url": "https://flash.jin10.com/detail/20260609051732279800",
           "source": "金十数据",
@@ -237,6 +239,17 @@
           "time_info": "[02时21分 ~ 09时49分]"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 22时16分]"
+        },
+        {
           "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
           "url": "https://wallstreetcn.com/articles/3774134",
           "source": "华尔街见闻",
@@ -273,15 +286,16 @@
           "time_info": "[02时21分 ~ 05时32分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
           "ranks": [
-            7
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时36分 ~ 18时51分]"
+          "time_info": "[18时50分 ~ 22时16分]"
         },
         {
           "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
@@ -318,17 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 15时36分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
@@ -397,6 +400,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2395176",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "苹果(AAPL.O)：Siri AI将登陆iPadOS。",
           "url": "https://flash.jin10.com/detail/20260609014651841800",
           "source": "金十数据",
@@ -428,6 +442,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
+          "url": "https://www.zhihu.com/question/2046196309359646371",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "赛豆科技AIVA品牌激光雷达供应商或为速腾聚创",
+          "url": "https://flash.jin10.com/detail/20260609214418046800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
@@ -474,6 +510,28 @@
           "time_info": "15时36分"
         },
         {
+          "title": "Perplexity CEO：无论Anthropic或OpenAI上市进展如何，公司均计划2028年IPO",
+          "url": "https://wallstreetcn.com/livenews/3116874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "当AI大模型长出四个轮子",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%95%BF%E5%87%BA%E5%9B%9B%E4%B8%AA%E8%BD%AE%E5%AD%90%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "黄仁勋让出市场 DeepSeek买下昇腾",
           "url": "https://www.toutiao.com/trending/7649233186517421604/",
           "source": "今日头条",
@@ -483,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "米哈游多款游戏已接入 AI，原神未来会引入 AI 功能吗？",
+          "url": "https://www.zhihu.com/question/2041514273738847722",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "苹果(AAPL.O)：预计语音听写功能的准确度将“大幅提升”。Siri的改进将涵盖Car Play和AirPods.",
@@ -540,6 +609,28 @@
           "time_info": "02时22分"
         },
         {
+          "title": "苹果：在多项服务中引入AI智能体验。",
+          "url": "https://wallstreetcn.com/livenews/3116856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "赛豆AI汽车AIVA亮相",
+          "url": "https://www.toutiao.com/trending/7649173735878443049/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "苹果(AAPL.O)：我们利用了谷歌Gemini来开发下一代基础人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260609013333993800",
           "source": "金十数据",
@@ -562,6 +653,28 @@
           "time_info": "09时49分"
         },
         {
+          "title": "美股开盘，道指涨0.3%，标普500指数涨0.5%，纳指涨0.7%。高通(QCOM.O)涨0.3%，黄仁勋喊话买入该股票。博通(AVGO.O)涨1.1%，其联手黑石和阿波罗成立AI算力平台。费城半导体指数涨1.98%。纳斯达克中国金龙指数涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20260609213038011800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "车圈AI主持首秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%9C%88AI%E4%B8%BB%E6%8C%81%E9%A6%96%E7%A7%80%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "日立与谷歌云扩大战略联盟，旨在通过FDE与先进网络安全解决方案，加速物理人工智能（Physical AI）在现实世界中的部署。",
           "url": "https://wallstreetcn.com/livenews/3116413",
           "source": "华尔街见闻-快讯",
@@ -576,7 +689,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -590,6 +703,21 @@
           "time_info": "[02时21分 ~ 05时32分]"
         },
         {
+          "title": "太空电站关键技术取得突破",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E7%AB%99%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            16,
+            28,
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时21分 ~ 22时16分]"
+        },
+        {
           "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
           "url": "https://www.cls.cn/detail/2393791",
           "source": "财联社热门",
@@ -599,20 +727,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 05时32分]"
-        },
-        {
-          "title": "太空电站关键技术取得突破",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E7%AB%99%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            16,
-            28,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 18时51分]"
         },
         {
           "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
@@ -698,6 +812,19 @@
           "time_info": "15时36分"
         },
         {
+          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2047261881392422944",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 22时16分]"
+        },
+        {
           "title": "马斯克SpaceX拒绝中国投资者",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
           "source": "贴吧",
@@ -707,18 +834,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时21分 ~ 09时49分]"
-        },
-        {
-          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2047261881392422944",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 18时51分]"
         },
         {
           "title": "胜宏科技“电梯门”风波影响几何",
@@ -748,11 +863,12 @@
           "url": "https://www.cls.cn/detail/2394851",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 22时16分]"
         },
         {
           "title": "专家：A股科技成长的主线地位稳固",
@@ -766,6 +882,17 @@
           "time_info": "[18时50分 ~ 18时51分]"
         },
         {
+          "title": "中东局势缓和，美股高开，科技股反弹，美光科技涨超4%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美国科技记者古尔曼：（苹果WWDC 2026）主题演讲中另一个值得注意的地方是：从这些演示来看，毫无疑问它们都是真实设备上的实机录制演示。与2024年WWDC以及新版Siri最初发布时的情况不同，这次不会再让人对哪些功能是真实可用的、哪些只是展示效果产生混淆。",
           "url": "https://flash.jin10.com/detail/20260609014626593800",
           "source": "金十数据",
@@ -775,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "美股三大指数集体高开，美光科技涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3116867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
@@ -871,7 +1009,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -964,11 +1102,12 @@
           "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%8D%81%E4%BD%B3%E7%90%83",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 22时16分]"
         },
         {
           "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
@@ -1040,7 +1179,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "双胞胎姐妹遭袭一死一伤案最新进展",
@@ -1079,6 +1218,17 @@
           "time_info": "[02时21分 ~ 15时36分]"
         },
         {
+          "title": "现货黄金短线上扬约20美元，最新报4346美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260609214857455800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "这款足球游戏让我重回童年",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%AC%BE%E8%B6%B3%E7%90%83%E6%B8%B8%E6%88%8F%E8%AE%A9%E6%88%91%E9%87%8D%E5%9B%9E%E7%AB%A5%E5%B9%B4",
           "source": "bilibili 热搜",
@@ -1098,7 +1248,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1109,7 +1259,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1134,6 +1284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯考虑解除对美国线上游戏平台Roblox的封锁。",
+          "url": "https://flash.jin10.com/detail/20260609213452564800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     }
