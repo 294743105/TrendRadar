@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T09:49:53.166243+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-06-09T15:36:39.220049+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -40,6 +40,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 05时32分]"
+        },
+        {
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 15时36分]"
+        },
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 15时36分]"
+        },
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 15时36分]"
         },
         {
           "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
@@ -89,17 +124,6 @@
           "time_info": "02时22分"
         },
         {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
           "title": "苹果(AAPL.O)表示将“很快”通过Siri AI添加其他语言，但未透露具体时间表。",
           "url": "https://flash.jin10.com/detail/20260609015233331800",
           "source": "金十数据",
@@ -122,26 +146,15 @@
           "time_info": "05时32分"
         },
         {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
-          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "title": "怎么看诺奖得主联手 Claude，40 轮对话证出 12 年物理猜想?",
+          "url": "https://www.zhihu.com/question/2047276929548604568",
           "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "15时36分"
         },
         {
           "title": "苹果(AAPL.O)：Siri AI将首先支持英语。",
@@ -225,6 +238,42 @@
           "time_info": "[02时21分 ~ 05时32分]"
         },
         {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 15时36分]"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 15时36分]"
+        },
+        {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 15时36分]"
+        },
+        {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
           "source": "澎湃新闻",
@@ -258,6 +307,17 @@
           "time_info": "[05时31分 ~ 05时32分]"
         },
         {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
           "url": "https://flash.jin10.com/detail/20260609051515095800",
           "source": "金十数据",
@@ -267,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "OpenAI已提交IPO申请",
@@ -280,17 +351,6 @@
           "time_info": "05时32分"
         },
         {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
           "title": "苹果(AAPL.O)：为watchOS打造专属Siri AI。",
           "url": "https://flash.jin10.com/detail/20260609014707103800",
           "source": "金十数据",
@@ -300,17 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
-        },
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
         },
         {
           "title": "苹果(AAPL.O)：Siri AI将登陆iPadOS。",
@@ -346,15 +395,15 @@
           "time_info": "05时32分"
         },
         {
-          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
-          "url": "https://www.cls.cn/detail/2394258",
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
           "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "15时36分"
         },
         {
           "title": "恒指低开0.43%，恒生科技指数跌0.26%。智谱跌近5%，比亚迪电子跌1.8%，小米、阿里巴巴跌约1%；华虹宏力涨2.8%。",
@@ -363,7 +412,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -374,9 +423,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "诺基亚推出首个专为AI时代打造的安全套件。",
+          "url": "https://wallstreetcn.com/livenews/3116613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "黄仁勋让出市场 DeepSeek买下昇腾",
+          "url": "https://www.toutiao.com/trending/7649233186517421604/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "苹果(AAPL.O)：预计语音听写功能的准确度将“大幅提升”。Siri的改进将涵盖Car Play和AirPods.",
@@ -451,7 +533,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -462,7 +544,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -470,7 +552,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -508,35 +590,27 @@
           "time_info": "[02时21分 ~ 09时49分]"
         },
         {
+          "title": "太空电站关键技术取得突破",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E7%AB%99%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            16,
+            28,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 15时36分]"
+        },
+        {
           "title": "港股芯片股走强，天数智芯(09903.HK)涨超4%，澜起科技(06809.HK)、兆易创新(03986.HK)、中兴通讯(00763.HK)、华虹宏力(01347.HK)等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260609093718591800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "A股PCB概念股延续强势，金安国纪2连板，股价续创历史新高，瑞华泰、同宇新材涨超10%，美联新材、东材科技、华正新材涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3116447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "港股PCB概念连日走强，建滔集团(00148.HK)涨超10%，建滔积层板(01888.HK)涨超8%，广合科技(01989.HK)涨超7%，胜宏科技(02476.HK)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260609093619697800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -550,21 +624,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 09时49分]"
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 15时36分]"
         },
         {
-          "title": "太空电站关键技术取得突破",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E7%AB%99%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
+          "title": "A股PCB概念股延续强势，金安国纪2连板，股价续创历史新高，瑞华泰、同宇新材涨超10%，美联新材、东材科技、华正新材涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3116447",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            16,
-            28
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 09时49分]"
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "港股PCB概念连日走强，建滔集团(00148.HK)涨超10%，建滔积层板(01888.HK)涨超8%，广合科技(01989.HK)涨超7%，胜宏科技(02476.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260609093619697800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "马斯克SpaceX拒绝中国投资者",
@@ -590,6 +684,19 @@
           "time_info": "[02时21分 ~ 05时32分]"
         },
         {
+          "title": "胜宏科技董事长“电梯门”事件",
+          "url": "https://www.douyin.com/hot/2527170",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 15时36分]"
+        },
+        {
           "title": "胜宏科技回应董事长电梯视频传闻",
           "url": "https://www.toutiao.com/trending/7648099336853323782/",
           "source": "今日头条",
@@ -601,27 +708,15 @@
           "time_info": "[02时21分 ~ 05时32分]"
         },
         {
-          "title": "胜宏科技董事长“电梯门”事件",
-          "url": "https://www.douyin.com/hot/2527170",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 09时49分]"
-        },
-        {
           "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2047261881392422944",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 15时36分]"
         },
         {
           "title": "美国科技记者古尔曼：（苹果WWDC 2026）主题演讲中另一个值得注意的地方是：从这些演示来看，毫无疑问它们都是真实设备上的实机录制演示。与2024年WWDC以及新版Siri最初发布时的情况不同，这次不会再让人对哪些功能是真实可用的、哪些只是展示效果产生混淆。",
@@ -652,7 +747,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -674,7 +769,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -696,7 +791,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -718,7 +813,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -729,7 +824,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -740,7 +835,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -759,7 +854,7 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "NBA总决赛G3尼克斯vs马刺",
@@ -768,9 +863,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "NBA总决赛G3复盘",
+          "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "NBA总决赛",
@@ -779,7 +885,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -802,9 +908,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "25-26 赛季 NBA 总决赛 G3，马刺 115-111 尼克斯，大比分 1-2，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2047222693288792582",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "NBA总决赛G3陪看",
@@ -813,15 +930,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "NBA总决赛：马刺扳回一城1-2尼克斯",
+          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%EF%BC%9A%E9%A9%AC%E5%88%BA%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E1-2%E5%B0%BC%E5%85%8B%E6%96%AF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "双胞胎姐妹遭袭一死一伤案最新进展",
@@ -848,6 +976,18 @@
           "time_info": "[02时21分 ~ 05时32分]"
         },
         {
+          "title": "大作太多!新游挤爆夏日游戏节",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354981&amp;topic_name=%E5%A4%A7%E4%BD%9C%E5%A4%AA%E5%A4%9A%21%E6%96%B0%E6%B8%B8%E6%8C%A4%E7%88%86%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 15时36分]"
+        },
+        {
           "title": "这款足球游戏让我重回童年",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%AC%BE%E8%B6%B3%E7%90%83%E6%B8%B8%E6%88%8F%E8%AE%A9%E6%88%91%E9%87%8D%E5%9B%9E%E7%AB%A5%E5%B9%B4",
           "source": "bilibili 热搜",
@@ -861,26 +1001,26 @@
           "time_info": "[02时21分 ~ 09时49分]"
         },
         {
-          "title": "大作太多!新游挤爆夏日游戏节",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354981&amp;topic_name=%E5%A4%A7%E4%BD%9C%E5%A4%AA%E5%A4%9A%21%E6%96%B0%E6%B8%B8%E6%8C%A4%E7%88%86%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 09时49分]"
-        },
-        {
           "title": "双胞胎姐妹遭袭一死一伤案最新进展",
           "url": "https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%81%AD%E8%A2%AD%E4%B8%80%E6%AD%BB%E4%B8%80%E4%BC%A4%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
           "source": "百度热搜",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "为什么现在传统回合制游戏几乎消失了？",
+          "url": "https://www.zhihu.com/question/1993824810871038590",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     }
