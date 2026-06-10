@@ -1,227 +1,44 @@
 {
-  "generated_at": "2026-06-10T22:46:15.794648+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-06-11T02:28:02.530528+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 39,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 10时02分]"
-        },
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
           "url": "https://www.cls.cn/detail/2396017",
           "source": "财联社热门",
           "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 22时46分]"
-        },
-        {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时59分 ~ 22时46分]"
-        },
-        {
-          "title": "如何评价 Anthropic 发布的 Claude Fable 5？",
-          "url": "https://www.zhihu.com/question/2047851398734394746",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "苹果发布 Siri AI 等 AI 功能，市值一夜蒸发超 5700 亿元，为何投资者反应平平？",
-          "url": "https://www.zhihu.com/question/2047616042067834810",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        },
-        {
-          "title": "微软(MSFT.O)：Anthropic最新的前沿模型Claude Fable 5现已登陆Microsoft Foundry。",
-          "url": "https://flash.jin10.com/detail/20260610012005660800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "用AI复原孔子与苏格拉底教育之辩",
-          "url": "https://www.douyin.com/hot/2528746",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "普华永道：中国内地企业AI应用能力领跑全球",
-          "url": "https://flash.jin10.com/detail/20260610221819184800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 02时28分]"
         },
         {
-          "title": "小米AI上岛",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3AI%E4%B8%8A%E5%B2%9B%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
+          "source": "澎湃新闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 02时28分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
           "url": "https://wallstreetcn.com/articles/3774282",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时59分 ~ 22时46分]"
-        },
-        {
-          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
-          "url": "https://wallstreetcn.com/articles/3774243",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 19时33分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 05时28分]"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 05时28分]"
-        },
-        {
-          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2395176",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 05时28分]"
-        },
-        {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 22时46分]"
-        },
-        {
-          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
-          "url": "https://www.zhihu.com/question/2046196309359646371",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        },
-        {
-          "title": "GPT 为什么会生成这么诡异的图片？有没有研究者能解释为什么会出现这一现象？",
-          "url": "https://www.zhihu.com/question/2047033714614579489",
-          "source": "知乎",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "专家：AI淘汰的不是人而是重复性工作",
-          "url": "https://www.toutiao.com/trending/7649726725886053894/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "time_info": "[02时27分 ~ 02时28分]"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
@@ -232,760 +49,190 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "time_info": "[02时27分 ~ 02时28分]"
         },
         {
-          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
-          "source": "澎湃新闻",
+          "title": "于娜看到已故丈夫AI形象崩溃大哭",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时59分 ~ 19时33分]"
+          "time_info": "[02时27分 ~ 02时28分]"
         },
         {
-          "title": "国产AI芯片企业",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7AI%E8%8A%AF%E7%89%87%E4%BC%81%E4%B8%9A&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "Deepseek-Reasonix 与 OpenCode 相比，在性能上有哪些差异？",
-          "url": "https://www.zhihu.com/question/2043657493826492339",
+          "title": "GPT 为什么会生成这么诡异的图片？有没有研究者能解释为什么会出现这一现象？",
+          "url": "https://www.zhihu.com/question/2047033714614579489",
           "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "超微电脑计划通过股权和股权相关方式融资70亿美元。 最近数周，该公司围绕AI服务器的融资获得390亿美元认购。 超微电脑美股盘后跌10%。",
-          "url": "https://wallstreetcn.com/livenews/3117028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "Anthropic：面向一小部分网络安全防御人员与基础设施提供商，同时发布Claude Mythos 5。",
-          "url": "https://flash.jin10.com/detail/20260610010437968800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
-          "url": "https://wallstreetcn.com/livenews/3117027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "金刚石助力芯片突破散热瓶颈 AI算力进一步打开应用空间",
-          "url": "https://www.cls.cn/detail/2395511",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "Anthropic：计划通过更广泛的“可信访问计划”扩大Claude Mythos 5的使用范围。",
-          "url": "https://flash.jin10.com/detail/20260610010242800800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "Anthropic：Claude Mythos 5最初将通过“Glasswing项目”部署，并与美国政府合作，作为Claude Mythos预览版的升级版本。",
-          "url": "https://flash.jin10.com/detail/20260610010236188800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "Anthropic：发布Claude Fable 5，这是一个Mythos级别的模型，但已调整为适合大众安全使用版本。",
-          "url": "https://flash.jin10.com/detail/20260610010220834800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "AI热潮催生“芯”需求！三星考虑新建先进芯片封装厂",
-          "url": "https://www.cls.cn/detail/2395630",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "中东战火引发二次通胀，南非央行暗示年内将再度加息，并警告前沿AI模型威胁金融安全",
-          "url": "https://wallstreetcn.com/livenews/3117558",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "美国白宫AI政策顾问Thomas Lind将离职。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3117016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 02时28分]"
         },
         {
-          "title": "Meta达成印度AI数据中心交易，超大规模云厂商持续加码基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3117555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "分析｜受AI产业热潮、价格因素等推动，5月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33344044",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "Claude新模型实测",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%B5%8B",
+          "title": "夏奇拉邀请你来跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
           "source": "bilibili 热搜",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 02时28分]"
         },
         {
-          "title": "KKR称市场可能低估了AI的电力需求 但数字基础设施领域有泡沫",
-          "url": "https://wallstreetcn.com/livenews/3117553",
+          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
+          "url": "https://wallstreetcn.com/livenews/3117653",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时46分"
+          "time_info": "02时28分"
         },
         {
-          "title": "Meta：将针对欧盟的WhatsApp AI命令提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3116943",
+          "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
+          "url": "https://wallstreetcn.com/livenews/3117649",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "02时28分"
         },
         {
-          "title": "Siri AI将如何改变苹果",
-          "url": "https://search.bilibili.com/all?keyword=Siri%20AI%E5%B0%86%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%8B%B9%E6%9E%9C",
-          "source": "bilibili 热搜",
+          "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
+          "url": "https://flash.jin10.com/detail/20260611014950889800",
+          "source": "金十数据",
           "ranks": [
-            27
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "02时28分"
+        },
+        {
+          "title": "谷歌公司：将携带Gemini的Chrome浏览器推广至非洲、中东、拉美等市场的用户。",
+          "url": "https://wallstreetcn.com/livenews/3117637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "微软限制员工使用Claude Fable。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3117635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 27,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3774176",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 22时46分]"
-        },
-        {
-          "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3774176",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "time_info": "[02时27分 ~ 02时28分]"
         },
         {
-          "title": "美股高开低走，盘中跳水，纳指跌超3%，迈威尔科技大跌13%，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3774176",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "半导体板块盘初拉升，中晶科技2连板，海光信息涨超10%，气派科技、富满微、康强电子、杰华特跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3117144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "美国于美东时间17:00开始对伊朗实施“自卫性”袭击。 比特币短线从62100美元上方跳水至接近61850美元的水平，“盘初”整体跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3117033",
+          "title": "美联储加息预期飙升，ING称黄金、比特币与瑞郎惨遭通胀定价清算",
+          "url": "https://wallstreetcn.com/livenews/3117660",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "太空电站关键技术取得突破",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E7%AB%99%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 10时02分]"
-        },
-        {
-          "title": "今年的牛股被谁承包了？科技浪下的A股版图重塑",
-          "url": "https://www.cls.cn/detail/2395615",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 19时33分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
-          "url": "https://www.cls.cn/detail/2394851",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 05时28分]"
-        },
-        {
-          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
-          "url": "https://www.cls.cn/detail/2396047",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 22时46分]"
-        },
-        {
-          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2047261881392422944",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 05时28分]"
+          "time_info": "02时28分"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "time_info": "[02时27分 ~ 02时28分]"
         },
         {
-          "title": "太空主题ETF半年吸金80亿美元",
-          "url": "https://wallstreetcn.com/livenews/3117301",
-          "source": "华尔街见闻-快讯",
+          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
+          "url": "https://www.cls.cn/detail/2396047",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "国务院国资委副主任李镇出席中央企业与香港科技创新融合发展专题会",
-          "url": "https://wallstreetcn.com/livenews/3117448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "A股化工股局部走强，中化国际、和远气体双双涨停，康达新材涨超5%，昊华科技、浙江龙盛、鼎龙科技等个股跟涨。消息面上，受海外供应链收紧、下游需求爆发多重因素叠加影响，供需缺口持续扩大，六氟化钨价格大幅飙升。",
-          "url": "https://flash.jin10.com/detail/20260610093111637800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "恒指低开0.50%，报24442.52点；恒生科技指数跌0.38%。蔚来跌4%，联想跌2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3117127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至3.22%，迈威尔科技跌超13%，Arm控股跌10.7%，Lumentum跌10.6%，高通跌9.2%，Strategy跌9.1%，AMD、美光、英特尔跌超7%，星巴克涨3%，CTAS涨3.3%。费城半导体跌7.25%。",
-          "url": "https://wallstreetcn.com/livenews/3116951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美股费城半导体指数跌幅扩大至6%，迈威尔科技/美满电子回撤超10%，Arm跌超10%，高通跌超9%，AMD、美光科技跌超7%，台积电跌2.6%，英伟达跌2.73%。 纳斯达克100指数跌超2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3116949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "标普500指数的11个板块多数收涨，房地产板块涨2.13%，原材料、保健、工业、公用事业板块至多涨1.72%，能源板块则收跌1.6%，信息技术/科技板块跌1.82%。",
-          "url": "https://wallstreetcn.com/livenews/3117013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "周二（6月9日），美股行业ETF多数收涨，全球航空业ETF涨3.10%，生物科技指数ETF、银行业ETF、医疗业ETF、区域银行ETF、日常消费品ETF、公用事业ETF至多涨1.46%，网络股指数ETF、半导体ETF至多收跌1.20%，全球科技股指数ETF、能源业ETF、科技行业ETF至多跌1.85%。",
-          "url": "https://wallstreetcn.com/livenews/3117012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "龙蟠科技：控股孙公司锂源（亚太）通过其全资下属公司锂源印尼（巴塘）在印度尼西亚投资建设“新能源汽车动力与储能电池正极材料规模化生产项目”，项目总规划建设年产12万吨二代及三代磷酸铁锂正极材料的生产线，本项目总投资金额约为1.6亿美元，约合人民币10.88亿元。",
-          "url": "https://wallstreetcn.com/livenews/3117422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "A股元件板块低开，宝鼎科技逼近跌停。中富电路、则成科技、晶赛科技、顺络电子、沪电股份跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260610092814371800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "港股光伏太阳能股震荡回升，协鑫科技(03800.HK)涨超5%，信义光能(00968.HK)、协鑫新能源(00451.HK)、福莱特玻璃(06865.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260610152802617800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "SpaceX高管Jessica Jensen：公司计划在2026年对星舰进行太空燃料加注实验。",
-          "url": "https://wallstreetcn.com/livenews/3116947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "国务院国资委副主任李镇出席中央企业与香港科技创新融合发展专题会",
-          "url": "https://flash.jin10.com/detail/20260610190305298800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "太空主题ETF半年吸金80亿美元",
-          "url": "https://flash.jin10.com/detail/20260610152351445800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.39%，报6298.64点，在持续下挫的行情中、北京时间00:42刷新日低至6220.58点，之后收复部分失地。 热门中概股里，小马智行初步收跌3.7%，蔚来、理想跌2.7%，日月光半导体跌1.4%，美团、网易、百度、腾讯涨超1%，世纪互联涨4.8%，亿珑能源涨54.3%。 ETF中，中概互联网指数ETF（KWEB）收涨0.31%，中国科技指数ETF（CQQQ）收涨2.25%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.21%，XtrackersHarvest中证50（ASHS）收涨0.95%，德银嘉实沪深300指数ETF（ASHR）收涨1.27%。",
-          "url": "https://wallstreetcn.com/livenews/3117007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "纳指科技指数收跌将近1.5%，半导体指数跌超1.9%",
-          "url": "https://wallstreetcn.com/livenews/3117005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 02时28分]"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
         {
-          "title": "伊朗战争最新动态丨美国和伊朗又动手了，情况如何？",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "title": "小米MiMo：MiMo Code V0.1现已正式发布并开源，内置MiMo V2.5多模态模型，限时免费开放使用，具备100万Token上下文窗口。",
+          "url": "https://flash.jin10.com/detail/20260611021819225800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "伊朗公布最新海上损失：253艘船沉没或全毁，海员54死66伤",
+          "url": "https://news.ifeng.com/c/8tqoB26YJXf",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "美国至6月5日当周EIA原油库存、库欣原油库存、战略石油储备库存将于十分钟后公布；加拿大央行行长麦克勒姆和高级副行长罗杰斯将于十分钟后召开货币政策新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260610222000001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "伊朗公布最新海上损失情况",
-          "url": "https://flash.jin10.com/detail/20260610221904736800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "Anthropic发布不具备网络安全功能的Mythos公开版",
-          "url": "https://flash.jin10.com/detail/20260610010751740800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "以色列国防军：在监测到有发射物从黎巴嫩射向以色列北部多个定居点后，后方司令部发布了预防性指令。当局要求民众在警报响起时进入掩体或安全空间。",
-          "url": "https://flash.jin10.com/detail/20260610050419639800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "Anthropic推出限制网络安全能力的“解耦版”新模型Fable 5，同步发布Mythos 5",
-          "url": "https://wallstreetcn.com/livenews/3116966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "如何看待 6 月 10 日 Anthropic 发布的 Fable 5 和 Mythos 5 模型？",
-          "url": "https://www.zhihu.com/question/2047849109776816048",
-          "source": "知乎",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "美国三年期国债收益率在拍卖后保持稳定，最新下跌1.8个基点，报4.189% 。",
-          "url": "https://flash.jin10.com/detail/20260610010621307800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美的发布“智能体工厂出海解决方案”",
-          "url": "https://wallstreetcn.com/livenews/3117135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
-          "url": "https://wallstreetcn.com/livenews/3117566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "“海洋地质六号”最新成果：我国深海电磁测量技术迎新突破",
-          "url": "https://wallstreetcn.com/livenews/3117019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "上交所发布《上海证券交易所公开募集不动产投资信托基金（REITs）业务指南第1号——发售上市业务办理（2026年6月修订）》。",
-          "url": "https://wallstreetcn.com/livenews/3117429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3117014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "香港通报宏福苑火灾最新进展",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%80%9A%E6%8A%A5%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BE%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "南非央行发布金融稳定评估报告：人工智能的进步正在增加金融稳定风险。伊朗战争加大南非金融系统压力。",
-          "url": "https://flash.jin10.com/detail/20260610220112463800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "千问发布高考志愿填报Agent",
-          "url": "https://wallstreetcn.com/livenews/3117283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "[02时27分 ~ 02时28分]"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "NBA总决赛主客场待遇拉满",
-          "url": "https://www.douyin.com/hot/2529833",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
         {
           "title": "NBA总决赛第四场前瞻",
           "url": "https://www.douyin.com/hot/2529481",
           "source": "抖音",
           "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时59分 ~ 22时46分]"
-        },
-        {
-          "title": "21世纪NBA100大名场面",
-          "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA100%E5%A4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 05时28分]"
-        },
-        {
-          "title": "UP主漫谈NBA总决赛经典对决",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%BC%AB%E8%B0%88NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%BB%8F%E5%85%B8%E5%AF%B9%E5%86%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "time_info": "[02时27分 ~ 02时28分]"
         }
       ]
     }
