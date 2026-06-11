@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T16:27:37.312947+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-06-11T23:29:01.411693+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 24,
+      "match_count": 37,
       "titles": [
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -31,13 +31,37 @@
           "time_info": "[02时27分 ~ 05时50分]"
         },
         {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            4,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 23时29分]"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
           "title": "考生还没出分AI已经开始抢人了",
           "url": "https://www.toutiao.com/trending/7650032130369523254/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -55,16 +79,15 @@
           "time_info": "[02时27分 ~ 10时12分]"
         },
         {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
+          "title": "OpenAI宣布达成协议收购新闻机构ONA。",
+          "url": "https://flash.jin10.com/detail/20260611230642759800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 16时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
@@ -104,6 +127,63 @@
           "time_info": "[02时27分 ~ 10时12分]"
         },
         {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 23时29分]"
+        },
+        {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 23时29分]"
+        },
+        {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
+          "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
+          "url": "https://www.cls.cn/detail/2397553",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
+          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
           "title": "为什么感觉 AI Coding 剥夺了我写代码的乐趣？",
           "url": "https://www.zhihu.com/question/2036188909328143670",
           "source": "知乎",
@@ -113,6 +193,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "超模女球迷爆火后出镜 自证不是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%85%E6%A8%A1%E5%A5%B3%E7%90%83%E8%BF%B7%E7%88%86%E7%81%AB%E5%90%8E%E5%87%BA%E9%95%9C+%E8%87%AA%E8%AF%81%E4%B8%8D%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
+          "title": "DeepSeek为何发力Agent",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "夏奇拉邀请你来跳Dai Dai",
@@ -126,13 +228,24 @@
           "time_info": "[02时27分 ~ 02时28分]"
         },
         {
+          "title": "AI大神做漫剧真有一套",
+          "url": "https://www.douyin.com/hot/2530023",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
           "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
           "url": "https://www.cls.cn/detail/2396831",
           "source": "财联社热门",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -148,15 +261,15 @@
           "time_info": "10时12分"
         },
         {
-          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
-          "url": "https://wallstreetcn.com/articles/3774376",
-          "source": "华尔街见闻",
+          "title": "OpenAI：将收购云平台Ona，从而支持AI智能体。 我们已经就此达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3118273",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "23时29分"
         },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
@@ -214,15 +327,15 @@
           "time_info": "05时50分"
         },
         {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
+          "title": "大众点评加大真实内容生态投入，加大AIGC评价治理力度",
+          "url": "https://wallstreetcn.com/livenews/3118262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "23时29分"
         },
         {
           "title": "阿里云Meoo CLI发布，本地AI编程项目可直接部署上线",
@@ -231,7 +344,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -269,6 +382,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "贝索斯在推出新项目之际 淡化了AI可能导致的失业担忧",
+          "url": "https://flash.jin10.com/detail/20260611223315369800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "微软限制员工使用Claude Fable。（The Verge）",
           "url": "https://wallstreetcn.com/livenews/3117635",
           "source": "华尔街见闻-快讯",
@@ -278,12 +402,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "亚马逊创始人贝佐斯：在“普罗米修斯计划”（Project Prometheus）方面的目标是打造一个智能工程师。 对于“普罗米修斯计划”而言，工程师就是客户。 “普罗米修斯计划”是我这个时代的“主要工作”。 我们还有很远的路要走，仍然处于（项目开发的）早期阶段。 我们拥有足够的计算（能力），将需要更多。 我们拥有许多的算力来源，包括亚马逊的AWS。 还需要创造数据，这是一个非常昂贵的投资。 还参与了B轮融资，（但）并没有考虑C轮融资。 由于AI的缘故，我们将面临“劳动力短缺”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3118250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "Crusoe Energy Systems LLC.：谷歌公司出现顾虑之后，公司位于美国怀俄明州的AI项目被搁置。 谷歌公司正与现存合作伙伴们讨论怀俄明州数据中心的使用事宜。 公司与潜在客户独家洽谈。 公司无法为怀俄明州设施锁定客户。",
+          "url": "https://wallstreetcn.com/livenews/3118246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -293,8 +439,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 23时29分]"
         },
         {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
@@ -306,6 +452,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 05时50分]"
+        },
+        {
+          "title": "国常会：要锚定科技强国建设目标，高效组织实施国家重大科技任务",
+          "url": "https://www.cls.cn/detail/2397510",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "A股光纤概念低开高走，兴发集团、烽火通信双双涨停，三孚股份涨超6%，云南锗业、光库科技、长光华芯、永鼎股份、通光线缆等个股跟涨。",
@@ -336,7 +493,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -387,6 +544,18 @@
           "time_info": "[02时27分 ~ 05时50分]"
         },
         {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 23时29分]"
+        },
+        {
           "title": "A股半导体产业链震荡拉升，炬光科技、康强电子涨停，江丰电子、杰华特、中微半导、欧莱新材涨超10%，晶丰明源、和林微纳、捷捷微电涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3117836",
           "source": "华尔街见闻-快讯",
@@ -398,24 +567,13 @@
           "time_info": "10时12分"
         },
         {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "凯旺科技：拟现金收购东莞秦鼎和东莞兴鼎不低于51%股权，切入液冷散热赛道",
           "url": "https://flash.jin10.com/detail/20260611161702059800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -437,7 +595,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -448,9 +606,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "据港交所文件：广东奥迪威传感科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260611225644031800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美股存储芯片、光通信股盘前反弹，闪迪涨超4%，美光科技涨超3%，迈威尔科技、英特尔涨超2%。甲骨文美股盘前延续跌势，现跌超10%。公司资本开支超预期，新财年计划融资翻倍至400亿美元。",
@@ -459,7 +628,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -492,7 +661,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -514,7 +683,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -544,8 +713,20 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美加墨世界杯主题曲DNA发布",
+          "url": "https://www.douyin.com/hot/2530517",
+          "source": "抖音",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 23时29分]"
+        },
         {
           "title": "美伊冲突最新进展",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
@@ -556,6 +737,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "六氟化钨概念爆火，A股多家上市公司回应相关业务情况",
+          "url": "https://www.cls.cn/detail/2397515",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "伊朗战争最新动态丨伊朗彻底关闭霍尔木兹海峡",
@@ -589,17 +781,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "美加墨世界杯主题曲DNA发布",
-          "url": "https://www.douyin.com/hot/2530517",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         },
         {
           "title": "伊朗公布最新海上损失：253艘船沉没或全毁，海员54死66伤",
@@ -641,7 +822,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -652,9 +833,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "伊朗公布打击三国美军基地最新画面",
+          "url": "https://wallstreetcn.com/livenews/3118263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "俄乌分别通报最新打击目标",
@@ -674,7 +866,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -701,15 +893,37 @@
           "time_info": "10时12分"
         },
         {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3118253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "商务部介绍中新深化双边经贸关系的最新进展",
           "url": "https://wallstreetcn.com/livenews/3117995",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（6月10日，美国CPI通胀数据发布日）担保隔夜融资利率（SOFR）报3.59%，之前一天报3.60%。 上个交易日有效的联邦基金利率报3.62%，之前一天报3.62%。",
+          "url": "https://wallstreetcn.com/livenews/3118245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
