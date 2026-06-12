@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T10:07:52.645591+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-06-12T16:15:31.273048+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "国常会：要锚定科技强国建设目标，高效组织实施国家重大科技任务",
@@ -44,15 +44,49 @@
           "time_info": "[02时40分 ~ 10时07分]"
         },
         {
+          "title": "生物科技指数未纳入期货限价放宽名单，港交所回应",
+          "url": "https://flash.jin10.com/detail/20260612154939715800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股走低，美光科技跌超2%。美股太空概念股普涨，Rocket Lab涨超8%，ASTS涨超5%，回声星通信涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3118723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "A股商业航天概念集体走强，航天发展、中航西飞、天奥电子、中天火箭等多股涨停，创远信科、索辰科技涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3118514",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2397810",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 16时15分]"
         },
         {
           "title": "A股PCB概念股继续走强，金安国纪5天4板，股价续创历史新高，联瑞新材、美联新材、正业科技、天准科技涨超10%。",
@@ -61,7 +95,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -77,26 +111,26 @@
           "time_info": "02时40分"
         },
         {
-          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
-          "url": "https://www.cls.cn/detail/2397810",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
           "title": "半导体产业链集体高开，蓝箭电子、江丰电子、富创精密涨超12%，康强电子、炬光科技、中科飞测、神工股份涨超8%。",
           "url": "https://wallstreetcn.com/livenews/3118502",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "生物科技指数未纳入期货限价放宽名单，港交所回应",
+          "url": "https://wallstreetcn.com/livenews/3118716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "A股低空经济板块走高，宗申动力、中信海直触及涨停，万丰奥威、创远信科、索辰科技纷纷上扬。",
@@ -105,7 +139,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -116,7 +150,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -138,7 +172,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -152,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "字节跳动成立科技公司，注册资本16亿元",
+          "url": "https://flash.jin10.com/detail/20260612153415954800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "标普500指数的11个板块多数收涨，原材料板块涨3.26%，工业板块涨3.25%，信息技术/科技板块涨2.94%，能源板块跌2.06%。",
@@ -171,7 +216,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -201,7 +246,7 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -228,16 +273,15 @@
           "time_info": "[02时40分 ~ 10时07分]"
         },
         {
-          "title": "AI短片效果看到起鸡皮疙瘩了",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "AI正在杀死音乐吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            26
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 10时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "抖音AI创作大赛来了",
@@ -246,7 +290,20 @@
           "ranks": [
             11,
             19,
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 16时15分]"
+        },
+        {
+          "title": "AI短片效果看到起鸡皮疙瘩了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -329,9 +386,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+          "url": "https://www.cls.cn/detail/2397804",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "AI奇谈 绿茵恩仇录笑傲球湖",
@@ -340,9 +408,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
@@ -351,9 +441,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
+          "url": "https://www.cls.cn/detail/2398028",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "UP主做了个AI谢苗",
@@ -365,12 +466,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "如何看待 Spacex 新发布的 AI 卫星？",
+          "url": "https://www.zhihu.com/question/2047773618428437482",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "六氟化钨概念爆火，A股多家上市公司回应相关业务情况",
@@ -402,9 +514,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "胖东来发布情况说明：从未有任何降薪决定",
+          "url": "https://www.cls.cn/detail/2397819",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "严管侮辱谩骂、造谣诽谤企业家言论，“优化营商网络环境自律公约”发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33364051",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "《整治涉企侵权信息 优化营商网络环境自律公约》全文发布",
@@ -413,7 +547,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -427,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "中国银行发布关于加强贵金属市场风险防范的提示",
+          "url": "https://wallstreetcn.com/livenews/3118698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "消息人士表示，伊朗敲定了其与美国拟议协议的最新草案，并将其提交给卡塔尔中间人，由其转交华盛顿。 一名熟悉卡塔尔调解情况的美国消息人士也证实，协议草案已经提交。（纽约邮报）",
@@ -446,16 +591,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "网信办发布公约整治涉企侵权信息",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%8F%91%E5%B8%83%E5%85%AC%E7%BA%A6%E6%95%B4%E6%B2%BB%E6%B6%89%E4%BC%81%E4%BE%B5%E6%9D%83%E4%BF%A1%E6%81%AF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "假如我在 NBA 始终都是 0 分 0 助攻 0 篮板 0 抢断 0 盖帽，但只要上场够足够时间，就一定能赢，会有球队要吗？",
+          "url": "https://www.zhihu.com/question/2044368908522612625",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
         {
           "title": "NBA 总决赛 G4，福克斯关键时刻称「觉得能跑过阿努诺比」上篮被帽，这一选择有何争议？",
           "url": "https://www.zhihu.com/question/2048450267729995033",
@@ -463,7 +630,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -474,7 +641,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         }
