@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T01:59:27.368904+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T05:24:49.409216+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "165天！长鑫科技IPO注册生效 科创板迎来国产DRAM龙头",
@@ -15,41 +15,88 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时24分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时24分]"
         },
         {
           "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
           "url": "https://wallstreetcn.com/articles/3774523",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时24分]"
         },
         {
           "title": "业绩下滑遭炮轰、新战略被指“不务正业” 同仁堂科技转型困局凸显|直击股东会",
           "url": "https://www.cls.cn/detail/2398830",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时24分]"
+        },
+        {
+          "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
+          "url": "https://wallstreetcn.com/livenews/3119078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3119077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "周五（6月12日），美股行业ETF多数收涨，全球航空业ETF涨1.93%，半导体ETF、区域银行ETF、银行业ETF、金融业ETF、公用事业ETF至多涨1.72%，科技行业ETF、能源业ETF、全球科技股指数ETF至多涨0.87%，网络股指数ETF跌0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3119072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "标普500指数的11个板块普遍收涨，原材料板块涨1.83%，金融、公用事业板块至多涨1.35%，信息技术/科技板块涨0.37%，保健板块跌0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3119070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
@@ -63,6 +110,39 @@
           "time_info": "01时59分"
         },
         {
+          "title": "Adobe收跌6.7%，创3月13日以来最差单日表现，该公司CFO将跳槽至迈威尔科技（美满电子）。",
+          "url": "https://wallstreetcn.com/livenews/3119068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.48%，报6326.73点，本周累计下跌0.56%，整体呈现出W形走势。 热门中概股里，晶科能源初步收涨6.5%，阿特斯太阳能涨5.8%，日月光半导体涨4%，理想涨3.9%，新东方涨3.5%，美团跌超1%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.83%，本周反弹1.23%； XtrackersHarvest中证50（ASHS）收涨0.68%，本周反弹0.34%； 中国科技指数ETF（CQQQ）收跌1.27%，本周反弹0.37%； 中概互联网指数ETF（KWEB）收跌0.30%，本周反弹0.42%； MSCI新兴市场ex中国ETF（EMXC）收涨0.05%，本周反弹6.23%。",
+          "url": "https://wallstreetcn.com/livenews/3119067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "标普500指数收涨37.16点，涨幅0.50%，报7431.46点。 道琼斯工业平均指数收涨353.51点，涨幅0.70%，报51202.26点。 纳斯达克综合指数（纳指）收涨79.184点，涨幅0.31%，报25888.844点。 纳斯达克100指数收涨189.772点，涨幅0.64%，报29635.948点。 纳斯达克科技市值加权指数收涨0.64%，报2883.0029点。 费城半导体指数收涨1.52%，报13371.47点。 费城证交所KBW银行指数收涨1.73%，报179.80点，继续创收盘历史新高。 道琼斯KBW地区银行指数收涨1.55%，报141.66点。 罗素2000指数收涨0.79%，报2943.992点。 纳斯达克生物科技指数收涨0.25%，报5938.51点。 标普中盘股400指数收涨0.71%，报3796.32点，继续创收盘历史新高。 纳斯达克美国中等市值指数涨0.72%，报3769.4355点，突破6月4日所创收盘历史最高位3764.3550点。 恐慌指数VIX收跌9%，报17.69。",
+          "url": "https://wallstreetcn.com/livenews/3119064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "美国参议院民主党成员Warren要求实施财富税，此前SpaceX美国IPO让马斯克成为人类第一位万亿美元富豪。",
           "url": "https://wallstreetcn.com/livenews/3118995",
           "source": "华尔街见闻-快讯",
@@ -72,23 +152,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "SpaceX上市抽走氧气，其他太空股集体重挫",
+          "url": "https://wallstreetcn.com/livenews/3119053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时24分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -98,8 +190,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时24分]"
         },
         {
           "title": "我们真的需要又一个 DeepSeek V5 吗？",
@@ -111,6 +203,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "作家自曝用AI写作",
@@ -127,7 +241,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗发布“头骨世界杯”海报",
@@ -141,15 +255,27 @@
           "time_info": "01时59分"
         },
         {
+          "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
+          "url": "https://www.zhihu.com/question/2048823351049707836",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "巴拉圭主帅和球员在发布会抱头痛哭",
           "url": "https://www.toutiao.com/trending/7650391104381780006/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时24分]"
         },
         {
           "title": "严管侮辱谩骂、造谣诽谤企业家言论，“优化营商网络环境自律公约”发布",
@@ -159,8 +285,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时24分]"
         },
         {
           "title": "华为发布鸿蒙7操作系统",
