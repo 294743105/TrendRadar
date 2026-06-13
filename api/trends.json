@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T10:02:17.520285+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-06-13T15:39:38.936915+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "165天！长鑫科技IPO注册生效 科创板迎来国产DRAM龙头",
@@ -15,19 +15,56 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 10时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 15时39分]"
+        },
+        {
+          "title": "中国证券报：要发挥科创板“硬科技”成色足优势，持续丰富为科技型企业提供的全生命周期金融服务",
+          "url": "https://wallstreetcn.com/livenews/3119128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
           "url": "https://www.cls.cn/detail/2398924",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 15时39分]"
+        },
+        {
+          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
+          "url": "https://wallstreetcn.com/articles/3774523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 15时39分]"
+        },
+        {
+          "title": "业绩下滑遭炮轰、新战略被指“不务正业” 同仁堂科技转型困局凸显|直击股东会",
+          "url": "https://www.cls.cn/detail/2398830",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 15时39分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -42,40 +79,40 @@
           "time_info": "[01时59分 ~ 05时24分]"
         },
         {
-          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
-          "url": "https://wallstreetcn.com/articles/3774523",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 10时02分]"
-        },
-        {
-          "title": "业绩下滑遭炮轰、新战略被指“不务正业” 同仁堂科技转型困局凸显|直击股东会",
-          "url": "https://www.cls.cn/detail/2398830",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 10时02分]"
-        },
-        {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
           "url": "https://www.cls.cn/detail/2398893",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 15时39分]"
+        },
+        {
+          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 15时39分]"
+        },
+        {
+          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 15时39分]"
         },
         {
           "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
@@ -124,26 +161,15 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
-          "source": "澎湃新闻",
+          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
+          "url": "https://wallstreetcn.com/articles/3774553",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "一周热榜精选：美伊达成和平协议文本？SPCX涨19%马斯克成万亿富豪",
@@ -152,7 +178,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -212,6 +238,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "专家：全球太空经济竞争逻辑变了",
+          "url": "https://www.toutiao.com/trending/7650459334519046186/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "标普500指数收涨37.16点，涨幅0.50%，报7431.46点。 道琼斯工业平均指数收涨353.51点，涨幅0.70%，报51202.26点。 纳斯达克综合指数（纳指）收涨79.184点，涨幅0.31%，报25888.844点。 纳斯达克100指数收涨189.772点，涨幅0.64%，报29635.948点。 纳斯达克科技市值加权指数收涨0.64%，报2883.0029点。 费城半导体指数收涨1.52%，报13371.47点。 费城证交所KBW银行指数收涨1.73%，报179.80点，继续创收盘历史新高。 道琼斯KBW地区银行指数收涨1.55%，报141.66点。 罗素2000指数收涨0.79%，报2943.992点。 纳斯达克生物科技指数收涨0.25%，报5938.51点。 标普中盘股400指数收涨0.71%，报3796.32点，继续创收盘历史新高。 纳斯达克美国中等市值指数涨0.72%，报3769.4355点，突破6月4日所创收盘历史最高位3764.3550点。 恐慌指数VIX收跌9%，报17.69。",
           "url": "https://wallstreetcn.com/livenews/3119064",
           "source": "华尔街见闻-快讯",
@@ -229,9 +266,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "蓝思科技：收购同昇光电 加速布局光通信",
+          "url": "https://flash.jin10.com/detail/20260613112837541800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "美国参议院民主党成员Warren要求实施财富税，此前SpaceX美国IPO让马斯克成为人类第一位万亿美元富豪。",
@@ -259,18 +307,29 @@
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
-          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
-          "url": "https://wallstreetcn.com/livenews/3119114",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 Claude Fable 5 全球暂停访问？",
+          "url": "https://www.zhihu.com/question/2049072203191342205",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "15时39分"
+        },
+        {
+          "title": "智谱：GLM-5.2将面向GLM Coding Plan全量用户开放",
+          "url": "https://wallstreetcn.com/livenews/3119127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
@@ -279,9 +338,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://wallstreetcn.com/livenews/3119114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时39分]"
         },
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -308,6 +390,30 @@
           "time_info": "[01时59分 ~ 10时02分]"
         },
         {
+          "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
+          "url": "https://wallstreetcn.com/livenews/3119106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时39分]"
+        },
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时39分]"
+        },
+        {
           "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
           "url": "https://wallstreetcn.com/articles/3774502",
           "source": "华尔街见闻",
@@ -319,37 +425,49 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
-          "url": "https://wallstreetcn.com/livenews/3119106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
           "url": "https://wallstreetcn.com/livenews/3119107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时39分]"
+        },
+        {
+          "title": "首尔禁止中小学生戴AI眼镜参加期末考试",
+          "url": "https://flash.jin10.com/detail/20260613145419111800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "15时39分"
+        },
+        {
+          "title": "世界杯AI视频绿茵恩仇录火了",
+          "url": "https://www.douyin.com/hot/2531568",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "九鹭非香把七时吉祥重新做成AI剧了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "我们真的需要又一个 DeepSeek V5 吗？",
@@ -374,6 +492,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850550&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/3SNELjbbk6Cqk3c21IZ34.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260613120108121800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "全抖音都在DaiDai",
           "url": "https://www.douyin.com/hot/2531421",
           "source": "抖音",
@@ -391,7 +520,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -410,7 +539,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
@@ -481,15 +610,37 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "市场消息：以色列向20个黎巴嫩城镇和村庄发布强制撤离命令。",
+          "url": "https://flash.jin10.com/detail/20260613142217826800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "Anthropic：美国政府发布出口管制指令，暂停所有外国国籍人士对人工智能模型FABLE 5和Mythos 5的访问。",
           "url": "https://flash.jin10.com/detail/20260613085422876800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "假如凡人是款开放世界游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%87%A1%E4%BA%BA%E6%98%AF%E6%AC%BE%E5%BC%80%E6%94%BE%E4%B8%96%E7%95%8C%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "据农业农村部最新小麦机收进度，截至6月12日17时，全国已收获夏粮小麦2.78亿亩，收获进度82.01%。",
@@ -498,9 +649,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "内蒙古疾控针对甲肝发布专项预警",
+          "url": "https://www.toutiao.com/trending/7650502436760666138/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "华为发布鸿蒙7操作系统",
