@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T16:07:30.446621+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-06-14T21:23:58.255884+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "如何评价智谱 6 月 13 日发布的 GLM5.2 模型？",
@@ -27,11 +27,24 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 16时07分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 21时23分]"
+        },
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 21时23分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 10时11分]"
-        },
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 16时07分]"
         },
         {
           "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
@@ -80,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 16时07分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 21时23分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -93,8 +94,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 16时07分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 21时23分]"
         },
         {
           "title": "谁降价谁更弱势！摩根大通：智谱和Minimax做了同样的实验，但结果相反",
@@ -118,6 +119,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
+          "url": "https://wallstreetcn.com/articles/3774601",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 21时23分]"
         },
         {
           "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
@@ -165,15 +178,26 @@
           "time_info": "[05时00分 ~ 05时01分]"
         },
         {
-          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
-          "url": "https://wallstreetcn.com/articles/3774601",
+          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
+          "url": "https://wallstreetcn.com/articles/3774608",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "21时23分"
+        },
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
@@ -193,9 +217,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "美禁止外国主体使用安特罗匹克最新AI模型",
+          "url": "https://wallstreetcn.com/livenews/3119219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "这才是AI发展真正的意义",
@@ -212,8 +247,20 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "53年等待,尼克斯夺NBA总冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355148&amp;topic_name=53%E5%B9%B4%E7%AD%89%E5%BE%85%2C%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 21时23分]"
+        },
         {
           "title": "尼克斯夺NBA总冠军",
           "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
@@ -221,29 +268,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "纽约尼克斯夺NBA总冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "53年等待,尼克斯夺NBA总冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355148&amp;topic_name=53%E5%B9%B4%E7%AD%89%E5%BE%85%2C%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -254,20 +279,44 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "锐评NBA总决赛两队球员",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%A4%E9%98%9F%E7%90%83%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "纽约尼克斯夺NBA总冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 21时23分]"
         },
         {
           "title": "尼克斯NBA总冠军",
           "url": "https://www.toutiao.com/trending/7650201780407664703/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 21时23分]"
         },
         {
           "title": "NBA总决赛G5尼克斯vs马刺",
@@ -279,6 +328,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "布伦森独扛45分！尼克斯时隔53年再捧NBA总冠军奖杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376678",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 21时23分]"
         },
         {
           "title": "NBA总决赛MVP最新赔率：布伦森居首",
@@ -298,18 +359,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "布伦森独扛45分！尼克斯时隔53年再捧NBA总冠军奖杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376678",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -320,7 +370,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -331,7 +381,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -342,7 +392,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         }
@@ -397,7 +447,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -408,7 +458,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -497,7 +547,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "据伊朗学生通讯社：埃及外长与美国驻西亚特使通电话，讨论了有关德黑兰与华盛顿谈判的最新进展。",
@@ -524,13 +574,35 @@
           "time_info": "[01时07分 ~ 10时11分]"
         },
         {
+          "title": "美国公布最新UFO文件：士兵目击土豆状漂浮物，2分钟后突然消失",
+          "url": "https://news.ifeng.com/c/8tx3RWxKc9D",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：给以色列开绿灯，换不来任何让步。“好警察、坏警察”的游戏已经玩腻了。",
+          "url": "https://flash.jin10.com/detail/20260614203559661800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "《2026中国企业全球影响力报告》发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33373975",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
