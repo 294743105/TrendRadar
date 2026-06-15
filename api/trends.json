@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T10:15:18.276139+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-06-15T17:50:15.017679+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -30,6 +30,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时06分 ~ 10时15分]"
+        },
+        {
+          "title": "如何用AI模型预测世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%A8AI%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "摩根资产管理：AI领域仍具备确定性成长机会",
+          "url": "https://flash.jin10.com/detail/20260615174241505800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "全球 AI “黑马神话”一夜反转，被指套壳阿里千问",
+          "url": "https://wallstreetcn.com/livenews/3119612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
@@ -67,6 +100,28 @@
           "time_info": "[01时06分 ~ 10时15分]"
         },
         {
+          "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
+          "url": "https://wallstreetcn.com/articles/3774655",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "大爆发！创业板狂飙超5%，算力硬件掀起涨停潮，恒科指涨超1%，智谱狂飙超30%",
+          "url": "https://wallstreetcn.com/articles/3774643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
           "url": "https://wallstreetcn.com/articles/3774610",
           "source": "华尔街见闻",
@@ -87,6 +142,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 04时57分]"
+        },
+        {
+          "title": "分析师用AI写研报搞了个大乌龙，互联网信息该如何排污？",
+          "url": "https://www.cls.cn/detail/2399644",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -111,13 +177,46 @@
           "time_info": "[01时06分 ~ 04时57分]"
         },
         {
+          "title": "王俊凯董子健合照被判AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%91%A3%E5%AD%90%E5%81%A5%E5%90%88%E7%85%A7%E8%A2%AB%E5%88%A4AI%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "南向资金今日净买入21.1亿元。港股通（沪）方面，智谱、建滔积层板分别获净买入7.53亿港元、5.48亿港元；长飞光纤光缆净卖出额居首，金额为6.33亿港元；港股通（深）方面，智谱、建滔积层板分别获净买入15.41亿港元、4.73亿港元；中国海洋石油净卖出额居首，金额为5.65亿港元。",
+          "url": "https://flash.jin10.com/detail/20260615173515557800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "智谱盘初一度飙升48%，目前涨幅收窄至27%。",
           "url": "https://wallstreetcn.com/livenews/3119367",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -128,16 +227,38 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "银行界争聘首席AI官 年薪上看350万美元但该职位寿命可能有限",
+          "url": "https://wallstreetcn.com/livenews/3119568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "国晟科技：因5184.62万元诉讼披露不及时不完整收警示函",
+          "url": "https://wallstreetcn.com/livenews/3119616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
         {
           "title": "A股电子化学品板块震荡拉升，光华科技封板涨停，天承科技、方邦股份涨超15%，同宇新材涨超10%，宏昌电子、国瓷材料、三孚新科、奥来德、天通股份跟涨。",
           "url": "https://flash.jin10.com/detail/20260615094753678800",
@@ -145,9 +266,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "习近平：一体推进教育科技人才发展",
+          "url": "https://www.cls.cn/detail/2399978",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "巴克莱：太空数据中心成本是地面三倍，十年内难撼传统玩家",
+          "url": "https://wallstreetcn.com/articles/3774659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
         },
         {
           "title": "A股PCB概念股震荡走强，天承科技、逸豪新材、崇达技术、华正新材、宝鼎科技、光华科技、诺德股份等多股涨停，方邦股份、瑞华泰、铜冠铜箔、同宇新材、嘉元科技、中医科技、泰金新能涨超10%。",
@@ -156,9 +299,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "上海：截至一季度末科技创新和技术改造贷款签约金额1490亿元",
+          "url": "https://wallstreetcn.com/livenews/3119599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "A股存储芯片板块短线拉升，园林股份封板涨停，炬光科技、麦捷科技、利和兴、古鳌科技、盛视科技、胜科纳米、德福科技跟涨。",
@@ -167,7 +321,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -178,9 +332,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "燧原科技科创板IPO过会",
+          "url": "https://wallstreetcn.com/livenews/3119593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "黄金概念股集体走强，金诚信涨停，赤峰黄金涨超8%，紫金矿业、晓程科技、山金国际、招金黄金涨幅居前。",
@@ -189,9 +354,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "国晟科技：因5184.62万元诉讼披露不及时不完整收警示函",
+          "url": "https://flash.jin10.com/detail/20260615173216314800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "纳指科技ETF景顺：二级市场价格溢价 6月16日停牌后复牌",
+          "url": "https://flash.jin10.com/detail/20260615172845266800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "A股汽车整车板块震荡上升，众泰汽车、汉马科技双双涨停，金龙汽车、海马汽车、曙光股份、福田汽车、中国重汽涨超6%。",
@@ -200,7 +387,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -211,7 +398,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -222,104 +409,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "锐评NBA总决赛两队球员",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%A4%E9%98%9F%E7%90%83%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "53年等待,尼克斯夺NBA总冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355148&amp;topic_name=53%E5%B9%B4%E7%AD%89%E5%BE%85%2C%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 10时15分]"
-        },
-        {
-          "title": "纽约尼克斯夺NBA总冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 10时15分]"
-        },
-        {
-          "title": "布伦森独扛45分！尼克斯时隔53年再捧NBA总冠军奖杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376678",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 10时15分]"
-        },
-        {
-          "title": "NBA官方晒尼克斯总冠军定妆照",
-          "url": "https://www.toutiao.com/trending/7651127570964185114/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
         {
-          "title": "迈克布朗NBA第五冠",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%88%E5%85%8B%E5%B8%83%E6%9C%97NBA%E7%AC%AC%E4%BA%94%E5%86%A0%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "美股光通信板块盘前上涨，迈威尔科技涨近6%，Coherent涨超5%，Lumentum、Credo、康宁涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3119569",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "李立群吐槽在台湾看不到世界杯，凌晨 2 点开电视除了棒球就是 NBA，配图「烦死了」，对岸是足球荒漠吗？",
-          "url": "https://www.zhihu.com/question/2049133049393189788",
-          "source": "知乎",
-          "ranks": [
-            16
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "17时50分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
@@ -333,6 +442,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "据贸易消息人士透露，阿联酋阿布扎比国家石油公司ADNOC本月发布了第三份出售阿联酋原油的招标书。",
+          "url": "https://flash.jin10.com/detail/20260615174145133800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "美国公布最新UFO文件：士兵目击土豆状漂浮物，2分钟后突然消失",
           "url": "https://news.ifeng.com/c/8tx3RWxKc9D",
           "source": "凤凰网",
@@ -340,8 +460,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 10时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 17时50分]"
+        },
+        {
+          "title": "阿里菜鸟要解散？最新官方回复“假的，纯属谣言”",
+          "url": "https://wallstreetcn.com/livenews/3119598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "LME三个月期铝跌至3434.5美元，创4月9日以来新低，最新跌幅为2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3119597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "松延动力发布首款开源鸿蒙消费级人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3119580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "据伊朗梅赫尔通讯社：伊朗民航局表示，我们没有发布任何新的航行通知以限制国内航班。",
@@ -372,9 +525,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "“存款搬家”最新进展？业内人士：真实存在但并非大规模迁移",
+          "url": "https://flash.jin10.com/detail/20260615172014434800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "土耳其一户外大屏误播足球游戏",
@@ -386,6 +550,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "53年等待,尼克斯夺NBA总冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355148&amp;topic_name=53%E5%B9%B4%E7%AD%89%E5%BE%85%2C%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 17时50分]"
+        },
+        {
+          "title": "锐评NBA总决赛两队球员",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%A4%E9%98%9F%E7%90%83%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "纽约尼克斯夺NBA总冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
+        },
+        {
+          "title": "布伦森独扛45分！尼克斯时隔53年再捧NBA总冠军奖杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376678",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
+        },
+        {
+          "title": "李立群吐槽在台湾看不到世界杯，凌晨 2 点开电视除了棒球就是 NBA，配图「烦死了」，对岸是足球荒漠吗？",
+          "url": "https://www.zhihu.com/question/2049133049393189788",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 17时50分]"
+        },
+        {
+          "title": "NBA官方晒尼克斯总冠军定妆照",
+          "url": "https://www.toutiao.com/trending/7651127570964185114/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "迈克布朗NBA第五冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%88%E5%85%8B%E5%B8%83%E6%9C%97NBA%E7%AC%AC%E4%BA%94%E5%86%A0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     }
