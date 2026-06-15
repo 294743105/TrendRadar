@@ -1,44 +1,47 @@
 {
-  "generated_at": "2026-06-15T04:57:50.231305+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-15T10:15:18.276139+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
         },
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
           "url": "https://wallstreetcn.com/articles/3774601",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
         },
         {
           "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
           "url": "https://wallstreetcn.com/articles/3774621",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -48,8 +51,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
+        },
+        {
+          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -96,22 +111,126 @@
           "time_info": "[01时06分 ~ 04时57分]"
         },
         {
-          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
-          "source": "澎湃新闻",
+          "title": "智谱盘初一度飙升48%，目前涨幅收窄至27%。",
+          "url": "https://wallstreetcn.com/livenews/3119367",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "港股智谱(02513.HK)盘中一度涨超45%，目前涨幅收窄至29%。消息面上，在海外竞争对手最强模型因政府管制被全球禁用的背景下，智谱宣布旗下能力最强的开源模型GLM-5.2全量开放，并将于下周按MIT协议开源，此举旨在以开放策略吸引全球开发者。",
+          "url": "https://flash.jin10.com/detail/20260615093626727800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "A股电子化学品板块震荡拉升，光华科技封板涨停，天承科技、方邦股份涨超15%，同宇新材涨超10%，宏昌电子、国瓷材料、三孚新科、奥来德、天通股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615094753678800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "A股PCB概念股震荡走强，天承科技、逸豪新材、崇达技术、华正新材、宝鼎科技、光华科技、诺德股份等多股涨停，方邦股份、瑞华泰、铜冠铜箔、同宇新材、嘉元科技、中医科技、泰金新能涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3119380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "A股存储芯片板块短线拉升，园林股份封板涨停，炬光科技、麦捷科技、利和兴、古鳌科技、盛视科技、胜科纳米、德福科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615094329757800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "汽车整车股早盘拉升，众泰汽车、汉马科技双双涨停，金龙汽车、海马汽车、曙光股份、福田汽车、中国重汽涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3119369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "黄金概念股集体走强，金诚信涨停，赤峰黄金涨超8%，紫金矿业、晓程科技、山金国际、招金黄金涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3119366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "A股汽车整车板块震荡上升，众泰汽车、汉马科技双双涨停，金龙汽车、海马汽车、曙光股份、福田汽车、中国重汽涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260615093928832800",
+          "source": "金十数据",
+          "ranks": [
             19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "恒指高开1.15%，恒生科技指数涨1.78%",
+          "url": "https://wallstreetcn.com/livenews/3119355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "A股PET铜箔板块盘初上涨，方邦股份、太金新能均涨超11%，大东南、光华科技、诺德股份均封板涨停，铜冠铜箔、双星新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615093451762800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "锐评NBA总决赛两队球员",
@@ -130,11 +249,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
         },
         {
           "title": "纽约尼克斯夺NBA总冠军",
@@ -142,11 +262,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
         },
         {
           "title": "布伦森独扛45分！尼克斯时隔53年再捧NBA总冠军奖杯",
@@ -154,11 +275,23 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
+        },
+        {
+          "title": "NBA官方晒尼克斯总冠军定妆照",
+          "url": "https://www.toutiao.com/trending/7651127570964185114/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "迈克布朗NBA第五冠",
@@ -167,15 +300,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "李立群吐槽在台湾看不到世界杯，凌晨 2 点开电视除了棒球就是 NBA，配图「烦死了」，对岸是足球荒漠吗？",
+          "url": "https://www.zhihu.com/question/2049133049393189788",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
@@ -184,7 +328,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -196,8 +340,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 10时15分]"
         },
         {
           "title": "据伊朗梅赫尔通讯社：伊朗民航局表示，我们没有发布任何新的航行通知以限制国内航班。",
@@ -206,7 +350,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -217,9 +361,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "土耳其一户外大屏误播足球游戏",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%80%E6%88%B7%E5%A4%96%E5%A4%A7%E5%B1%8F%E8%AF%AF%E6%92%AD%E8%B6%B3%E7%90%83%E6%B8%B8%E6%88%8F",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "土耳其一户外大屏误播足球游戏",
