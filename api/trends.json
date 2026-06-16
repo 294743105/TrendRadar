@@ -1,770 +1,238 @@
 {
-  "generated_at": "2026-06-16T17:15:25.088624+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-06-17T00:19:25.454867+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 26,
+      "match_count": 13,
       "titles": [
         {
-          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 10时30分]"
-        },
-        {
-          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
-          "url": "https://wallstreetcn.com/articles/3774700",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时08分 ~ 10时30分]"
-        },
-        {
-          "title": "AI为何成为能源之战",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时08分]"
-        },
-        {
-          "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
-          "url": "https://www.cls.cn/detail/2400118",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时08分]"
-        },
-        {
-          "title": "伊朗用AI让球员牵遇难儿童入场",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时08分]"
-        },
-        {
-          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
-          "url": "https://www.cls.cn/detail/2400563",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "伊朗用AI让球员牵遇难儿童入场",
-          "url": "https://www.toutiao.com/trending/7651542350414037011/",
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
           "source": "今日头条",
           "ranks": [
-            9
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "00时19分"
         },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
           "url": "https://www.cls.cn/detail/2401113",
           "source": "财联社热门",
           "ranks": [
-            9
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "00时19分"
         },
         {
-          "title": "DeepSeek完成500亿融资",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
-          "url": "https://wallstreetcn.com/articles/3774655",
+          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
+          "url": "https://wallstreetcn.com/articles/3774806",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "00时19分"
         },
         {
-          "title": "DeepSeek完成超500亿元融资",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E8%B6%85500%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "如果一门文科课程的作业可以用 AI 完成，这门课该不该取消？",
-          "url": "https://www.zhihu.com/question/2045831566538924509",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "机构全面看好AI赋能的锡稀土钨钼 稀土板块有望演绎估值业绩双升",
-          "url": "https://www.cls.cn/detail/2400646",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "五年来首次！英伟达加入“AI发债大军”……",
-          "url": "https://www.cls.cn/detail/2400703",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "中国台湾金管会开放保险业投资AI策略性产业，并调高投资私募股权基金限额。",
-          "url": "https://wallstreetcn.com/livenews/3120192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "理想汽车推出动态数据流AI芯片马赫M100 构建完整具身智能系统",
-          "url": "https://flash.jin10.com/detail/20260616095450153800",
+          "title": "OpenAI开发者：本周，Codex的更多功能正在向欧洲各地陆续推出。我们正在向欧洲经济区、英国和瑞士的Codex用户提供计算机操作功能、CodexChrome扩展程序、个性化记忆功能以及Chronicle。",
+          "url": "https://flash.jin10.com/detail/20260617001249310800",
           "source": "金十数据",
           "ranks": [
-            13
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "00时19分"
         },
         {
-          "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
-          "url": "https://www.zhihu.com/question/2049845138457719674",
-          "source": "知乎",
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
           "ranks": [
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "00时19分"
         },
         {
-          "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
-          "url": "https://wallstreetcn.com/livenews/3119872",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果2027年将推出搭载摄像头的AirPods 智能眼镜最早明年末推出",
+          "url": "https://flash.jin10.com/detail/20260617000613286800",
+          "source": "金十数据",
           "ranks": [
-            15
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "00时19分"
+        },
+        {
+          "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
+          "url": "https://www.cls.cn/detail/2401117",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "苹果(AAPL.O)计划于2027年底推出新款带摄像头的AirPods。",
+          "url": "https://flash.jin10.com/detail/20260617000315981800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
           "url": "https://www.zhihu.com/question/2042539496676352614",
           "source": "知乎",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：在Facebook上推出新的AI功能，用于搜索和内容创作。",
-          "url": "https://flash.jin10.com/detail/20260616000416223800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "分析师：Anthropic较OpenAI企业市场优势明显",
-          "url": "https://flash.jin10.com/detail/20260616165616859800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "美法官驳回xAI指控OpenAI窃取商业机密诉讼",
-          "url": "https://flash.jin10.com/detail/20260616000047052800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "报道：2025年OpenAI净亏损增加七倍 成本高达340亿美元",
-          "url": "https://wallstreetcn.com/livenews/3120179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "一位美国联邦法官驳回了埃隆·马斯克旗下人工智能公司xAI提起的诉讼，该诉讼指控竞争对手OpenAI窃取了其商业机密。",
-          "url": "https://flash.jin10.com/detail/20260615235834841800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "OpenAI承诺在2026年对与AI相关的非营利问题投资5000万美元。",
-          "url": "https://wallstreetcn.com/livenews/3119785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "史诗级造富盛宴持续！SpaceX股价再飙20% 马斯克身家升破1.3万亿美元",
-          "url": "https://www.cls.cn/detail/2400667",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 17时15分]"
-        },
-        {
-          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
-          "url": "https://www.cls.cn/detail/2400615",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "纳指科技ETF景顺：本基金将于2026年6月17日开市起停牌，自2026年6月17日10:30起复牌，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260616170508767800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "习近平：一体推进教育科技人才发展",
-          "url": "https://www.cls.cn/detail/2399978",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "【焦点复盘】硬科技、小金属携手发力，沪指日线6连阳收复20日均线，全市场超280股涨逾10%",
-          "url": "https://www.cls.cn/detail/2400159",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时08分]"
-        },
-        {
-          "title": "燧原科技、粤芯半导体, 同日过会！现场问询紧扣“盈利预期”",
-          "url": "https://www.cls.cn/detail/2400342",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 10时30分]"
-        },
-        {
-          "title": "信披整改承诺仅保持九个月 国晟科技再收监管“双罚单”|速读公告",
-          "url": "https://www.cls.cn/detail/2400460",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 10时30分]"
-        },
-        {
-          "title": "A股元件板块再度走强，逸豪新材涨超16%，本川智能涨超12%，宝鼎科技、超颖电子封板涨停，风华高科触及涨停，贤丰控股、法拉电子等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260616095714617800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "00时19分"
         },
         {
-          "title": "6月16日投资避雷针：国晟科技因信息披露不及时收到北京证监局警示函",
-          "url": "https://www.cls.cn/detail/2400676",
+          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
+          "url": "https://www.cls.cn/detail/2401317",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "00时19分"
         },
         {
-          "title": "全球最富五百人单日财富激增3360亿美元 马斯克身家达1.27万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3120191",
+          "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
+          "url": "https://wallstreetcn.com/livenews/3120418",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2049548864626202351",
+          "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（6月15日），美国科技股七巨头（Magnificent 7）指数涨2.74%，报216.22点。 “超大”市值科技股指数涨3.48%，报448.96点。",
-          "url": "https://wallstreetcn.com/livenews/3119870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "00时19分"
         },
         {
-          "title": "周一（6月15日），彭博电动汽车价格回报指数涨1.88%，报3859.15点。 指数在亚太早盘显著上涨，日内过半时间交投于3850点上方，北京时间21:30刷新日高至3878.04点。 成分股中，印尼安塔姆矿业收涨9.82%，淡水河谷印尼公司涨7.75%，中创新航科技集团H股涨6.82%，Panasonic株式会社涨5.53%，智利化工矿业公司（SQM）则跌1.79%，小鹏集团H股跌3.47%，Ola Electric Mobility Ltd.跌3.54%。",
-          "url": "https://wallstreetcn.com/livenews/3119869",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX上市让普通投资者被迫买单，会对美股带来什么影响？",
-          "url": "https://www.zhihu.com/question/2049776018660103123",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "港股光通信板块延续昨日强势，蓝思科技(06613.HK)涨近7%，俊知集团(01300.HK)、汇聚科技(01729.HK)均涨超4%，长飞光纤光缆(06869.HK)涨超3%，舜宇光学科技(02382.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260616095129035800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨3.39%，电信板块涨2.42%，可选消费、工业板块至少涨1.36%，房地产板块则收跌0.9%，能源板块跌3.58%。 在所有成分股中，西部数据、Doordash、美光科技、希捷科技、安森美半导体、泰瑞达、高意公司Coherent领跑，Apa、因赛特公司、“大空头”Burry建仓的Fiserv、福克斯、福克斯A领跌。",
-          "url": "https://wallstreetcn.com/livenews/3119866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "恒生科技指数日内跌幅达1%。",
-          "url": "https://wallstreetcn.com/livenews/3119967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "A股PCB概念股继续走强，宝鼎科技2连板，逸豪新材、国际复材涨超10%，华正新材、生益科技、大族数控涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3119965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "港股商业航天概念股走势分化，钧达股份(02865.HK)涨近8%，蓝思科技(06613.HK)涨超6.5%，亚太卫星(01045.HK)涨近3%；中国技术集团(01725.HK)跌超3%，中航科工(02357.HK)、拓璞数控(07688.HK)均跌超1.3%。",
-          "url": "https://flash.jin10.com/detail/20260616094924471800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
-          "url": "https://wallstreetcn.com/livenews/3119863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "周一（6月15日），美股存储芯片与硬件供应链指数涨8.54%，报253.05点，再次创收盘历史新高，最近三个交易日累计上涨25%。 成分股西部数据涨16.10%，创1月份以来最佳单日表现，报653.53美元，创收盘历史新高，美光科技涨涨10.8%，希捷科技涨9.4%，泰瑞达涨7.2%，闪迪涨超6.4%，拉姆研究涨6%，应用材料涨3.3%，Rambus跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3119862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "恒生指数收盘跌1.4%，恒生科技指数跌2.24%",
-          "url": "https://wallstreetcn.com/livenews/3120175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "恒指低开0.07%，报24826.19点；恒生科技指数开盘基本持平。美团、哔哩哔哩跌超1%；MINIMAX、联想集团、小鹏集团、中芯国际等上涨。",
-          "url": "https://wallstreetcn.com/livenews/3119949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
-          "title": "“七巨头”已过时？SpaceX爆火后 华尔街机构推“FAB 10”新概念",
-          "url": "https://www.cls.cn/detail/2400592",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "肥胖的最新标准",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%82%A5%E8%83%96%E7%9A%84%E6%9C%80%E6%96%B0%E6%A0%87%E5%87%86%23&t=31&band_rank=5&Refer=top",
+          "title": "26岁游戏代练被母亲骗进戒网瘾机构",
+          "url": "https://s.weibo.com/weibo?q=%2326%E5%B2%81%E6%B8%B8%E6%88%8F%E4%BB%A3%E7%BB%83%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%AA%97%E8%BF%9B%E6%88%92%E7%BD%91%E7%98%BE%E6%9C%BA%E6%9E%84%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            5,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 10时30分]"
-        },
-        {
-          "title": "如何评价月之暗面新发布并开源 Kimi K2.7 Code 编程大模型？",
-          "url": "https://www.zhihu.com/question/2049041027298750565",
-          "source": "知乎",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时08分]"
-        },
-        {
-          "title": "女子发布涉地铁虚假视频被行拘",
-          "url": "https://www.toutiao.com/trending/7651040895118983187/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "爆火番剧为何让打工人破防",
-          "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E7%81%AB%E7%95%AA%E5%89%A7%E4%B8%BA%E4%BD%95%E8%AE%A9%E6%89%93%E5%B7%A5%E4%BA%BA%E7%A0%B4%E9%98%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "继 Uzi 后 Doinb 确认《英雄联盟》怀旧服下月推出，会给游戏带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2045139251206084211",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "纳指ETF易方达发布二级市场交易价格溢价风险提示公告",
-          "url": "https://flash.jin10.com/detail/20260616170240158800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "SpaceX(SPCX.O)：不打算通过电报分发服务发布季度或年度财报或其他重要消息。将主要通过投资者关系页面及X账户向公众发布重要信息。",
-          "url": "https://flash.jin10.com/detail/20260616050714641800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "00时19分"
         },
         {
-          "title": "野路子的张雪和董路为何爆火",
-          "url": "https://www.toutiao.com/trending/7651596039102680617/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "最新！美伊已签署谅解备忘录",
-          "url": "https://www.toutiao.com/trending/7651648323056569882/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "应用材料发布两款新的芯片制造系统",
-          "url": "https://wallstreetcn.com/livenews/3119865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "高盛最新世界杯预测来了",
-          "url": "https://www.douyin.com/hot/2534806",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "郑商所发布2026年端午节休市期间风险提示函",
-          "url": "https://wallstreetcn.com/livenews/3120173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "“暴力梅”最新降雨时段公布",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9A%B4%E5%8A%9B%E6%A2%85%E2%80%9D%E6%9C%80%E6%96%B0%E9%99%8D%E9%9B%A8%E6%97%B6%E6%AE%B5%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Coinbase与亚马逊旗下AWS让出版商们接受Agents（智能体）为客户。 两家公司希望通过X420接受Agents为客户。",
-          "url": "https://wallstreetcn.com/livenews/3119883",
+          "title": "报道：苹果计划最快明年发布自家第一款智能眼镜",
+          "url": "https://wallstreetcn.com/livenews/3120425",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "00时19分"
         },
         {
-          "title": "李立群吐槽在台湾看不到世界杯，凌晨 2 点开电视除了棒球就是 NBA，配图「烦死了」，对岸是足球荒漠吗？",
-          "url": "https://www.zhihu.com/question/2049133049393189788",
-          "source": "知乎",
+          "title": "筷子兄弟发布新歌逍遥仙MV",
+          "url": "https://www.douyin.com/hot/2536769",
+          "source": "抖音",
           "ranks": [
-            20,
-            16
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时08分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
+          "url": "https://www.zhihu.com/question/2049776018660103123",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "53年等待,尼克斯夺NBA总冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355148&amp;topic_name=53%E5%B9%B4%E7%AD%89%E5%BE%85%2C%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
+          "title": "纳斯达克100指数跌幅扩大至1%，成分股Lumentum目前跌超9.4%，英特尔跌6.5%，Strategy跌超4.6%，AMD、科磊、迈威尔科技、美光科技、博通、闪迪至少跌约3.4%，拼多多跌超2.8%，阿斯麦ADR跌超2.7% 半导体指数跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3120407",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 06时08分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
         {
           "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "00时19分"
         }
       ]
     }
