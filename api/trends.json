@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-17T06:05:14.314942+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-06-17T10:14:29.917766+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
+          "url": "https://wallstreetcn.com/articles/3774806",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 10时14分]"
+        },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
           "url": "https://www.cls.cn/detail/2401113",
@@ -19,26 +30,16 @@
           "time_info": "[00时19分 ~ 06时05分]"
         },
         {
-          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
-          "url": "https://wallstreetcn.com/articles/3774806",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时05分]"
-        },
-        {
           "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
           "url": "https://www.zhihu.com/question/2050239948306092201",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 06时05分]"
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 10时14分]"
         },
         {
           "title": "英国首相在G7峰会兜售能源与AI项目获13亿英镑投资",
@@ -47,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -81,20 +82,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
-        },
-        {
-          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
-          "url": "https://www.cls.cn/detail/2401228",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时05分]"
         },
         {
           "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
@@ -102,7 +92,19 @@
           "source": "知乎",
           "ranks": [
             13,
-            6
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 10时14分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -189,6 +191,28 @@
           "time_info": "00时19分"
         },
         {
+          "title": "GENERAL ATLANTIC据悉洽谈领投快手视频AI部门20亿美元融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3120618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "曝微信正测试AI支付功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%AE%E4%BF%A1%E6%AD%A3%E6%B5%8B%E8%AF%95AI%E6%94%AF%E4%BB%98%E5%8A%9F%E8%83%BD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
           "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
           "url": "https://wallstreetcn.com/livenews/3120418",
           "source": "华尔街见闻-快讯",
@@ -200,6 +224,28 @@
           "time_info": "00时19分"
         },
         {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -209,13 +255,283 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "智谱：上线并开源GLM-5.2",
+          "url": "https://wallstreetcn.com/livenews/3120601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "华泰证券：国产AI芯片正迎来涨价窗口",
+          "url": "https://wallstreetcn.com/livenews/3120586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股稀土永磁板块盘中震荡走弱，三川智慧跌超7%，中铝国际跌超6%，龙磁科技、中科磁业、东方锆业、英洛华等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260617094811804800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "马斯克已接近实现第二个万亿美元目标的三分之一",
+          "url": "https://wallstreetcn.com/livenews/3120510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "A股存储芯片板块震荡拉升，南亚新材涨超11%，沃格光电封板涨停，超颖电子、兴森科技涨超7%，深南电路、壹石通、盛美上海等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617094520117800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "商业航天概念低开高走，再升科技、九鼎新材双双涨停，上海瀚讯涨超10%，西测测试、航宇科技、超捷股份涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3120624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
+          "url": "https://www.zhihu.com/question/2049776018660103123",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 06时05分]"
+        },
+        {
+          "title": "马斯克称「SpaceX 到 2030 年可能实现 1 万亿美元收入」，实现的概率高吗？",
+          "url": "https://www.zhihu.com/question/2050153770697188554",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 06时05分]"
+        },
+        {
+          "title": "A股玻纤板块震荡反弹，山东玻纤、中国巨石封板涨停，中材科技、长海股份、国际复材、宏和科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617094351059800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "CPO概念股低开高走，光华科技3连板，一博科技涨超10%，南亚新材、超声电子、烽火通信、智立方跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3120616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股PET铜箔盘初走强，中一科技涨超13%，诺德股份、光华科技、杭电股份等均封板涨停，双星新材、铜峰电子、洁美科技等跟涨",
+          "url": "https://flash.jin10.com/detail/20260617094035681800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股电子化学品板块盘初延续强势，宏昌电子、光华科技封板涨停，海星股份、中巨芯、奥来德、宏和科技、国瓷材料跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617093819198800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股磷化工震荡回调，东江环保、兴福电子跌超5%，*ST威领一字跌停，金正大、六国化工、川恒科技、川金诺等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260617093727435800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "恒指高开0.01%，报24495.85点；恒生科技指数跌0.47%。阿里巴巴涨逾1%，MINIMAX、华虹宏力、地平线机器人跌逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3120602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股印制电路板板块盘初异动拉升，一博科技涨超10%，宝鼎科技、满坤科技、深南电路、中京电子、超声电子等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617093338742800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1%，成分股Lumentum目前跌超9.4%，英特尔跌6.5%，Strategy跌超4.6%，AMD、科磊、迈威尔科技、美光科技、博通、闪迪至少跌约3.4%，拼多多跌超2.8%，阿斯麦ADR跌超2.7% 半导体指数跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3120407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "A股玻璃基板概念板块盘初延续强势，旗滨集团三连板，长信科技涨超10%，力诺药包、美迪凯、沃格光电、帝尔激光等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617093256619800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "A股有机硅概念板块盘初回调，金三江跌超10.5%，和远气体、三孚新材跌超5%，新安股份、东岳硅材、皇马科技等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260617093134195800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "道指创收盘历史新高、逼近5.2万点，银行指数创新高，纳指科技指数跌约2.4%，半导体指数5.7%",
+          "url": "https://wallstreetcn.com/livenews/3120483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "《构建更加公正合理的全球治理体系：中国的理念、倡议与行动》白皮书发布",
+          "url": "https://wallstreetcn.com/livenews/3120632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "老哥与游戏NPC同居被分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "我国5月份经济数据发布",
+          "url": "https://www.douyin.com/hot/2537562",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
         {
           "title": "26岁游戏代练被母亲骗进戒网瘾机构",
           "url": "https://s.weibo.com/weibo?q=%2326%E5%B2%81%E6%B8%B8%E6%88%8F%E4%BB%A3%E7%BB%83%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%AA%97%E8%BF%9B%E6%88%92%E7%BD%91%E7%98%BE%E6%9C%BA%E6%9E%84%23&t=31&band_rank=2&Refer=top",
@@ -245,22 +561,24 @@
           "source": "抖音",
           "ranks": [
             21,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 10时14分]"
         },
         {
           "title": "炽夏全员玩游戏童心未泯",
           "url": "https://www.douyin.com/hot/2537067",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 06时05分]"
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 10时14分]"
         },
         {
           "title": "沙特媒体发布美伊14点谅解备忘录条款（对比伊媒版本）",
@@ -269,7 +587,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -280,7 +598,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -291,70 +609,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "马斯克已接近实现第二个万亿美元目标的三分之一",
-          "url": "https://wallstreetcn.com/livenews/3120510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
         {
-          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
-          "url": "https://www.zhihu.com/question/2049776018660103123",
-          "source": "知乎",
+          "title": "26岁游戏代练被母亲骗进戒网瘾机构",
+          "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E6%B8%B8%E6%88%8F%E4%BB%A3%E7%BB%83%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%AA%97%E8%BF%9B%E6%88%92%E7%BD%91%E7%98%BE%E6%9C%BA%E6%9E%84",
+          "source": "百度热搜",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时05分]"
-        },
-        {
-          "title": "马斯克称「SpaceX 到 2030 年可能实现 1 万亿美元收入」，实现的概率高吗？",
-          "url": "https://www.zhihu.com/question/2050153770697188554",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 06时05分]"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至1%，成分股Lumentum目前跌超9.4%，英特尔跌6.5%，Strategy跌超4.6%，AMD、科磊、迈威尔科技、美光科技、博通、闪迪至少跌约3.4%，拼多多跌超2.8%，阿斯麦ADR跌超2.7% 半导体指数跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3120407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "道指创收盘历史新高、逼近5.2万点，银行指数创新高，纳指科技指数跌约2.4%，半导体指数5.7%",
-          "url": "https://wallstreetcn.com/livenews/3120483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "10时14分"
         }
       ]
     },
@@ -368,11 +636,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 10时14分]"
         }
       ]
     }
