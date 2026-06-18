@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-18T16:29:48.208940+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-06-18T22:42:37.380485+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
         {
           "title": "港股跌幅扩大，恒生指数跌1.3%，恒生科技指数跌1.4%，智谱逆市涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3121353",
@@ -54,6 +65,19 @@
           "time_info": "[02时10分 ~ 05时51分]"
         },
         {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 22时42分]"
+        },
+        {
           "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
           "url": "https://www.zhihu.com/question/2050269478747889665",
           "source": "知乎",
@@ -76,18 +100,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时10分 ~ 05时51分]"
-        },
-        {
-          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
-          "url": "https://www.zhihu.com/question/2050272536898835791",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 16时29分]"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -141,9 +153,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "吴清陆家嘴论坛讲话：扩大第五套标准适用范围至AI领域，支持港股公司境内上市",
@@ -174,7 +197,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -229,9 +252,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850554&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/GMOMYRjGaax9gpq7FcO2G.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260618220943916800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "SK海力士下一代AI内存芯片样品已向客户交付",
@@ -243,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "AI贡献最大的一道题出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%B4%A1%E7%8C%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E9%81%93%E9%A2%98%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "DeepSeek获510亿融资 投资方公布",
@@ -295,7 +340,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -317,7 +362,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
@@ -325,7 +370,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "《凡人修仙传》动画最新两集遭到全网差评，真实原因如何？",
@@ -340,6 +385,30 @@
           "time_info": "[02时10分 ~ 05时51分]"
         },
         {
+          "title": "2027QS世界大学排名发布",
+          "url": "https://www.douyin.com/hot/2539261",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 22时42分]"
+        },
+        {
+          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
+          "url": "https://www.zhihu.com/question/2050522294171039185",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 22时42分]"
+        },
+        {
           "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
           "url": "https://wallstreetcn.com/livenews/3121179",
           "source": "华尔街见闻-快讯",
@@ -351,15 +420,41 @@
           "time_info": "02时11分"
         },
         {
-          "title": "2027QS世界大学排名发布",
-          "url": "https://www.douyin.com/hot/2539261",
-          "source": "抖音",
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3121773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "老哥与游戏NPC同居被分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18,
+            20,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 22时42分]"
+        },
+        {
+          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
+          "url": "https://www.cls.cn/detail/2403573",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "22时42分"
         },
         {
           "title": "周三（6月17日）纽约尾盘，美国10年期基准国债收益率上涨4.74个基点，报4.4869%，日内过半时间窄幅震荡于平盘4.44%下方，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）之前60秒刷新日低至4.4217%，随后反弹至4.47%上方，随着美联储主席沃什新闻发布会开始，再次加速上扬，新闻发布会结束后，交易员持续消化美联储加息前景、03:52涨至4.4968%刷新日高。 两年期美债收益率涨13.28个基点，报4.1843%，日内交投于4.0390%-4.2181%区间，美联储决议声明发布前大致持稳于4.05%附近，03:50创2025年2月24日（当天顶部4.2215%）以来盘中最高，逼近当年2月12日顶部4.3822%。",
@@ -373,17 +468,6 @@
           "time_info": "05时51分"
         },
         {
-          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
-          "url": "https://www.zhihu.com/question/2050522294171039185",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "提醒：北京时间02:00，美联储发布FOMC利率决议声明和经济预期概要（SEP，含利率预测点阵图）。",
           "url": "https://wallstreetcn.com/livenews/3121177",
           "source": "华尔街见闻-快讯",
@@ -393,20 +477,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "老哥与游戏NPC同居被分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时10分 ~ 16时29分]"
         },
         {
           "title": "26 岁成年人在家做游戏代练被送入戒网瘾机构遭非法拘禁，背后体现何问题？父母有权限制成年子女人身自由吗？",
@@ -465,6 +535,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 02时11分]"
+        },
+        {
+          "title": "八年开发终于修成正果，如何评价游戏《太吾绘卷》1.0 完全版？",
+          "url": "https://www.zhihu.com/question/2050628077214852981",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 22时42分]"
         },
         {
           "title": "国际足联发布“梅罗马”最新合照",
@@ -555,24 +637,24 @@
           "time_info": "02时11分"
         },
         {
+          "title": "如何评价《凡人修仙传》团队 6 月 18 日发布的声明内容？",
+          "url": "https://www.zhihu.com/question/2051002779523618174",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "香港天文台发布黄色暴雨警告。",
           "url": "https://wallstreetcn.com/livenews/3121529",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "八年开发终于修成正果，如何评价游戏《太吾绘卷》1.0 完全版？",
-          "url": "https://www.zhihu.com/question/2050628077214852981",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -635,7 +717,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -661,15 +743,37 @@
           "time_info": "[02时10分 ~ 05时51分]"
         },
         {
+          "title": "七部门重磅发文：鼓励投早投小投硬科技，2028年培育一批平台经济单项冠军",
+          "url": "https://www.cls.cn/detail/2403507",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "恒生指数收盘跌1.59%，恒生科技指数跌1.39%",
           "url": "https://wallstreetcn.com/livenews/3121550",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2403717",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "A股机器人板块盘中异动拉升，晋拓股份、天润工业封板涨停，宁波方正、华依科技、埃斯顿、领益智造、锋龙股份跟涨。",
@@ -700,7 +804,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -711,7 +815,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -738,6 +842,17 @@
           "time_info": "05时51分"
         },
         {
+          "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至7.9%。",
+          "url": "https://wallstreetcn.com/livenews/3121759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
           "url": "https://wallstreetcn.com/livenews/3121254",
           "source": "华尔街见闻-快讯",
@@ -755,7 +870,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -777,7 +892,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -788,7 +903,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -824,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超4%，全球科技股指数ETF、全球航空业ETF涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3121739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         }
       ]
     },
