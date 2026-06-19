@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T10:40:19.799752+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-06-19T16:57:36.016732+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -19,6 +19,19 @@
           "time_info": "[02时38分 ~ 06时01分]"
         },
         {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 16时57分]"
+        },
+        {
           "title": "Claude：Claude Code现在支持Artifacts。",
           "url": "https://wallstreetcn.com/livenews/3121857",
           "source": "华尔街见闻-快讯",
@@ -28,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
@@ -41,18 +65,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 10时40分]"
-        },
-        {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 10时40分]"
         },
         {
           "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
@@ -77,6 +89,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 10时40分]"
+        },
+        {
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 16时57分]"
+        },
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 16时57分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -108,7 +144,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -119,7 +155,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -146,26 +182,26 @@
           "time_info": "06时01分"
         },
         {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "16时57分"
         },
         {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
-          "source": "澎湃新闻",
+          "title": "深圳打造生物医药特殊物品通关AI服务平台",
+          "url": "https://wallstreetcn.com/livenews/3122027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "16时57分"
         },
         {
           "title": "Alphabet、Visa等公司释放加强AI监管信号",
@@ -185,9 +221,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "AI预测科隆Major夺冠队伍",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E9%98%9F%E4%BC%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "Snap因成本问题而拆分人工智能视频（AI Video）团队为新公司Dotmo。（TechCrunch）",
@@ -218,7 +276,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -243,12 +301,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "知名作家承认新书AI写作比重占一半",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2403717",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时38分 ~ 16时57分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 16时57分]"
+        },
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "周四（6月18日），美股存储芯片与硬件供应链指数涨6.29%，报266.26点，突破6月15日所创收盘历史最高位253.05点。 成分股全面上涨，闪迪收涨11.54%，时隔两个交易日再创收盘历史新高；美光科技涨8.70%，时隔两天再创收盘历史新高；Rambus涨8.51%，泰瑞达涨7.19%，西部数据涨4.79%，连续四天创收盘历史新高，6月11日以来累计上涨52.27%；应用材料涨4.08%，拉姆研究涨3.97%，希捷科技涨0.39%，也连续四天创新高。",
+          "url": "https://wallstreetcn.com/livenews/3121904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（6月18日），美国科技股七巨头（Magnificent 7）指数涨1.52%，报213.40点。 “超大”市值科技股指数涨2.27%，报442.43点。",
+          "url": "https://wallstreetcn.com/livenews/3121901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "深圳步锐科技 甲酰胺",
+          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%AD%A5%E9%94%90%E7%A7%91%E6%8A%80%20%E7%94%B2%E9%85%B0%E8%83%BA&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "马斯克：特斯拉的信用评级低得“荒谬”。",
+          "url": "https://wallstreetcn.com/livenews/3121946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
+          "url": "https://wallstreetcn.com/livenews/3121891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "周四四（6月18日），美股行业ETF多数收涨，半导体ETF涨5.76%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至多涨3.75%，网络股指数ETF涨1.11%，医疗业ETF、金融业ETF则至多收跌0.89%，能源业ETF跌1.65%。",
+          "url": "https://wallstreetcn.com/livenews/3121887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价《凡人修仙传》团队 6 月 18 日发布的声明内容？",
@@ -261,6 +438,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 10时40分]"
+        },
+        {
+          "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 16时57分]"
         },
         {
           "title": "老哥与游戏NPC同居被分手",
@@ -300,25 +490,13 @@
           "time_info": "[02时38分 ~ 06时01分]"
         },
         {
-          "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 10时40分]"
-        },
-        {
           "title": "日经225指数涨幅收窄，最新上涨0.25%。",
           "url": "https://flash.jin10.com/detail/20260619095355305800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -334,100 +512,26 @@
           "time_info": "02时38分"
         },
         {
+          "title": "【瑞士宣布比尔根山美伊会谈已取消】瑞士外交部19日在其网站发布声明说，原定于当天在瑞士中部卢塞恩附近的比尔根山举行的美伊会谈已取消。 声明说，美国、伊朗、卡塔尔和巴基斯坦原定举行的会谈已被推迟。“瑞士仍愿为这些会谈提供便利。有关比尔根山的相关筹备工作也将继续进行。” 瑞士广播电视公司网站稍早前报道说，当天，比尔根山地区景象繁忙，挂着外交牌照的豪华轿车、正在执勤的警察和军队警戒线触目可见。 瑞士方面为安排美国和伊朗计划19日在比尔根山举行的会谈，早在17日已经批准部署军队，提供安保支持，同时批准在会谈期间临时关闭比尔根山区的部分空域。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3122018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "国家统计局首次发布社会消费商品和服务零售总额指标，其对观察中国消费市场有何意义？",
           "url": "https://www.zhihu.com/question/2050179245612216708",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2403717",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 10时40分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "周四（6月18日），美股存储芯片与硬件供应链指数涨6.29%，报266.26点，突破6月15日所创收盘历史最高位253.05点。 成分股全面上涨，闪迪收涨11.54%，时隔两个交易日再创收盘历史新高；美光科技涨8.70%，时隔两天再创收盘历史新高；Rambus涨8.51%，泰瑞达涨7.19%，西部数据涨4.79%，连续四天创收盘历史新高，6月11日以来累计上涨52.27%；应用材料涨4.08%，拉姆研究涨3.97%，希捷科技涨0.39%，也连续四天创新高。",
-          "url": "https://wallstreetcn.com/livenews/3121904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（6月18日），美国科技股七巨头（Magnificent 7）指数涨1.52%，报213.40点。 “超大”市值科技股指数涨2.27%，报442.43点。",
-          "url": "https://wallstreetcn.com/livenews/3121901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "马斯克：特斯拉的信用评级低得“荒谬”。",
-          "url": "https://wallstreetcn.com/livenews/3121946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
-          "url": "https://wallstreetcn.com/livenews/3121891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "周四四（6月18日），美股行业ETF多数收涨，半导体ETF涨5.76%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至多涨3.75%，网络股指数ETF涨1.11%，医疗业ETF、金融业ETF则至多收跌0.89%，能源业ETF跌1.65%。",
-          "url": "https://wallstreetcn.com/livenews/3121887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         }
       ]
     }
