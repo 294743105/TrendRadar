@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T18:25:09.238799+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-06-20T21:21:00.801615+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 10时02分]"
+        },
+        {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 21时21分]"
         },
         {
           "title": "第一次见心眼这么多的AI",
@@ -56,40 +69,6 @@
           "time_info": "[05时01分 ~ 18时25分]"
         },
         {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 18时25分]"
-        },
-        {
-          "title": "美国电网扛不住AI热潮",
-          "url": "https://wallstreetcn.com/livenews/3122234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "腾讯：微信正在灰度测试 AI助手“小微”",
-          "url": "https://wallstreetcn.com/livenews/3122233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "男子称高价挂专家号 医生竟悄悄问AI",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%AB%98%E4%BB%B7%E6%8C%82%E4%B8%93%E5%AE%B6%E5%8F%B7+%E5%8C%BB%E7%94%9F%E7%AB%9F%E6%82%84%E6%82%84%E9%97%AEAI",
           "source": "百度热搜",
@@ -100,6 +79,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时41分 ~ 18时25分]"
+        },
+        {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://wallstreetcn.com/livenews/3122234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 21时21分]"
+        },
+        {
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时21分]"
+        },
+        {
+          "title": "腾讯：微信正在灰度测试 AI助手“小微”",
+          "url": "https://wallstreetcn.com/livenews/3122233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 21时21分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -126,15 +141,48 @@
           "time_info": "[10时02分 ~ 15时41分]"
         },
         {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "1年500元你会把脸卖给AI短剧吗",
@@ -165,7 +213,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -176,7 +224,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -239,7 +287,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "整活?小钰把Bin塞进游戏界面",
@@ -251,8 +299,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 18时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 21时21分]"
         },
         {
           "title": "G7峰会背后的权力游戏",
@@ -316,6 +364,17 @@
           "time_info": "[10时02分 ~ 15时41分]"
         },
         {
+          "title": "GTA6最新实机逐帧解析",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "钉钉陈宇森发布全员信，将钉钉、悟空两大 2B 业务拆分，分别交由朱鸿、束骏亮独立负责，反映了哪些战略意图？",
           "url": "https://www.zhihu.com/question/2050973852595908631",
           "source": "知乎",
@@ -336,6 +395,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
+          "title": "国新办将于下星期一下午3时举行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3122239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "如何看待南方都市报报道 26 岁男子因在家做游戏代练被母亲送进网瘾特训基地？",
@@ -374,7 +444,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -386,8 +456,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 18时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 21时21分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 21时21分]"
         },
         {
           "title": "在太空健身是什么体验",
@@ -401,17 +484,27 @@
           "time_info": "[01时47分 ~ 10时02分]"
         },
         {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
+          "title": "这个端午科技范十足家国情更浓",
+          "url": "https://www.douyin.com/hot/2541868",
+          "source": "抖音",
           "ranks": [
-            7,
-            8,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 18时25分]"
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 21时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：索马里兰拥有丰富的自然资源，包括前景可观的稀土矿产、石油和天然气资源，以及一个尚未开发的采掘行业。以色列在创新和科技领域的领先地位，与索马里兰尚未开发的潜力和战略地理位置堪称天然伙伴。",
@@ -425,16 +518,16 @@
           "time_info": "15时41分"
         },
         {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            9
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时02分 ~ 18时25分]"
+          "time_info": "[18时24分 ~ 21时21分]"
         },
         {
           "title": "吴清表示「严查严处借科技之名蹭热点、炒概念甚至操纵市场，内幕交易等违法违规行为」，释放了什么监管信号？",
@@ -447,17 +540,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 10时02分]"
-        },
-        {
-          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
-          "url": "https://wallstreetcn.com/articles/3775107",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "太空算力相比地面云有什么独有优势？",
@@ -485,8 +567,19 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谁能看懂浪姐雷霆团秀",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E8%83%BD%E7%9C%8B%E6%87%82%E6%B5%AA%E5%A7%90%E9%9B%B7%E9%9C%86%E5%9B%A2%E7%A7%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
         {
           "title": "报道：英国内阁大臣亚历山大呼吁斯塔默辞职",
           "url": "https://wallstreetcn.com/livenews/3122148",
