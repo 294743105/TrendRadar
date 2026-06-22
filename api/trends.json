@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-06-23T00:23:50.378856+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-23T05:55:26.394227+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
         {
           "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
           "url": "https://wallstreetcn.com/articles/3775154",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
         },
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
@@ -37,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
         },
         {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
@@ -48,8 +61,30 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
+        },
+        {
+          "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
+          "url": "https://wallstreetcn.com/livenews/3123036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "05时55分"
+        },
+        {
+          "title": "报道：高通接近收购AI芯片初创公司Modular",
+          "url": "https://wallstreetcn.com/livenews/3123034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "数学博士生 2 年研究被 AI 抢发，这种现象会越来越普遍吗？如何看待 AI 对数学研究的冲击？",
@@ -74,6 +109,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
+          "url": "https://flash.jin10.com/detail/20260623043807971800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
           "title": "SpaceX与美国开源人工智能（AI）初创公司Reflection签署价值至多63亿美元的算力协议。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3122934",
           "source": "华尔街见闻-快讯",
@@ -94,62 +140,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "巴拉圭女球迷谈爆火出圈",
-          "url": "https://www.toutiao.com/trending/7653242664464777262/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
         },
         {
-          "title": "美伊谈判联合声明发布：各方达成路线图，力争在60天内达成最终协议",
-          "url": "https://wallstreetcn.com/articles/3775153",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "崩坏因缘精灵最新实机",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B4%A9%E5%9D%8F%E5%9B%A0%E7%BC%98%E7%B2%BE%E7%81%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "说唱巅峰发布会好热闹",
-          "url": "https://www.douyin.com/hot/2543584",
-          "source": "抖音",
+          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
+          "url": "https://flash.jin10.com/detail/20260623043203412800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "05时55分"
+        },
+        {
+          "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
+          "url": "https://wallstreetcn.com/livenews/3123013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "罕见券商股与科技股共振，这一波行情或许不同？",
@@ -159,19 +177,117 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块收跌3.83%，可选消费板块跌2.33%，信息技术/科技板块跌0.04%，能源板块涨1.24%，房地产板块涨1.38%。",
+          "url": "https://wallstreetcn.com/livenews/3123020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "05时55分"
+        },
+        {
+          "title": "周一（6月22日），美股行业ETF多数收涨，生物科技指数ETF收涨1.94%，半导体ETF涨1.37%，能源业ETF涨1.28%，全球科技股指数ETF涨0.59%，可选消费ETF则收跌1.70%，网络股指数ETF跌2.24%。",
+          "url": "https://wallstreetcn.com/livenews/3123018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.35%，报5986.28点，逼近2024年9月23日收盘位5917.72点。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.75%，中国科技指数ETF（CQQQ）收涨0.02%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.70%，XtrackersHarvest中证50（ASHS）收涨2.15%，德银嘉实沪深300指数ETF（ASHR）收涨2.64%。",
+          "url": "https://wallstreetcn.com/livenews/3123011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美伊谈判联合声明发布：各方达成路线图，力争在60天内达成最终协议",
+          "url": "https://wallstreetcn.com/articles/3775153",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
+        },
+        {
+          "title": "巴拉圭女球迷谈爆火出圈",
+          "url": "https://www.toutiao.com/trending/7653242664464777262/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
+        },
+        {
+          "title": "崩坏因缘精灵最新实机",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B4%A9%E5%9D%8F%E5%9B%A0%E7%BC%98%E7%B2%BE%E7%81%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
+        },
+        {
+          "title": "说唱巅峰发布会好热闹",
+          "url": "https://www.douyin.com/hot/2543584",
+          "source": "抖音",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时55分]"
+        },
+        {
+          "title": "伊朗向中方通报伊美谈判最新情况",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%8A%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     }
