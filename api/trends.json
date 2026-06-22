@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T05:02:43.137789+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-06-22T10:17:18.698325+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
@@ -36,11 +36,23 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
@@ -51,8 +63,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
+        },
+        {
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
         },
         {
           "title": "GPT-5.6或将下周问世：从“模型”迈向“可执行Agent”，定价或仅为竞品1/3",
@@ -62,19 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
-        },
-        {
-          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
-          "url": "https://www.cls.cn/detail/2404757",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
         },
         {
           "title": "父亲节用AI表达爱",
@@ -87,97 +100,78 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 05时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "油价最新调整通知",
-          "url": "https://www.douyin.com/hot/2542647",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
         },
         {
-          "title": "据伊朗国家媒体：伊朗谈判团队一名成员表示，关于伊朗石油制裁豁免的草案已经最终敲定，预计将很快看到相关豁免的正式发布。",
-          "url": "https://flash.jin10.com/detail/20260622004045142800",
-          "source": "金十数据",
+          "title": "香港恒生指数跌幅扩大至1.86%，恒生科技指数跌1.53%。智谱涨超30%。",
+          "url": "https://wallstreetcn.com/livenews/3122481",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            5,
             6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
-          "title": "整活?小钰把Bin塞进游戏界面",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355287&amp;topic_name=%E6%95%B4%E6%B4%BB%3F%E5%B0%8F%E9%92%B0%E6%8A%8ABin%E5%A1%9E%E8%BF%9B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
-        },
-        {
-          "title": "伊朗谈判员：（特朗普政府）很快将发布关于豁免伊朗石油的决定。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3122374",
+          "title": "港股智谱盘中总市值突破1万亿港元，年内涨超1900%，现涨超12%。",
+          "url": "https://wallstreetcn.com/livenews/3122474",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "10时17分"
         },
         {
-          "title": "据Axios记者：一名美国官员称，伊朗代表此前已同意在会议开始时安排媒体简报活动。“他们甚至带来了本国国家媒体进行报道，这些媒体已在活动现场提前就位。但尽管如此，他们在看到现场媒体数量后仍离开了会议，随后通过国家媒体发布了对情况的不准确描述，”该美方官员称。",
-          "url": "https://flash.jin10.com/detail/20260621235425288800",
+          "title": "“多光谱AI技术企业”海清智元(01392.HK)今日港股上市，获超7100倍认购，现涨超280%。",
+          "url": "https://flash.jin10.com/detail/20260622095116904800",
           "source": "金十数据",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "伊朗谈判代表团团长回应特朗普最新威胁：我们根本不把美国人的威胁放在眼里，奉劝他们最好谨言慎行",
-          "url": "https://wallstreetcn.com/livenews/3122372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "10时17分"
+        },
+        {
+          "title": "港股人工智能股部分走高，智谱(02513.HK)涨超30%，长飞光纤光缆(06869.HK)涨超20%，MINIMAX-W(00100.HK)涨超12%，英诺赛科(02577.HK)涨超8%，澜起科技(06809.HK)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260622094809849800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "港股智谱(02513.HK)持续冲高，股价突破2500港元，现涨超20%。",
+          "url": "https://flash.jin10.com/detail/20260622093922464800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "港股智谱(02513.HK)盘中总市值突破1万亿港元，年内涨超1900%，现涨超12%。",
+          "url": "https://flash.jin10.com/detail/20260622093223768800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技赋能 全国夏播粮食进度近七成",
@@ -187,8 +181,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
         },
         {
           "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
@@ -198,30 +192,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
         },
         {
           "title": "市场“不可调和的矛盾”：如何给科技股估值",
           "url": "https://wallstreetcn.com/articles/3775123",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
+        },
+        {
+          "title": "【早报】美油大幅高开，伊朗代表团离开谈判地点；多只科技牛股本周解禁；比利时0-0平伊朗、西班牙获首胜",
+          "url": "https://www.cls.cn/detail/2405023",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "“加息”涨科技？",
           "url": "https://wallstreetcn.com/articles/3775132",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -244,6 +251,202 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 05时02分]"
+        },
+        {
+          "title": "科创50指数涨超2%，成分股中，源杰科技涨超10%，华润微涨超8%，中科飞测涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260622095208175800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "港股低开低走，恒生指数跌超2%，恒生科技指数跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260622094542658800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "源杰科技股价续创新高突破1800元，现涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260622094514842800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "香港恒生指数开盘跌0.47%，恒生科技指数跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3122464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "A股算力租赁板块拉升，特发信息创新高，天娱数科涨停，中青宝涨超10%，行云科技、日科化学、莲花控股、中富通、艾可蓝跟涨。",
+          "url": "https://flash.jin10.com/detail/20260622093410306800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "油价最新调整通知",
+          "url": "https://www.douyin.com/hot/2542647",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 05时02分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗谈判团队一名成员表示，关于伊朗石油制裁豁免的草案已经最终敲定，预计将很快看到相关豁免的正式发布。",
+          "url": "https://flash.jin10.com/detail/20260622004045142800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国ITC发布对陀螺稳定电动独轮车及其组件和下游产品的337部分终裁",
+          "url": "https://wallstreetcn.com/livenews/3122489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "整活?小钰把Bin塞进游戏界面",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355287&amp;topic_name=%E6%95%B4%E6%B4%BB%3F%E5%B0%8F%E9%92%B0%E6%8A%8ABin%E5%A1%9E%E8%BF%9B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 10时17分]"
+        },
+        {
+          "title": "苹果折叠屏或于9月发布",
+          "url": "https://www.douyin.com/hot/2542922",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "卡塔尔和巴基斯坦发布美伊谈判联合声明：各方达成路线图，力争60天内达成最终协议",
+          "url": "https://wallstreetcn.com/livenews/3122469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "伊朗谈判员：（特朗普政府）很快将发布关于豁免伊朗石油的决定。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3122374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "据Axios记者：一名美国官员称，伊朗代表此前已同意在会议开始时安排媒体简报活动。“他们甚至带来了本国国家媒体进行报道，这些媒体已在活动现场提前就位。但尽管如此，他们在看到现场媒体数量后仍离开了会议，随后通过国家媒体发布了对情况的不准确描述，”该美方官员称。",
+          "url": "https://flash.jin10.com/detail/20260621235425288800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "伊朗谈判代表团团长回应特朗普最新威胁：我们根本不把美国人的威胁放在眼里，奉劝他们最好谨言慎行",
+          "url": "https://wallstreetcn.com/livenews/3122372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "卡塔尔外交部22日发布美伊谈判联合声明。声明说，谈判取得了“令人鼓舞的进展”，包括建立了进一步技术性会谈的机制。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3122462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "伊朗：卡塔尔和巴基斯坦将发布伊美达成协议文件",
+          "url": "https://wallstreetcn.com/livenews/3122457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         }
       ]
     }
