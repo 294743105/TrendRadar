@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-24T15:32:37.334926+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-06-24T18:41:02.112947+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 18时41分]"
+        },
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2407151",
@@ -31,16 +44,55 @@
           "time_info": "[09时55分 ~ 15时32分]"
         },
         {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
-          "source": "华尔街见闻",
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
           "ranks": [
-            8,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 15时32分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时41分]"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            19,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 18时41分]"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            23,
+            20,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 18时41分]"
+        },
+        {
+          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
+          "url": "https://www.cls.cn/detail/2407855",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "AI算力新变局：谁能动英伟达奶酪",
@@ -52,6 +104,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 05时22分]"
+        },
+        {
+          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
+          "url": "https://www.cls.cn/detail/2408054",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
@@ -74,44 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 15时32分]"
-        },
-        {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            23,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 15时32分]"
         },
         {
           "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
@@ -139,6 +164,18 @@
           "time_info": "[01时44分 ~ 05时22分]"
         },
         {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 18时41分]"
+        },
+        {
           "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
           "url": "https://wallstreetcn.com/articles/3775294",
           "source": "华尔街见闻",
@@ -149,6 +186,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时55分 ~ 15时32分]"
+        },
+        {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时41分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -184,15 +233,37 @@
           "time_info": "[01时44分 ~ 05时22分]"
         },
         {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
+          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
+          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
+          "title": "为什么豆包 AI 老是会被调侃成糖包？取这个名字，是不是从一开始就没打算走专业 AI 路线？",
+          "url": "https://www.zhihu.com/question/2035742574737143093",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
+        },
+        {
+          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2408036",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "张北的风“点亮”AI大脑",
@@ -240,17 +311,6 @@
           "time_info": "05时22分"
         },
         {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
@@ -279,7 +339,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -290,7 +350,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -331,7 +391,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -341,8 +401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 18时41分]"
         },
         {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
@@ -411,6 +471,18 @@
           "time_info": "09时56分"
         },
         {
+          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时41分]"
+        },
+        {
           "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
           "url": "https://www.cls.cn/detail/2407435",
           "source": "财联社热门",
@@ -431,6 +503,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 05时22分]"
+        },
+        {
+          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
+          "url": "https://www.cls.cn/detail/2407987",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "避险蔓延全球泡沫担忧升温 欧美科技股暴跌加剧",
@@ -466,15 +549,26 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
-          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
-          "source": "澎湃新闻",
+          "title": "【五部门联合启动工业5G独立专网试点】工业和信息化部今天（24日）联合国务院国资委等五部门共同启动工业5G独立专网试点，通过机制创新支持5G深度赋能关键行业领域。工业5G独立专网是指由工业企业主导建设接入网、核心网等关键设施，可不依赖于公共网络独立运行的企业专属5G网络。试点工作将支持原材料、装备制造、消费品、电子信息、国防科技、能源交通等行业领域的大型特大型企业建设独立专网，鼓励“5G+工业互联网”融合应用城市试点率先开展独立专网建设工作。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3123950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "昀冢科技：控股子公司拟设立项目公司实施高性能多层片式陶瓷电容器生产项目，拟投资总额为15亿元",
+          "url": "https://wallstreetcn.com/livenews/3123945",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "18时41分"
         },
         {
           "title": "A股创新药板块盘初走高，海欣股份涨停，景峰医药涨超9%，迦南科技、朗坤科技、新华制药涨超7%，凯莱英、双鹭药业跟涨。",
@@ -499,6 +593,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "红板科技：拟投资不超9亿元建设高阶HDI精密电路板生产线智能化改造项目",
+          "url": "https://wallstreetcn.com/livenews/3123943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "周二（6月23日），美股行业ETF多数收涨，区域银行ETF收涨2.55%，医疗业ETF、银行业ETF、能源业ETF也至多涨2.31%，网络股指数ETF则收跌0.49%，可选消费ETF跌2.71%，科技行业ETF跌3.67%，全球科技股指数ETF跌5.33%，半导体ETF跌7.01%。",
           "url": "https://wallstreetcn.com/livenews/3123632",
           "source": "华尔街见闻-快讯",
@@ -519,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "苏州英特模科技股份有限公司创业板IPO审核状态变更为“已问询”，保荐机构为华泰联合。",
+          "url": "https://wallstreetcn.com/livenews/3123931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "A股光纤概念盘初活跃，泰和新材、航天电器、通鼎互联涨停，宏柏新材涨超6%，光库科技、永鼎股份涨超5%。",
@@ -593,7 +709,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -623,7 +739,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普最新支持率公布",
@@ -658,6 +774,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 05时22分]"
+        },
+        {
+          "title": "游戏里的「暴击率 +5%」和「暴击伤害 +10%」，哪个更好？",
+          "url": "https://www.zhihu.com/question/2050162370757055174",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”",
@@ -730,6 +857,17 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
+          "title": "水利部和中国气象局6月24日18时联合发布橙色山洪灾害气象预警",
+          "url": "https://flash.jin10.com/detail/20260624180731804800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "广德车祸受伤3岁男童最新情况",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%BE%B7%E8%BD%A6%E7%A5%B8%E5%8F%97%E4%BC%A43%E5%B2%81%E7%94%B7%E7%AB%A5%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -763,13 +901,24 @@
           "time_info": "05时22分"
         },
         {
+          "title": "中央国债登记结算有限责任公司关于发布民营企业再贷款业务操作指引的通知",
+          "url": "https://flash.jin10.com/detail/20260624175402883800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "如何评价《海贼王》漫画最新的第 1186 话情报？",
           "url": "https://www.zhihu.com/question/2052899132331889720",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -785,13 +934,24 @@
           "time_info": "01时44分"
         },
         {
+          "title": "【A股今年打新有多赚钱？安永：首日平均回报率233%，为近五年最高】安永发布的《中国内地和香港IPO市场报告》显示，2026年上半年，A股经历了一轮显著的估值修复，宏观环境改善、投资者信心提升，市盈率较去年有所上升。A股IPO市场未出现破发，平均首日回报率为233%，位居近五年榜首。（中新经纬）",
+          "url": "https://wallstreetcn.com/livenews/3123915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "假如志愿填报是款游戏",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E6%98%AF%E6%AC%BE%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -799,7 +959,7 @@
     },
     {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "NBA选秀大会陪看",
@@ -821,8 +981,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 18时41分]"
+        },
+        {
+          "title": "NBA2026选秀大会重要结果汇总",
+          "url": "https://www.douyin.com/hot/2546076",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "迪班萨当选NBA状元",
