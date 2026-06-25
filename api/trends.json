@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T05:16:33.065487+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-06-25T09:58:47.824592+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -20,6 +20,19 @@
           "time_info": "[01时47分 ~ 05时16分]"
         },
         {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 09时58分]"
+        },
+        {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
           "url": "https://www.cls.cn/detail/2408036",
           "source": "财联社热门",
@@ -29,6 +42,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 05时16分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "港股人工智能股部分走高，兆易创新(03986.HK)涨超9%，智谱(02513.HK)涨近7%，芯智控股(02166.HK)涨超6%，长飞光纤光缆(06869.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260625094514678800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "韩国轻易带崩华尔街，AI储存线还有多久？",
@@ -42,16 +99,65 @@
           "time_info": "01时47分"
         },
         {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
           "ranks": [
-            6,
-            4
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 09时58分]"
+        },
+        {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 09时58分]"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            21,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 09时58分]"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 09时58分]"
+        },
+        {
+          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
+          "url": "https://wallstreetcn.com/articles/3775422",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时47分 ~ 05时16分]"
+          "time_info": "[05时16分 ~ 09时58分]"
         },
         {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
@@ -65,39 +171,16 @@
           "time_info": "[01时47分 ~ 05时16分]"
         },
         {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
+          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
+          "url": "https://wallstreetcn.com/articles/3775365",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时47分 ~ 05时16分]"
-        },
-        {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 05时16分]"
-        },
-        {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            21,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 05时16分]"
+          "time_info": "[01时47分 ~ 09时58分]"
         },
         {
           "title": "AI 对制造业的影响预计何时显现？",
@@ -112,26 +195,37 @@
           "time_info": "[01时47分 ~ 05时16分]"
         },
         {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
+          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+          "url": "https://www.cls.cn/detail/2408477",
+          "source": "财联社热门",
           "ranks": [
-            27
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 05时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
           "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "09时58分"
         },
         {
           "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
@@ -140,20 +234,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
         {
-          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
-          "url": "https://wallstreetcn.com/articles/3775365",
-          "source": "华尔街见闻",
+          "title": "浙江大学1978年就有AI专业了",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A61978%E5%B9%B4%E5%B0%B1%E6%9C%89AI%E4%B8%93%E4%B8%9A%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "09时58分"
         },
         {
           "title": "Prosus将在法国AI公司Alan投资4亿欧元。",
@@ -173,7 +267,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -184,9 +278,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "科技股连跌数日，AI泡沫要破了？美光甩出业绩“王炸”：AI怀疑论者一夜噤声",
+          "url": "https://flash.jin10.com/detail/20260625093258923800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "恒指低开0.1%，报23388.50点；恒生科技指数涨0.41%。智谱涨近7%，舜宇光学科技涨逾5%，联想集团涨近5%，MINIMAX涨逾4%，哔哩哔哩、中芯国际涨逾3%。携程跌3.9%，阿里巴巴跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3124341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "Hugging Face CEO：来自Hugging Face生态系统的AI模型计划将被集成并部署到高通平台上。",
@@ -195,7 +311,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -206,9 +322,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "黄仁勋：本轮AI基建周期长达数十年",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AC%E8%BD%AEAI%E5%9F%BA%E5%BB%BA%E5%91%A8%E6%9C%9F%E9%95%BF%E8%BE%BE%E6%95%B0%E5%8D%81%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "高通：面向数据中心推出DragonFly（飞龙） C1000 CPU。 发布全新 Dragonfly（飞龙）产品组合，揭晓面向智能体AI时代的全面数据中心路线图。 推出Pam4电信号与光信号传输服务及相关解决方案服务。 与一家超大规模云服务商（Hyperscaler）在新款通信芯片上合作。 预计数据中心将在2027年带来（至少）数十亿美元收入。 汽车业务2026财年年化营收将达到60亿美元。",
@@ -217,7 +344,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -225,7 +352,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
@@ -235,8 +362,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 09时58分]"
+        },
+        {
+          "title": "产业扎根大地 科技赋能民生",
+          "url": "https://www.toutiao.com/trending/7654856924794847268/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 09时58分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -250,15 +388,60 @@
           "time_info": "[01时47分 ~ 05时16分]"
         },
         {
-          "title": "产业扎根大地 科技赋能民生",
-          "url": "https://www.toutiao.com/trending/7654856924794847268/",
-          "source": "今日头条",
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "恒指日内跌幅扩大至1.3%，恒生科技指数跌1.5%，恒生生物科技指数跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3124370",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "A股先进封装概念震荡走强，长电科技4天3板，续创历史新高，盛剑科技、国林科技、芯源微、中科飞测跟涨。",
+          "url": "https://flash.jin10.com/detail/20260625094219250800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 09时58分]"
         },
         {
           "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
@@ -272,16 +455,15 @@
           "time_info": "[01时47分 ~ 05时16分]"
         },
         {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
+          "title": "A股小金属板块盘初活跃，东方钽业、云南锗业盘中创新高，长裕集团5连板，贵研铂业、宜安科技、盛龙股份、锡业股份、东方锆业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260625094151083800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 05时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，工业板块收涨1.18%，电信板块跌0.61%，信息技术/科技板块跌0.64%，能源板块跌1.73%。",
@@ -290,9 +472,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "恒生指数跌1%，恒生科技指数跌1.2%。",
+          "url": "https://flash.jin10.com/detail/20260625093750700800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "数字货币市场快速下跌，比特币跌向5.9万美元",
@@ -312,9 +505,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "存储芯片板块延续涨势，太极实业2连板，股价续创历史新高，汇成股份涨超10%，雅克科技、佰维存储、江波龙、长电科技、深科技、聚辰股份涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3124348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
@@ -323,7 +527,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -334,7 +538,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -345,9 +549,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "A股光纤概念股延续涨势，通鼎互联盘中创新高，宏柏新材3连板，昀冢科技、泰和新材、德龙激光、兴发集团跟涨。",
+          "url": "https://flash.jin10.com/detail/20260625093205734800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "知名投资人提示科技股泡沫破裂风险",
@@ -364,7 +579,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "IGN评测Steam主机",
@@ -373,7 +588,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -445,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "曝阿里巴巴 70~90 亿出售游戏业务灵犀互娱，阿里出售游戏业务有哪些考量？可能影响旗下游戏运行吗？",
+          "url": "https://www.zhihu.com/question/2052816972077692028",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "如果把「中国玩家共同经历过的游戏时代」做成一条时间轴，你觉得哪些瞬间最值得被永久保存？",
