@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-28T00:54:53.887296+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-28T04:48:34.078446+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2054255700407055156",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时48分]"
+        },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
           "url": "https://www.cls.cn/detail/2410894",
@@ -15,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2054255700407055156",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时48分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -37,30 +38,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时48分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时48分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
           "url": "https://wallstreetcn.com/articles/3775658",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时48分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -70,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时48分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -81,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时48分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -92,8 +95,30 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时48分]"
+        },
+        {
+          "title": "曝GPT-5.6创下史上最高作弊率",
+          "url": "https://www.toutiao.com/trending/7656076258098286099/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "04时48分"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     },
@@ -106,11 +131,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E7%88%86%E7%81%AB%E7%9A%84%E2%80%9C%E6%8B%89%E9%9D%A2%E5%93%A5%E2%80%9D%E5%86%8D%E5%BC%80%E5%AE%9E%E4%BD%93%E9%9D%A2%E9%A6%86",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时48分]"
         }
       ]
     }
