@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T04:50:03.675454+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-06-29T10:05:38.658283+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -15,20 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时05分]"
         },
         {
-          "title": "人民日报评“AI脸看腻了”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时05分]"
+        },
+        {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时05分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -42,27 +53,17 @@
           "time_info": "[00时55分 ~ 04时50分]"
         },
         {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
+          "title": "人民日报评“AI脸看腻了”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            4
+            1,
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时50分]"
-        },
-        {
-          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
-          "url": "https://wallstreetcn.com/articles/3775694",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时05分]"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -71,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -80,11 +81,12 @@
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时05分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -132,6 +134,28 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "港股AI应用板块持续走强，迅策(03317.HK)涨超22%，地平线机器人(09660.HK)涨超11%，哔哩哔哩(09626.HK)涨超5%，金蝶国际(00268.HK)、金山云(03896.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629094009026800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
           "url": "https://flash.jin10.com/detail/20260629000635210800",
           "source": "金十数据",
@@ -141,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "A股AI应用板块盘初走强，金山办公涨近7%，易点天下涨超6%，蓝色光标、中文在线等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629093712749800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -157,7 +192,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 4,
+      "match_count": 14,
       "titles": [
         {
           "title": "神23乘组太空出差满月",
@@ -167,8 +202,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 10时05分]"
+        },
+        {
+          "title": "科技仍是主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2411118",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时05分]"
         },
         {
           "title": "券商“把脉”下半年可转债市场投资主线，看好科技板块机遇",
@@ -177,9 +224,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "A股MicroLED概念盘初强势，华工科技封板涨停，华海清科涨近7%，容大感光、华灿光电等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629094218549800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "恒生科技指数盘中涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3125779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -193,21 +262,98 @@
           "time_info": "[00时55分 ~ 04时50分]"
         },
         {
-          "title": "科技仍是主线？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2411118",
-          "source": "财联社热门",
+          "title": "可控核聚变概念开盘活跃，西部超导涨超10%，百利电气、联创光电、国光电气、常辅股份、哈焊华通纷纷高开，消息上，国家重大科技基础设施“聚变堆主机关键系统综合研究设施”最大的超导部件——环向场磁体完成最后制备工艺，并通过专家验收。",
+          "url": "https://wallstreetcn.com/livenews/3125778",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "A股半导体材料板块持续走强，神工股份、有研硅、恒坤新材涨超10%，江丰电子、凯德石英、雅克科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629094050337800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "恒指盘初涨逾1%，百度(09888.HK)涨超6%领涨成分股。恒生科技指数现涨2.88%。",
+          "url": "https://flash.jin10.com/detail/20260629094033731800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "A股半导体产业链延续涨势，银河微电20cm涨停，神工股份涨超10%，宏微科技、扬杰科技、雅克科技、富满微涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3125775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "恒指高开0.69%，报22827.65点；恒生科技指数涨1.6%。网易、携程集团涨超4%，京东集团、美团涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3125769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "A股可控核聚变板块开盘走强，东方钽业、洁美科技盘中创新高，百利电气、雪人集团、联创光电、中核科技、海陆重工涨停，西部超导涨超15%，哈焊华通、常辅股份、国机重装等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629093409910800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "恒生科技指数盘初涨幅快速扩大至2%，地平线机器人(09660.HK)领涨成分股。",
+          "url": "https://flash.jin10.com/detail/20260629093100245800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美国股票基金上周转为资金净流出，受科技板块拖累",
+          "url": "https://wallstreetcn.com/livenews/3125749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "70后农村大妈跳街舞爆火",
@@ -231,6 +377,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 04时50分]"
+        },
+        {
+          "title": "A股游戏板块超跌反弹，神州泰岳涨超10%，完美世界、星辉娱乐、昆仑万维、恺英网络、巨人网络跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629093328113800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "游戏数据被用于军事目的 国安部提醒",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E6%88%8F%E6%95%B0%E6%8D%AE%E8%A2%AB%E7%94%A8%E4%BA%8E%E5%86%9B%E4%BA%8B%E7%9B%AE%E7%9A%84+%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
@@ -246,8 +414,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时05分]"
         }
       ]
     }
