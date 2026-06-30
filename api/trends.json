@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-30T15:41:28.584778+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-06-30T18:47:45.769431+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 18时47分]"
+        },
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
           "url": "https://www.cls.cn/detail/2412084",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 09时59分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 15时41分]"
         },
         {
           "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "宁波力勤资源科技股份有限公司首发申请7月7日上会",
+          "url": "https://flash.jin10.com/detail/20260630182038902800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
@@ -141,6 +152,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "【年中盘点】最热十大板块梳理：半导体设备与材料领涨 CPO、PCB等科技板块赚钱效应火爆",
+          "url": "https://www.cls.cn/detail/2412980",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "A股半导体设备板块延续强势，正帆科技、联得装备涨超10%，华亚智能、屹唐股份、富乐德、中科飞测、北方华创跟涨。",
           "url": "https://flash.jin10.com/detail/20260630093716326800",
           "source": "金十数据",
@@ -185,21 +207,307 @@
           "time_info": "09时59分"
         },
         {
+          "title": "A股上半年盘点：天量成交、科技领涨、万亿成交股扩容",
+          "url": "https://flash.jin10.com/detail/20260630181334042800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "永太科技：预计上半年净利润2.65亿元—3.3亿元，同比增长350.68%—461.22%",
+          "url": "https://wallstreetcn.com/livenews/3126647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "安洁科技：拟收购苏州志烽51%股权，新增光模块领域相关业务和客户",
+          "url": "https://flash.jin10.com/detail/20260630181215453800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "A股机器人概念持续走高，天奇股份直线涨停，此前昊志机电、领益智造、中坚科技、柯力传感、埃斯顿、晋拓股份等多股涨停，绿的谐波、华依科技、祥明智能、埃夫特等多股涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3126544",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
       ]
     },
     {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "Steam夏促攻略来了",
+          "url": "https://www.douyin.com/hot/2552327",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 09时59分]"
+        },
+        {
+          "title": "马航MH370传来最新消息",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E4%BC%A0%E6%9D%A5%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时16分]"
+        },
+        {
+          "title": "韩红最新发文",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E6%9C%80%E6%96%B0%E5%8F%91%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "中国证券业协会修订发布《证券公司做好金融“五篇大文章”专项评价办法》",
+          "url": "https://wallstreetcn.com/livenews/3126692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "马航370搜寻最新消息",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E8%88%AA370%E6%90%9C%E5%AF%BB%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "普京最新发声：俄罗斯正处于命运攸关之际，西方企图动摇俄国内政局！",
+          "url": "https://wallstreetcn.com/articles/3775713",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时16分]"
+        },
+        {
+          "title": "如何看待在新款尊界 S800 发布之际江淮大股东大幅减持? 会是什么原因？后续会有什么影响？",
+          "url": "https://www.zhihu.com/question/2054621567007602582",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时16分]"
+        },
+        {
+          "title": "6月30日投资避雷针：6月17日以来 50多家公司发布异动公告或风险提示公告",
+          "url": "https://www.cls.cn/detail/2412326",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 15时41分]"
+        },
+        {
+          "title": "大睡特睡能修复大脑？流言榜发布",
+          "url": "https://www.toutiao.com/trending/7656999932154380351/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 18时47分]"
+        },
+        {
+          "title": "佛得角门将爆火后接到首支广告",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E7%88%86%E7%81%AB%E5%90%8E%E6%8E%A5%E5%88%B0%E9%A6%96%E6%94%AF%E5%B9%BF%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "如何看待在新款尊界 S800 发布之际江淮大股东大幅减持？会是什么原因？后续会有什么影响？",
+          "url": "https://www.zhihu.com/question/2054621567007602582",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "消息人士：NBC环球可能会在康卡斯特分拆后进军电子游戏行业。",
+          "url": "https://flash.jin10.com/detail/20260630042522233800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "净利同比最高增超4.7倍！145亿贵金属概念股发布上半年业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2412063",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "优必选正式发布超仿生人形机器人，顶配版售价99万元",
+          "url": "https://wallstreetcn.com/livenews/3126658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "世界杯淘汰赛最新对阵图",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E6%9C%80%E6%96%B0%E5%AF%B9%E9%98%B5%E5%9B%BE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "如何评价《崩坏：星穹铁道》2026 年 6 月 30 日发布的角色立绘：知更鸟·晴歌？",
+          "url": "https://www.zhihu.com/question/2055261496679064427",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "根据最新协议，亚马逊可能会对Anthropic支付更多。 亚马逊评估“通过使用其他模型来节省成本”。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3126264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "因爱泼斯坦事件引发审查，沃伦·巴菲特暂停向盖茨基金会进行年中捐赠。 巴菲特将向盖茨基金会进行年中捐赠的决定推迟到今年晚些时候，可能会推迟到他发布感恩节信件时。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3126386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "据AXIOS网站：美联储主席沃什将于当地时间周三出席在辛特拉举行的欧洲央行论坛。市场尤其关注沃什是否会比他在6月中旬的新闻发布会上就更明确的加息前景给出更多线索。",
+          "url": "https://flash.jin10.com/detail/20260630002758419800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "卢卡申科发布解放军仪仗队视频",
+          "url": "https://www.toutiao.com/trending/7656283072762281994/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "绿龙发布微电影宿敌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%BF%E9%BE%99%E5%8F%91%E5%B8%83%E5%BE%AE%E7%94%B5%E5%BD%B1%E5%AE%BF%E6%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "受权发布｜退役军人就业创业促进条例",
+          "url": "https://wallstreetcn.com/livenews/3126641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -214,6 +522,17 @@
           "time_info": "[02时02分 ~ 05时16分]"
         },
         {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
           "url": "https://www.cls.cn/detail/2411865",
           "source": "财联社热门",
@@ -224,6 +543,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 09时59分]"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 18时47分]"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
@@ -284,22 +615,24 @@
           "time_info": "[02时02分 ~ 05时16分]"
         },
         {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 18时47分]"
+        },
+        {
           "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
           "url": "https://wallstreetcn.com/articles/3775756",
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 15时41分]"
-        },
-        {
-          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
-          "url": "https://wallstreetcn.com/articles/3775770",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -318,18 +651,6 @@
           "time_info": "[09时59分 ~ 15时41分]"
         },
         {
-          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
-          "url": "https://wallstreetcn.com/articles/3775761",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 15时41分]"
-        },
-        {
           "title": "DeepSeek启动成立来最大规模招聘",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%AF%E5%8A%A8%E6%88%90%E7%AB%8B%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98",
           "source": "百度热搜",
@@ -339,6 +660,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 02时03分]"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
@@ -380,196 +712,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "Steam夏促攻略来了",
-          "url": "https://www.douyin.com/hot/2552327",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 09时59分]"
-        },
-        {
-          "title": "马航MH370传来最新消息",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E4%BC%A0%E6%9D%A5%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 05时16分]"
-        },
-        {
-          "title": "马航370搜寻最新消息",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E8%88%AA370%E6%90%9C%E5%AF%BB%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "普京最新发声：俄罗斯正处于命运攸关之际，西方企图动摇俄国内政局！",
-          "url": "https://wallstreetcn.com/articles/3775713",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 05时16分]"
-        },
-        {
-          "title": "如何看待在新款尊界 S800 发布之际江淮大股东大幅减持? 会是什么原因？后续会有什么影响？",
-          "url": "https://www.zhihu.com/question/2054621567007602582",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 05时16分]"
-        },
-        {
-          "title": "6月30日投资避雷针：6月17日以来 50多家公司发布异动公告或风险提示公告",
-          "url": "https://www.cls.cn/detail/2412326",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 15时41分]"
-        },
-        {
-          "title": "如何看待在新款尊界 S800 发布之际江淮大股东大幅减持？会是什么原因？后续会有什么影响？",
-          "url": "https://www.zhihu.com/question/2054621567007602582",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "消息人士：NBC环球可能会在康卡斯特分拆后进军电子游戏行业。",
-          "url": "https://flash.jin10.com/detail/20260630042522233800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "大睡特睡能修复大脑？流言榜发布",
-          "url": "https://www.toutiao.com/trending/7656999932154380351/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "净利同比最高增超4.7倍！145亿贵金属概念股发布上半年业绩预告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2412063",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "如何评价《崩坏：星穹铁道》2026 年 6 月 30 日发布的角色立绘：知更鸟·晴歌？",
-          "url": "https://www.zhihu.com/question/2055261496679064427",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "根据最新协议，亚马逊可能会对Anthropic支付更多。 亚马逊评估“通过使用其他模型来节省成本”。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3126264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "因爱泼斯坦事件引发审查，沃伦·巴菲特暂停向盖茨基金会进行年中捐赠。 巴菲特将向盖茨基金会进行年中捐赠的决定推迟到今年晚些时候，可能会推迟到他发布感恩节信件时。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3126386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "据AXIOS网站：美联储主席沃什将于当地时间周三出席在辛特拉举行的欧洲央行论坛。市场尤其关注沃什是否会比他在6月中旬的新闻发布会上就更明确的加息前景给出更多线索。",
-          "url": "https://flash.jin10.com/detail/20260630002758419800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "卢卡申科发布解放军仪仗队视频",
-          "url": "https://www.toutiao.com/trending/7656283072762281994/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "绿龙发布微电影宿敌",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%BF%E9%BE%99%E5%8F%91%E5%B8%83%E5%BE%AE%E7%94%B5%E5%BD%B1%E5%AE%BF%E6%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         }
       ]
     },
@@ -577,6 +722,17 @@
       "keyword_group": "NBA 亚历山大 雷霆 sga",
       "match_count": 2,
       "titles": [
+        {
+          "title": "夏天就给毛孩子安排雷霆冬瓜",
+          "url": "https://www.douyin.com/hot/2552841",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 18时47分]"
+        },
         {
           "title": "如何看待 NBA2026 年休赛期美媒称 勇士正试图同时获得詹姆斯和浓眉？这可能实现吗？",
           "url": "https://www.zhihu.com/question/2054983701281481120",
@@ -587,17 +743,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "夏天就给毛孩子安排雷霆冬瓜",
-          "url": "https://www.douyin.com/hot/2552841",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
         }
       ]
     }
