@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T19:24:04.752230+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-07-01T22:03:13.213962+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 19时24分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 22时03分]"
         },
         {
           "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
@@ -27,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时24分]"
+          "appearance_count": 5,
+          "time_info": "[16时04分 ~ 22时03分]"
         },
         {
           "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
@@ -76,6 +77,18 @@
           "time_info": "01时47分"
         },
         {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时04分 ~ 22时03分]"
+        },
+        {
           "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
           "url": "https://www.cls.cn/detail/2413870",
           "source": "财联社热门",
@@ -99,15 +112,40 @@
           "time_info": "01时47分"
         },
         {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
+          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
+          "url": "https://www.cls.cn/detail/2414015",
+          "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时03分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时03分]"
+        },
+        {
+          "title": "AI漫剧 好看",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时03分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -119,17 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 05时22分]"
-        },
-        {
-          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
-          "url": "https://www.cls.cn/detail/2414015",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -154,15 +181,15 @@
           "time_info": "[19时23分 ~ 19时24分]"
         },
         {
-          "title": "AI漫剧 好看",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "AI漫剧 降维打击",
@@ -176,15 +203,15 @@
           "time_info": "[19时23分 ~ 19时24分]"
         },
         {
-          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
-          "url": "https://www.zhihu.com/question/2054320593491715458",
-          "source": "知乎",
+          "title": "越来越多公司证明AI无法替代人工",
+          "url": "https://www.toutiao.com/trending/7657394487626416137/",
+          "source": "今日头条",
           "ranks": [
-            19
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "AI进入下半场：模型不再稀缺",
@@ -264,6 +291,28 @@
           "time_info": "16时04分"
         },
         {
+          "title": "美联储主席沃什：美国不惧怕生产力驱动的经济增长。 AI模型改进的变化率是指数级的。 关于AI对就业影响的时间节点，存在严重疑问。 必须在就业和物价稳定方面都取得成效。",
+          "url": "https://wallstreetcn.com/livenews/3127452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "曾因AI裁员，如今雇主们却开始后悔",
+          "url": "https://wallstreetcn.com/livenews/3127456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "如何评价 Anthropic 最新发布的 Claude Sonnet5？",
           "url": "https://www.zhihu.com/question/2055567821904547893",
           "source": "知乎",
@@ -273,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
+        },
+        {
+          "title": "美联储主席沃什：AI是否具有通胀效应，应由央行来决定。 货币政策会在我们的经济体之间产生溢出效应。 AI的蓬勃发展在美国表现得最为突出。 供给扩张将对政策产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3127450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "AI裁员 硅谷叶文洁出现了",
@@ -317,13 +377,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
+        },
+        {
+          "title": "算力租赁商Nebius和CoreWeave盘前跌超9%，此前报道称，Meta筹划进军云计算市场，以出售富余的AI算力资源。",
+          "url": "https://wallstreetcn.com/livenews/3127442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "SemiAnalysis创始人：推理或超越石油成全球最大市场，2040年太空数据中心将主导全球算力",
+          "url": "https://wallstreetcn.com/articles/3775923",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时04分 ~ 22时03分]"
+        },
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
@@ -358,18 +441,6 @@
           "time_info": "10时04分"
         },
         {
-          "title": "SemiAnalysis创始人：推理或超越石油成全球最大市场，2040年太空数据中心将主导全球算力",
-          "url": "https://wallstreetcn.com/articles/3775923",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时24分]"
-        },
-        {
           "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
           "url": "https://wallstreetcn.com/articles/3775893",
           "source": "华尔街见闻",
@@ -378,19 +449,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时24分]"
+          "appearance_count": 5,
+          "time_info": "[16时04分 ~ 22时03分]"
         },
         {
           "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
           "url": "https://www.cls.cn/detail/2414258",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时03分]"
+        },
+        {
+          "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
+          "url": "https://www.zhihu.com/question/2055569067063375363",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "蓝箭航天IPO恢复审核，金风科技年内再度涨停站上千亿市值",
@@ -457,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "太空挂上了香港特区区旗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E7%A9%BA%E6%8C%82%E4%B8%8A%E4%BA%86%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E5%8C%BA%E6%97%97",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "A股氟化工板块盘初拉升，三美股份涨停，昊华科技、联创股份、金石资源、永和股份、巍华新材等跟涨。",
@@ -531,7 +625,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -542,7 +636,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -553,9 +647,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "美股三大股指集体低开，道指跌0.2%，标普500指数跌0.3%，纳指跌0.6%。Meta股票开盘上涨7.9%，创4月8日以来最大涨幅；闪迪股价下跌8.6%；美光科技开盘下跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3127454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "华天科技在互动平台表示，公司有存储芯片封测业务，但不涉及基板业务。",
@@ -578,23 +683,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "美光科技盘前股价跌幅扩大至6%。",
+          "url": "https://wallstreetcn.com/livenews/3127438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "Openclaw 移动版APP发布",
           "url": "https://search.bilibili.com/all?keyword=Openclaw%20%E7%A7%BB%E5%8A%A8%E7%89%88APP%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时03分]"
+        },
+        {
+          "title": "笔趣阁 App 再次爆火，为什么大家称其为白月光回归？目前多数为第三方盗版聚合应用，有哪些风险？",
+          "url": "https://www.zhihu.com/question/2054486662923514042",
+          "source": "知乎",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "索尼宣布将停止生产游戏光盘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%B0%86%E5%81%9C%E6%AD%A2%E7%94%9F%E4%BA%A7%E6%B8%B8%E6%88%8F%E5%85%89%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相还与两人讨论了正在进行的美伊谈判的最新进展。",
@@ -614,7 +753,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -669,7 +808,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
