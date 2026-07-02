@@ -1,11 +1,242 @@
 {
-  "generated_at": "2026-07-02T05:15:56.139169+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-07-02T09:58:44.983044+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
+          "url": "https://wallstreetcn.com/articles/3775982",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 09时58分]"
+        },
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 05时15分]"
+        },
+        {
+          "title": "越来越多公司证明AI无法替代人工",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%85%AC%E5%8F%B8%E8%AF%81%E6%98%8EAI%E6%97%A0%E6%B3%95%E6%9B%BF%E4%BB%A3%E4%BA%BA%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "智谱盘中跌超13%，MINIMAX跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3127737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 09时58分]"
+        },
+        {
+          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 05时15分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 05时15分]"
+        },
+        {
+          "title": "越来越多公司证明AI无法替代人工",
+          "url": "https://www.toutiao.com/trending/7657394487626416137/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 05时15分]"
+        },
+        {
+          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
+          "url": "https://wallstreetcn.com/articles/3775997",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
+          "url": "https://www.cls.cn/detail/2414781",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
+          "url": "https://www.cls.cn/detail/2414744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
+          "url": "https://flash.jin10.com/detail/20260702041739954800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
+          "url": "https://flash.jin10.com/detail/20260702041320467800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
+          "url": "https://wallstreetcn.com/livenews/3127537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
+          "url": "https://www.zhihu.com/question/2055677703194403478",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "港股AI应用板块走势分化，智谱(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超6%，汇量科技(01860.HK)涨超9%，美图(01357.HK)涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260702093349607800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "北美科技软件股指数ETF涨3.02%，报93.34美元。 Global X网络安全ETF涨2.59%，纳斯达克网络安全ETF涨1.40%，ETFMG网络安全ETF涨2.07%",
@@ -14,7 +245,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -26,8 +257,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 09时58分]"
         },
         {
           "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
@@ -87,13 +318,35 @@
           "time_info": "01时46分"
         },
         {
+          "title": "韩国投资者加仓中国资产！上半年扫货科技ETF，半导体赛道获重点配置",
+          "url": "https://www.cls.cn/detail/2414865",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "PCB、CPO等算力硬件股盘初下挫，剑桥科技触及跌停，泰金新能、方邦股份跌超10%，东山精密、中京电子等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3127720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "周三（7月1日），美股行业ETF涨跌各异，金融业ETF收涨2.18%，网络股指数ETF、区域银行ETF、银行业ETF至少涨1.70%，能源业ETF跌0.56%，工业指数ETF、公用事业ETF至多跌1.26%，科技行业ETF跌2.57%，全球科技股指数ETF跌3.17%，半导体ETF跌5.40%。 标普500指数的11个板块中，信息技术/科技板块收跌1.84%，能源板块跌0.56%，金融板块涨2.13%，电信板块涨2.62%。",
           "url": "https://wallstreetcn.com/livenews/3127607",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -115,7 +368,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -126,9 +379,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "恒指高开0.83%，报23071.43点；恒生科技指数涨1.25%。小鹏、百度、比亚迪股份涨近5%，零跑汽车、京东、快手等多股涨超3%。华虹宏力跌逾7%，中芯国际跌近6%。",
+          "url": "https://wallstreetcn.com/livenews/3127708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "A股科技股真的过热了吗",
@@ -159,9 +423,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "胜宏科技：高端产品的供给仍将处于相对紧张的状态",
+          "url": "https://wallstreetcn.com/livenews/3127693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "马斯克回应华尔街日报关于原型设备的报道，称：完全是虚假的。",
@@ -170,139 +445,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         }
       ]
     },
     {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 1,
       "titles": [
         {
-          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
-          "url": "https://wallstreetcn.com/articles/3775982",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 05时15分]"
-        },
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 05时15分]"
-        },
-        {
-          "title": "如何评价AI巨头之间的混战",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 05时15分]"
-        },
-        {
-          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 05时15分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
-          "url": "https://www.zhihu.com/question/2054320593491715458",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 05时15分]"
-        },
-        {
-          "title": "越来越多公司证明AI无法替代人工",
-          "url": "https://www.toutiao.com/trending/7657394487626416137/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 05时15分]"
-        },
-        {
-          "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
-          "url": "https://flash.jin10.com/detail/20260702041739954800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
-          "url": "https://flash.jin10.com/detail/20260702041320467800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
-          "url": "https://wallstreetcn.com/livenews/3127537",
+          "title": "《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准正式发布",
+          "url": "https://wallstreetcn.com/livenews/3127705",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
-          "url": "https://www.zhihu.com/question/2055677703194403478",
-          "source": "知乎",
-          "ranks": [
-            17
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "09时58分"
         }
       ]
     }
