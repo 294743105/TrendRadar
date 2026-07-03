@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T18:25:37.525751+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-07-03T21:28:31.214129+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -46,6 +46,18 @@
           "time_info": "[01时24分 ~ 14时54分]"
         },
         {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 21时28分]"
+        },
+        {
           "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
           "url": "https://www.cls.cn/detail/2415999",
           "source": "财联社热门",
@@ -59,16 +71,17 @@
           "time_info": "[09时28分 ~ 18时25分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            3
+            6,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 21时28分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -88,7 +101,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -117,39 +130,17 @@
           "time_info": "[01时24分 ~ 09时29分]"
         },
         {
-          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2056384180200498322",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 18时25分]"
-        },
-        {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
           "url": "https://wallstreetcn.com/articles/3776098",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 21时28分]"
         },
         {
           "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
@@ -160,8 +151,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 21时28分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -170,11 +161,24 @@
           "ranks": [
             15,
             12,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 21时28分]"
+        },
+        {
+          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2056384180200498322",
+          "source": "知乎",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 21时28分]"
         },
         {
           "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
@@ -209,6 +213,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 14时54分]"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 21时28分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -270,17 +286,6 @@
           "time_info": "[01时24分 ~ 04时53分]"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
           "url": "https://flash.jin10.com/detail/20260703004456845800",
           "source": "金十数据",
@@ -298,7 +303,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -309,7 +314,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -320,9 +325,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
@@ -380,6 +407,17 @@
           "time_info": "14时54分"
         },
         {
+          "title": "AI拍剧成常态 人真的会被取代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8B%8D%E5%89%A7%E6%88%90%E5%B8%B8%E6%80%81+%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A2%AB%E5%8F%96%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "报道：特斯拉将雇员的AI开销控制在最高每周200美元",
           "url": "https://wallstreetcn.com/livenews/3128196",
           "source": "华尔街见闻-快讯",
@@ -422,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "樊登谈AI时代孩子要怎么学",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E7%99%BB%E8%B0%88AI%E6%97%B6%E4%BB%A3%E5%AD%A9%E5%AD%90%E8%A6%81%E6%80%8E%E4%B9%88%E5%AD%A6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
@@ -548,7 +597,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -561,6 +610,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 09时29分]"
+        },
+        {
+          "title": "郭一鸣：A股科技股局部回暖 接下来呢",
+          "url": "https://www.toutiao.com/trending/7658270373900717574/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "Meta卖算力引科技股大跌",
@@ -585,6 +645,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 09时29分]"
+        },
+        {
+          "title": "高盛展望下半年：科技巨头继续失宠，半导体才是“王者”！",
+          "url": "https://www.cls.cn/detail/2416194",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 21时28分]"
         },
         {
           "title": "宇树科技IPO注册获批",
@@ -619,17 +691,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        },
-        {
-          "title": "高盛展望下半年：科技巨头继续失宠，半导体才是“王者”！",
-          "url": "https://www.cls.cn/detail/2416194",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "标普500指数的11个板块多数上涨，保健板块收涨2.7%，日用消费品、公用事业、原材料板块至多涨2.41%，可选消费、电信板块至多收跌0.83%，信息技术/科技板块跌1.46%。",
@@ -715,9 +776,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "一博科技：目前订单基本满产 且每月呈较快增长态势",
+          "url": "https://flash.jin10.com/detail/20260703205559759800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "澜起科技：计划今年完成第三子代MRCD/MDB芯片的工程研发",
@@ -726,7 +798,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -748,7 +820,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -762,12 +834,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "李强：在建设现代化产业体系、加快高水平科技自立自强、建设强大国内市场、深化改革扩大开放等方面采取更加有力的措施和行动",
+          "url": "https://wallstreetcn.com/livenews/3128696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "摩根士丹利分析师Andrew Percoco：最新一个季度是特斯拉自2023年第三季度以来汽车业务最高增速。 储能业务好于摩根士丹利预期，并与市场一致预期相符。 预计储能需求将继续保持稳健。",
@@ -816,6 +899,17 @@
           "time_info": "[14时54分 ~ 18时25分]"
         },
         {
+          "title": "Steam主机开箱测评",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E4%B8%BB%E6%9C%BA%E5%BC%80%E7%AE%B1%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "小鹏 MONA L03 首秀发布，14.38 万起，有哪些技术亮点？预计销量如何？",
           "url": "https://www.zhihu.com/question/2056034391034262100",
           "source": "知乎",
@@ -825,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "申万菱信基金发布公告称，副总经理贾成东因个人原因而离任，付娟新任公司总经理助理。",
+          "url": "https://wallstreetcn.com/livenews/3128722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "Meta Platforms(META.O)CTO：鼠标追踪软件在发布前经过了隐私、法律和其他方面的审查。",
@@ -855,7 +960,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -877,7 +982,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -891,6 +996,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "中国结算发布《债券通用质押式回购交易结算委托协议必备条款（试行）》和《债券通用质押式回购交易结算风险揭示书必备条款（试行）》的通知。",
+          "url": "https://wallstreetcn.com/livenews/3128707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "市场监管总局发布多项宇航领域国家标准",
+          "url": "https://wallstreetcn.com/livenews/3128706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "实体游戏盘的消失是趋势吗",
@@ -921,7 +1048,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -971,7 +1098,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
