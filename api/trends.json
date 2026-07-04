@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T09:28:56.372577+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-07-04T14:39:52.517518+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -47,9 +47,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 14时39分]"
         },
         {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
@@ -58,9 +58,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 14时39分]"
         },
         {
           "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
@@ -74,6 +87,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
           "url": "https://wallstreetcn.com/livenews/3128834",
           "source": "华尔街见闻-快讯",
@@ -84,18 +108,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 09时28分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 09时28分]"
         },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -193,13 +205,25 @@
           "time_info": "[01时09分 ~ 04时51分]"
         },
         {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 14时39分]"
+        },
+        {
           "title": "Claude：正在调查多个模型中出现的异常错误。",
           "url": "https://flash.jin10.com/detail/20260704083232326800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -210,20 +234,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
         {
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://wallstreetcn.com/articles/3776134",
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "14时39分"
         },
         {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
@@ -237,13 +261,24 @@
           "time_info": "04时51分"
         },
         {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
           "url": "https://wallstreetcn.com/livenews/3128844",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -273,8 +308,31 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "腾讯游戏防沉迷系统升级",
+          "url": "https://www.douyin.com/hot/2557156",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 14时39分]"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3128901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月4日）",
           "url": "https://flash.jin10.com/detail/20260704082603735800",
@@ -282,20 +340,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
         {
-          "title": "腾讯游戏防沉迷系统升级",
-          "url": "https://www.douyin.com/hot/2557156",
-          "source": "抖音",
+          "title": "华为何庭波发布 V2 版“韬定律”论文 补充工程细节和实测数据",
+          "url": "https://flash.jin10.com/detail/20260704125108512800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "14时39分"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
@@ -309,13 +367,35 @@
           "time_info": "04时51分"
         },
         {
+          "title": "华为何庭波发布V2版“韬定律”论文，补充工程细节和实测数据",
+          "url": "https://wallstreetcn.com/livenews/3128891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "华强北提前开苹果发布会了",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8F%90%E5%89%8D%E5%BC%80%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "英国唐宁街10号发布有关霍尔木兹海峡的联合声明：英国、阿曼、法国致力于确保阿曼水域航行安全。 英国、法国准备部署范围更广的多国军事任务。",
           "url": "https://wallstreetcn.com/livenews/3128839",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -345,8 +425,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
           "url": "https://www.zhihu.com/question/2056380849625325900",
@@ -361,6 +452,17 @@
           "time_info": "[01时09分 ~ 09时28分]"
         },
         {
+          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
+          "url": "https://www.cls.cn/detail/2417055",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
           "url": "https://wallstreetcn.com/livenews/3128820",
           "source": "华尔街见闻-快讯",
@@ -370,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "宇树科技陈立：关节电机核心技术全部自研 上游仅依赖铜线、磁铁等原材料",
+          "url": "https://flash.jin10.com/detail/20260704111304915800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     }
