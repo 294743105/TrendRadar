@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-04T17:58:33.582225+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-07-04T20:55:00.095315+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 20时55分]"
+        },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
           "url": "https://wallstreetcn.com/articles/3776101",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 04时51分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 17时58分]"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -51,6 +52,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 04时51分]"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 20时55分]"
+        },
+        {
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
@@ -207,17 +242,6 @@
           "time_info": "[01时09分 ~ 04时51分]"
         },
         {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 17时58分]"
-        },
-        {
           "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
           "url": "https://wallstreetcn.com/articles/3776134",
           "source": "华尔街见闻",
@@ -228,6 +252,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 14时39分]"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "如何看待传统导演扎堆入局 AI 影视，是行业风口还是影视行业再也离不开 AI 了？",
+          "url": "https://www.zhihu.com/question/2056439444681515610",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "Claude：正在调查多个模型中出现的异常错误。",
@@ -313,6 +359,18 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "华为发布V2版韬定律论文",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83V2%E7%89%88%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%AE%BA%E6%96%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 20时55分]"
+        },
+        {
           "title": "香港天文台发布黄色暴雨警告。",
           "url": "https://wallstreetcn.com/livenews/3128901",
           "source": "华尔街见闻-快讯",
@@ -392,17 +450,6 @@
           "time_info": "14时39分"
         },
         {
-          "title": "华为发布V2版韬定律论文",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83V2%E7%89%88%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%AE%BA%E6%96%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
           "title": "英国唐宁街10号发布有关霍尔木兹海峡的联合声明：英国、阿曼、法国致力于确保阿曼水域航行安全。 英国、法国准备部署范围更广的多国军事任务。",
           "url": "https://wallstreetcn.com/livenews/3128839",
           "source": "华尔街见闻-快讯",
@@ -447,11 +494,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 17时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 20时55分]"
         },
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
@@ -472,33 +520,36 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 17时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 20时55分]"
         },
         {
           "title": "三部门发文规范国际科技组织成立登记",
           "url": "https://flash.jin10.com/detail/20260704162509076800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时55分]"
         },
         {
           "title": "三部门发文规范国际科技组织成立登记",
           "url": "https://wallstreetcn.com/livenews/3128918",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时55分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
