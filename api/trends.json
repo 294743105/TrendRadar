@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T09:43:25.836809+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-07-05T14:59:38.573248+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 14时59分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 14时59分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -59,11 +60,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 14时59分]"
+        },
+        {
+          "title": "嘉实基金王贵重：对中国科技资产及国内AI加速追赶趋势持积极乐观态度",
+          "url": "https://flash.jin10.com/detail/20260705142201827800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -83,9 +96,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
@@ -94,7 +118,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -105,16 +129,73 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
+          "url": "https://flash.jin10.com/detail/20260705113833548800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "网红打车到拉萨视频爆火 被奖励50万",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%89%93%E8%BD%A6%E5%88%B0%E6%8B%89%E8%90%A8%E8%A7%86%E9%A2%91%E7%88%86%E7%81%AB+%E8%A2%AB%E5%A5%96%E5%8A%B150%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "罗永浩称「没必要对电影人阴阳怪气，市场不行是因为流媒体长短视频、游戏等分流 」，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/2056128289513666049",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "瑞典最新涉华表态：钦佩、赞赏！",
+          "url": "https://news.ifeng.com/c/8uVCbfraHm0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 14时59分]"
+        },
+        {
+          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
+          "url": "https://www.cls.cn/detail/2417200",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 14时59分]"
+        },
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
           "url": "https://wallstreetcn.com/articles/3776195",
@@ -128,26 +209,15 @@
           "time_info": "[00时49分 ~ 09时43分]"
         },
         {
-          "title": "瑞典最新涉华表态：钦佩、赞赏！",
-          "url": "https://news.ifeng.com/c/8uVCbfraHm0",
-          "source": "凤凰网",
+          "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
+          "url": "https://flash.jin10.com/detail/20260705141115141800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
-          "url": "https://www.cls.cn/detail/2417200",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "14时59分"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月5日）",
@@ -156,7 +226,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -167,7 +237,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -178,15 +248,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "如何评价电影《安德的游戏》？",
+          "url": "https://www.zhihu.com/question/21933008",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -197,8 +278,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 14时59分]"
         },
         {
           "title": "三部门发文规范国际科技组织成立登记",
@@ -218,9 +299,37 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "“太空慧眼”天韵相机出舱",
+          "url": "https://www.toutiao.com/trending/7658875681627160618/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚历山大王称 Meta 下代模型性能追平 GPT-5.5，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2056351202930062305",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     }
