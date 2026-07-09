@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-09T18:49:38.410206+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-07-09T22:24:22.659427+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 28,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 22时24分]"
+        },
         {
           "title": "高盛重磅发声：做多中国AI价值链",
           "url": "https://www.cls.cn/detail/2421215",
@@ -20,17 +33,40 @@
           "time_info": "[15时28分 ~ 18时49分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 18时49分]"
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 22时24分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman：OpenAI最新AI模型在智能体编程中Token效率提升54%。 与（美国）政府在AI问题上“更加平稳地”推进。 与（特朗普）政府对话之后，本公司做出了“许许多多的改变”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 22时24分]"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -42,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：中国开源模型正变得“非常好”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
@@ -66,15 +113,26 @@
           "time_info": "01时16分"
         },
         {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
-          "source": "华尔街见闻",
+          "title": "市场消息：《纽约时报》申请对OpenAI实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260709220607288800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "22时24分"
+        },
+        {
+          "title": "Meta面向开发者发布付费AI模型",
+          "url": "https://wallstreetcn.com/livenews/3131424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "OpenAI：推出GPT-LIVE。",
@@ -86,19 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 18时49分]"
         },
         {
           "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
@@ -138,6 +183,18 @@
           "time_info": "[01时16分 ~ 15时28分]"
         },
         {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 22时24分]"
+        },
+        {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
           "url": "https://www.cls.cn/detail/2420504",
           "source": "财联社热门",
@@ -147,18 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 04时53分]"
-        },
-        {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 18时49分]"
         },
         {
           "title": "Meta又豪掷百亿兴建数据中心 GPT-5.6确认周四上线 | 环球市场",
@@ -195,6 +240,17 @@
           "time_info": "[01时16分 ~ 04时53分]"
         },
         {
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "穆迪：具备数字现金能力的AI智能代理将改变金融业，但也会扩大风险范围。",
           "url": "https://flash.jin10.com/detail/20260709041822379800",
           "source": "金十数据",
@@ -212,9 +268,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
+        },
+        {
+          "title": "Meta：Muse Spark 1.1 现已上线，支持思考模式，可在Meta AI应用及Meta.ai网站使用。",
+          "url": "https://flash.jin10.com/detail/20260709220108877800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "Meta首次推出付费AI开发者模型",
+          "url": "https://flash.jin10.com/detail/20260709220046240800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
@@ -245,7 +323,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -278,9 +356,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
+        },
+        {
+          "title": "苹果洽谈AI公司PrismML 拟将270亿参数大模型部署至iPhone",
+          "url": "https://wallstreetcn.com/livenews/3131410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
@@ -294,6 +383,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美股三大股指高开，道指涨0.08%，标普500指数涨0.2%，纳指涨0.2%。明星科技股多数反弹，闪迪、美光科技涨超6%，康宁涨超8%，迈威尔科技涨超6%。META下跌4.3%，创7月2日以来最大跌幅；IBM下跌5.8%，微软下跌2.6%，此前报道称星巴克借助AI减少对微软、IBM软件的依赖；百事下跌4.6%，创2025年4月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3131408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "淡马锡投资组合价值突破4000亿美元，对AI的押注提升回报率",
           "url": "https://wallstreetcn.com/livenews/3130810",
           "source": "华尔街见闻-快讯",
@@ -303,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：基准情景预计AI将得到更广泛的应用，从而提高生产率。 我们将使通胀回到2%。 关键是要关注潜在通胀因素，而不仅仅是某一特定指标。 政府的技术性调整可以更好地协调PCE通胀与CPI之间的差异。 美联储政策仍需依赖数据。 劳动力市场非常稳定。 对于长期中性利率仍存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3131402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "RedVelvet海报疑似Gemini生成",
@@ -316,6 +427,28 @@
           "time_info": "15时28分"
         },
         {
+          "title": "一条AI短片演绎杨戬劈山",
+          "url": "https://www.douyin.com/hot/2564959",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "阳光电源发布全自研SST固态变压器，800V直流架构切入AIDC赛道",
+          "url": "https://wallstreetcn.com/livenews/3131401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "AI被发现存在自主意识区域",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%AD%98%E5%9C%A8%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AF%86%E5%8C%BA%E5%9F%9F",
           "source": "bilibili 热搜",
@@ -325,12 +458,289 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：通胀仍然“过高”。 市场仍预计油价将在未来6至12个月内回落，这一看法是合理的。 货币政策关注能源价格如何影响通胀。 AI投资是通胀的一个驱动因素。 美联储正在积极讨论围绕通胀的各种情景。 美联储会议纪要捕捉到了一种“集体应对机制”。 从长远来看，AI投资将是一次积极的供给冲击。",
+          "url": "https://wallstreetcn.com/livenews/3131400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "台风巴威最新路径来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E6%9D%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 18时49分]"
+        },
+        {
+          "title": "土耳其外交部：土耳其外交部长在电话中与伊朗外长讨论了最新进展和停火事宜。",
+          "url": "https://flash.jin10.com/detail/20260709220901165800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "巴威“闭眼”后最新路径公布",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E2%80%9C%E9%97%AD%E7%9C%BC%E2%80%9D%E5%90%8E%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "一香港起飞航班一度失联，北约战机升空警告！最新回应",
+          "url": "https://news.ifeng.com/c/8ub5ldfXipV",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 09时27分]"
+        },
+        {
+          "title": "最新世界杯夺冠概率出炉，法国仍高居第一，西班牙、英格兰次之，阿根廷跌至第四，预测靠谱吗？你更看好谁？",
+          "url": "https://www.zhihu.com/question/2058486473112773134",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 22时24分]"
+        },
+        {
+          "title": "“26版西游记”爆火出圈背后",
+          "url": "https://www.toutiao.com/trending/7659772574595809321/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时53分]"
+        },
+        {
+          "title": "最新世界杯夺冠概率出炉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时53分]"
+        },
+        {
+          "title": "净利同比最高增长5.61倍！120亿存储芯片概念股发布半年度业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2420778",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时53分]"
+        },
+        {
+          "title": "广西贵港动物园上百只动物因洪水走失，园方发布紧急寻物启事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547355",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 22时24分]"
+        },
+        {
+          "title": "最新世界杯夺冠概率阿根廷第三",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%AC%AC%E4%B8%89",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时53分]"
+        },
+        {
+          "title": "商务部一场发布会2次提到胖东来",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E4%B8%80%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A2%E6%AC%A1%E6%8F%90%E5%88%B0%E8%83%96%E4%B8%9C%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "花少团最新合影",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E6%9C%80%E6%96%B0%E5%90%88%E5%BD%B1%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "《赤水河流域水污染物排放标准》发布",
+          "url": "https://wallstreetcn.com/livenews/3131294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
+          "url": "https://www.cls.cn/detail/2420824",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "韩国股市，正走向现实版“鱿鱼游戏”",
+          "url": "https://news.ifeng.com/c/8ubLZunCT8y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "孩子考得很好要玩手机，我不太想让他碰，可他跟我保证，既能玩好游戏还能稳住成绩，这种承诺可信吗？",
+          "url": "https://www.zhihu.com/question/2055612016530810492",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "腾讯云Agent Bucket正式发布",
+          "url": "https://wallstreetcn.com/livenews/3131144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
+          "url": "https://www.zhihu.com/question/2055612016530810492",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "哈兰德最新广告堪比守门员恐怖片",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%85%B0%E5%BE%B7%E6%9C%80%E6%96%B0%E5%B9%BF%E5%91%8A%E5%A0%AA%E6%AF%94%E5%AE%88%E9%97%A8%E5%91%98%E6%81%90%E6%80%96%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "北京5区已发布暴雨红色预警",
+          "url": "https://www.toutiao.com/trending/7660396134812093958/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "台风橙警发布：“巴威”预计将于11日晚在福建福清至浙江温岭一带登陆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547456",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "佛得角最新世界排名32位",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D32%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "大疆发布新款无人机机型DJI EV50",
+          "url": "https://www.toutiao.com/trending/7659248294866599978/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -374,7 +784,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -388,6 +798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
+          "url": "https://www.cls.cn/detail/2422005",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "北美科技软件股指数ETF跌1.75%，报92.48美元。 Global X网络安全ETF跌1.71%，纳斯达克网络安全ETF跌0.60%，ETFMG网络安全ETF跌0.79%。",
@@ -441,7 +862,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -455,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "高盛：下半年的科技股怎么买？",
+          "url": "https://wallstreetcn.com/articles/3776490",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.05%，报6101.09点，美股开盘后两小时冲高回落、北京时间22:26刷新日高至6176.82点。 热门中概股里，阿里巴巴初步收涨11%，金山云涨11.7%，小米涨7.7%，百度涨5%，腾讯涨2.9%，新东方涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨3.53%，中国科技指数ETF（CQQQ）收涨1.54%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.45%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，XtrackersHarvest中证50（ASHS）收跌1.64%。",
@@ -512,6 +944,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我与马斯克及许多人士保持频繁交流。我常问他们未来会怎样？将发生什么？趋势走向何方？因为我们必须始终领先于所有其他国家。我们的生存，源于我们的强大。",
+          "url": "https://flash.jin10.com/detail/20260709214831054800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.22%，报23983点。 恒生科技指数主连夜盘收跌0.36%，报4681点。",
           "url": "https://wallstreetcn.com/livenews/3130861",
           "source": "华尔街见闻-快讯",
@@ -528,204 +971,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "台风巴威最新路径来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E6%9D%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 18时49分]"
-        },
-        {
-          "title": "一香港起飞航班一度失联，北约战机升空警告！最新回应",
-          "url": "https://news.ifeng.com/c/8ub5ldfXipV",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 09时27分]"
-        },
-        {
-          "title": "“26版西游记”爆火出圈背后",
-          "url": "https://www.toutiao.com/trending/7659772574595809321/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 04时53分]"
-        },
-        {
-          "title": "最新世界杯夺冠概率出炉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%87%BA%E7%82%89%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 04时53分]"
-        },
-        {
-          "title": "净利同比最高增长5.61倍！120亿存储芯片概念股发布半年度业绩预告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2420778",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 04时53分]"
-        },
-        {
-          "title": "最新世界杯夺冠概率出炉，法国仍高居第一，西班牙、英格兰次之，阿根廷跌至第四，预测靠谱吗？你更看好谁？",
-          "url": "https://www.zhihu.com/question/2058486473112773134",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 18时49分]"
-        },
-        {
-          "title": "最新世界杯夺冠概率阿根廷第三",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%AC%AC%E4%B8%89",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 04时53分]"
-        },
-        {
-          "title": "花少团最新合影",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%9B%A2%E6%9C%80%E6%96%B0%E5%90%88%E5%BD%B1%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "《赤水河流域水污染物排放标准》发布",
-          "url": "https://wallstreetcn.com/livenews/3131294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
-          "url": "https://www.cls.cn/detail/2420824",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "韩国股市，正走向现实版“鱿鱼游戏”",
-          "url": "https://news.ifeng.com/c/8ubLZunCT8y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "孩子考得很好要玩手机，我不太想让他碰，可他跟我保证，既能玩好游戏还能稳住成绩，这种承诺可信吗？",
-          "url": "https://www.zhihu.com/question/2055612016530810492",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "腾讯云Agent Bucket正式发布",
-          "url": "https://wallstreetcn.com/livenews/3131144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "广西贵港动物园上百只动物因洪水走失，园方发布紧急寻物启事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547355",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
-          "url": "https://www.zhihu.com/question/2055612016530810492",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "北京5区已发布暴雨红色预警",
-          "url": "https://www.toutiao.com/trending/7660396134812093958/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "大疆发布新款无人机机型DJI EV50",
-          "url": "https://www.toutiao.com/trending/7659248294866599978/",
-          "source": "今日头条",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
