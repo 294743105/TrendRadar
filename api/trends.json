@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T15:25:57.571711+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-07-10T18:43:41.264640+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -33,6 +33,17 @@
           "time_info": "[01时54分 ~ 05时10分]"
         },
         {
+          "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
+          "url": "https://www.cls.cn/detail/2422609",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
           "url": "https://www.zhihu.com/question/2058734226548250080",
           "source": "知乎",
@@ -42,6 +53,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 18时43分]"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 18时43分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -91,18 +127,6 @@
           "time_info": "[09时24分 ~ 15时25分]"
         },
         {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 15时25分]"
-        },
-        {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
           "url": "https://wallstreetcn.com/articles/3776515",
           "source": "华尔街见闻",
@@ -114,15 +138,28 @@
           "time_info": "[01时54分 ~ 05时10分]"
         },
         {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 18时43分]"
+        },
+        {
+          "title": "报道：Meta自研AI芯片“Iris”计划9月量产，2027年算力拟翻倍至14吉瓦",
+          "url": "https://wallstreetcn.com/articles/3776581",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 18时43分]"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -136,26 +173,15 @@
           "time_info": "01时54分"
         },
         {
-          "title": "报道：Meta自研AI芯片“Iris”计划9月量产，2027年算力拟翻倍至14吉瓦",
-          "url": "https://wallstreetcn.com/articles/3776581",
-          "source": "华尔街见闻",
+          "title": "AI“狂吞”存储恐冲击经济 美商务部长敦促韩国“芯片双雄”在美扩产",
+          "url": "https://www.cls.cn/detail/2422428",
+          "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "18时43分"
         },
         {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
@@ -167,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "摩根大通打造的AI代理在回测中跑赢60/40投资组合",
@@ -191,6 +228,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "听障人士用AI做了款反诈应用",
+          "url": "https://www.toutiao.com/trending/7660363750279086121/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "阿波罗350亿美元AI芯片信贷交易即将开始交易",
           "url": "https://wallstreetcn.com/livenews/3131478",
           "source": "华尔街见闻-快讯",
@@ -208,7 +256,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -219,7 +267,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -318,7 +366,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -329,15 +377,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "给哈兰德做了一支AI大片",
+          "url": "https://www.douyin.com/hot/2565285",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -356,11 +415,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 18时43分]"
         },
         {
           "title": "科技强国建设进入加速冲刺阶段",
@@ -369,7 +429,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -380,7 +440,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -391,9 +451,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
+          "url": "https://www.cls.cn/detail/2421559",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 18时43分]"
         },
         {
           "title": "长鑫科技最高估值超4万亿",
@@ -432,15 +504,37 @@
           "time_info": "[05时10分 ~ 09时24分]"
         },
         {
-          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
-          "url": "https://www.cls.cn/detail/2421559",
+          "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
+          "url": "https://www.cls.cn/detail/2422854",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "18时43分"
+        },
+        {
+          "title": "马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature",
+          "url": "https://www.cls.cn/detail/2422471",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨1.65%，可选消费板块涨1.46%，金融板块涨1.02%，电信板块涨0.52%，能源板块跌1.58%，日用消费品板块跌1.75%。",
@@ -520,6 +614,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "丘钛科技：6月手机摄像头模组3971.5万件 同比增长21.6%",
+          "url": "https://flash.jin10.com/detail/20260710180803189800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "马斯克的野心正在考验太空极限",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%87%8E%E5%BF%83%E6%AD%A3%E5%9C%A8%E8%80%83%E9%AA%8C%E5%A4%AA%E7%A9%BA%E6%9E%81%E9%99%90",
           "source": "百度热搜",
@@ -529,12 +634,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "泰晶科技：预计2026年上半年净利润同比增加95.07%到140.44%",
+          "url": "https://flash.jin10.com/detail/20260710180617350800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "立陶宛新总理最新涉华表态",
@@ -561,17 +677,6 @@
           "time_info": "[01时54分 ~ 05时10分]"
         },
         {
-          "title": "多地城际大巴重启，有的车程 4 小时，票价仅 50 元，乘客称车票很俏，便民快巴为何突然爆火？",
-          "url": "https://www.zhihu.com/question/2057800654463283594",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "圆通、中通、韵达等发布告客户书",
           "url": "https://www.baidu.com/s?wd=%E5%9C%86%E9%80%9A%E3%80%81%E4%B8%AD%E9%80%9A%E3%80%81%E9%9F%B5%E8%BE%BE%E7%AD%89%E5%8F%91%E5%B8%83%E5%91%8A%E5%AE%A2%E6%88%B7%E4%B9%A6",
           "source": "百度热搜",
@@ -581,6 +686,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "多地城际大巴重启，有的车程 4 小时，票价仅 50 元，乘客称车票很俏，便民快巴为何突然爆火？",
+          "url": "https://www.zhihu.com/question/2057800654463283594",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 18时43分]"
         },
         {
           "title": "广西贵港动物园上百只动物因洪水走失，园方发布紧急寻物启事",
@@ -616,15 +733,37 @@
           "time_info": "01时54分"
         },
         {
+          "title": "《功夫女足》发布新预告",
+          "url": "https://www.toutiao.com/trending/7660355965065379883/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "7月10日投资避雷针：液冷概念人气股发布业绩 预计上半年净利同比下降62%-68%",
           "url": "https://www.cls.cn/detail/2422320",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "浙江温州发布台风红色预警",
+          "url": "https://flash.jin10.com/detail/20260710181129348800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "深交所发布港股通标的证券名单调整公告。",
@@ -644,9 +783,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "功夫女足发布首支长预告",
+          "url": "https://www.douyin.com/hot/2565958",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         }
       ]
     }
