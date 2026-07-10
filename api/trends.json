@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T05:10:25.545279+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-07-10T09:24:54.870903+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -24,11 +24,23 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 09时24分]"
+        },
+        {
+          "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
+          "url": "https://www.zhihu.com/question/2058734226548250080",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -43,6 +55,30 @@
           "time_info": "[01时54分 ~ 05时10分]"
         },
         {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 09时24分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 09时24分]"
+        },
+        {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
           "url": "https://wallstreetcn.com/articles/3776515",
           "source": "华尔街见闻",
@@ -54,15 +90,15 @@
           "time_info": "[01时54分 ~ 05时10分]"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
           "ranks": [
-            29
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 05时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -76,15 +112,26 @@
           "time_info": "01时54分"
         },
         {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "09时24分"
+        },
+        {
+          "title": "报道：Meta自研AI芯片“Iris”计划9月量产，2027年算力拟翻倍至14吉瓦",
+          "url": "https://wallstreetcn.com/articles/3776581",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
@@ -93,9 +140,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "摩根大通打造的AI代理在回测中跑赢60/40投资组合",
+          "url": "https://wallstreetcn.com/livenews/3131613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "OpenAI正式推出GPT-5.6系列模型",
@@ -137,7 +195,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -159,7 +217,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -192,7 +250,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -211,7 +269,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -221,8 +279,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 09时24分]"
+        },
+        {
+          "title": "广西洪水致大批学生被困，「救援航母」开入校园，这是种什么装备？救灾中还有哪些硬核科技派上了用场？",
+          "url": "https://www.zhihu.com/question/2058504856239970003",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "长鑫科技最高估值超4万亿",
@@ -245,8 +314,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 09时24分]"
+        },
+        {
+          "title": "长鑫科技申购",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%94%B3%E8%B4%AD%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时54分 ~ 05时10分]"
+          "time_info": "[05时10分 ~ 09时24分]"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨1.65%，可选消费板块涨1.46%，金融板块涨1.02%，电信板块涨0.52%，能源板块跌1.58%，日用消费品板块跌1.75%。",
@@ -255,7 +336,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -266,7 +347,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -282,15 +363,37 @@
           "time_info": "01时54分"
         },
         {
+          "title": "无人机救援正是科技最美的样子",
+          "url": "https://www.toutiao.com/trending/7660030208611844123/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.56%，报6134.98点。 热门中概股里，日月光半导体涨8.6%，阿里巴巴涨2%，拼多多涨1.2%，网易涨0.2%，腾讯跌1.8%，小鹏、比亚迪、蔚来跌超2%。 ETF中，中国科技指数ETF（CQQQ）收涨4.38%，中概互联网指数ETF（KWEB）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨4.26%，德银嘉实沪深300指数ETF（ASHR）收涨2.99%，MSCI新兴市场ex中国ETF（EMXC）收涨0.77%。",
           "url": "https://wallstreetcn.com/livenews/3131532",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "长鑫科技最高估值超4万亿",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%9C%80%E9%AB%98%E4%BC%B0%E5%80%BC%E8%B6%854%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "标普500指数收涨60.93点，涨幅0.81%，报7543.64点。 道琼斯工业平均指数收涨139.02点，涨幅0.27%，报52487.41点。 纳斯达克综合指数（纳指）收涨336.238点，涨幅1.30%，报26206.89点。 纳斯达克100指数收涨474.535点，涨幅1.62%，报29727.097点。 纳斯达克科技市值加权指数收涨1.74%，报2939.4248点。 费城半导体指数收涨385.036点，涨幅3.06%，报12960.003点。 费城证交所KBW银行指数收涨1.93%，报186.26点。 道琼斯KBW地区银行指数收涨1.66%，报145.18点。 罗素2000指数收涨1.22%，报2992.541点。 纳斯达克生物科技指数收涨0.39%，报6818.99点。 标普中盘股400指数收涨1.24%，纳斯达克美国中等市值指数涨1.08%。 恐慌指数VIX收跌6.27%，报15.84。",
@@ -299,7 +402,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -310,18 +413,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "长鑫科技申购",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%94%B3%E8%B4%AD%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         }
@@ -329,7 +421,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "巴威“闭眼”后最新路径公布",
@@ -344,6 +436,28 @@
           "time_info": "[01时54分 ~ 05时10分]"
         },
         {
+          "title": "立陶宛新总理最新涉华表态",
+          "url": "https://news.ifeng.com/c/8uddEUs34rg",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "圆通、中通、韵达等发布告客户书",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%86%E9%80%9A%E3%80%81%E4%B8%AD%E9%80%9A%E3%80%81%E9%9F%B5%E8%BE%BE%E7%AD%89%E5%8F%91%E5%B8%83%E5%91%8A%E5%AE%A2%E6%88%B7%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
           "title": "广西贵港动物园上百只动物因洪水走失，园方发布紧急寻物启事",
           "url": "https://m.thepaper.cn/newsDetail_forward_33547355",
           "source": "澎湃新闻",
@@ -351,8 +465,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 09时24分]"
         },
         {
           "title": "美国白宫发布关于飞机与喷气式发动机进口的公告：必须通过谈判来调整商用飞机的进口问题。 必须通过谈判来调整飞机引擎和零部件的进口问题。 将继续谈判商用飞机、飞机发动机的进口。 商务部建议，暂时不对飞机进口加征232条款关税。",
@@ -361,7 +475,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
@@ -375,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "深交所发布港股通标的证券名单调整公告。",
+          "url": "https://flash.jin10.com/detail/20260710085049400800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
