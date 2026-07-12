@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-12T04:37:56.675899+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-07-12T09:20:59.241098+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "誓言报仇！穆杰塔巴最新发声",
+          "url": "https://news.ifeng.com/c/8ug5GTjRQBt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
+        },
         {
           "title": "三预警齐发！“巴威”再度增强为强台风级，最新路径公布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33564318",
@@ -19,26 +31,16 @@
           "time_info": "[00时40分 ~ 04时37分]"
         },
         {
-          "title": "誓言报仇！穆杰塔巴最新发声",
-          "url": "https://news.ifeng.com/c/8ug5GTjRQBt",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
-        },
-        {
           "title": "中科星图：空天创新产品矩阵即将发布",
           "url": "https://wallstreetcn.com/livenews/3132362",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
         },
         {
           "title": "巴威最新位置",
@@ -58,11 +60,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
         },
         {
           "title": "台风“巴威”正快速逼近，浙江多地发布《告全体市民书》",
@@ -70,11 +73,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
         },
         {
           "title": "上海发布台风黄色预警信号，全市防汛防台应急响应行动更新为三级",
@@ -85,8 +89,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
         },
         {
           "title": "凡人最新集有哪些看点",
@@ -140,9 +144,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "男子发布涉台风不实信息被行拘",
+          "url": "https://www.toutiao.com/trending/7661316882703876146/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "巴威10级风圈内最新画面",
@@ -173,9 +188,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "三预警齐发 巴威最新路径公布",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91+%E5%B7%B4%E5%A8%81%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "中科星图：空天创新产品矩阵即将发布",
@@ -198,28 +224,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "中国民办本科科研竞争力排名发布",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B0%91%E5%8A%9E%E6%9C%AC%E7%A7%91%E7%A7%91%E7%A0%94%E7%AB%9E%E4%BA%89%E5%8A%9B%E6%8E%92%E5%90%8D%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     },
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
-        },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
@@ -234,7 +271,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -247,8 +284,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
+        },
+        {
+          "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
+          "url": "https://wallstreetcn.com/articles/3776707",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
+          "time_info": "[04时37分 ~ 09时20分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -256,11 +305,36 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
+        },
+        {
+          "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
+          "url": "https://wallstreetcn.com/livenews/3132350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
+          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "source": "知乎",
+          "ranks": [
+            8,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
+          "time_info": "[04时37分 ~ 09时20分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -274,37 +348,15 @@
           "time_info": "[00时40分 ~ 04时37分]"
         },
         {
-          "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
-          "url": "https://wallstreetcn.com/livenews/3132350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
-        },
-        {
-          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
-          "url": "https://www.zhihu.com/question/2055029429290771542",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
-          "url": "https://wallstreetcn.com/articles/3776707",
+          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
+          "url": "https://wallstreetcn.com/articles/3776704",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "09时20分"
         },
         {
           "title": "GPT-5.6发布之际 马斯克与奥尔特曼隔空互怼",
@@ -313,7 +365,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -324,7 +376,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         }
@@ -332,18 +384,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "阿里合计持股长鑫科技近5%，超过董事长朱一明",
           "url": "https://wallstreetcn.com/articles/3776703",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 09时20分]"
         },
         {
           "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -355,6 +408,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 04时37分]"
+        },
+        {
+          "title": "马斯克：星舰下一次发射目标定于周四。",
+          "url": "https://flash.jin10.com/detail/20260712082547561800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     }
