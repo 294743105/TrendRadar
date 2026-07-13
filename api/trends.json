@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T18:48:26.231228+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-07-13T22:02:51.623619+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -79,6 +79,17 @@
           "time_info": "[00时42分 ~ 14时43分]"
         },
         {
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "摩根大通再度上调智谱目标价 最新融资有望推动收入转化",
           "url": "https://wallstreetcn.com/livenews/3132508",
           "source": "华尔街见闻-快讯",
@@ -96,9 +107,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
+          "url": "https://www.cls.cn/detail/2424821",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
@@ -119,11 +141,24 @@
           "ranks": [
             19,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 22时02分]"
+        },
+        {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 22时02分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -154,18 +189,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
-          "url": "https://wallstreetcn.com/articles/3776779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -187,7 +211,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -198,7 +222,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -209,7 +233,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -234,6 +258,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2424933",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "如何看待 SpaceXAI 的 Grok Build 被曝默认静默上传完整 Git 仓库？",
+          "url": "https://www.zhihu.com/question/2059755445468902035",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "韩国品牌用肖战形象做AI广告",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%93%81%E7%89%8C%E7%94%A8%E8%82%96%E6%88%98%E5%BD%A2%E8%B1%A1%E5%81%9AAI%E5%B9%BF%E5%91%8A%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
@@ -269,6 +326,17 @@
           "time_info": "14时43分"
         },
         {
+          "title": "英特尔将斥资50亿欧元扩建爱尔兰工厂，以保持在AI芯片竞赛中的竞争力",
+          "url": "https://wallstreetcn.com/livenews/3132915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "印度本土为何跑不出一家OpenAI",
           "url": "https://www.toutiao.com/trending/7661777860511665706/",
           "source": "今日头条",
@@ -297,7 +365,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -315,8 +383,240 @@
       ]
     },
     {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "中报主线如何掘金？科技风格扩散何时结束？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2423860",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 14时43分]"
+        },
+        {
+          "title": "航天员太空锻炼姿势又上新了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E9%94%BB%E7%82%BC%E5%A7%BF%E5%8A%BF%E5%8F%88%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 04时35分]"
+        },
+        {
+          "title": "淳中科技：预计2026年上半年实现扭亏为盈，净利润1.25亿-1.35亿",
+          "url": "https://wallstreetcn.com/livenews/3132837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "夏粮增产20亿斤背后的科技密码",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%B2%AE%E5%A2%9E%E4%BA%A720%E4%BA%BF%E6%96%A4%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%AF%86%E7%A0%81%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
+          "url": "https://wallstreetcn.com/articles/3776747",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 22时02分]"
+        },
+        {
+          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
+          "url": "https://wallstreetcn.com/articles/3776758",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 22时02分]"
+        },
+        {
+          "title": "行云科技：子公司与V客户签补充协议，上调租金28.79亿元",
+          "url": "https://flash.jin10.com/detail/20260713183046842800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "行云科技：子公司与V客户签补充协议，上调租金28.79亿元",
+          "url": "https://wallstreetcn.com/livenews/3132833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "高盛：香港软件科技股表现可能将趋于改善 下半年仍维持超配A股",
+          "url": "https://wallstreetcn.com/livenews/3132502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "北证50日内跌幅达6%；成分股中，天力复合、聚鑫科技则成电子跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260713143150990800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "正虹科技：预计上半年净利润同比下降125.11%—187.64% 主要系生猪市场行情下降",
+          "url": "https://flash.jin10.com/detail/20260713182711066800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "正虹科技：预计2026年上半年归属于上市公司股东的净利润亏损1800万元-2300万元，上年同期亏损799.6万元。",
+          "url": "https://wallstreetcn.com/livenews/3132830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "科技股去杠杆何时结束？机构：关键看两大信号",
+          "url": "https://wallstreetcn.com/articles/3776787",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "沪指午后跌幅扩大至2%。A股PCB、CPO等算力硬件股持续下挫，宝鼎科技、宏昌电子、博敏电子、泰晶科技、中天科技等多股午后跌停。",
+          "url": "https://wallstreetcn.com/livenews/3132629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "沃顿科技：半导体及液冷领域业务收入占比不超过1%，不会对业绩产生重大影响",
+          "url": "https://wallstreetcn.com/livenews/3132803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "气候科技领域交易量创历史新高，电力需求刺激市场需求",
+          "url": "https://flash.jin10.com/detail/20260713213149422800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3132622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "公募基金二季报披露大幕拉开 多名基金经理提示科技板块高估值风险",
+          "url": "https://wallstreetcn.com/livenews/3132474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "科技股连续大跌 这轮牛市到顶了吗",
+          "url": "https://www.toutiao.com/trending/7661946107336855094/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
@@ -474,9 +774,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "情侣接吻打翻火锅烫伤女孩最新进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E6%8E%A5%E5%90%BB%E6%89%93%E7%BF%BB%E7%81%AB%E9%94%85%E7%83%AB%E4%BC%A4%E5%A5%B3%E5%AD%A9%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "灰烬之国制作人在游戏流水破千万后表示，中小团队无需专职游戏策划，你怎么看？开发者更应一专多能吗？",
@@ -496,7 +807,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -518,7 +829,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -529,195 +840,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "中报主线如何掘金？科技风格扩散何时结束？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2423860",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 14时43分]"
-        },
-        {
-          "title": "航天员太空锻炼姿势又上新了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E9%94%BB%E7%82%BC%E5%A7%BF%E5%8A%BF%E5%8F%88%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 04时35分]"
-        },
-        {
-          "title": "淳中科技：预计2026年上半年实现扭亏为盈，净利润1.25亿-1.35亿",
-          "url": "https://wallstreetcn.com/livenews/3132837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "夏粮增产20亿斤背后的科技密码",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%B2%AE%E5%A2%9E%E4%BA%A720%E4%BA%BF%E6%96%A4%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%AF%86%E7%A0%81%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
-          "url": "https://wallstreetcn.com/articles/3776747",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 18时48分]"
-        },
-        {
-          "title": "行云科技：子公司与V客户签补充协议，上调租金28.79亿元",
-          "url": "https://flash.jin10.com/detail/20260713183046842800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "行云科技：子公司与V客户签补充协议，上调租金28.79亿元",
-          "url": "https://wallstreetcn.com/livenews/3132833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "高盛：香港软件科技股表现可能将趋于改善 下半年仍维持超配A股",
-          "url": "https://wallstreetcn.com/livenews/3132502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
-          "url": "https://wallstreetcn.com/articles/3776758",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "北证50日内跌幅达6%；成分股中，天力复合、聚鑫科技则成电子跌超10%。",
-          "url": "https://flash.jin10.com/detail/20260713143150990800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "正虹科技：预计上半年净利润同比下降125.11%—187.64% 主要系生猪市场行情下降",
-          "url": "https://flash.jin10.com/detail/20260713182711066800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "正虹科技：预计2026年上半年归属于上市公司股东的净利润亏损1800万元-2300万元，上年同期亏损799.6万元。",
-          "url": "https://wallstreetcn.com/livenews/3132830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "沪指午后跌幅扩大至2%。A股PCB、CPO等算力硬件股持续下挫，宝鼎科技、宏昌电子、博敏电子、泰晶科技、中天科技等多股午后跌停。",
-          "url": "https://wallstreetcn.com/livenews/3132629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "沃顿科技：半导体及液冷领域业务收入占比不超过1%，不会对业绩产生重大影响",
-          "url": "https://wallstreetcn.com/livenews/3132803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3132622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "公募基金二季报披露大幕拉开 多名基金经理提示科技板块高估值风险",
-          "url": "https://wallstreetcn.com/livenews/3132474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
         }
       ]
     }
