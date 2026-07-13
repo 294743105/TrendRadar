@@ -1,11 +1,172 @@
 {
-  "generated_at": "2026-07-13T04:35:02.042501+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-07-13T09:22:33.325339+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 09时22分]"
+        },
+        {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 04时35分]"
+        },
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 04时35分]"
+        },
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 04时35分]"
+        },
+        {
+          "title": "摩根大通再度上调智谱目标价 最新融资有望推动收入转化",
+          "url": "https://wallstreetcn.com/livenews/3132508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 09时22分]"
+        },
+        {
+          "title": "AI是如何“杀死”印度IT行业的",
+          "url": "https://www.toutiao.com/trending/7661654432722980388/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 04时35分]"
+        },
+        {
+          "title": "智谱配售落地 摩根大通再度上调智谱目标价",
+          "url": "https://flash.jin10.com/detail/20260713090632573800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
+          "url": "https://www.cls.cn/detail/2422793",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
+          "url": "https://flash.jin10.com/detail/20260713010355573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "印度本土为何跑不出一家OpenAI",
+          "url": "https://www.toutiao.com/trending/7661777860511665706/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "AI算力需求爆发 光纤量价齐升 多家企业启动扩产计划",
+          "url": "https://wallstreetcn.com/livenews/3132473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
@@ -15,8 +176,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 09时22分]"
         },
         {
           "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
@@ -35,11 +196,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 09时22分]"
         },
         {
           "title": "美国驻阿曼使馆发布“就地避险”提醒",
@@ -61,8 +223,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 09时22分]"
         },
         {
           "title": "昆明版水上闯关太好玩了",
@@ -72,8 +234,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 09时22分]"
         },
         {
           "title": "男子发布涉台风不实信息被行拘",
@@ -120,95 +282,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 04时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
+          "title": "“台风+暴雨+强对流”三预警齐发 “巴威”最新路径公布",
+          "url": "https://www.cls.cn/detail/2423675",
           "source": "财联社热门",
           "ranks": [
-            3
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
-        },
-        {
-          "title": "AI是如何“杀死”印度IT行业的",
-          "url": "https://www.toutiao.com/trending/7661654432722980388/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 04时35分]"
-        },
-        {
-          "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
-          "url": "https://flash.jin10.com/detail/20260713010355573800",
+          "title": "国家海洋预报台针对我国北部海域发布风暴潮橙色和海浪蓝色警报",
+          "url": "https://flash.jin10.com/detail/20260713090422013800",
           "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "灰烬之国制作人在游戏流水破千万后表示，中小团队无需专职游戏策划，你怎么看？开发者更应一专多能吗？",
+          "url": "https://www.zhihu.com/question/2058240031014085779",
+          "source": "知乎",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "航天员太空锻炼姿势又上新了",
@@ -227,11 +339,45 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 09时22分]"
+        },
+        {
+          "title": "夏粮增产20亿斤背后的科技密码",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%B2%AE%E5%A2%9E%E4%BA%A720%E4%BA%BF%E6%96%A4%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%AF%86%E7%A0%81%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "高盛：香港软件科技股表现可能将趋于改善 下半年仍维持超配A股",
+          "url": "https://wallstreetcn.com/livenews/3132502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "公募基金二季报披露大幕拉开 多名基金经理提示科技板块高估值风险",
+          "url": "https://wallstreetcn.com/livenews/3132474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     }
