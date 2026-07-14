@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-15T01:01:18.657824+08:00",
-  "total_titles_processed": 311,
-  "failed_sources": [
-    "douyin"
-  ],
+  "generated_at": "2026-07-15T04:48:58.000638+08:00",
+  "total_titles_processed": 440,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -17,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时48分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
@@ -28,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时48分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -43,59 +41,85 @@
           "time_info": "[00时59分 ~ 01时01分]"
         },
         {
+          "title": "美联储理事、曾经担任金融监管事务的副主席迈克尔·巴尔表示，尽管他欢迎创新，但AI究竟会减少还是加剧收入和财富不平等，目前尚不清楚。 “关于AI在不远和遥远的未来将能做到什么，我们听到了许多大胆论断。有些可能会成为现实，有些则不会。但未来的不平等不仅取决于AI能做什么，也取决于我们选择用AI做什么，”巴尔表示。",
+          "url": "https://wallstreetcn.com/livenews/3133873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
+          "url": "https://wallstreetcn.com/livenews/3133872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
           "url": "https://wallstreetcn.com/livenews/3133798",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
         },
         {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
           "url": "https://www.zhihu.com/question/2060385485915263811",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时48分]"
         },
         {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时48分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
           "url": "https://www.cls.cn/detail/2426403",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时48分]"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时48分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -105,8 +129,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时48分]"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -131,15 +155,37 @@
           "time_info": "[00时59分 ~ 01时01分]"
         },
         {
+          "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
+          "url": "https://www.zhihu.com/question/2060378207459566963",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
           "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
           "url": "https://flash.jin10.com/detail/20260715004912134800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC在AI繁荣期没能实现关键的电力供应目标。 该公司与可靠的电力需求目标之间存在6.8 GW缺口。",
+          "url": "https://wallstreetcn.com/livenews/3133868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美联储理事巴尔：AI有潜力显著提升生产率，尤其将惠及低技能和经验不足的劳动者。",
@@ -148,7 +194,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -159,9 +205,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
+          "url": "https://wallstreetcn.com/livenews/3133848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美联储主席沃什：人工智能（AI）供应冲击发生的速度比我想象的更迅速。",
@@ -170,57 +227,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "德国两年期国债收益率于美国CPI通胀数据发布日涨超3个基点",
-          "url": "https://wallstreetcn.com/livenews/3133799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "净利同比最高增长49.35倍！800亿锂矿龙头发布半年度业绩预告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2426280",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
-        },
-        {
-          "title": "三星电子将于7月22日发布新款Galaxy Watch。",
-          "url": "https://wallstreetcn.com/livenews/3133795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "市场消息：三星计划于7月22日发布新款Galaxy Watch。",
-          "url": "https://flash.jin10.com/detail/20260715004324946800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "01时01分"
         }
@@ -228,18 +235,30 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3133869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
         {
           "title": "长鑫科技公告：发行价格为8.66元/股",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%EF%BC%9A%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC%E4%B8%BA8.66%E5%85%83%2F%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时48分]"
         },
         {
           "title": "长鑫科技公告",
@@ -262,6 +281,134 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.11%，报6105.95点。 热门中概股里，百度初步收跌3.3%，网易跌2.4%，拼多多跌0.7%，阿里涨0.1%，腾讯涨0.5%，新东方涨2.1%，比亚迪涨3.1%，小鹏涨3.2%，小马智行涨4.2%，文远知行涨7%。 ETF中，中概互联网指数ETF（KWEB）收跌0.19%，中国科技指数ETF（CQQQ）收涨1.52%。 XtrackersHarvest中证50（ASHS）收涨2.88%，德银嘉实沪深300指数ETF（ASHR）收涨2.84%，MSCI新兴市场ex中国ETF（EMXC）收涨1.79%。",
+          "url": "https://wallstreetcn.com/livenews/3133857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "华尔街大行拉开美股财报季序幕之际，高盛初步收涨9%，大摩涨3.1%，美银涨3.1%，富国银行跌2.4%，花旗跌4.8%。 标普500指数初步收涨0.4%，科技板块涨1.3%，电信板块涨1%，金融板块涨0.2%，保健板块跌1.8%。 纳斯达克100指数初步收涨1.1%，成分股中，CrowdStrike初步收涨11.8%，派拓网络涨6.8%，Lumentum涨6.3%，Strategy涨5.9%，美光涨5%，闪迪涨4.7%，英伟达涨4%，高通跌3.3%，CoreWeave跌4.2%，ISRG跌7%，Nebius集团跌7.5%。 费城半导体指数涨2.6%，存储芯片指数涨3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3133855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "马斯克说十年内要在月球上建造一座城市、配备生活资料并移民几万人上去长期居住，这个计划可行吗？",
+          "url": "https://www.zhihu.com/question/2060166037149054543",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
+          "url": "https://www.zhihu.com/question/2058449781597459395",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "德国两年期国债收益率于美国CPI通胀数据发布日涨超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3133799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3133871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "净利同比最高增长49.35倍！800亿锂矿龙头发布半年度业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2426280",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时48分]"
+        },
+        {
+          "title": "三星电子将于7月22日发布新款Galaxy Watch。",
+          "url": "https://wallstreetcn.com/livenews/3133795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "市场消息：三星计划于7月22日发布新款Galaxy Watch。",
+          "url": "https://flash.jin10.com/detail/20260715004324946800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "美国财政部发布涉及伊朗的通用许可证，同时更新制裁名单，新增10名个人、20余家企业及多艘船舶，并更新伊朗央行制裁信息。",
+          "url": "https://flash.jin10.com/detail/20260715035554444800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "非美货币在美国CPI发布日普涨，纽元、挪威克朗、巴西雷亚尔涨超1%领跑",
+          "url": "https://wallstreetcn.com/livenews/3133850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     }
