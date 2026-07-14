@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T09:11:04.867658+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-07-14T14:03:32.181630+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
@@ -20,6 +20,28 @@
           "time_info": "[01时48分 ~ 09时11分]"
         },
         {
+          "title": "曦智科技将发布首款基于光电混合计算芯片的一体化边缘计算盒",
+          "url": "https://wallstreetcn.com/livenews/3133363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "倒计时2天，长鑫科技最全打新攻略来了",
+          "url": "https://www.cls.cn/detail/2425498",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "胜宏科技澄清：网络流传相关言论不属实",
           "url": "https://www.cls.cn/detail/2424855",
           "source": "财联社热门",
@@ -30,6 +52,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时48分 ~ 09时11分]"
+        },
+        {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 14时03分]"
+        },
+        {
+          "title": "“刷不出火箭”，欧洲在太空竞赛中正落后主要竞争对手",
+          "url": "https://news.ifeng.com/c/8ujd5z8DwqS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 14时03分]"
         },
         {
           "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
@@ -43,28 +88,6 @@
           "time_info": "[01时48分 ~ 04时47分]"
         },
         {
-          "title": "“刷不出火箭”，欧洲在太空竞赛中正落后主要竞争对手",
-          "url": "https://news.ifeng.com/c/8ujd5z8DwqS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
           "url": "https://www.cls.cn/detail/2424724",
           "source": "财联社热门",
@@ -76,6 +99,17 @@
           "time_info": "[01时48分 ~ 04时47分]"
         },
         {
+          "title": "A股MLCC概念集体走强，江海股份午后涨停，风华高科、三环集团、昀冢科技、利和兴、洁美科技涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3133352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "周一（7月13日），美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。",
           "url": "https://wallstreetcn.com/livenews/3133072",
           "source": "华尔街见闻-快讯",
@@ -85,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "A股液冷服务器板块走高，飞龙股份、博杰股份涨停，日科化学盘中创新高，奥迪威、风华高科、凯添燃气、光迅科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3133348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块跌2.07%，电信板块跌0.98%，能源板块涨3.16%——创2月3日以来最佳单日表现。",
@@ -131,15 +176,48 @@
           "time_info": "04时47分"
         },
         {
+          "title": "A股PCB概念午后拉升，生益科技、广合科技等涨停，鼎泰高科、嘉元科技、华正新材等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3133340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "华泰证券研报称，7月9日，Wind行业生猪价格由6月平均9.6元/公斤平台反弹至11.3元/公斤，且涌益咨询披露6月产能数据，显示2026年二季度行业产能去化加速，此外，正邦科技发布公告，预计广西洪涝灾害造成的公司资产损失或超过公司2025年净利润的10%，印证了异常天气对行业被动去产能的作用。华泰证券认为，产能去化加速与中长期猪价筑底回升趋势逐渐明确，生猪养殖板块或迎配置时点。",
           "url": "https://wallstreetcn.com/livenews/3133154",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "A股力硬件概念持续反弹，东山精密涨停，生益科技回封涨停，长光华芯、则成电子、南亚新材、源杰科技、新易盛均涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3133338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "A股电子化学品板块午后走高，宏和科技封板涨停，天承科技、兴福电子、方邦股份、华特气体、莱特光电等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260714132952619800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "TCL科技预计上半年净利增长96%-108%",
@@ -155,128 +233,8 @@
       ]
     },
     {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "《南海仲裁案裁决新批驳》报告发布，释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2059980453814219344",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 09时11分]"
-        },
-        {
-          "title": "巴威中心最新动态来了 今天将入海",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E4%B8%AD%E5%BF%83%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81%E6%9D%A5%E4%BA%86+%E4%BB%8A%E5%A4%A9%E5%B0%86%E5%85%A5%E6%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "广西贵港发布暴雨红色、洪水黄色预警",
-          "url": "https://wallstreetcn.com/livenews/3133167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "最新｜长沙市体育局负责人回应澎湃：有些情况还在核实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578685",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 09时11分]"
-        },
-        {
-          "title": "全球首颗近存计算3D芯片发布",
-          "url": "https://www.douyin.com/hot/2569670",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时47分]"
-        },
-        {
-          "title": "沈阳发布暴雨红色预警",
-          "url": "https://www.toutiao.com/trending/7662162247354945087/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "巴拉莱卡梗爆火背后的问题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E6%8B%89%E8%8E%B1%E5%8D%A1%E6%A2%97%E7%88%86%E7%81%AB%E8%83%8C%E5%90%8E%E7%9A%84%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美联储理事沃勒：我不会发布超过18个月的预测。我会取消长期预测。",
-          "url": "https://flash.jin10.com/detail/20260714011211446800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国电网运营巨头PJM Interconnection LLC发布高温预警，担心100 F（38摄氏度）的炎热天气会持续至周五。",
-          "url": "https://wallstreetcn.com/livenews/3133065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
-          "url": "https://wallstreetcn.com/livenews/3133007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -324,6 +282,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 14时03分]"
+        },
+        {
           "title": "看陈泽AI跳舞是一种挑战",
           "url": "https://www.douyin.com/hot/2570068",
           "source": "抖音",
@@ -335,15 +304,15 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
-          "url": "https://wallstreetcn.com/articles/3776779",
-          "source": "华尔街见闻",
+          "title": "台风淹水致商铺狼藉图片为AI合成",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            9
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
@@ -351,6 +320,192 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "AI脸 恐怖谷效应",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "《南海仲裁案裁决新批驳》报告发布，释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2059980453814219344",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时48分 ~ 09时11分]"
+        },
+        {
+          "title": "巴威中心最新动态来了 今天将入海",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%A8%81%E4%B8%AD%E5%BF%83%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81%E6%9D%A5%E4%BA%86+%E4%BB%8A%E5%A4%A9%E5%B0%86%E5%85%A5%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "广西贵港发布暴雨红色、洪水黄色预警",
+          "url": "https://wallstreetcn.com/livenews/3133167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "最新｜长沙市体育局负责人回应澎湃：有些情况还在核实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578685",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时48分 ~ 09时11分]"
+        },
+        {
+          "title": "全球首颗近存计算3D芯片发布",
+          "url": "https://www.douyin.com/hot/2569670",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 04时47分]"
+        },
+        {
+          "title": "沈阳发布暴雨红色预警",
+          "url": "https://www.toutiao.com/trending/7662162247354945087/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "美伊开战4个月，美军最新伤亡情况公布",
+          "url": "https://news.ifeng.com/c/8ukVFqoxfr4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "巴拉莱卡梗爆火背后的问题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E6%8B%89%E8%8E%B1%E5%8D%A1%E6%A2%97%E7%88%86%E7%81%AB%E8%83%8C%E5%90%8E%E7%9A%84%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美联储理事沃勒：我不会发布超过18个月的预测。我会取消长期预测。",
+          "url": "https://flash.jin10.com/detail/20260714011211446800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC发布高温预警，担心100 F（38摄氏度）的炎热天气会持续至周五。",
+          "url": "https://wallstreetcn.com/livenews/3133065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "《重复使用运载火箭科研项目指南（第三批）》已正式发布",
+          "url": "https://wallstreetcn.com/livenews/3133342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
+          "url": "https://wallstreetcn.com/livenews/3133007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
