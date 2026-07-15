@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T17:47:15.862873+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-07-15T21:04:26.785118+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 44,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -42,17 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 04时48分]"
-        },
-        {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -100,6 +89,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "华泰证券：业绩期关注AI、涨价、制造三大线索",
           "url": "https://flash.jin10.com/detail/20260715082523709800",
           "source": "金十数据",
@@ -128,7 +128,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -146,6 +146,17 @@
           "time_info": "[00时59分 ~ 09时08分]"
         },
         {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
           "url": "https://wallstreetcn.com/livenews/3133798",
           "source": "华尔街见闻-快讯",
@@ -157,15 +168,17 @@
           "time_info": "01时01分"
         },
         {
-          "title": "争抢AI人才，腾讯校招实习生有机会享受正式员工薪资待遇",
-          "url": "https://wallstreetcn.com/livenews/3134267",
-          "source": "华尔街见闻-快讯",
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
           "ranks": [
-            4
+            10,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 21时04分]"
         },
         {
           "title": "AI拿冠军,摄影比赛闹笑话",
@@ -173,11 +186,35 @@
           "source": "贴吧",
           "ranks": [
             3,
-            9
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 21时04分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时06分 ~ 17时47分]"
+          "time_info": "[17时46分 ~ 21时04分]"
+        },
+        {
+          "title": "争抢AI人才，腾讯校招实习生有机会享受正式员工薪资待遇",
+          "url": "https://wallstreetcn.com/livenews/3134267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "帮美国打伊朗，换来AI芯片“绿灯”！阿联酋与特朗普家族的利益交换浮出水面",
@@ -214,18 +251,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 09时08分]"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时06分 ~ 17时47分]"
         },
         {
           "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
@@ -351,6 +376,28 @@
           "time_info": "04时48分"
         },
         {
+          "title": "AI乐观情绪重燃，阿斯麦绩后涨7%，韩股涨到熔断、SK海力士涨约9%，油价维持80美元高位",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "WAIC 2026即将启幕",
           "url": "https://search.bilibili.com/all?keyword=WAIC%202026%E5%8D%B3%E5%B0%86%E5%90%AF%E5%B9%95",
           "source": "bilibili 热搜",
@@ -371,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "苹果AI在中国完成备案",
+          "url": "https://www.toutiao.com/trending/7662353903802974258/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美联储理事巴尔：AI将从多个方面影响劳动力市场和整体经济，目前尚无法判断其会缩小还是加剧收入和财富不平等。",
@@ -412,7 +470,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -428,13 +486,24 @@
           "time_info": "14时06分"
         },
         {
+          "title": "当一个孩子问「我为什么要学自己不会的东西，用 AI 不就知道了」，你会怎么回答？",
+          "url": "https://www.zhihu.com/question/2057919284106498140",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
           "url": "https://flash.jin10.com/detail/20260715172344196800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -445,7 +514,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -456,7 +525,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -478,7 +547,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -503,12 +572,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "OPPO回应完成端侧AI备案：是适配监管要求的一项常规合规动作",
+          "url": "https://wallstreetcn.com/livenews/3134339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "知网：对AI署名论文已做下架处理",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E7%BD%91%EF%BC%9A%E5%AF%B9AI%E7%BD%B2%E5%90%8D%E8%AE%BA%E6%96%87%E5%B7%B2%E5%81%9A%E4%B8%8B%E6%9E%B6%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
@@ -535,6 +626,28 @@
           "time_info": "[09时08分 ~ 14时06分]"
         },
         {
+          "title": "舅舅养大的男孩被国防科技大学录取",
+          "url": "https://www.toutiao.com/trending/7662271287368990761/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "长鑫科技：第五代工艺技术平台目前处于研发阶段",
+          "url": "https://wallstreetcn.com/livenews/3134373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
           "url": "https://wallstreetcn.com/livenews/3133869",
           "source": "华尔街见闻-快讯",
@@ -552,7 +665,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -608,13 +721,24 @@
           "time_info": "[04时48分 ~ 09时08分]"
         },
         {
+          "title": "长鑫科技：第五代工艺技术平台目前处于研发阶段",
+          "url": "https://flash.jin10.com/detail/20260715203449093800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "越疆科技创业板IPO将于7月22日上会",
           "url": "https://wallstreetcn.com/livenews/3134256",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -625,9 +749,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "长鑫科技打新明日来袭",
+          "url": "https://www.douyin.com/hot/2572596",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "灿勤科技：拟定增募资不超8.51亿元，用于第六代信息技术研发及产业化等项目",
@@ -636,7 +771,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -669,7 +804,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -691,9 +826,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "长鑫科技打新中一签能赚多少",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%89%93%E6%96%B0%E4%B8%AD%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "恒生指数收盘涨1.4%，恒生科技指数涨1.3%",
@@ -702,7 +848,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -713,7 +859,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -735,7 +881,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         }
@@ -743,29 +889,19 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "央行最新发声！加大逆周期和跨周期调节力度，巩固拓展经济稳中向好势头",
           "url": "https://www.cls.cn/detail/2427114",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时47分]"
-        },
-        {
-          "title": "如何看待比亚迪唐电机总成脱落事件客服最新回应，为底盘发生严重磕碰所致？",
-          "url": "https://www.zhihu.com/question/2059993881601749194",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 21时04分]"
         },
         {
           "title": "伊媒深夜发布“暗杀名单”，专家：真正的“报复”不在名单上",
@@ -778,17 +914,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 14时06分]"
-        },
-        {
-          "title": "xQc吐槽拳头游戏纯抄无原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356191&amp;topic_name=xQc%E5%90%90%E6%A7%BD%E6%8B%B3%E5%A4%B4%E6%B8%B8%E6%88%8F%E7%BA%AF%E6%8A%84%E6%97%A0%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "德国两年期国债收益率于美国CPI通胀数据发布日涨超3个基点",
@@ -811,6 +936,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "xQc吐槽拳头游戏纯抄无原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356191&amp;topic_name=xQc%E5%90%90%E6%A7%BD%E6%8B%B3%E5%A4%B4%E6%B8%B8%E6%88%8F%E7%BA%AF%E6%8A%84%E6%97%A0%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 21时04分]"
+        },
+        {
+          "title": "如何看待比亚迪唐电机总成脱落事件客服最新回应，为底盘发生严重磕碰所致？",
+          "url": "https://www.zhihu.com/question/2059993881601749194",
+          "source": "知乎",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 21时04分]"
         },
         {
           "title": "净利同比最高增长49.35倍！800亿锂矿龙头发布半年度业绩预告|盘后公告集锦",
@@ -845,6 +994,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "多人因猎杀国家一级保护野生动物获刑，最高法发布一批典型案例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590193",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "欧盟航空安全局发布中东多国空域禁飞警告",
@@ -900,6 +1060,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 亚历山大 雷霆 sga",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特效一开雷霆动物全嗨了",
+          "url": "https://www.douyin.com/hot/2572228",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     }
