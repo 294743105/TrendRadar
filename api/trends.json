@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T14:06:44.228075+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-07-15T17:47:15.862873+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 29,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -42,6 +42,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 04时48分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 17时47分]"
+        },
+        {
+          "title": "苹果AI国行版过审",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CAI%E5%9B%BD%E8%A1%8C%E7%89%88%E8%BF%87%E5%AE%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -88,6 +122,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "【佰维存储：预计上半年净利润70亿元至75亿元，上年同期亏损2.26亿元】本期业绩大幅增长，主要受益于AI算力爆发与存储行业进入高景气周期，公司的产品和客户结构持续优化，同时公司在芯片设计、解决方案、先进封测及测试设备等领域不断加大投入力度，增强市场竞争力。",
+          "url": "https://wallstreetcn.com/livenews/3134270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
           "url": "https://www.zhihu.com/question/2060385485915263811",
           "source": "知乎",
@@ -101,17 +146,6 @@
           "time_info": "[00时59分 ~ 09时08分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
           "url": "https://wallstreetcn.com/livenews/3133798",
           "source": "华尔街见闻-快讯",
@@ -123,26 +157,38 @@
           "time_info": "01时01分"
         },
         {
+          "title": "争抢AI人才，腾讯校招实习生有机会享受正式员工薪资待遇",
+          "url": "https://wallstreetcn.com/livenews/3134267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 17时47分]"
+        },
+        {
           "title": "帮美国打伊朗，换来AI芯片“绿灯”！阿联酋与特朗普家族的利益交换浮出水面",
           "url": "https://flash.jin10.com/detail/20260715135111358800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
-        },
-        {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 14时06分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -170,6 +216,18 @@
           "time_info": "[00时59分 ~ 09时08分]"
         },
         {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 17时47分]"
+        },
+        {
           "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
           "url": "https://www.zhihu.com/question/2060378207459566963",
           "source": "知乎",
@@ -183,6 +241,39 @@
           "time_info": "[04时48分 ~ 14时06分]"
         },
         {
+          "title": "公募二季报大幕开启，AI最大公约数下显现持仓“高低切”",
+          "url": "https://www.cls.cn/detail/2426912",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "阿里千问将作为AI能力集成至Apple智能",
+          "url": "https://finance.ifeng.com/c/8umZVyZe3Sv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "苹果AI国行版已过审",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CAI%E5%9B%BD%E8%A1%8C%E7%89%88%E5%B7%B2%E8%BF%87%E5%AE%A1%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
@@ -194,6 +285,28 @@
           "time_info": "[00时59分 ~ 01时01分]"
         },
         {
+          "title": "AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？",
+          "url": "https://www.zhihu.com/question/2058996805182960802",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "当我让AI算亲戚称呼",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E8%AE%A9AI%E7%AE%97%E4%BA%B2%E6%88%9A%E7%A7%B0%E5%91%BC&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
           "title": "UP主解读AI浪潮下的资本周期",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
           "source": "bilibili 热搜",
@@ -203,6 +316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时01分]"
+        },
+        {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
@@ -233,18 +357,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -288,9 +401,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "美媒：白宫不排除针对开源AI模型采取行动",
+          "url": "https://flash.jin10.com/detail/20260715172410309800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
@@ -299,9 +423,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
+          "url": "https://flash.jin10.com/detail/20260715172344196800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "金十整理：韩股遭“七月寒流”机构纷纷下调预期，三星、SK海力士的“AI神话”要破灭了吗？",
+          "url": "https://flash.jin10.com/detail/20260715172309433800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：白宫不排除对开源AI模型采取行动。",
+          "url": "https://flash.jin10.com/detail/20260715171932532800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -313,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "长鑫科技：AI发展对DRAM市场需求存在不确定性 投资者需关注行业波动风险",
+          "url": "https://wallstreetcn.com/livenews/3134233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "美联储主席沃什：人工智能（AI）供应冲击发生的速度比我想象的更迅速。",
@@ -332,7 +500,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         }
@@ -340,25 +508,26 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
-          "url": "https://www.cls.cn/detail/2426576",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 14时06分]"
-        },
         {
           "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
           "url": "https://www.zhihu.com/question/2058449781597459395",
           "source": "知乎",
           "ranks": [
             5,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 17时47分]"
+        },
+        {
+          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
+          "url": "https://www.cls.cn/detail/2426576",
+          "source": "财联社热门",
+          "ranks": [
             1
           ],
           "is_new": false,
@@ -375,6 +544,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "灿勤科技：拟定增募资不超过8.51亿元",
+          "url": "https://wallstreetcn.com/livenews/3134264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "长鑫科技发行价确定为8.66元",
+          "url": "https://www.douyin.com/hot/2571581",
+          "source": "抖音",
+          "ranks": [
+            16,
+            9,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 17时47分]"
         },
         {
           "title": "长鑫科技公告：发行价格为8.66元/股",
@@ -402,19 +596,6 @@
           "time_info": "[00时59分 ~ 09时08分]"
         },
         {
-          "title": "长鑫科技发行价确定为8.66元",
-          "url": "https://www.douyin.com/hot/2571581",
-          "source": "抖音",
-          "ranks": [
-            16,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 14时06分]"
-        },
-        {
           "title": "马斯克说十年内要在月球上建造一座城市、配备生活资料并移民几万人上去长期居住，这个计划可行吗？",
           "url": "https://www.zhihu.com/question/2060166037149054543",
           "source": "知乎",
@@ -425,6 +606,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 09时08分]"
+        },
+        {
+          "title": "越疆科技创业板IPO将于7月22日上会",
+          "url": "https://wallstreetcn.com/livenews/3134256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "嘉元科技：预计上半年净利润为3.6亿元到3.9亿元，同比增加879.48%到961.11%，铜箔产品产销量显著增长。",
+          "url": "https://wallstreetcn.com/livenews/3134251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "灿勤科技：拟定增募资不超8.51亿元，用于第六代信息技术研发及产业化等项目",
+          "url": "https://flash.jin10.com/detail/20260715172444419800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.11%，报6105.95点。 热门中概股里，百度初步收跌3.3%，网易跌2.4%，拼多多跌0.7%，阿里涨0.1%，腾讯涨0.5%，新东方涨2.1%，比亚迪涨3.1%，小鹏涨3.2%，小马智行涨4.2%，文远知行涨7%。 ETF中，中概互联网指数ETF（KWEB）收跌0.19%，中国科技指数ETF（CQQQ）收涨1.52%。 XtrackersHarvest中证50（ASHS）收涨2.88%，德银嘉实沪深300指数ETF（ASHR）收涨2.84%，MSCI新兴市场ex中国ETF（EMXC）收涨1.79%。",
@@ -449,6 +663,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "泰和科技：预计2026年上半年净利润同比增长112.89%至176.75%",
+          "url": "https://wallstreetcn.com/livenews/3134236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
           "url": "https://www.zhihu.com/question/2058449781597459395",
           "source": "知乎",
@@ -460,6 +685,39 @@
           "time_info": "04时48分"
         },
         {
+          "title": "长鑫科技朱一明：将不断加快产能建设，丰富产品组合",
+          "url": "https://wallstreetcn.com/livenews/3134235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "恒生指数收盘涨1.4%，恒生科技指数涨1.3%",
+          "url": "https://wallstreetcn.com/livenews/3134230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "嘉元科技：预计上半年净利润同比增长879.48%-961.11%",
+          "url": "https://flash.jin10.com/detail/20260715171505845800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "长鑫科技发行价8.66元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B78.66%E5%85%83%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -469,13 +727,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "长鑫科技：上市后仍将保持无实际控制人的控制权架构",
+          "url": "https://wallstreetcn.com/livenews/3134223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "央行最新发声！加大逆周期和跨周期调节力度，巩固拓展经济稳中向好势头",
+          "url": "https://www.cls.cn/detail/2427114",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "如何看待比亚迪唐电机总成脱落事件客服最新回应，为底盘发生严重磕碰所致？",
+          "url": "https://www.zhihu.com/question/2059993881601749194",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
         {
           "title": "伊媒深夜发布“暗杀名单”，专家：真正的“报复”不在名单上",
           "url": "https://news.ifeng.com/c/8ulDlW6I9Ix",
@@ -487,6 +778,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 14时06分]"
+        },
+        {
+          "title": "xQc吐槽拳头游戏纯抄无原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356191&amp;topic_name=xQc%E5%90%90%E6%A7%BD%E6%8B%B3%E5%A4%B4%E6%B8%B8%E6%88%8F%E7%BA%AF%E6%8A%84%E6%97%A0%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "德国两年期国债收益率于美国CPI通胀数据发布日涨超3个基点",
@@ -595,7 +897,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         }
