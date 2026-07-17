@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T17:44:02.352236+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-07-17T20:56:56.710977+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时01分 ~ 09时20分]"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 20时56分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -59,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -74,6 +87,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时20分 ~ 14时09分]"
+        },
+        {
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "智谱ARR达到10亿美元 半年增长15倍",
@@ -93,9 +128,35 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 20时56分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 20时56分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -110,18 +171,6 @@
           "time_info": "[01时01分 ~ 09时20分]"
         },
         {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 17时44分]"
-        },
-        {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
           "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
           "source": "澎湃新闻",
@@ -134,18 +183,6 @@
           "time_info": "[01时01分 ~ 04时43分]"
         },
         {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 17时44分]"
-        },
-        {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
           "source": "澎湃新闻",
@@ -156,18 +193,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 04时43分]"
-        },
-        {
-          "title": "玉渊谭天丨中国AI的发展逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 17时44分]"
         },
         {
           "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
@@ -191,6 +216,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时20分 ~ 14时09分]"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 20时56分]"
         },
         {
           "title": "披着AI外衣的现实短片",
@@ -238,17 +275,6 @@
           "time_info": "[17时43分 ~ 17时44分]"
         },
         {
-          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
-        },
-        {
           "title": "周鸿祎：中国AI正在下一盘大棋",
           "url": "https://www.toutiao.com/trending/7663347841623936558/",
           "source": "今日头条",
@@ -282,6 +308,28 @@
           "time_info": "09时20分"
         },
         {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "大瓦特·让每一度电都有AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604737",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "恒生科技指数午后跌幅扩大至5%，恒生指数跌超2%，智谱跌超26%，MINIMAX跌超14%。",
           "url": "https://wallstreetcn.com/livenews/3135491",
           "source": "华尔街见闻-快讯",
@@ -291,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603374",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
@@ -326,13 +385,24 @@
           "time_info": "01时02分"
         },
         {
+          "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
+          "url": "https://www.zhihu.com/question/2059240244864611894",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "千问AI眼镜将升级为智能体眼镜",
           "url": "https://flash.jin10.com/detail/20260717171116331800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -359,13 +429,24 @@
           "time_info": "01时02分"
         },
         {
+          "title": "AI，刻在Shanghai的名字里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33593577",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "《上海市进一步推动“AI+制造”发展的若干措施》印发",
           "url": "https://wallstreetcn.com/livenews/3135599",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -398,7 +479,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -409,7 +490,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
@@ -417,7 +498,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -431,17 +512,6 @@
           "time_info": "[01时01分 ~ 04时43分]"
         },
         {
-          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
-          "url": "https://www.cls.cn/detail/2429589",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
-        },
-        {
           "title": "A股小金属板块重挫，中钨高新、长裕集团跌停，云南锗业、华锡有色、宜安科技、厦门钨业、西部材料等跟跌。",
           "url": "https://flash.jin10.com/detail/20260717135601192800",
           "source": "金十数据",
@@ -451,6 +521,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
+          "url": "https://www.cls.cn/detail/2429589",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 20时56分]"
         },
         {
           "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
@@ -533,6 +615,17 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "科技股抛售潮蔓延，纳指100期货跌1.5%，盘前存储股跌幅收窄，布油涨2%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美股存储芯片指数初步收跌8%，半导体指数跌4%。 标普500指数初步收跌0.6%，电信板块跌3.1%，科技板块跌1.9%，房地产、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.7%，成分股中，Nebius、闪迪、RKLB、希捷科技、西部数据、Astera Labs初步收跌14.8%-8.8%，Adobe涨4.5%，德康医疗涨7.2%。",
           "url": "https://wallstreetcn.com/livenews/3135259",
           "source": "华尔街见闻-快讯",
@@ -572,7 +665,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -643,6 +736,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "长鑫科技提前锁定清华北大优秀毕业生",
+          "url": "https://www.toutiao.com/trending/7663456670936206884/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "澜起科技：公司韩国办公室被首尔中央地方检察厅现场搜查及取证，涉及反垄断相关法规事宜",
           "url": "https://wallstreetcn.com/livenews/3135169",
           "source": "华尔街见闻-快讯",
@@ -668,7 +772,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
@@ -681,6 +785,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时08分 ~ 17时44分]"
+        },
+        {
+          "title": "国家发改委发布《人工智能合作发展行动计划》",
+          "url": "https://www.cls.cn/detail/2429332",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 20时56分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -703,18 +820,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 04时43分]"
-        },
-        {
-          "title": "国家发改委发布《人工智能合作发展行动计划》",
-          "url": "https://www.cls.cn/detail/2429332",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 17时44分]"
         },
         {
           "title": "全球最大规模开源模型Kimi K3发布",
@@ -772,13 +877,24 @@
           "time_info": "[17时43分 ~ 17时44分]"
         },
         {
+          "title": "伊朗前外长萨利希：地区国家是时候停止“相互指责的游戏”，回到对话桌前了。",
+          "url": "https://flash.jin10.com/detail/20260717203548286800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "《智能体互信互联互操作全球合作倡议》发布",
           "url": "https://wallstreetcn.com/livenews/3135619",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -789,7 +905,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -833,7 +949,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -866,7 +982,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -910,7 +1026,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
@@ -936,11 +1052,12 @@
           "url": "https://www.zhihu.com/question/2061375923639646082",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 20时56分]"
         },
         {
           "title": "NBA总裁萧华：联盟的本质是零和游戏",
