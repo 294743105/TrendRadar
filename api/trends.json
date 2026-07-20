@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-20T04:37:43.733330+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-07-20T10:48:36.365690+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 10时48分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -31,6 +32,17 @@
           "time_info": "[00时42分 ~ 04时37分]"
         },
         {
+          "title": "中国成为全球AI发展与治理关键力量",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83AI%E5%8F%91%E5%B1%95%E4%B8%8E%E6%B2%BB%E7%90%86%E5%85%B3%E9%94%AE%E5%8A%9B%E9%87%8F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3777355",
           "source": "华尔街见闻",
@@ -39,8 +51,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 10时48分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 10时48分]"
         },
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -76,18 +101,6 @@
           "time_info": "[00时42分 ~ 04时37分]"
         },
         {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 04时37分]"
-        },
-        {
           "title": "Kimi K3让全球AI圈炸锅了",
           "url": "https://www.toutiao.com/trending/7664192249667784198/",
           "source": "今日头条",
@@ -111,15 +124,37 @@
           "time_info": "00时42分"
         },
         {
+          "title": "工信部：上半年规模以上制造业企业AI技术应用普及率超过30%",
+          "url": "https://wallstreetcn.com/livenews/3136481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "从算力底座到应用现场，上海AI跑出产业正循环生态",
           "url": "https://wallstreetcn.com/livenews/3136321",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "2026 WAIC深度观察：具身智能告别“秀场时代”",
+          "url": "https://www.cls.cn/detail/2430678",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "姚期智：中国AI产业领跑全球",
@@ -144,6 +179,61 @@
           "time_info": "00时42分"
         },
         {
+          "title": "全美出现数据中心出售潮，「反数据中心运动」又向红蓝州同时蔓延，这会对市场和 AI 产业形成多大影响？",
+          "url": "https://www.zhihu.com/question/2062127994513183627",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
+          "url": "https://flash.jin10.com/detail/20260720102658536800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "AI服务器、算力租赁概念大幅走强，浪潮信息、行云科技、利通电子、杭钢股份、紫光股份、美利云、浙大网新等多股涨停，亚康股份、首都在线、宏景科技等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3136464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "MINIMAX-W(00100.HK)跌超10%，智谱(02513.HK)跌超12%。",
+          "url": "https://flash.jin10.com/detail/20260720102133084800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
           "url": "https://wallstreetcn.com/livenews/3136278",
           "source": "华尔街见闻-快讯",
@@ -158,7 +248,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
@@ -207,6 +297,39 @@
           "time_info": "[00时42分 ~ 04时37分]"
         },
         {
+          "title": "A股电力板块再度走强，立新能源三连板，乐山电力2连板，涪陵电力涨停，九洲集团、南网科技、南网能源、西昌电力、广西能源跟涨。",
+          "url": "https://flash.jin10.com/detail/20260720102826295800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "恒生科技指数日内涨3%，华虹宏力涨超8%，哔哩哔哩涨超6%，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3136458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "A股半导体芯片股盘初反弹，星宸科技20cm涨停，盛科通信、富瀚微涨超10%，普冉股份、银河微电、杰华特、芯导科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3136450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "长鑫科技770万个中签号背后",
           "url": "https://www.toutiao.com/trending/7664182019143765546/",
           "source": "今日头条",
@@ -216,12 +339,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "恒指高开1.11%，恒生科技指数涨2.2%",
+          "url": "https://wallstreetcn.com/livenews/3136436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -233,6 +367,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 04时37分]"
+        },
+        {
+          "title": "【早报】证监会今天将召开座谈会，促进市场稳定健康发展；两大央企宣布，增持A股股票资产；新易盛、天孚通信等发布上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430665",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
+          "url": "https://www.zhihu.com/question/2062096553184120966",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
@@ -258,13 +414,35 @@
           "time_info": "[00时42分 ~ 04时37分]"
         },
         {
+          "title": "关于杠杆新规、估值和外资最新走向，这是华尔街对韩股的最新看法",
+          "url": "https://wallstreetcn.com/articles/3777343",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "国新办举行新闻发布会，介绍2026年上半年工业和信息化发展情况。",
+          "url": "https://wallstreetcn.com/livenews/3136475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "重庆彭水山体崩塌最新现场",
           "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E6%9C%80%E6%96%B0%E7%8E%B0%E5%9C%BA",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         }
