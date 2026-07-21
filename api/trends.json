@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T09:18:59.271729+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-07-21T14:21:51.801617+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 09时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 14时21分]"
         },
         {
           "title": "WAIC预计达成超200亿元意向采购金额",
@@ -37,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -54,6 +54,17 @@
           "time_info": "[01时20分 ~ 04时58分]"
         },
         {
+          "title": "Rain喊话NiKo大表哥对决",
+          "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
           "url": "https://wallstreetcn.com/livenews/3137082",
           "source": "华尔街见闻-快讯",
@@ -65,30 +76,18 @@
           "time_info": "04时58分"
         },
         {
-          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
-          "url": "https://www.zhihu.com/question/2061575313973416591",
-          "source": "知乎",
-          "ranks": [
-            15,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 09时18分]"
-        },
-        {
           "title": "AI不准用,日本漫画家被迫停更",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
           "source": "贴吧",
           "ranks": [
             10,
             11,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 09时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 14时21分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -97,7 +96,45 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 14时21分]"
+        },
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 14时21分]"
+        },
+        {
+          "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
+          "url": "https://www.cls.cn/detail/2432010",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 14时21分]"
+        },
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -138,6 +175,30 @@
           "time_info": "[01时20分 ~ 01时21分]"
         },
         {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 14时21分]"
+        },
+        {
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 14时21分]"
+        },
+        {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
           "url": "https://wallstreetcn.com/articles/3777377",
           "source": "华尔街见闻",
@@ -160,37 +221,37 @@
           "time_info": "[01时20分 ~ 01时21分]"
         },
         {
-          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
-          "url": "https://www.cls.cn/detail/2431896",
-          "source": "财联社热门",
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "14时21分"
         },
         {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
+          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
+          "url": "https://www.cls.cn/detail/2432258",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
-          "url": "https://www.cls.cn/detail/2432010",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "14时21分"
         },
         {
           "title": "WAIC机器人格斗拳拳到铁",
@@ -204,15 +265,48 @@
           "time_info": "04时58分"
         },
         {
-          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
-          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "title": "AI 的「最后一公里」，还要走多久？",
+          "url": "https://www.zhihu.com/question/2058520434031555606",
           "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "14时21分"
+        },
+        {
+          "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "港股大模型概念股走高，智谱涨近30%，MINIMAX涨近13%。",
+          "url": "https://wallstreetcn.com/livenews/3137324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "xAI为微软Excel推出Grok插件",
@@ -229,8 +323,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "中国科技这3组数字真提气",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
         {
           "title": "机器人断头反杀看乐马斯克",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
@@ -238,11 +343,23 @@
           "ranks": [
             19,
             20,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 09时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 14时21分]"
+        },
+        {
+          "title": "雅克科技触及涨停，上演地天板走势，成交额近60亿元。",
+          "url": "https://wallstreetcn.com/livenews/3137348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
@@ -254,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "A股机器人概念震荡反弹，征和工业涨停，上纬新材、世运电路、绿的谐波、宝通科技、斯菱智驱等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3137345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.57%，暂报2154.58点。 MarketVectorTM数字资产100中盘指数涨1.31%，报2572.59点。 MarketVector数字资产100指数涨1.40%，报12976.54点。 目前，Solana涨2.52%，狗狗币涨1.40%，XRP涨1.67%。 比特币涨1.57%，暂报65389.40美元；以太坊涨2.09%，暂报1897.80美元。",
@@ -284,7 +412,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -298,6 +426,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "A股半导体产业链持续走高，强一股份、晶方科技午后涨停，格科微、臻宝科技、杰华特、托伦斯、屹唐股份、北方华创、大为股份、新洁能等十余股封板，东微半导、东芯股份、华虹宏力、长川科技等近20股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3137329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "襄阳四中8名学子被国防科技大学录取",
+          "url": "https://www.toutiao.com/trending/7663706212139073577/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.21%，报25099点。 恒生科技指数主连夜盘收跌0.25%，报4745点。",
@@ -325,7 +475,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美军公布最新伤亡情况",
@@ -340,6 +490,17 @@
           "time_info": "[01时20分 ~ 09时18分]"
         },
         {
+          "title": "中国海警局发布菲律宾非法「坐滩」57 号舰蓄意挑衅的声明，并公布现场画面，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2062608470700975381",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "谢霆锋兄妹发布讣告",
           "url": "https://www.douyin.com/hot/2578637",
           "source": "抖音",
@@ -350,6 +511,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 09时18分]"
+        },
+        {
+          "title": "“全面战争”！伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8uvsqi231GR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "多家央企旗下上市公司同日发布公告",
@@ -372,6 +544,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "《山西省统筹煤炭行业发展和安全新规十七条》即将发布 拟彻底清理取缔隐蔽工作面",
+          "url": "https://wallstreetcn.com/livenews/3137340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "这届世界杯经常出现的「XX 是个外行」是什么梗，为什么这么多人躺床上骂别人是外行，这个梗为什么这么好玩？",
+          "url": "https://www.zhihu.com/question/2061029759895561659",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
