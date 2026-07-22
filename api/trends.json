@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T01:06:24.272040+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-23T04:54:18.911519+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -26,8 +26,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
+        },
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
@@ -41,26 +52,52 @@
           "time_info": "01时06分"
         },
         {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
-          "source": "华尔街见闻",
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
+        },
+        {
+          "title": "用AI通关高难度跑步游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "别再给AI乱传文件了",
           "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -70,52 +107,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
-          "title": "用AI通关高难度跑步游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
+          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "source": "知乎",
           "ranks": [
-            8
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "为什么要说尽量少跟AI倾诉聊天",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
           "url": "https://www.cls.cn/detail/2434311",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
           "url": "https://www.cls.cn/detail/2434259",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -125,19 +154,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -147,19 +165,63 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
-          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
-          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
+          "url": "https://wallstreetcn.com/livenews/3138394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "04时54分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：Gemini模型现在每分钟可处理220亿个API词元（TOKENS）。",
+          "url": "https://flash.jin10.com/detail/20260723040859951800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：Gemini APP月活用户数（Maus）达到9.5亿。",
+          "url": "https://flash.jin10.com/detail/20260723040745375800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "黄仁勋称美国无需害怕中国开源AI模型",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%97%A0%E9%9C%80%E5%AE%B3%E6%80%95%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         },
         {
           "title": "AI烧钱竞赛升级",
@@ -176,8 +238,30 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
+        },
         {
           "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
           "url": "https://www.zhihu.com/question/2063197377310233514",
@@ -190,37 +274,27 @@
           "time_info": "01时06分"
         },
         {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
+          "title": "周三（7月22日），美股行业ETF多数收跌，网络股指数ETF、全球航空业ETF、生物科技指数ETF至多跌1.86%，半导体ETF涨0.48%，能源业ETF涨1.20%。 标普500指数的11个板块中，电信板块收跌1.29%，可选消费板块跌0.84%，信息技术/科技板块涨0.01%，能源板块涨1.19%，原材料板块涨1.45%，公用事业板块涨2.29%。",
+          "url": "https://wallstreetcn.com/livenews/3138400",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "04时54分"
         },
         {
           "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
           "url": "https://www.zhihu.com/question/2062983976835344170",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "马斯克母亲吐槽纽约脏乱差",
@@ -230,14 +304,47 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.80%，报6180.98点。 热门中概股里，网易初步收跌6.6%，%腾讯跌6%，小鹏、B站、贝壳、金山云跌超3%，携程跌2.5%，阿里跌1.4%，华住、世纪互联、大全新能源至少涨超1%。 ETF中，中概互联网指数ETF（KWEB）收跌2.15%，中国科技指数ETF（CQQQ）收跌1.72%。 XtrackersHarvest中证50（ASHS）收跌0.60%，MSCI新兴市场ex中国ETF（EMXC）收跌0.41%，德银嘉实沪深300指数ETF（ASHR）收跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3138388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "04时54分"
+        },
+        {
+          "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3138386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX跌超6.1%，刷新日低，此前一度涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3138383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "联合国会议上，中国发布重要文件",
@@ -247,8 +354,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "体育强国建设“十五五”规划发布：加强体育饭圈乱象整治、杜绝运动员网红化",
@@ -258,30 +365,76 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "这届非遗手作太好玩了",
           "url": "https://www.douyin.com/hot/2580623",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
         },
         {
           "title": "足坛最新身价前十公布",
           "url": "https://www.toutiao.com/trending/7664438539547852836/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时54分]"
+        },
+        {
+          "title": "足坛最新身价TOP10",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%B3%E5%9D%9B%E6%9C%80%E6%96%B0%E8%BA%AB%E4%BB%B7TOP10%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "04时54分"
+        },
+        {
+          "title": "河北省气象台发布暴雨蓝色预警",
+          "url": "https://www.douyin.com/hot/2580414",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "游戏树恨你太抽象了",
+          "url": "https://www.douyin.com/hot/2580256",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "三星阔折叠手机发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     }
