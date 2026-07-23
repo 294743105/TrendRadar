@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T14:24:10.300527+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-07-23T18:10:24.570452+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 14时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 18时10分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时10分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -42,6 +43,18 @@
           "time_info": "[09时24分 ~ 14时24分]"
         },
         {
+          "title": "如何评价 GPT-5.6 为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把 Hugging Face 黑了？",
+          "url": "https://www.zhihu.com/question/2063229032708284873",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
+        },
+        {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
           "url": "https://www.cls.cn/detail/2434359",
           "source": "财联社热门",
@@ -52,6 +65,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时06分 ~ 09时24分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
         },
         {
           "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
@@ -75,28 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 04时54分]"
-        },
-        {
-          "title": "如何评价 GPT-5.6 为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把 Hugging Face 黑了？",
-          "url": "https://www.zhihu.com/question/2063229032708284873",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -135,6 +138,18 @@
           "time_info": "09时24分"
         },
         {
+          "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
+          "url": "https://www.cls.cn/detail/2434755",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
+        },
+        {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
           "url": "https://www.zhihu.com/question/2063264614834336987",
           "source": "知乎",
@@ -146,6 +161,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时06分 ~ 09时24分]"
+        },
+        {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
@@ -171,13 +197,24 @@
           "time_info": "[01时06分 ~ 09时24分]"
         },
         {
+          "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
+          "url": "https://www.cls.cn/detail/2434908",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "马斯克：Grok 4.5虽然不如Fable那么出色，但它速度非常快、性价比高，而且能完成任务。",
           "url": "https://wallstreetcn.com/livenews/3138639",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -194,6 +231,17 @@
           "time_info": "[01时06分 ~ 14时24分]"
         },
         {
+          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
+          "url": "https://wallstreetcn.com/articles/3777694",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时10分]"
+        },
+        {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
@@ -205,26 +253,39 @@
           "time_info": "[01时06分 ~ 09时24分]"
         },
         {
-          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
-          "url": "https://wallstreetcn.com/articles/3777694",
-          "source": "华尔街见闻",
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时24分 ~ 14时24分]"
+          "time_info": "[14时23分 ~ 18时10分]"
         },
         {
-          "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
-          "url": "https://www.cls.cn/detail/2434755",
-          "source": "财联社热门",
+          "title": "男子AI伪造烂水果仅退款连累全县",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
+        },
+        {
+          "title": "rain回应战胜猎鹰",
+          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -287,28 +348,6 @@
           "time_info": "[01时06分 ~ 04时54分]"
         },
         {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "男子AI伪造烂水果仅退款连累全县",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
           "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
           "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -353,17 +392,6 @@
           "time_info": "[14时23分 ~ 14时24分]"
         },
         {
-          "title": "rain回应战胜猎鹰",
-          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
           "url": "https://wallstreetcn.com/livenews/3138394",
           "source": "华尔街见闻-快讯",
@@ -386,13 +414,24 @@
           "time_info": "09时24分"
         },
         {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "AI前沿日报-7月23日",
           "url": "https://flash.jin10.com/detail/20260723140129866800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -417,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "黄仁勋反对美国封禁中国AI模型",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%B0%81%E7%A6%81%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "黄仁勋称美国无需害怕中国开源AI模型",
@@ -444,7 +494,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "体育强国建设“十五五”规划发布：加强体育饭圈乱象整治、杜绝运动员网红化",
@@ -456,8 +506,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 14时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 18时10分]"
         },
         {
           "title": "联合国会议上，中国发布重要文件",
@@ -502,8 +552,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
         },
         {
           "title": "网警发布20起涉汛涉灾谣言案例",
@@ -513,8 +563,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
         },
         {
           "title": "净网：网警发布20起涉汛涉灾谣言案例",
@@ -524,8 +574,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
+        },
+        {
+          "title": "月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象？",
+          "url": "https://www.zhihu.com/question/2062640157015249755",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
         },
         {
           "title": "足坛最新身价前十公布",
@@ -545,17 +607,6 @@
           "source": "财联社热门",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象？",
-          "url": "https://www.zhihu.com/question/2062640157015249755",
-          "source": "知乎",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -596,13 +647,46 @@
           "time_info": "[14时23分 ~ 14时24分]"
         },
         {
+          "title": "腾讯云发布首个云端研发智能体CodeBuddy NPC",
+          "url": "https://wallstreetcn.com/livenews/3138775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟最新制裁方案是我们四年来最大的一轮，共计218项名单。",
+          "url": "https://flash.jin10.com/detail/20260723174428538800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "北京发布关于加快智能体引领发展的若干措施，加快跨模型跨芯片的通用智能体技术攻关",
+          "url": "https://wallstreetcn.com/livenews/3138758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "可再生能源发展十五五规划发布 电力板块掀涨停潮",
           "url": "https://flash.jin10.com/detail/20260723140342221800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -651,6 +735,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "腾讯云发布首个云端研发智能体CodeBuddy NPC",
+          "url": "https://flash.jin10.com/detail/20260723173940700800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "三星阔折叠手机发布",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -665,7 +760,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -690,6 +785,17 @@
           "time_info": "[01时06分 ~ 04时54分]"
         },
         {
+          "title": "南网科技：董事长提议实施2026年中期分红 金额不低于上半年净利润的40%",
+          "url": "https://flash.jin10.com/detail/20260723175345364800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
           "url": "https://www.zhihu.com/question/2063197377310233514",
           "source": "知乎",
@@ -712,6 +818,17 @@
           "time_info": "04时54分"
         },
         {
+          "title": "巨一科技：实际控制人提议回购股份用于股权激励",
+          "url": "https://flash.jin10.com/detail/20260723175023990800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
           "url": "https://www.zhihu.com/question/2062983976835344170",
           "source": "知乎",
@@ -722,6 +839,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 04时54分]"
+        },
+        {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
+        },
+        {
+          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 18时10分]"
         },
         {
           "title": "马斯克母亲吐槽纽约脏乱差",
@@ -735,37 +875,26 @@
           "time_info": "[01时06分 ~ 09时24分]"
         },
         {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
           "title": "A股光伏设备午后走强，赛伍技术涨停，德业股份、艾罗能源、阳光电源、锦浪科技、固德威跟涨。",
           "url": "https://wallstreetcn.com/livenews/3138635",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "马斯克也“默认”了？知名科技圈人士：特斯拉和SpaceX合并概率已达90%！",
+          "url": "https://www.cls.cn/detail/2434751",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.80%，报6180.98点。 热门中概股里，网易初步收跌6.6%，%腾讯跌6%，小鹏、B站、贝壳、金山云跌超3%，携程跌2.5%，阿里跌1.4%，华住、世纪互联、大全新能源至少涨超1%。 ETF中，中概互联网指数ETF（KWEB）收跌2.15%，中国科技指数ETF（CQQQ）收跌1.72%。 XtrackersHarvest中证50（ASHS）收跌0.60%，MSCI新兴市场ex中国ETF（EMXC）收跌0.41%，德银嘉实沪深300指数ETF（ASHR）收跌0.17%。",
@@ -818,9 +947,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "源杰科技：CW光源产品主要为70mW/100mW 正与模块及CSP厂商确定合作意向",
+          "url": "https://wallstreetcn.com/livenews/3138753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         }
       ]
     }
