@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-07-23T04:54:18.911519+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-07-23T09:24:49.739544+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
+        },
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
+        },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
           "url": "https://wallstreetcn.com/articles/3777614",
@@ -19,26 +43,61 @@
           "time_info": "[01时06分 ~ 04时54分]"
         },
         {
-          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-          "url": "https://www.cls.cn/detail/2434359",
-          "source": "财联社热门",
+          "title": "OpenAI现安全事故中国大模型救场",
+          "url": "https://www.toutiao.com/trending/7664873281528512575/",
+          "source": "今日头条",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
+          "title": "OpenAI模型失控闯祸 中国大模型救场",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
         },
         {
           "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
@@ -60,8 +119,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
+        },
+        {
+          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
+          "url": "https://www.cls.cn/detail/2434534",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -69,23 +139,34 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
         },
         {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -94,17 +175,6 @@
           "ranks": [
             6,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
-        },
-        {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -121,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 04时54分]"
+        },
+        {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 09时24分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -147,17 +229,6 @@
           "time_info": "[01时06分 ~ 04时54分]"
         },
         {
-          "title": "吧友做梗图催更DeepSeekV4",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
-        },
-        {
           "title": "OpenAI遭遇史上首次评测失控事故",
           "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
           "source": "百度热搜",
@@ -175,20 +246,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
         {
-          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
-          "url": "https://www.zhihu.com/question/2062918586486583714",
-          "source": "知乎",
+          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
+          "url": "https://wallstreetcn.com/articles/3777694",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时54分"
+          "time_info": "09时24分"
+        },
+        {
+          "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
+          "url": "https://news.ifeng.com/c/8uyaFs12NfO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "Alphabet(GOOG.O)：Gemini模型现在每分钟可处理220亿个API词元（TOKENS）。",
@@ -197,7 +279,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -208,7 +290,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -219,7 +301,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -238,7 +320,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -280,7 +362,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -304,8 +386,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.80%，报6180.98点。 热门中概股里，网易初步收跌6.6%，%腾讯跌6%，小鹏、B站、贝壳、金山云跌超3%，携程跌2.5%，阿里跌1.4%，华住、世纪互联、大全新能源至少涨超1%。 ETF中，中概互联网指数ETF（KWEB）收跌2.15%，中国科技指数ETF（CQQQ）收跌1.72%。 XtrackersHarvest中证50（ASHS）收跌0.60%，MSCI新兴市场ex中国ETF（EMXC）收跌0.41%，德银嘉实沪深300指数ETF（ASHR）收跌0.17%。",
@@ -314,9 +396,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "两部门：研究面向太空的太阳能发电技术，推进关键技术验证",
+          "url": "https://flash.jin10.com/detail/20260723090830772800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
@@ -325,7 +418,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -336,7 +429,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
@@ -344,7 +437,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "联合国会议上，中国发布重要文件",
@@ -362,11 +455,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33636542",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
         },
         {
           "title": "这届非遗手作太好玩了",
@@ -377,8 +471,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时24分]"
         },
         {
           "title": "足坛最新身价前十公布",
@@ -393,15 +487,38 @@
           "time_info": "[01时06分 ~ 04时54分]"
         },
         {
+          "title": "游戏树恨你太抽象了",
+          "url": "https://www.douyin.com/hot/2580256",
+          "source": "抖音",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 09时24分]"
+        },
+        {
           "title": "足坛最新身价TOP10",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B6%B3%E5%9D%9B%E6%9C%80%E6%96%B0%E8%BA%AB%E4%BB%B7TOP10%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "发改委、能源局发布关于印发《可再生能源发展“十五五”规划》的通知。",
+          "url": "https://flash.jin10.com/detail/20260723090312480800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "河北省气象台发布暴雨蓝色预警",
@@ -410,20 +527,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
         {
-          "title": "游戏树恨你太抽象了",
-          "url": "https://www.douyin.com/hot/2580256",
-          "source": "抖音",
+          "title": "谷歌发布Q2财报：营收1198亿美元",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Q2%E8%B4%A2%E6%8A%A5%EF%BC%9A%E8%90%A5%E6%94%B61198%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            29
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时54分"
+          "time_info": "09时24分"
         },
         {
           "title": "三星阔折叠手机发布",
@@ -432,7 +549,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
