@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T14:18:09.853235+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-07-24T18:05:34.029538+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 18时05分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -75,6 +75,31 @@
           "time_info": "01时09分"
         },
         {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 18时05分]"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计AI加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。",
           "url": "https://wallstreetcn.com/livenews/3138999",
           "source": "华尔街见闻-快讯",
@@ -86,28 +111,27 @@
           "time_info": "01时09分"
         },
         {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
+          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
+          "url": "https://www.cls.cn/detail/2435979",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            19,
-            17
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 14时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 18时05分]"
         },
         {
           "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
@@ -134,6 +158,18 @@
           "time_info": "[01时09分 ~ 09时20分]"
         },
         {
+          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063396759536154240",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时05分]"
+        },
+        {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
           "url": "https://www.cls.cn/detail/2435521",
           "source": "财联社热门",
@@ -150,17 +186,6 @@
           "title": "中国AI大反超，美国还能挡多久？",
           "url": "https://news.ifeng.com/c/8uzcXG8YK32",
           "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
-          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2063396759536154240",
-          "source": "知乎",
           "ranks": [
             9
           ],
@@ -237,6 +262,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "金十整理：特斯拉业绩未及预期，机构纷纷下调目标价，但仍看好AI叙事",
+          "url": "https://flash.jin10.com/detail/20260724173244244800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "苹果未能将所有AI语音训练诉讼案归入同一法官审理",
           "url": "https://wallstreetcn.com/livenews/3138995",
           "source": "华尔街见闻-快讯",
@@ -257,6 +293,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "中美元首将讨论AI议题？外交部回应",
+          "url": "https://www.toutiao.com/trending/7665910128771792939/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
@@ -303,6 +361,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "南向资金今日净卖出15.18亿元。港股通（沪）方面，阿里巴巴-W、建滔积层板分别获净卖出18.31亿港元、3.89亿港元；智谱净买入额居首，金额为1.45亿港元；港股通（深）方面，阿里巴巴-W、腾讯控股分别获净卖出13.77亿港元、4.58亿港元；华虹宏力净买入额居首，金额为3.47亿港元。",
+          "url": "https://flash.jin10.com/detail/20260724173128882800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "华泰证券：AI Agent加速推理算力与存力扩容 自主可控链国产化再加速",
           "url": "https://flash.jin10.com/detail/20260724082528532800",
           "source": "金十数据",
@@ -331,9 +400,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "DeepSeek纠结了10秒还是决定谄媚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "ditto概念在AI届也是爆火",
+          "url": "https://s.weibo.com/weibo?q=%23ditto%E6%A6%82%E5%BF%B5%E5%9C%A8AI%E5%B1%8A%E4%B9%9F%E6%98%AF%E7%88%86%E7%81%AB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "xAI：将GROK 4.5推出至iOS、Android、Web和X。",
@@ -361,7 +463,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -373,6 +475,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时20分 ~ 14时18分]"
+        },
+        {
+          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
+          "url": "https://www.cls.cn/detail/2436009",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时05分]"
         },
         {
           "title": "长鑫科技下周一上市，发行价为8.66元/股",
@@ -387,17 +501,6 @@
           "time_info": "[01时09分 ~ 09时20分]"
         },
         {
-          "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
-          "url": "https://www.cls.cn/detail/2435803",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
           "url": "https://wallstreetcn.com/articles/3777828",
           "source": "华尔街见闻",
@@ -405,19 +508,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
-          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
-          "url": "https://www.cls.cn/detail/2436009",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时05分]"
         },
         {
           "title": "长鑫科技7月27日科创板上市",
@@ -427,11 +519,23 @@
             24,
             11,
             4,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 14时18分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 18时05分]"
+        },
+        {
+          "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
+          "url": "https://www.cls.cn/detail/2435803",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时18分]"
         },
         {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
@@ -526,6 +630,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
+          "url": "https://www.zhihu.com/question/2063730050579396490",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
           "url": "https://wallstreetcn.com/livenews/3139055",
           "source": "华尔街见闻-快讯",
@@ -554,9 +669,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "长鑫科技 IPO 助力合肥城投化债，其他省市城投平台能否效仿？",
+          "url": "https://www.zhihu.com/question/2062839135568491650",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "青云科技：终止241.39万股股份协议转让",
+          "url": "https://flash.jin10.com/detail/20260724172717126800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "A股存储芯片板块午后回升，托伦斯涨超15%，至纯科技涨停，正帆科技涨超9%，通富微电、精测电子、强一股份、深科技、拓荆科技等个股跟涨。",
@@ -565,7 +702,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -584,7 +721,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机柜。",
@@ -596,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "重庆举行反诈工作新闻发布会",
+          "url": "https://www.douyin.com/hot/2583698",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "英皇娱乐发布声明",
@@ -621,6 +769,28 @@
           "time_info": "01时09分"
         },
         {
+          "title": "上海国际能源交易中心：发布低硫燃料油期货期权合约",
+          "url": "https://wallstreetcn.com/livenews/3139385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "如何评价荣耀最新的 logo？为啥要在这个时间点更换 logo？",
+          "url": "https://www.zhihu.com/question/2063634663818762184",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "德国国防部在最新军事决策中宣布，计划从红海地区撤回两艘军舰。",
           "url": "https://flash.jin10.com/detail/20260724002658976800",
           "source": "金十数据",
@@ -630,6 +800,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "上期所发布上海期货交易所热轧卷板、不锈钢期货期权合约的公告",
+          "url": "https://flash.jin10.com/detail/20260724172926272800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "上海国际能源交易中心关于发布低硫燃料油期货期权合约的公告",
+          "url": "https://flash.jin10.com/detail/20260724172807030800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月24日）",
