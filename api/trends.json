@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-07-24T05:01:34.860858+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-07-24T09:20:35.297664+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 09时20分]"
+        },
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 05时01分]"
-        },
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -39,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 05时01分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "AMD正式发布Helios机架级AI服务器。",
@@ -67,11 +79,12 @@
           "url": "https://wallstreetcn.com/articles/3777748",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 09时20分]"
         },
         {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
@@ -79,11 +92,25 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 09时20分]"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 09时20分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -121,16 +148,15 @@
           "time_info": "[01时09分 ~ 05时01分]"
         },
         {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 05时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
@@ -155,6 +181,50 @@
           "time_info": "01时09分"
         },
         {
+          "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
+          "url": "https://www.cls.cn/detail/2435740",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "曝梁文锋称 DeepSeek「没有组织」，每个人有一半时间完全自由、没有 KPI，怎样看待这种企业文化？",
+          "url": "https://www.zhihu.com/question/2063657419020792636",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
+          "url": "https://wallstreetcn.com/articles/3777753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "梁文锋称商业化是 DeepSeek 副产品，先做 AGI 突破，商业化水到渠成，如何理解？眼下该模式跑得通吗？",
+          "url": "https://www.zhihu.com/question/2063622655547110211",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
           "url": "https://wallstreetcn.com/livenews/3138991",
           "source": "华尔街见闻-快讯",
@@ -175,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "华泰证券：AI Agent加速推理算力与存力扩容 自主可控链国产化再加速",
+          "url": "https://flash.jin10.com/detail/20260724082528532800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "xAI：将Grok 4.5投放到苹果公司iOS、安卓、网页、以及X平台。",
@@ -205,7 +286,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -213,18 +294,41 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "长鑫科技下周一上市，发行价为8.66元/股",
           "url": "https://www.cls.cn/detail/2435368",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 09时20分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
@@ -233,7 +337,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -248,6 +352,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 05时01分]"
+        },
+        {
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
+          "ranks": [
+            24,
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 09时20分]"
+        },
+        {
+          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
+          "url": "https://www.cls.cn/detail/2435567",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 09时20分]"
         },
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
@@ -273,30 +403,6 @@
           "time_info": "[01时09分 ~ 05时01分]"
         },
         {
-          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
-          "url": "https://www.cls.cn/detail/2435567",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 05时01分]"
-        },
-        {
-          "title": "长鑫科技7月27日科创板上市",
-          "url": "https://www.douyin.com/hot/2582708",
-          "source": "抖音",
-          "ranks": [
-            24,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 05时01分]"
-        },
-        {
           "title": "长鑫科技：将于7月27日在科创板上市",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
@@ -314,7 +420,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -325,7 +431,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -336,7 +442,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -347,7 +453,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -355,7 +461,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机柜。",
@@ -377,8 +483,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 09时20分]"
         },
         {
           "title": "伊朗最高领袖顾问雷扎伊：美国总统已从“疯子游戏”转向“绝望者游戏”，若伊朗基础设施遭攻击，伊朗将采取更强烈回应。",
@@ -401,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月24日）",
+          "url": "https://flash.jin10.com/detail/20260724081315337800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     }
