@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T04:44:38.779692+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-07-27T09:29:26.370684+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
         },
         {
           "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -46,11 +46,12 @@
           "source": "微博",
           "ranks": [
             6,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
         },
         {
           "title": "AI还要跌多久",
@@ -60,8 +61,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
+        },
+        {
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
+          "ranks": [
+            23,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -75,28 +101,16 @@
           "time_info": "[00时44分 ~ 04时44分]"
         },
         {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
           "ranks": [
             27,
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
+          "time_info": "[04时44分 ~ 09时29分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -116,9 +130,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
@@ -127,9 +152,75 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
+          "url": "https://www.cls.cn/detail/2437139",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "机构：2026年国内AI剧漫剧市场规模将达400亿元",
+          "url": "https://flash.jin10.com/detail/20260727091328039800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661243",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "2026 年菲尔兹奖会成为「最后一届没有 AI 的菲尔兹奖」吗？",
+          "url": "https://www.zhihu.com/question/2062890686072845429",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "国金证券：美妆行业细分赛道突围机会凸显，重视AI降本增效",
+          "url": "https://flash.jin10.com/detail/20260727090636446800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -143,15 +234,15 @@
           "time_info": "00时44分"
         },
         {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
+          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139891",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时44分"
+          "time_info": "09时29分"
         },
         {
           "title": "美国发生AI失控事故",
@@ -163,12 +254,175 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "一家三口AI识菇中毒4岁女童进ICU",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3AI%E8%AF%86%E8%8F%87%E4%B8%AD%E6%AF%924%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%BF%9BICU%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
+          "url": "https://www.cls.cn/detail/2437313",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "长鑫科技周边酒店一房难求",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%91%A8%E8%BE%B9%E9%85%92%E5%BA%97%E4%B8%80%E6%88%BF%E9%9A%BE%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
+        },
+        {
+          "title": "长鑫科技员工：上市和我们没啥关系",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%91%98%E5%B7%A5%EF%BC%9A%E4%B8%8A%E5%B8%82%E5%92%8C%E6%88%91%E4%BB%AC%E6%B2%A1%E5%95%A5%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
+        },
+        {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时44分]"
+        },
+        {
+          "title": "黄仁勋、马斯克，最新涉华表态",
+          "url": "https://news.ifeng.com/c/8v4WWlgloDu",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时44分]"
+        },
+        {
+          "title": "长鑫科技上市前夕记者探访",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 04时44分]"
+        },
+        {
+          "title": "香港恒生指数7月27日（周一）开盘上涨30.54点，涨幅0.12%，报24993.77点；<br/>香港恒生科技指数7月27日（周一）开盘上涨17.79点，涨幅0.38%，报4647.3点；<br/>国企指数7月27日（周一）开盘上涨13.39点，涨幅0.16%，报8284.45点；<br/>红筹指数7月27日（周一）开盘上涨2.66点，涨幅0.06%，报4121.87点。",
+          "url": "https://flash.jin10.com/detail/20260727092120801800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "长鑫科技周边酒店一房难求",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%91%A8%E8%BE%B9%E9%85%92%E5%BA%97%E4%B8%80%E6%88%BF%E9%9A%BE%E6%B1%82%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "长鑫科技今日上市",
+          "url": "https://www.douyin.com/hot/2586473",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "【数读IPO】长鑫科技今日上市",
+          "url": "https://www.cls.cn/detail/2437314",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "绩优基金提前减仓锁定收益 公募对科技赛道走势判断现巨大分歧",
+          "url": "https://wallstreetcn.com/livenews/3139896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "科技赛道震荡避险需求升温 多只红利ETF近一个月合计净流入超百亿元",
+          "url": "https://wallstreetcn.com/livenews/3139894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
@@ -202,8 +456,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
         },
         {
           "title": "台风红霞最新路径",
@@ -214,19 +468,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
-        },
-        {
-          "title": "韩国气象厅发布多地最高级别高温警报",
-          "url": "https://wallstreetcn.com/livenews/3139830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
         },
         {
           "title": "爽玩!Bin哥躲酒店天天打游戏",
@@ -235,6 +478,17 @@
           "ranks": [
             22,
             23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 09时29分]"
+        },
+        {
+          "title": "韩国气象厅发布多地最高级别高温警报",
+          "url": "https://wallstreetcn.com/livenews/3139830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -262,6 +516,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "甘肃发布暴雨黄色预警",
+          "url": "https://www.douyin.com/hot/2586389",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "小米澎程发布会定档",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "卡塔尔外交部：首相与沙特外交大臣通话，讨论地区最新动态及外交努力。",
@@ -292,71 +568,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
-          "url": "https://www.cls.cn/detail/2436901",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
-        },
-        {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
-        },
-        {
-          "title": "长鑫科技员工：上市和我们没啥关系",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%91%98%E5%B7%A5%EF%BC%9A%E4%B8%8A%E5%B8%82%E5%92%8C%E6%88%91%E4%BB%AC%E6%B2%A1%E5%95%A5%E5%85%B3%E7%B3%BB",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
-        },
-        {
-          "title": "黄仁勋、马斯克，最新涉华表态",
-          "url": "https://news.ifeng.com/c/8v4WWlgloDu",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
-        },
-        {
-          "title": "长鑫科技上市前夕记者探访",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时44分]"
         }
       ]
     },
