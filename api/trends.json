@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T01:06:36.025719+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-30T04:43:19.116672+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -26,8 +26,65 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
+        },
+        {
+          "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
+          "url": "https://flash.jin10.com/detail/20260730041831120800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "04时43分"
         },
         {
           "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
@@ -44,17 +101,6 @@
           "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
           "url": "https://wallstreetcn.com/articles/3778137",
           "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
           "ranks": [
             10
           ],
@@ -118,37 +164,15 @@
           "time_info": "01时06分"
         },
         {
-          "title": "AI漫剧走红,国动流量狂跌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
-          "source": "贴吧",
+          "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
+          "url": "https://wallstreetcn.com/livenews/3141881",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "04时43分"
         },
         {
           "title": "AI手机大战全面开打",
@@ -164,6 +188,134 @@
       ]
     },
     {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "桃酥里吃出三颗金属假牙排，泸溪河发布声明：成立专项小组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682399",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
+        },
+        {
+          "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
+          "url": "https://www.zhihu.com/question/2065017879477725134",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "埃及石油部发布声明，称达米埃塔港再气化及储气船发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260730003033113800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "美联储宣布按兵不动当天，标普500指数收跌112.63点，跌幅1.52%，报7316.15点，微幅低开之后、美股早盘持续走低、北京时间00:17以来持续回升，02:00美联储宣布按兵不动时显著收复失地，美联储主席沃什新闻发布会带来冲高回落行情、02:55微涨至7450.84点刷新日高，03:00以来持续走低。 道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。 纳斯达克综合指数（纳指）收跌433.97点，跌幅1.74%，报24442.942点。 纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。",
+          "url": "https://wallstreetcn.com/livenews/3141889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "欧元在美联储发布决议声明当天涨0.6%，挪威克朗涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3141887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "周三（7月29日）纽约尾盘，美元兑日元跌0.27%，报163.40日元，日内交投区间为163.91-163.23日元，亚太盘初至北京时间02:00美联储发布决议声明期间呈现出V形反转、之后快速下跌。 欧元兑日元涨0.35%，刷新日高至187.23日元；英镑兑日元涨0.25%，报218.290日元。",
+          "url": "https://wallstreetcn.com/livenews/3141886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美元指数在美联储决议声明发布日跌超0.5%",
+          "url": "https://wallstreetcn.com/livenews/3141880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "上期所原油主力合约夜盘涨幅扩大至超过5%，最新报561.9元人民币/桶。 布伦特原油日内涨幅达6.5%，报87.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3141772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "美国30年期国债收益率涨幅扩大至10个基点，在美联储主席沃什新闻发布会结束后报5.19%。",
+          "url": "https://wallstreetcn.com/livenews/3141874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美联储主席沃什7月29日新闻发布会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3141872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "提醒：美联储主席沃什7月新闻发布会结束，FOMC将于9月15-16日举行下一次货币政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3141871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
       "match_count": 5,
       "titles": [
@@ -175,30 +327,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
         },
         {
           "title": "科技股调整到哪一步？多家卖方研判",
           "url": "https://www.cls.cn/detail/2440404",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
         },
         {
           "title": "A股科技股拥挤度",
           "url": "https://www.toutiao.com/trending/7667925391805255174/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 04时43分]"
         },
         {
           "title": "马斯克两个核心资产遭遇市场拷问",
@@ -217,45 +371,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "埃及石油部发布声明，称达米埃塔港再气化及储气船发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260730003033113800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "桃酥里吃出三颗金属假牙排，泸溪河发布声明：成立专项小组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682399",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "上期所原油主力合约夜盘涨幅扩大至超过5%，最新报561.9元人民币/桶。 布伦特原油日内涨幅达6.5%，报87.46美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3141772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
