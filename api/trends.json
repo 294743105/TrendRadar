@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T04:43:19.116672+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-07-30T09:11:50.019222+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时11分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -26,8 +26,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时11分]"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时11分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时11分]"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
@@ -54,26 +76,37 @@
           "time_info": "[01时06分 ~ 04时43分]"
         },
         {
-          "title": "AI漫剧走红,国动流量狂跌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
-          "source": "贴吧",
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065707692950123437",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
@@ -82,7 +115,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -131,6 +164,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
           "url": "https://www.cls.cn/detail/2440344",
           "source": "财联社热门",
@@ -164,13 +208,24 @@
           "time_info": "01时06分"
         },
         {
+          "title": "AI存储芯片短缺推动三星芯片利润激增逾250倍",
+          "url": "https://flash.jin10.com/detail/20260730083712055800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
           "url": "https://wallstreetcn.com/livenews/3141881",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -189,19 +244,31 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "扎克伯格最新涉华表态",
+          "url": "https://news.ifeng.com/c/8v9kl8U7l0t",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
         {
           "title": "桃酥里吃出三颗金属假牙排，泸溪河发布声明：成立专项小组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682399",
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时11分]"
         },
         {
           "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
@@ -210,7 +277,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -232,7 +299,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -243,7 +310,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -254,7 +321,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -265,7 +332,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -287,7 +354,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -298,7 +365,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -309,7 +376,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         }
@@ -317,8 +384,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美股大跌 美光科技跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
         {
           "title": "这次，马斯克都看不下去了",
           "url": "https://news.ifeng.com/c/8vA3lGhS6lv",
@@ -327,8 +405,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时11分]"
         },
         {
           "title": "科技股调整到哪一步？多家卖方研判",
@@ -336,11 +414,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 09时11分]"
         },
         {
           "title": "A股科技股拥挤度",
@@ -353,6 +432,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 04时43分]"
+        },
+        {
+          "title": "国资委主任程福波会见美国霍尼韦尔科技董事长兼首席执行官",
+          "url": "https://flash.jin10.com/detail/20260730084849482800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "马斯克两个核心资产遭遇市场拷问",
@@ -375,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "投资者正以创纪录速度从美股科技股中获利了结",
+          "url": "https://flash.jin10.com/detail/20260730082419551800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     }
