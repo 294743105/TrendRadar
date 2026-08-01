@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T09:25:50.702036+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-08-01T14:21:03.580055+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -17,8 +17,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时25分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 14时21分]"
+        },
+        {
+          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
+          "url": "https://wallstreetcn.com/articles/3778413",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 14时21分]"
+        },
+        {
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 14时21分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -32,6 +56,17 @@
           "time_info": "[01时17分 ~ 05时42分]"
         },
         {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 14时21分]"
+        },
+        {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
           "url": "https://wallstreetcn.com/articles/3778381",
           "source": "华尔街见闻",
@@ -43,39 +78,53 @@
           "time_info": "[01时17分 ~ 05时42分]"
         },
         {
-          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
-          "url": "https://wallstreetcn.com/articles/3778413",
-          "source": "华尔街见闻",
+          "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
           "ranks": [
-            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时25分]"
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
-          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
-          "url": "https://wallstreetcn.com/articles/3778421",
-          "source": "华尔街见闻",
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
           "ranks": [
-            9,
-            4
+            7,
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时25分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 14时21分]"
         },
         {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 14时21分]"
         },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
@@ -95,7 +144,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -111,6 +160,18 @@
           "time_info": "05时42分"
         },
         {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 14时21分]"
+        },
+        {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2066521165246489298",
           "source": "知乎",
@@ -123,16 +184,16 @@
           "time_info": "[01时17分 ~ 05时42分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
+          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
+          "url": "https://www.zhihu.com/question/2066465758503252393",
+          "source": "知乎",
           "ranks": [
-            7,
-            6
+            17,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 14时21分]"
         },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -173,30 +234,6 @@
           "time_info": "[01时17分 ~ 09时25分]"
         },
         {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时25分]"
-        },
-        {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时25分]"
-        },
-        {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
           "url": "https://wallstreetcn.com/articles/3778376",
           "source": "华尔街见闻",
@@ -206,6 +243,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 05时42分]"
+        },
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 14时21分]"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 14时21分]"
         },
         {
           "title": "保时捷女销冠回应被AI合成不雅视频",
@@ -265,6 +326,17 @@
           "time_info": "[01时17分 ~ 05时42分]"
         },
         {
+          "title": "头部AI再失控 Claude黑进三家公司",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8AI%E5%86%8D%E5%A4%B1%E6%8E%A7+Claude%E9%BB%91%E8%BF%9B%E4%B8%89%E5%AE%B6%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "DeepSeek拟在内蒙古建超算中心",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
           "source": "bilibili 热搜",
@@ -274,6 +346,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 05时42分]"
+        },
+        {
+          "title": "实测DeepSeek V4 Flash",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "AI女团选秀108位参赛9人成团",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%A5%B3%E5%9B%A2%E9%80%89%E7%A7%80108%E4%BD%8D%E5%8F%82%E8%B5%9B9%E4%BA%BA%E6%88%90%E5%9B%A2&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "DeepSeek V4 Flash对比",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash%E5%AF%B9%E6%AF%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "男演员称曾被提出AI换脸：没法接受",
@@ -287,17 +392,6 @@
           "time_info": "[05时41分 ~ 05时42分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
@@ -309,24 +403,13 @@
           "time_info": "01时17分"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
           "title": "不建数据中心的苹果，正在为AI数据中心买单",
           "url": "https://wallstreetcn.com/articles/3778389",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -337,7 +420,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -348,7 +431,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -359,18 +442,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
-          "url": "https://www.zhihu.com/question/2066465758503252393",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -381,7 +453,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -414,7 +486,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -425,7 +497,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -436,7 +508,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -447,7 +519,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -488,7 +560,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "三大运营商发布公告：第三方互联网渠道不再提供电信号卡办理服务",
@@ -496,22 +568,37 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时25分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 14时21分]"
         },
         {
           "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
           "url": "https://www.cls.cn/detail/2443161",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 14时21分]"
+        },
+        {
+          "title": "事关办理低龄未成年人严重暴力犯罪核准追诉案件，两部门联合发布规定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33691641",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 14时21分]"
         },
         {
           "title": "三大运营商发布公告",
@@ -521,18 +608,6 @@
             9,
             10,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时25分]"
-        },
-        {
-          "title": "事关办理低龄未成年人严重暴力犯罪核准追诉案件，两部门联合发布规定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33691641",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -573,6 +648,18 @@
           "time_info": "[01时17分 ~ 05时42分]"
         },
         {
+          "title": "菲律宾在中国领土黄岩岛划设所谓“领海基线”，外交部发布声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33691585",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 14时21分]"
+        },
+        {
           "title": "台风白海豚最新路径有变",
           "url": "https://www.douyin.com/hot/2591642",
           "source": "抖音",
@@ -583,6 +670,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 05时42分]"
+        },
+        {
+          "title": "如何评价最新发布的人民军队宣传片《制胜》？有哪些值得关注的细节？",
+          "url": "https://www.zhihu.com/question/2065877408276918979",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
+          "url": "https://www.zhihu.com/question/2066835566323136078",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "「白海豚」爆发式增强，已成超强台风，中心最大风力 17 级，或直奔华东，最新动向如何？应做好哪些应对？",
+          "url": "https://www.zhihu.com/question/2065082521570600023",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "中央气象台继续发布暴雨黄色预警",
+          "url": "https://www.toutiao.com/trending/7668298609683349567/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "为何武侠游戏中提升武学实力往往是靠打坐，闭关，冥想，而非交流与不断的切磋？",
@@ -613,20 +744,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
         {
-          "title": "菲律宾在中国领土黄岩岛划设所谓“领海基线”，外交部发布声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33691585",
-          "source": "澎湃新闻",
+          "title": "《黄岩岛国家级自然保护区管理办法》发布",
+          "url": "https://wallstreetcn.com/livenews/3143556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "黑龙江发布暴雨红色预警：五常局地累计雨量或将超100毫米",
+          "url": "https://wallstreetcn.com/livenews/3143554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "吉林省发布山洪灾害气象风险橙色预警",
+          "url": "https://wallstreetcn.com/livenews/3143552",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "14时21分"
+        },
+        {
+          "title": "甘肃省发布地质灾害气象风险红色预警",
+          "url": "https://wallstreetcn.com/livenews/3143544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "台风白海豚最新路径",
@@ -635,7 +799,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         }
@@ -643,7 +807,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "爆料：马斯克拒绝泽连斯基",
@@ -675,7 +839,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -697,7 +861,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -722,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "长鑫科技LPDDR6接近研发验证尾声",
+          "url": "https://wallstreetcn.com/livenews/3143547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "标普500指数的11个板块中，可选消费板块收涨6.07%，电信板块涨4.6%，工业板块涨0.79%表现第三，信息技术/科技板块跌0.54%，房地产板块跌0.68%，公用事业板块跌0.74%，原材料板块跌2.71%。",
@@ -752,7 +927,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         }
