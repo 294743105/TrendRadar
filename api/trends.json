@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T14:51:17.178801+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-08-03T19:13:40.836476+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 24,
+      "match_count": 36,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时49分 ~ 09时24分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 19时13分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -57,17 +71,15 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
+          "title": "AI短剧女主60秒广告报价25万8",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B725%E4%B8%878%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            10,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 14时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -88,9 +100,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "京东外卖推出AI智能头盔",
@@ -174,6 +197,30 @@
           "time_info": "[09时23分 ~ 14时51分]"
         },
         {
+          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
+          "url": "https://www.cls.cn/detail/2443873",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 19时13分]"
+        },
+        {
+          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
+          "url": "https://wallstreetcn.com/articles/3778511",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 19时13分]"
+        },
+        {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
           "url": "https://www.zhihu.com/question/2066215968578204075",
           "source": "知乎",
@@ -196,26 +243,26 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
-          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
-          "url": "https://wallstreetcn.com/articles/3778511",
-          "source": "华尔街见闻",
+          "title": "印度不锈钢制造商Jindal Stainless：对欧盟的出口量正在下降，但公司的总出口量将会上升。",
+          "url": "https://flash.jin10.com/detail/20260803182733853800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "19时13分"
         },
         {
-          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
-          "url": "https://www.cls.cn/detail/2443873",
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
           "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "19时13分"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -229,15 +276,59 @@
           "time_info": "04时42分"
         },
         {
+          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "AI前沿日报-8月3日",
           "url": "https://flash.jin10.com/detail/20260803141925230800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "全球大模型进入DeepSeek斩杀区",
@@ -246,7 +337,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -257,9 +348,53 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "小米：2人使用AI生成虚假车祸视频抹黑公司被处罚。",
+          "url": "https://wallstreetcn.com/livenews/3144096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "调查：八成以上美国金融业高管认为 AI技能比MBA更有价值",
+          "url": "https://wallstreetcn.com/livenews/3144091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A8%A1%E5%9E%8B%E5%8D%95%E6%97%A5%E5%90%9E%E4%B8%8B8%E4%B8%87%E4%BA%BFToken",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -279,7 +414,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -287,7 +422,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "周末要闻汇总：事关核电、新型电网等，国常会最新部署来了；股票ETF7月净流入创历史峰值",
@@ -345,9 +480,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "游戏驿站(GME.N)盘前跌幅扩大至12%。",
+          "url": "https://flash.jin10.com/detail/20260803184346767800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美国参议院拨款委员会发布融资立法草案的文本",
@@ -395,6 +541,18 @@
           "time_info": "[00时49分 ~ 04时42分]"
         },
         {
+          "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
+          "url": "https://www.zhihu.com/question/2067158057784718693",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 19时13分]"
+        },
+        {
           "title": "索尼影业最新一部电影《蜘蛛侠》全球首映票房9.27亿美元。",
           "url": "https://wallstreetcn.com/livenews/3143706",
           "source": "华尔街见闻-快讯",
@@ -407,15 +565,26 @@
           "time_info": "[00时50分 ~ 04时42分]"
         },
         {
-          "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
-          "url": "https://www.zhihu.com/question/2067158057784718693",
-          "source": "知乎",
+          "title": "中集车辆：美国商务部（DOC）将于美国时间2026年8月25日公布对进口自中国的厢式半挂车及其组件的“反补贴、反倾销”调查的终裁结果，于美国时间2026年12月16日公布对进口自加拿大的厢式半挂车及其组件的“反倾销”的调查终裁结果。美国国际贸易委员会（ITC）同步开展产业损害裁定调查，终裁结果预计日期暂未发布。",
+          "url": "https://wallstreetcn.com/livenews/3144112",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
+          "url": "https://wallstreetcn.com/articles/3778546",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "法国总理办公室针对外国投资制度发布声明：法国收紧关于非欧洲实体持股法国公司的制度。 非欧洲投资者若取得法国企业10%及以上股权，必须获得法国财政部批准。",
@@ -427,6 +596,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "马杜罗最新发声",
+          "url": "https://news.ifeng.com/c/8vHvwndb7Dx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "广期所发布市场风险提示公告",
+          "url": "https://wallstreetcn.com/livenews/3144106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "中国人心目中天庭的样子在外网爆火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%A4%A9%E5%BA%AD%E7%9A%84%E6%A0%B7%E5%AD%90%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "米哈游终止与云南昊曦文化传媒合作并将其列入黑名单，游戏厂商和内容创作者之间的合作还有哪些坑需要注意？",
+          "url": "https://www.zhihu.com/question/2067558770406683905",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "锐评瑞莫最新衍生剧",
@@ -454,7 +667,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
@@ -470,15 +683,81 @@
           "time_info": "[00时49分 ~ 14时51分]"
         },
         {
+          "title": "石大胜华：全资子公司胜华新能源科技（东营）有限公司的下属企业东营石大胜华新能源有限公司拟投资建设23万吨/年液态锂盐项目，项目预计总投资19亿元，项目报批投资17.97亿元。",
+          "url": "https://wallstreetcn.com/livenews/3144120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "中国人为何执着于太空“种地”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BD%95%E6%89%A7%E7%9D%80%E4%BA%8E%E5%A4%AA%E7%A9%BA%E2%80%9C%E7%A7%8D%E5%9C%B0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "惠康科技：董事长提议2026年中期分红额不低于净利润30%",
+          "url": "https://flash.jin10.com/detail/20260803184235097800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "澜起科技：截至2026年7月31日，公司已通过集中竞价交易方式累计回购公司A股股份70.5万股，占公司总股本的比例为0.06%，支付的金额总额约为人民币1.44亿元。",
+          "url": "https://wallstreetcn.com/livenews/3144117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "券商晨会精华：科技行情交易底初现 拥挤度是市场的核心锚点",
           "url": "https://www.cls.cn/detail/2443674",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "晨丰科技：签署7.12亿元储能电站总承包合同",
+          "url": "https://flash.jin10.com/detail/20260803182830274800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "玉渊谭天：中国科技产业，正在批量越过“可见线”",
+          "url": "https://www.cls.cn/detail/2444054",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "德马科技具身智能机器人产业园项目规划落地",
@@ -498,7 +777,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -509,9 +788,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "数学家丘成桐《求是》撰文：科技为人文立实，人文为科技立心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33709962",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "科创50午后跌幅扩大至5%，成分股中，中科飞测、拓荆科技、中微公司跌超10%，华海清科、盛科通信-U等跌付居前。",
@@ -520,7 +810,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
