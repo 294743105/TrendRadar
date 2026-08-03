@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-03T04:42:50.171753+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-08-03T09:24:10.971982+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
           "url": "https://wallstreetcn.com/articles/3778502",
           "source": "华尔街见闻",
           "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
+        },
+        {
+          "title": "AI对数学发展有何帮助",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%95%B0%E5%AD%A6%E5%8F%91%E5%B1%95%E6%9C%89%E4%BD%95%E5%B8%AE%E5%8A%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -35,11 +47,83 @@
           "url": "https://wallstreetcn.com/articles/3778505",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
+        },
+        {
+          "title": "京东外卖推出AI智能头盔",
+          "url": "https://flash.jin10.com/detail/20260803091456741800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
+        },
+        {
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -48,39 +132,6 @@
           "ranks": [
             11,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
-        },
-        {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
-        },
-        {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
-        },
-        {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -98,28 +149,37 @@
           "time_info": "[00时49分 ~ 04时42分]"
         },
         {
-          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
-          "source": "澎湃新闻",
+          "title": "涉及中国AI，两家英媒同日发文",
+          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
+          "source": "凤凰网",
           "ranks": [
-            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
+          "url": "https://www.zhihu.com/question/2066215968578204075",
+          "source": "知乎",
+          "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
+          "title": "两台电脑交火跑AI是什么体验",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E5%8F%B0%E7%94%B5%E8%84%91%E4%BA%A4%E7%81%AB%E8%B7%91AI%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            19
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -128,7 +188,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -147,18 +207,19 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "周末要闻汇总：事关核电、新型电网等，国常会最新部署来了；股票ETF7月净流入创历史峰值",
           "url": "https://www.cls.cn/detail/2443510",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
         },
         {
           "title": "【早报】个人贷款新规来了；造车新势力最新成绩单公布",
@@ -166,11 +227,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
         },
         {
           "title": "仲树回应采访诺兰爆火",
@@ -180,8 +242,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
         },
         {
           "title": "美国参议院拨款委员会发布融资立法草案的文本",
@@ -190,7 +252,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -201,9 +263,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33697943",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
         },
         {
           "title": "美国参议院筹款委员会发布融资立法草案的文本。",
@@ -212,7 +286,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -223,17 +297,6 @@
           "ranks": [
             7,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
-        },
-        {
-          "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33697943",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -252,13 +315,24 @@
           "time_info": "[00时50分 ~ 04时42分]"
         },
         {
+          "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
+          "url": "https://www.zhihu.com/question/2067158057784718693",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
           "title": "法国总理办公室针对外国投资制度发布声明：法国收紧关于非欧洲实体持股法国公司的制度。 非欧洲投资者若取得法国企业10%及以上股权，必须获得法国财政部批准。",
           "url": "https://wallstreetcn.com/livenews/3143731",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -269,7 +343,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -280,7 +354,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -288,7 +362,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
@@ -296,11 +370,23 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 09时24分]"
+        },
+        {
+          "title": "德马科技具身智能机器人产业园项目规划落地",
+          "url": "https://flash.jin10.com/detail/20260803090840845800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
