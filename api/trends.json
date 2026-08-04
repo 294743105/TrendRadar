@@ -1,33 +1,36 @@
 {
-  "generated_at": "2026-08-04T04:52:52.576353+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-08-04T09:16:15.215754+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "DeepSeek 斩杀线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
-        },
         {
           "title": "DeepSeek一天消耗了8万亿",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
+        },
+        {
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -42,16 +45,98 @@
           "time_info": "[01时40分 ~ 04时52分]"
         },
         {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            4
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
+        },
+        {
+          "title": "DeepSeek V4 Flash后训练揭秘",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash%E5%90%8E%E8%AE%AD%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "DeepSeek斩杀线斩的是什么",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
+        },
+        {
+          "title": "中金：AI之外还有什么值得买",
+          "url": "https://wallstreetcn.com/articles/3778538",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
+        },
+        {
+          "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
+          "url": "https://www.cls.cn/detail/2444442",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
+        },
+        {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
+        },
+        {
+          "title": "我用AI创造虚拟世界 弹幕即神谕",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 09时16分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
@@ -65,15 +150,15 @@
           "time_info": "[01时40分 ~ 04时52分]"
         },
         {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
+          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
+          "url": "https://wallstreetcn.com/articles/3778565",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -88,50 +173,15 @@
           "time_info": "[01时40分 ~ 04时52分]"
         },
         {
-          "title": "DeepSeek斩杀线斩的是什么",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
+          "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
+          "url": "https://www.zhihu.com/question/2067564276433401082",
+          "source": "知乎",
           "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
-        },
-        {
-          "title": "中金：AI之外还有什么值得买",
-          "url": "https://wallstreetcn.com/articles/3778538",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
-        },
-        {
-          "title": "UP主自制AI短片 洪流之上",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
-        },
-        {
-          "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
-          "url": "https://www.cls.cn/detail/2444442",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
           "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
@@ -189,15 +239,166 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "新型电力系统建设十五五规划发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%8F%91%E5%B8%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 09时16分]"
         },
         {
-          "title": "我用AI创造虚拟世界 弹幕即神谕",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
-          "source": "bilibili 热搜",
+          "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
+          "url": "https://www.cls.cn/detail/2444684",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "全美25州提起诉讼，反对美政府最新关税措施",
+          "url": "https://news.ifeng.com/c/8vIzMGikgqm",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
+          "url": "https://wallstreetcn.com/articles/3778546",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
+        },
+        {
+          "title": "马杜罗最新发声",
+          "url": "https://news.ifeng.com/c/8vHvwndb7Dx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时52分]"
+        },
+        {
+          "title": "SpaceX将发布上市后首份财报",
+          "url": "https://www.douyin.com/hot/2595375",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "孙颖莎回应缺席发布仪式",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BB%AA%E5%BC%8F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 04时52分]"
+        },
+        {
+          "title": "SK海力士与闪迪发布HBF首个标准规范",
+          "url": "https://flash.jin10.com/detail/20260804083714294800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "女生们的握力在外网爆火",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E4%BB%AC%E7%9A%84%E6%8F%A1%E5%8A%9B%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "【全美25州提起诉讼，反对美政府最新关税措施】8月3日获悉，法庭文件显示，美国有25个州提起诉讼，反对美政府最新关税措施。 美国纽约州总检察长宣布，由民主党人领导的25个美国州于当日提起诉讼，起诉美国政府。这些州主张，总统针对来自60个贸易伙伴的商品征收最新一轮关税的举措，超出了其对进口商品征税的法定权限。 总检察长称，最新关税只是为了替代那些已被美国最高法院否决的关税措施。新关税范围宽泛得不合法，且绕过了法律规定的针对特定国家的调查程序。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3144334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "SK海力士与闪迪联合发布首个高带宽闪存（HBF）标准规范。",
+          "url": "https://wallstreetcn.com/livenews/3144397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "中央气象台8月4日6时继续发布暴雨黄色预警",
+          "url": "https://wallstreetcn.com/livenews/3144394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "全美25州提起诉讼 反对美政府最新关税措施",
+          "url": "https://flash.jin10.com/detail/20260804032850253800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "法庭文件显示：美国25个州提起诉讼，挑战特朗普最新关税政策。 纽约州总检察长称，特朗普新关税覆盖面宽泛程度超出法律允许范围，规避了法律规定的针对特定国家开展调查的要求。特朗普最新关税仅仅是替换此前被美国最高法院裁定无效的关税。",
+          "url": "https://wallstreetcn.com/livenews/3144325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
@@ -205,7 +406,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股4000只股票上涨为何科技股暴跌",
@@ -225,7 +426,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -234,11 +435,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33709962",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 09时16分]"
         },
         {
           "title": "1755枚比特币被偷 价值约7.43亿元",
@@ -251,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 04时52分]"
+        },
+        {
+          "title": "美股科技巨头迎来强劲买盘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%BF%8E%E6%9D%A5%E5%BC%BA%E5%8A%B2%E4%B9%B0%E7%9B%98%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
           "title": "备忘录显示，花旗集团(C.N)聘请美国银行的Rohan Sen负责领导科技服务银行业务覆盖。",
@@ -270,7 +483,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -281,7 +494,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -292,7 +505,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -303,7 +516,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -328,101 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "新型电力系统建设十五五规划发布",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9E%8B%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%BB%BA%E8%AE%BE%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E5%8F%91%E5%B8%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
         },
         {
-          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
-          "url": "https://wallstreetcn.com/articles/3778546",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
-        },
-        {
-          "title": "马杜罗最新发声",
-          "url": "https://news.ifeng.com/c/8vHvwndb7Dx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
-        },
-        {
-          "title": "孙颖莎回应缺席发布仪式",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BB%AA%E5%BC%8F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时52分]"
-        },
-        {
-          "title": "女生们的握力在外网爆火",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E4%BB%AC%E7%9A%84%E6%8F%A1%E5%8A%9B%E5%9C%A8%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "【全美25州提起诉讼，反对美政府最新关税措施】8月3日获悉，法庭文件显示，美国有25个州提起诉讼，反对美政府最新关税措施。 美国纽约州总检察长宣布，由民主党人领导的25个美国州于当日提起诉讼，起诉美国政府。这些州主张，总统针对来自60个贸易伙伴的商品征收最新一轮关税的举措，超出了其对进口商品征税的法定权限。 总检察长称，最新关税只是为了替代那些已被美国最高法院否决的关税措施。新关税范围宽泛得不合法，且绕过了法律规定的针对特定国家的调查程序。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3144334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "全美25州提起诉讼 反对美政府最新关税措施",
-          "url": "https://flash.jin10.com/detail/20260804032850253800",
+          "title": "金十数据整理：每日科技要闻速递（8月4日）",
+          "url": "https://flash.jin10.com/detail/20260804072516374800",
           "source": "金十数据",
           "ranks": [
-            26
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "法庭文件显示：美国25个州提起诉讼，挑战特朗普最新关税政策。 纽约州总检察长称，特朗普新关税覆盖面宽泛程度超出法律允许范围，规避了法律规定的针对特定国家开展调查的要求。特朗普最新关税仅仅是替换此前被美国最高法院裁定无效的关税。",
-          "url": "https://wallstreetcn.com/livenews/3144325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "09时16分"
         }
       ]
     }
