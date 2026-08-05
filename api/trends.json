@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-08-05T18:24:43.756247+08:00",
-  "total_titles_processed": 995,
-  "failed_sources": [],
+  "generated_at": "2026-08-05T21:32:20.946486+08:00",
+  "total_titles_processed": 1184,
+  "failed_sources": [
+    "wallstreetcn-hot",
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -16,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 21时30分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -26,11 +29,35 @@
           "ranks": [
             9,
             15,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时30分 ~ 18时24分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 21时32分]"
+        },
+        {
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时32分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时32分]"
         },
         {
           "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
@@ -62,18 +89,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
-          "url": "https://www.cls.cn/detail/2446218",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -87,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "Anthropic确认正组建团队设计自研AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3145408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -123,6 +150,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时30分 ~ 05时02分]"
+        },
+        {
+          "title": "AI做的动物尺度太大了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时32分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
@@ -182,6 +221,17 @@
           "time_info": "[01时30分 ~ 01时31分]"
         },
         {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时32分]"
+        },
+        {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
           "url": "https://www.zhihu.com/question/2066578072997049748",
           "source": "知乎",
@@ -193,26 +243,15 @@
           "time_info": "[01时30分 ~ 01时31分]"
         },
         {
-          "title": "AI做的动物尺度太大了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "喊了好久的“AI选秀元年”真来了",
+          "url": "https://www.baidu.com/s?wd=%E5%96%8A%E4%BA%86%E5%A5%BD%E4%B9%85%E7%9A%84%E2%80%9CAI%E9%80%89%E7%A7%80%E5%85%83%E5%B9%B4%E2%80%9D%E7%9C%9F%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            7
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时32分]"
         },
         {
           "title": "三星探索内存新技术：垂直堆叠于AI加速器之上 密度超传统HBM5十倍",
@@ -224,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "据Business Insider：Anthropic确认正在为Claude组建内部芯片团队。",
+          "url": "https://flash.jin10.com/detail/20260805205240376800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "华泰证券：建议关注AI应用和国产模型两条投资主线",
@@ -265,7 +315,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -325,13 +375,24 @@
           "time_info": "14时18分"
         },
         {
+          "title": "谷歌正就一笔超过15亿美元的交易与AI编码代理初创公司Mechanize进行谈判。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3145391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "DeepSeek干完活自己写了个游戏",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -386,7 +447,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -408,7 +469,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
@@ -416,7 +477,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "外媒称美国拟禁止进口中国新型号的光收发模块，此举将对中美科技竞争及全球数据产业带来哪些影响？",
@@ -484,7 +545,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -534,6 +595,18 @@
           "time_info": "[01时30分 ~ 05时02分]"
         },
         {
+          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
+          "url": "https://www.zhihu.com/question/2068289164244693148",
+          "source": "知乎",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时32分]"
+        },
+        {
           "title": "高边疆之谋·77｜美军将战线推向地月空间，太空战迎来底层变革",
           "url": "https://m.thepaper.cn/newsDetail_forward_33711622",
           "source": "澎湃新闻",
@@ -569,6 +642,18 @@
           "time_info": "[14时17分 ~ 14时18分]"
         },
         {
+          "title": "李大霄谈高科技反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E9%AB%98%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 21时30分]"
+        },
+        {
           "title": "美股科技泡沫要破了吗",
           "url": "https://www.toutiao.com/trending/7670156290131234367/",
           "source": "今日头条",
@@ -602,15 +687,15 @@
           "time_info": "05时02分"
         },
         {
-          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
-          "url": "https://www.zhihu.com/question/2068289164244693148",
-          "source": "知乎",
+          "title": "长鑫科技爆火我们该不该冷静",
+          "url": "https://www.toutiao.com/trending/7670512709116366399/",
+          "source": "今日头条",
           "ranks": [
-            14
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "21时32分"
         },
         {
           "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
@@ -652,7 +737,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -674,7 +759,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -696,7 +781,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -740,18 +825,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "李大霄谈高科技反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E9%AB%98%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -784,7 +858,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
@@ -792,7 +866,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
@@ -819,6 +893,30 @@
           "time_info": "01时31分"
         },
         {
+          "title": "余承东发布会口误 24999元报成2499元",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时32分]"
+        },
+        {
+          "title": "河南发布带薪休假新政",
+          "url": "https://www.douyin.com/hot/2598265",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时32分]"
+        },
+        {
           "title": "独家｜月之暗面500亿美元Pre-IPO轮开闸 K3模型发布后额度骤然紧俏",
           "url": "https://www.cls.cn/detail/2445951",
           "source": "财联社热门",
@@ -828,6 +926,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时17分 ~ 14时18分]"
+        },
+        {
+          "title": "华为发布新款折叠电脑售价24999元起",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%E5%94%AE%E4%BB%B724999%E5%85%83%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时32分]"
         },
         {
           "title": "美国国务院：最新一轮由美国促成的以色列与黎巴嫩会谈今日在罗马开始，并将持续至8月6日。",
@@ -880,7 +989,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -896,26 +1005,15 @@
           "time_info": "05时02分"
         },
         {
-          "title": "河南发布带薪休假新政",
-          "url": "https://www.douyin.com/hot/2598265",
-          "source": "抖音",
+          "title": "迪士尼(DIS.N)CEO：Disney+ 将增加游戏、商品及其他功能。",
+          "url": "https://flash.jin10.com/detail/20260805204229112800",
+          "source": "金十数据",
           "ranks": [
-            14
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "余承东发布会口误 24999元报成2499元",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "21时32分"
         },
         {
           "title": "华为同时发布三款鸿蒙电脑含金量",
@@ -924,7 +1022,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -935,7 +1033,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -946,7 +1044,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -957,7 +1055,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
