@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T14:18:08.058385+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-08-05T18:24:43.756247+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 18时24分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 14时18分]"
+          "appearance_count": 7,
+          "time_info": "[01时30分 ~ 18时24分]"
         },
         {
           "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
@@ -53,6 +54,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "SpaceX英伟达布局太空AI算力",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%83%E5%B1%80%E5%A4%AA%E7%A9%BAAI%E7%AE%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。",
@@ -114,6 +137,17 @@
           "time_info": "[01时30分 ~ 05时02分]"
         },
         {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 18时24分]"
+        },
+        {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
           "url": "https://www.zhihu.com/question/2067572483331291076",
           "source": "知乎",
@@ -148,17 +182,6 @@
           "time_info": "[01时30分 ~ 01时31分]"
         },
         {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
           "url": "https://www.zhihu.com/question/2066578072997049748",
           "source": "知乎",
@@ -168,6 +191,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时30分 ~ 01时31分]"
+        },
+        {
+          "title": "AI做的动物尺度太大了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "三星探索内存新技术：垂直堆叠于AI加速器之上 密度超传统HBM5十倍",
@@ -198,7 +243,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -212,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "别光盯着芯片股！富国银行：AI投资红利正传导至“旧经济”板块",
+          "url": "https://www.cls.cn/detail/2446071",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
@@ -264,9 +320,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "SpaceX宣布：与英伟达合作开发“星智AI1”卫星计算载荷，配置Rubin GPU和Vera CPU",
@@ -313,6 +380,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "即梦AI上线Maya / Blender插件等多款工具，适配Seedance2.5落地专业场景",
+          "url": "https://flash.jin10.com/detail/20260805172916411800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "UP主用AI证伪经典数学猜想",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%AF%81%E4%BC%AA%E7%BB%8F%E5%85%B8%E6%95%B0%E5%AD%A6%E7%8C%9C%E6%83%B3",
           "source": "bilibili 热搜",
@@ -322,12 +400,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "大模型之外，AI价值转向应用层，欧洲传统科技巨头悄然受益",
+          "url": "https://flash.jin10.com/detail/20260805172855061800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "外媒称美国拟禁止进口中国新型号的光收发模块，此举将对中美科技竞争及全球数据产业带来哪些影响？",
@@ -389,6 +478,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "千里科技1-7月整车产销同比增加",
+          "url": "https://wallstreetcn.com/livenews/3145329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "马斯克：今年对SpaceX来说又是一个里程碑年。",
           "url": "https://flash.jin10.com/detail/20260805043440075800",
           "source": "金十数据",
@@ -417,7 +517,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -486,7 +586,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -500,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
+          "url": "https://www.zhihu.com/question/2068289164244693148",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
@@ -519,7 +630,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -530,9 +641,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "马斯克回应一个月亏掉2.45万亿",
+          "url": "https://www.toutiao.com/trending/7669518703364640297/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "科创50指数午后涨超6%，成分股中，中微公司涨超14%，拓荆科技涨超13%，华润微涨近9%。",
@@ -541,9 +663,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "南亚科技：预计到2028年产能将提升至每月3万片晶圆，2029年将达到每月3.59万片晶圆。",
+          "url": "https://flash.jin10.com/detail/20260805173237450800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "A股MLCC概念持续走高，洁美科技午后涨停，火炬电子、东材科技此前封板，昀冢科技、风华高科、达利凯普等涨超7%。",
@@ -552,9 +685,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "南亚科技：5A晶圆厂将部署10纳米级技术（即1C、1D和1E）及极紫外光刻，晶圆投片将于2027年下半年启动。",
+          "url": "https://flash.jin10.com/detail/20260805173157194800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美联储施密德：科技投资中的杠杆水平值得讨论。",
@@ -590,6 +734,28 @@
           "time_info": "01时31分"
         },
         {
+          "title": "南亚科技：获准将2026年资本支出从520亿新台币上调至最高697亿新台币。5A晶圆厂规划月产能为4.5万片晶圆，总投资额约为160亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805173115826800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "李大霄谈高科技反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E9%AB%98%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "马斯克一个月亏掉2.45万亿元",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E4%B8%AA%E6%9C%88%E4%BA%8F%E6%8E%892.45%E4%B8%87%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -607,15 +773,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "千里科技：拟1亿元—1.5亿元回购公司股份",
+          "url": "https://flash.jin10.com/detail/20260805172900939800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
@@ -697,6 +874,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "华为发布首款RGB-MiniLED电视",
+          "url": "https://wallstreetcn.com/livenews/3145306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "SpaceX在业绩报告发布前收涨9.4%。",
           "url": "https://wallstreetcn.com/livenews/3144934",
           "source": "华尔街见闻-快讯",
@@ -706,6 +894,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "河南发布带薪休假新政",
+          "url": "https://www.douyin.com/hot/2598265",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "余承东发布会口误 24999元报成2499元",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "华为同时发布三款鸿蒙电脑含金量",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%89%E6%AC%BE%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91%E5%90%AB%E9%87%91%E9%87%8F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "华为WATCH GT 7系列正式发布",
+          "url": "https://wallstreetcn.com/livenews/3145289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "“五个大妈”救人质视频爆火",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%94%E4%B8%AA%E5%A4%A7%E5%A6%88%E2%80%9D%E6%95%91%E4%BA%BA%E8%B4%A8%E8%A7%86%E9%A2%91%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "华为发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
