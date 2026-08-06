@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T09:14:52.091397+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-08-06T14:21:24.118207+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 32,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -31,6 +31,39 @@
           "time_info": "[01时17分 ~ 05时49分]"
         },
         {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "法院文件显示，OpenAI向美国法官申请驳回苹果公司指控其侵犯商业秘密的诉讼。",
+          "url": "https://flash.jin10.com/detail/20260806140706295800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
           "url": "https://www.zhihu.com/question/10315979917",
           "source": "知乎",
@@ -40,6 +73,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
@@ -87,6 +142,30 @@
           "time_info": "[01时17分 ~ 05时49分]"
         },
         {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 14时21分]"
+        },
+        {
+          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
+          "url": "https://www.cls.cn/detail/2446788",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 14时21分]"
+        },
+        {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
           "url": "https://www.zhihu.com/question/2068056227817284742",
           "source": "知乎",
@@ -99,26 +178,48 @@
           "time_info": "[01时17分 ~ 05时49分]"
         },
         {
+          "title": "AI细分赛道和选股分析（一）：半导体设备是下一个瓶颈",
+          "url": "https://flash.jin10.com/detail/20260806135711209800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
           "url": "https://flash.jin10.com/detail/20260806090656072800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时14分"
+          "time_info": "14时21分"
         },
         {
           "title": "亚马逊旗下AWS与Anthropic、OpenAI构建合作伙伴关系。 三方将围绕AWS Continuum工作流合作。",
@@ -132,17 +233,6 @@
           "time_info": "05时49分"
         },
         {
-          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
-          "url": "https://www.cls.cn/detail/2446788",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
           "title": "私募资本涌入新兴市场，竞相为AI基础设施建设提供资金",
           "url": "https://wallstreetcn.com/livenews/3145609",
           "source": "华尔街见闻-快讯",
@@ -152,6 +242,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
@@ -171,7 +294,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -182,7 +305,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -209,6 +332,28 @@
           "time_info": "01时17分"
         },
         {
+          "title": "AI漫剧顶尖从业者月入近百万",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%AB%E5%89%A7%E9%A1%B6%E5%B0%96%E4%BB%8E%E4%B8%9A%E8%80%85%E6%9C%88%E5%85%A5%E8%BF%91%E7%99%BE%E4%B8%87%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%9D%A0AI%E5%87%8F%E8%82%A5+45%E5%A4%A9%E7%98%A640%E6%96%A4%E8%BF%9B%E4%BA%86ICU",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "谷歌AI核心人物Jeff Dean离职 创办AI初创公司",
           "url": "https://flash.jin10.com/detail/20260806000533011800",
           "source": "金十数据",
@@ -223,7 +368,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -232,9 +377,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 14时21分]"
         },
         {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。 “超大”市值科技股指数跌1.19%，报444.40点。",
@@ -259,13 +404,35 @@
           "time_info": "01时17分"
         },
         {
+          "title": "A股电池板块短线走低，圣阳股份、宁德时代、领湃科技、金银河、容百科技等走低。",
+          "url": "https://wallstreetcn.com/livenews/3145822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "马斯克：人们没意识到我说的将实现",
+          "url": "https://www.toutiao.com/trending/7670018813664051243/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：关税对通胀产生明显影响。 一些迹象表明关税对通胀的影响开始减弱。 如果中东战争结束，应该有助降低通胀。 科技投资正在协助推高通胀。",
           "url": "https://wallstreetcn.com/livenews/3145683",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -312,12 +479,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "A股抽水蓄能板块震荡走低，长缆科技跌超6%，汉缆股份、顺钠股份、百利电气跌超5%，九洲集团、保变电气跟跌。",
+          "url": "https://flash.jin10.com/detail/20260806131725104800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "A股短剧游戏板块午后走低，传智教育跌超7%，粤传媒跌近6%，中文在线、方直科技、吉视传媒、遥望科技跟跌。",
+          "url": "https://flash.jin10.com/detail/20260806131623472800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "华为发布新款折叠电脑售价24999元起",
@@ -344,6 +533,18 @@
           "time_info": "[01时17分 ~ 09时14分]"
         },
         {
+          "title": "试玩5个高中生做的高中生活游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 14时21分]"
+        },
+        {
           "title": "明晟公司（MSCI）表示，其8月指数调整公告定将于8月12日发布，且将在概要公告发布后即刻向客户提供详细的调仓信息。",
           "url": "https://wallstreetcn.com/livenews/3145613",
           "source": "华尔街见闻-快讯",
@@ -361,7 +562,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -388,26 +589,59 @@
           "time_info": "01时17分"
         },
         {
+          "title": "武侠游戏里「喝酒」只是一个加 Buff 的动作，有没有一款游戏让你觉得这个人在喝酒，而不只是在喝一个图标？",
+          "url": "https://www.zhihu.com/question/2067564394851071651",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "河南发布带薪休假新政",
           "url": "https://www.douyin.com/hot/2598265",
           "source": "抖音",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
         {
-          "title": "试玩5个高中生做的高中生活游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
+          "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
+          "url": "https://www.zhihu.com/question/2068437296529897006",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "理想i8发布",
+          "url": "https://s.weibo.com/weibo?q=%E7%90%86%E6%83%B3i8%E5%8F%91%E5%B8%83&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "高中生做的真人恋爱游戏爆火",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E7%9C%9F%E4%BA%BA%E6%81%8B%E7%88%B1%E6%B8%B8%E6%88%8F%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "14时21分"
         }
       ]
     }
