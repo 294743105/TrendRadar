@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-06T18:23:26.860484+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-08-06T21:28:58.338674+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 21时28分]"
+        },
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
           "url": "https://wallstreetcn.com/articles/3778704",
@@ -20,18 +33,6 @@
           "time_info": "[01时17分 ~ 05时49分]"
         },
         {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 18时23分]"
-        },
-        {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778691",
           "source": "华尔街见闻",
@@ -43,15 +44,39 @@
           "time_info": "[01时17分 ~ 05时49分]"
         },
         {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 21时28分]"
+        },
+        {
           "title": "美议员拟推出“数据中心权利法案”遏制AI基建扩张",
           "url": "https://flash.jin10.com/detail/20260806180930334800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
+          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "法院文件显示，OpenAI向美国法官申请驳回苹果公司指控其侵犯商业秘密的诉讼。",
@@ -76,6 +101,53 @@
           "time_info": "01时17分"
         },
         {
+          "title": "中国AI连续14周霸榜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E8%BF%9E%E7%BB%AD14%E5%91%A8%E9%9C%B8%E6%A6%9C%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "深圳佳贤通信回应：英伟达AI-RAN技术团队曾到访公司，双方已成立技术工作组",
+          "url": "https://wallstreetcn.com/livenews/3146075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 21时28分]"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
           "url": "https://wallstreetcn.com/livenews/3145522",
           "source": "华尔街见闻-快讯",
@@ -92,11 +164,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 21时28分]"
         },
         {
           "title": "DeepSeek拟调高API价格",
@@ -123,18 +196,6 @@
           "time_info": "[14时21分 ~ 18时23分]"
         },
         {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 18时23分]"
-        },
-        {
           "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
           "url": "https://www.cls.cn/detail/2446407",
           "source": "财联社热门",
@@ -147,17 +208,17 @@
           "time_info": "[01时17分 ~ 09时14分]"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8,
-            6
+            16,
+            12,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时14分 ~ 18时23分]"
+          "time_info": "[14时21分 ~ 21时28分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -206,16 +267,16 @@
           "time_info": "[09时14分 ~ 14时21分]"
         },
         {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
+          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
+          "url": "https://www.cls.cn/detail/2447281",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            12
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 18时23分]"
+          "time_info": "[18时23分 ~ 21时28分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -230,6 +291,18 @@
           "time_info": "[01时17分 ~ 05时49分]"
         },
         {
+          "title": "戚薇真的把自己做成AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 21时28分]"
+        },
+        {
           "title": "AI细分赛道和选股分析（一）：半导体设备是下一个瓶颈",
           "url": "https://flash.jin10.com/detail/20260806135711209800",
           "source": "金十数据",
@@ -239,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "深圳佳贤通信：英伟达AI-RAN技术团队曾到访公司，双方已成立技术工作组",
+          "url": "https://flash.jin10.com/detail/20260806210633842800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -258,7 +342,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -272,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3778805",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "亚马逊旗下AWS与Anthropic、OpenAI构建合作伙伴关系。 三方将围绕AWS Continuum工作流合作。",
@@ -296,15 +391,15 @@
           "time_info": "05时49分"
         },
         {
-          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
-          "url": "https://www.cls.cn/detail/2447281",
-          "source": "财联社热门",
+          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
+          "url": "https://www.zhihu.com/question/2068498722300990537",
+          "source": "知乎",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "21时28分"
         },
         {
           "title": "深圳华强北AI眼镜销量激增100%",
@@ -313,18 +408,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "戚薇真的把自己做成AI了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -426,12 +510,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "戚薇用AI解锁末世",
+          "url": "https://www.douyin.com/hot/2599650",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -442,8 +537,52 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 21时28分]"
+        },
+        {
+          "title": "宇树科技发行价格150.80元/股",
+          "url": "https://www.toutiao.com/trending/7670565723299020826/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "宇树科技8月10日开启网上申购",
+          "url": "https://www.douyin.com/hot/2600095",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "宇树科技发行价格150.80元/股",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC150.80%E5%85%83%2F%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "宇树科技下周打新，发行价150.8元/股",
+          "url": "https://www.cls.cn/detail/2447640",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。 “超大”市值科技股指数跌1.19%，报444.40点。",
@@ -455,6 +594,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "宇树科技王兴兴身家有望超200亿元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%8E%8B%E5%85%B4%E5%85%B4%E8%BA%AB%E5%AE%B6%E6%9C%89%E6%9C%9B%E8%B6%85200%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "宇树科技王兴兴身家有望超200亿元",
+          "url": "https://wallstreetcn.com/livenews/3146074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "宇树科技发行价150.8元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7150.8%E5%85%83%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33729497",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 21时28分]"
         },
         {
           "title": "李大霄谈高科技反弹",
@@ -485,7 +669,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -507,7 +691,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -540,7 +724,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -554,17 +738,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
-        },
-        {
-          "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33729497",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "标普500指数的11个板块中，电信板块收跌2.39%，能源板块跌2.03%，信息技术/科技板块涨0.02%，保健板块涨1.34%，原材料板块涨1.54%。",
@@ -617,7 +790,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         }
@@ -625,7 +798,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "华为发布新款折叠电脑售价24999元起",
@@ -639,15 +812,15 @@
           "time_info": "[01时17分 ~ 05时49分]"
         },
         {
-          "title": "《完蛋！我被男同学包围了》为什么会好评如潮，纯粹因为它是高中生玩票制作的搞笑玩梗游戏吗？",
-          "url": "https://www.zhihu.com/question/2068004843956827148",
-          "source": "知乎",
+          "title": "“前所未有”！涉及中国，FBI局长最新表态",
+          "url": "https://news.ifeng.com/c/8vNANmQQQy8",
+          "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "21时28分"
         },
         {
           "title": "中央气象台8月6日18时发布台风黄色预警",
@@ -656,9 +829,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "《完蛋！我被男同学包围了》为什么会好评如潮，纯粹因为它是高中生玩票制作的搞笑玩梗游戏吗？",
+          "url": "https://www.zhihu.com/question/2068004843956827148",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 21时28分]"
         },
         {
           "title": "网友吐槽现在的交响乐团只能靠游戏演奏会维持生计，对此你怎么看？",
@@ -691,11 +876,23 @@
           "url": "https://www.zhihu.com/question/2068437296529897006",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 21时28分]"
+        },
+        {
+          "title": "GTA6将发布新预告片",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "明晟公司（MSCI）表示，其8月指数调整公告定将于8月12日发布，且将在概要公告发布后即刻向客户提供详细的调仓信息。",
@@ -707,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "中央气象台发布台风黄色预警",
+          "url": "https://www.toutiao.com/trending/7670860118707146294/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "伊朗与阿曼会谈最新细节曝光",
@@ -729,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
+          "url": "https://wallstreetcn.com/articles/3778845",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "柳周cp爆火后参加毛雪汪地球超新鲜",
@@ -759,7 +978,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
