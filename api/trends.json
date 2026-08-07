@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T16:45:52.384861+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-08-07T20:35:36.745524+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时51分 ~ 16时45分]"
+        },
+        {
+          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
+          "url": "https://www.cls.cn/detail/2448129",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 20时35分]"
         },
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
@@ -53,25 +66,13 @@
           "time_info": "08时52分"
         },
         {
-          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
-          "url": "https://www.cls.cn/detail/2448129",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时45分]"
-        },
-        {
           "title": "ai漫剧男主唯一塌房方式被找到了",
           "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%94%AF%E4%B8%80%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F%E8%A2%AB%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -158,6 +159,29 @@
           "time_info": "[08时51分 ~ 08时52分]"
         },
         {
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 20时35分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 20时35分]"
+        },
+        {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
           "url": "https://wallstreetcn.com/articles/3778824",
           "source": "华尔街见闻",
@@ -180,6 +204,18 @@
           "time_info": "[08时51分 ~ 08时52分]"
         },
         {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 20时35分]"
+        },
+        {
           "title": "戚薇 授权AI",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -200,6 +236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 20时35分]"
         },
         {
           "title": "存储巨头财报未达高预期 AI概念股遭遇新一轮抛售 | 今夜看点",
@@ -268,6 +316,17 @@
           "time_info": "[08时51分 ~ 08时52分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 20时35分]"
+        },
+        {
           "title": "戚薇 AI漫剧",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20AI%E6%BC%AB%E5%89%A7&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -307,7 +366,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -318,20 +377,64 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "20时35分"
+        },
+        {
+          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
+          "url": "https://wallstreetcn.com/articles/3778889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "美科研团队利用AI设计出可复制的新型噬菌体",
@@ -351,42 +454,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
         {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
+          "title": "AI相关债券密集发售引发“消化不良”，华尔街被迫重新思考配售策略",
+          "url": "https://wallstreetcn.com/livenews/3146706",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "20时35分"
         },
         {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "20时35分"
         },
         {
           "title": "机构：2026年AI服务器出货量增幅上调至近31%",
@@ -406,18 +498,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         }
@@ -425,7 +506,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "宇树科技发行价150.8元",
@@ -497,6 +578,17 @@
           "time_info": "[08时51分 ~ 13时28分]"
         },
         {
+          "title": "一图看懂 | 宇树科技打新攻略来了，中一签需缴款7.54万元",
+          "url": "https://www.cls.cn/detail/2448544",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "A股CPO概念股再度拉升，中富电路涨超14%，光迅科技、汇绿生态此前涨停，杰普特、联讯仪器、亨通光电涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3146458",
           "source": "华尔街见闻-快讯",
@@ -514,7 +606,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -528,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "宇树科技中一签需缴款7.54万元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
@@ -557,11 +660,12 @@
           "url": "https://www.toutiao.com/trending/7671113266424368678/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 20时35分]"
         },
         {
           "title": "宇树科技IPO能让多少人财富自由",
@@ -625,7 +729,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -647,9 +751,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "胜宏科技：与核心客户合作的研发迭代产品正顺利推进，部分客户已释放2027-2028年长期需求",
+          "url": "https://wallstreetcn.com/livenews/3146693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "立昂微：拟受让国投（上海）科技成果转化创业投资基金企业（有限合伙）持有的浙江金瑞泓科技股份有限公司11.4705%股权，交易金额为人民币3.18亿元。",
+          "url": "https://wallstreetcn.com/livenews/3146691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "谁是宇树科技背后大赢家",
@@ -658,7 +784,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -669,7 +795,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         }
@@ -677,7 +803,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "“前所未有”！涉及中国，FBI局长最新表态",
@@ -689,6 +815,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时51分 ~ 13时28分]"
+        },
+        {
+          "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736078",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 20时35分]"
         },
         {
           "title": "GTA6将发布新预告片",
@@ -716,16 +855,16 @@
           "time_info": "[08时51分 ~ 13时28分]"
         },
         {
-          "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736078",
-          "source": "澎湃新闻",
+          "title": "王兴兴最新发声！谈及上市、具身智能行业发展",
+          "url": "https://www.cls.cn/detail/2448287",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            4
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时45分]"
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 20时35分]"
         },
         {
           "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
@@ -733,11 +872,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 20时35分]"
         },
         {
           "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
@@ -745,11 +885,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 20时35分]"
         },
         {
           "title": "试玩5个高中生做的高中生活游戏",
@@ -797,15 +938,26 @@
           "time_info": "[13时27分 ~ 13时28分]"
         },
         {
-          "title": "王兴兴最新发声！谈及上市、具身智能行业发展",
-          "url": "https://www.cls.cn/detail/2448287",
-          "source": "财联社热门",
+          "title": "市场监管总局：我国牵头制定的全球首项卷曲显示器件国际标准发布",
+          "url": "https://wallstreetcn.com/livenews/3146701",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "20时35分"
+        },
+        {
+          "title": "为什么清华姚班的同学很少有做游戏的呢？",
+          "url": "https://www.zhihu.com/question/2062649950488601090",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "八家硅料企业发布倡议 知情人士称或配套惩罚措施",
@@ -814,7 +966,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -825,7 +977,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -869,7 +1021,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         }
@@ -898,7 +1050,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         }
