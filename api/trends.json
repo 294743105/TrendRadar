@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-08-08T16:26:26.698203+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-08-08T20:22:12.239875+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 20时22分]"
+        },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
             5,
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 20时22分]"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            17,
+            22,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 20时22分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 16时26分]"
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -31,15 +71,46 @@
           "time_info": "00时40分"
         },
         {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
+          "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
+          "url": "https://www.cls.cn/detail/2448766",
+          "source": "财联社热门",
           "ranks": [
-            4
+            10,
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 20时22分]"
+        },
+        {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时27分 ~ 20时22分]"
+        },
+        {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时27分 ~ 20时22分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -51,21 +122,6 @@
             19,
             18,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 16时26分]"
-        },
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            17,
-            22,
-            26
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -85,6 +141,19 @@
           "time_info": "[00时40分 ~ 12时46分]"
         },
         {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 20时22分]"
+        },
+        {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
@@ -95,46 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 12时46分]"
-        },
-        {
-          "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
-          "url": "https://www.cls.cn/detail/2448766",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 16时26分]"
-        },
-        {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 16时26分]"
-        },
-        {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 16时26分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -158,18 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 04时27分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 16时26分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -218,6 +235,17 @@
           "time_info": "[12时46分 ~ 16时26分]"
         },
         {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
           "url": "https://www.zhihu.com/question/2069015264461579129",
           "source": "知乎",
@@ -227,6 +255,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 04时27分]"
+        },
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -246,7 +296,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -279,7 +329,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -341,11 +391,12 @@
             11,
             8,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 20时22分]"
         },
         {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
@@ -370,17 +421,6 @@
           "time_info": "04时27分"
         },
         {
-          "title": "湖北首家宇树科技产业学院成立",
-          "url": "https://wallstreetcn.com/livenews/3146971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
           "url": "https://wallstreetcn.com/livenews/3146964",
           "source": "华尔街见闻-快讯",
@@ -391,6 +431,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 16时26分]"
+        },
+        {
+          "title": "湖北首家宇树科技产业学院成立",
+          "url": "https://wallstreetcn.com/livenews/3146971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 20时22分]"
         },
         {
           "title": "宇树科技发行价 150.80 元 / 股，总市值突破 600 亿，中一签需缴款 7.54 万元，如何看待这个估值？",
@@ -418,6 +470,18 @@
           "time_info": "[12时46分 ~ 16时26分]"
         },
         {
+          "title": "景林资产二季度大幅减持热门科技股",
+          "url": "https://wallstreetcn.com/livenews/3146968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 20时22分]"
+        },
+        {
           "title": "本周，标普累涨约3.5%，道指累涨约3%，纳指累涨5%，存储芯片指数跌约1.9%，半导体指数涨8.6%——周二高开以来持续高位窄幅震荡，科技股七巨头指数涨4.7%，降息赢家指数涨5.2%。 周五非农日当天，标普500指数初步收涨0.6%，原材料、可选消费、科技板块涨超1%，能源板块跌1.3%。 纳斯达克100指数初步收涨1.2%，成分股中，爱彼迎初步收涨17.1%，SpaceX涨14.5%，微芯科技、Palantir、AXON、Rocket Lab、HONA、TTWO、Lumentum至少涨6%，AMD、泰瑞达、闪迪、西部数据至多跌3.6%，希捷科技跌4.3%。",
           "url": "https://wallstreetcn.com/livenews/3146906",
           "source": "华尔街见闻-快讯",
@@ -427,17 +491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "景林资产二季度大幅减持热门科技股",
-          "url": "https://wallstreetcn.com/livenews/3146968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "摩根大通上调科技债发行预期，今年供应规模将超过5000亿美元",
@@ -457,7 +510,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -520,7 +573,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
@@ -535,6 +588,28 @@
           "time_info": "[00时40分 ~ 08时40分]"
         },
         {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "是否将辞职？伊朗总统最新发声",
           "url": "https://news.ifeng.com/c/8vPtnVvufXW",
           "source": "凤凰网",
@@ -544,6 +619,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 16时26分]"
+        },
+        {
+          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
+          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "中国驻刚果(金)大使馆发布澄清声明",
@@ -596,6 +682,39 @@
           "time_info": "[12时46分 ~ 16时26分]"
         },
         {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "兵韬志略｜日本发布2026防卫白皮书，“总体战”动员值得警惕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736615",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://wallstreetcn.com/livenews/3146994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
           "url": "https://www.zhihu.com/question/2069020073851983605",
           "source": "知乎",
@@ -638,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        },
+        {
+          "title": "黄金此处看涨期权明显变动，强势行情能否延续？——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260808165149646800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
