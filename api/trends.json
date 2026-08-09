@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T08:42:50.691896+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-08-09T12:54:53.030100+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 08时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 12时54分]"
         },
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -55,6 +56,30 @@
           "time_info": "[00时18分 ~ 04时16分]"
         },
         {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 12时54分]"
+        },
+        {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
           "url": "https://wallstreetcn.com/articles/3778988",
           "source": "华尔街见闻",
@@ -68,30 +93,18 @@
           "time_info": "[00时18分 ~ 08时42分]"
         },
         {
-          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
-          "url": "https://www.cls.cn/detail/2449139",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 08时42分]"
-        },
-        {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
           "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
           "source": "澎湃新闻",
           "ranks": [
             15,
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 08时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 12时54分]"
         },
         {
           "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
@@ -100,7 +113,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -111,9 +124,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
@@ -122,7 +146,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -144,9 +168,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "大爷听AI洒农药 150亩苗一夜枯萎",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "AI帮你开发以前要花钱的功能",
@@ -155,7 +201,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -177,9 +223,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "“热管理”已成AI相关核心技术了吗",
+          "url": "https://www.toutiao.com/trending/7671858005583036470/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
@@ -207,7 +264,7 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -244,6 +301,28 @@
           "time_info": "[00时18分 ~ 08时42分]"
         },
         {
+          "title": "台风红色预警发布",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
+          "url": "https://www.zhihu.com/question/2068817961792623517",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "伊朗媒体发布伊朗最高领袖视频",
           "url": "https://m.thepaper.cn/newsDetail_forward_33745289",
           "source": "澎湃新闻",
@@ -253,8 +332,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 08时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 12时54分]"
+        },
+        {
+          "title": "你心目中最好的十款单机游戏是什么？",
+          "url": "https://www.zhihu.com/question/479719590",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 12时54分]"
         },
         {
           "title": "兵韬志略｜日本发布2026防卫白皮书，“总体战”动员值得警惕",
@@ -269,6 +360,18 @@
           "time_info": "[00时18分 ~ 04时16分]"
         },
         {
+          "title": "我使馆发布公民赴泰参加文体活动提醒：文明、理性、有序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744139",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 12时54分]"
+        },
+        {
           "title": "伊朗媒体发布伊朗最高领袖视频",
           "url": "https://wallstreetcn.com/livenews/3146994",
           "source": "华尔街见闻-快讯",
@@ -281,26 +384,37 @@
           "time_info": "[00时18分 ~ 04时16分]"
         },
         {
-          "title": "你心目中最好的十款单机游戏是什么？",
-          "url": "https://www.zhihu.com/question/479719590",
-          "source": "知乎",
+          "title": "据印尼气象、气候和地球物理局发布的报告，当地时间8月9日10时02分，印尼亚齐特区沙璜市西北205公里处发生5.7级地震，震源深度10公里，没有海啸风险。",
+          "url": "https://flash.jin10.com/detail/20260809113024703800",
+          "source": "金十数据",
           "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时42分"
+          "time_info": "12时54分"
         },
         {
-          "title": "我使馆发布公民赴泰参加文体活动提醒：文明、理性、有序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744139",
-          "source": "澎湃新闻",
+          "title": "中央气象台升级发布台风红色预警",
+          "url": "https://flash.jin10.com/detail/20260809104129624800",
+          "source": "金十数据",
           "ranks": [
-            18
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "12时54分"
+        },
+        {
+          "title": "中央气象台升级发布台风红色预警",
+          "url": "https://www.toutiao.com/trending/7671856440352443945/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -328,7 +442,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -347,11 +461,23 @@
           "source": "今日头条",
           "ranks": [
             25,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 08时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 12时54分]"
+        },
+        {
+          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
@@ -360,7 +486,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -371,7 +497,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         }
