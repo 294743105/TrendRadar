@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T12:58:21.441150+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-08-11T16:43:36.121677+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 22,
+      "match_count": 34,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 12时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 16时43分]"
         },
         {
           "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
@@ -54,13 +55,24 @@
           "time_info": "04时30分"
         },
         {
+          "title": "腾讯启动2027校招，增加多个AI原生岗位",
+          "url": "https://wallstreetcn.com/livenews/3147962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "AI在黎曼猜想上做出了什么突破",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -77,6 +89,43 @@
           "time_info": "[00时41分 ~ 12时58分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 16时43分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 16时43分]"
+        },
+        {
+          "title": "如何看待 GPT-6 （Astra）？",
+          "url": "https://www.zhihu.com/question/2070082903229347029",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 16时43分]"
+        },
+        {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
@@ -87,18 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 04时30分]"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 12时58分]"
         },
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -112,27 +149,15 @@
           "time_info": "[00时41分 ~ 04时30分]"
         },
         {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时44分 ~ 12时58分]"
-        },
-        {
-          "title": "如何看待 GPT-6 （Astra）？",
-          "url": "https://www.zhihu.com/question/2070082903229347029",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 12时58分]"
+          "time_info": "[12时58分 ~ 16时43分]"
         },
         {
           "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
@@ -146,15 +171,26 @@
           "time_info": "04时30分"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "16时43分"
+        },
+        {
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "Meta发布可单卡运行轻量AI模型，扎克伯格描绘“个人赋能新时代”",
@@ -168,6 +204,50 @@
           "time_info": "00时41分"
         },
         {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "拐点已至！高盛：AI开始真正改写SaaS业绩，赢家与输家名单浮现",
+          "url": "https://wallstreetcn.com/articles/3779070",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
           "url": "https://www.cls.cn/detail/2449895",
           "source": "财联社热门",
@@ -179,6 +259,28 @@
           "time_info": "00时41分"
         },
         {
+          "title": "小米启动2027届校招 AI岗位需求增长50%",
+          "url": "https://wallstreetcn.com/livenews/3147954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "ai漫剧顶流已经出了8季了",
           "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -188,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
@@ -212,6 +325,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "当老板意识到AI比人工贵",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E8%80%81%E6%9D%BF%E6%84%8F%E8%AF%86%E5%88%B0AI%E6%AF%94%E4%BA%BA%E5%B7%A5%E8%B4%B5&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "取消涨价50%计划：Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
           "url": "https://wallstreetcn.com/livenews/3147724",
           "source": "华尔街见闻-快讯",
@@ -232,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
@@ -259,7 +394,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "马斯克的新挑战：给光刻机“换束光”",
@@ -284,8 +419,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 12时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 16时43分]"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
@@ -312,6 +458,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
+          "url": "https://www.cls.cn/detail/2450976",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
           "url": "https://wallstreetcn.com/livenews/3147681",
           "source": "华尔街见闻-快讯",
@@ -329,11 +486,12 @@
           "ranks": [
             17,
             12,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 12时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 16时43分]"
         },
         {
           "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
@@ -371,6 +529,17 @@
           "time_info": "[00时41分 ~ 04时30分]"
         },
         {
+          "title": "马斯克母子发文强烈推荐中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
           "url": "https://wallstreetcn.com/livenews/3147748",
           "source": "华尔街见闻-快讯",
@@ -380,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "非科技板块的春天？医药板块调研热度超越半导体",
+          "url": "https://www.cls.cn/detail/2450966",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "标普500指数初步收跌0.1%，房地产、公用事业、科技板块至少跌1%，能源板块涨4.4%。 纳斯达克100指数初步收跌0.4%，半导体指数跌2.9%。",
@@ -404,6 +584,39 @@
           "time_info": "04时30分"
         },
         {
+          "title": "黄晓明再回应靠长鑫科技赚百亿传闻",
+          "url": "https://www.toutiao.com/trending/7672605240819089454/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "香港恒生指数8月11日（周二）收盘下跌284.67点，跌幅1.1%，报25652.82点；<br/>香港恒生科技指数8月11日（周二）收盘下跌95.04点，跌幅1.93%，报4824.42点；<br/>国企指数8月11日（周二）收盘下跌93.74点，跌幅1.09%，报8528.1点；<br/>红筹指数8月11日（周二）收盘下跌20.92点，跌幅0.5%，报4121.93点。",
+          "url": "https://flash.jin10.com/detail/20260811161216477800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "恒生指数收盘跌1.1%，恒生科技指数跌1.93%",
+          "url": "https://wallstreetcn.com/livenews/3147948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（8月11日）",
           "url": "https://flash.jin10.com/detail/20260811073705529800",
           "source": "金十数据",
@@ -421,7 +634,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -435,12 +648,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "马斯克一年赚2.16万亿 平均每天59亿",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E5%B9%B4%E8%B5%9A2.16%E4%B8%87%E4%BA%BF+%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A959%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "《中国人民银行“十五五”改革发展规划》发布",
@@ -467,17 +691,40 @@
           "time_info": "[00时41分 ~ 04时30分]"
         },
         {
+          "title": "乌克兰军方发布声明称，袭击了俄罗斯奥尔斯克的一座炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260811161902566800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "中际旭创：董事会会议将于2026年8月21日举行，借以考虑及批准本公司及其附属公司截至2026年6月30日止六个月的中期业绩及其发布，以及考虑建议派付中期股息（如有）。",
+          "url": "https://wallstreetcn.com/livenews/3147965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "中国可控核聚变最新进展",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
           "source": "bilibili 热搜",
           "ranks": [
             20,
             22,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 16时43分]"
         },
         {
           "title": "上海发布8月11日交通出行通告，早高峰期间仍需注意风雨影响",
@@ -485,11 +732,24 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 16时43分]"
+        },
+        {
+          "title": "河南发布地质灾害气象风险预警",
+          "url": "https://www.douyin.com/hot/2605088",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时44分 ~ 12时58分]"
+          "time_info": "[12时58分 ~ 16时43分]"
         },
         {
           "title": "如果上学是一款游戏",
@@ -498,7 +758,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -536,13 +796,24 @@
           "time_info": "08时44分"
         },
         {
+          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
+          "url": "https://www.zhihu.com/question/2070098614244864702",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "胖东来发布顾客间侵权行为管理公示",
           "url": "https://www.toutiao.com/trending/7671515837358145542/",
           "source": "今日头条",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -553,7 +824,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -564,20 +835,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
         {
-          "title": "河南发布地质灾害气象风险预警",
-          "url": "https://www.douyin.com/hot/2605088",
-          "source": "抖音",
+          "title": "河南发布暴雨黄色预警 涉及安阳",
+          "url": "https://www.toutiao.com/trending/7672397715133988905/",
+          "source": "今日头条",
           "ranks": [
-            27
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "16时43分"
         }
       ]
     },
@@ -592,7 +863,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
