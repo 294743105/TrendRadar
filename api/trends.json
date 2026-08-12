@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T04:34:22.214006+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-08-12T08:51:29.522507+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
         },
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -30,26 +41,28 @@
           "time_info": "[00时44分 ~ 04时34分]"
         },
         {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
+          "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
+          "url": "https://www.zhihu.com/question/2070452772391194651",
+          "source": "知乎",
           "ranks": [
-            5
+            8,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
         },
         {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -69,32 +82,82 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
-          "url": "https://www.zhihu.com/question/2070452772391194651",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
           "url": "https://wallstreetcn.com/articles/3779130",
           "source": "华尔街见闻",
           "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
+        },
+        {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
+        },
+        {
+          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
+          "url": "https://www.zhihu.com/question/2068955233896640772",
+          "source": "知乎",
+          "ranks": [
+            19,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -108,58 +171,11 @@
           "time_info": "[00时44分 ~ 04时34分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
-        },
-        {
-          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
-          "url": "https://www.zhihu.com/question/2068955233896640772",
-          "source": "知乎",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
-        },
-        {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
-        },
-        {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
           "url": "https://www.cls.cn/detail/2451331",
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
-        },
-        {
-          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-          "url": "https://www.zhihu.com/question/2070437867311174069",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -183,7 +199,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -199,13 +215,79 @@
           "time_info": "00时44分"
         },
         {
+          "title": "国行苹果AI支持机型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "中金：商品内部或将继续分化 AI基建等支撑铜铝需求",
+          "url": "https://flash.jin10.com/detail/20260812080544069800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "中金：继续坚定看多AI与科技成长主线",
+          "url": "https://flash.jin10.com/detail/20260812080408608800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战",
+          "url": "https://wallstreetcn.com/livenews/3148287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
+          "url": "https://www.zhihu.com/question/2070443311802867884",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "林俊旸创办AI公司语用科技 天使轮融资估值20亿美元",
+          "url": "https://flash.jin10.com/detail/20260812075636650800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
           "title": "怎么看AI突破黎曼猜想下界",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
           "source": "bilibili 热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -216,15 +298,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "险资二季度持仓净增1.83亿股，近期积极调研AI算力、医药与硬科技",
+          "url": "https://wallstreetcn.com/livenews/3148270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         }
       ]
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "宇树科技中签号出炉",
@@ -234,8 +327,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
@@ -254,11 +347,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 08时51分]"
         },
         {
           "title": "宇树科技网上摇号中签结果出炉，中签号码共有19414个",
@@ -289,9 +383,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
+          "url": "https://wallstreetcn.com/articles/3779167",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
+          "url": "https://wallstreetcn.com/livenews/3148284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "纳斯达克金龙中国指数跌超3%，腾讯音乐跌11.87%，1药网跌8.29%，Tims中国跌8.05%，信也科技跌5.93%，陆金所控股跌5.72%。",
@@ -300,7 +416,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -311,7 +427,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -322,7 +438,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -383,7 +499,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -394,7 +510,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
