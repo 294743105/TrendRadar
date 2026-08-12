@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-08-12T16:58:57.731038+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-08-12T20:39:51.543929+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 20时39分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时51分 ~ 16时58分]"
+          "time_info": "[13时23分 ~ 20时39分]"
         },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -41,18 +55,6 @@
           "time_info": "[00时44分 ~ 08时51分]"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时58分]"
-        },
-        {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
           "url": "https://wallstreetcn.com/articles/3779115",
           "source": "华尔街见闻",
@@ -62,17 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 04时34分]"
-        },
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时58分]"
         },
         {
           "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
@@ -151,7 +142,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -166,6 +157,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 08时51分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 20时39分]"
         },
         {
           "title": "机构：AI需求激增 2026年半导体市场增幅上调至94.1%",
@@ -199,7 +202,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -274,6 +277,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 16时58分]"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 20时39分]"
         },
         {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
@@ -353,24 +367,13 @@
           "time_info": "13时23分"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
           "title": "事关AI支出激增影响！高盛：多头和空头都判断错了",
           "url": "https://www.cls.cn/detail/2451842",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -395,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "Omdia：AI需求激增2026年半导体市场增幅上调至94.1%",
@@ -436,7 +450,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -447,7 +461,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -502,7 +516,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -546,9 +560,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "三星电子引入Anthropic Claude，芯片验证从一个月压缩至两天",
+          "url": "https://wallstreetcn.com/livenews/3148608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -579,7 +604,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
@@ -587,7 +612,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "宇树科技中签号出炉",
@@ -628,11 +653,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 20时39分]"
         },
         {
           "title": "马斯克：强烈推荐大家去中国看看",
@@ -648,6 +674,31 @@
           "time_info": "[00时44分 ~ 08时51分]"
         },
         {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 20时39分]"
+        },
+        {
+          "title": "马斯克推荐“去中国看看”打了谁的脸",
+          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 20时39分]"
+        },
+        {
           "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
           "url": "https://wallstreetcn.com/articles/3779167",
           "source": "华尔街见闻",
@@ -657,29 +708,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时51分 ~ 13时23分]"
-        },
-        {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时58分]"
-        },
-        {
-          "title": "马斯克推荐“去中国看看”打了谁的脸",
-          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时58分]"
         },
         {
           "title": "宇树科技网上摇号中签结果出炉，中签号码共有19414个",
@@ -704,13 +732,24 @@
           "time_info": "[00时44分 ~ 04时34分]"
         },
         {
+          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
+          "url": "https://www.cls.cn/detail/2452438",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "剑桥科技(06166.HK)：将于2026年8月24日举行董事会会议，借以考虑及通过本公司及其附属公司截至2026年6月30日止六个月的中期业绩及其刊发事宜，并考虑派发中期股息（如有）的建议。",
           "url": "https://flash.jin10.com/detail/20260812164801070800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -737,15 +776,37 @@
           "time_info": "04时34分"
         },
         {
+          "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
+          "url": "https://www.zhihu.com/question/2070230480356634919",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "恒生指数收盘跌0.83%，恒生科技指数跌0.99%",
           "url": "https://wallstreetcn.com/livenews/3148512",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "欧洲科技股指数有望创下今年最长连涨纪录",
+          "url": "https://wallstreetcn.com/livenews/3148621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
@@ -759,13 +820,24 @@
           "time_info": "08时51分"
         },
         {
+          "title": "美股存储芯片股盘前普涨，SK海力士涨超4%，闪迪涨超4%，希捷科技、美光科技涨近3%，西部数据涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3148615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "腾讯控股：2026年Q2金融科技及企业服务业务收入同比增长9%",
           "url": "https://flash.jin10.com/detail/20260812163502962800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -828,25 +900,26 @@
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "部分博物馆出现停电、空调瘫痪等情况，国家文物局发布紧急通知",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33761589",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 20时39分]"
+        },
         {
           "title": "河南发布暴雨红色预警",
           "url": "https://www.douyin.com/hot/2606494",
           "source": "抖音",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时58分]"
-        },
-        {
-          "title": "影之刃零11分钟最新实机",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B611%E5%88%86%E9%92%9F%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -864,16 +937,26 @@
           "time_info": "[13时23分 ~ 16时58分]"
         },
         {
-          "title": "部分博物馆出现停电、空调瘫痪等情况，国家文物局发布紧急通知",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33761589",
-          "source": "澎湃新闻",
+          "title": "朱镕基同志遗像发布",
+          "url": "https://www.toutiao.com/trending/7673083499741449747/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "朱镕基同志遗像发布",
+          "url": "https://www.douyin.com/hot/2607329",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "十五五生态保护规划发布",
@@ -893,9 +976,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "影之刃零11分钟最新实机",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B611%E5%88%86%E9%92%9F%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 20时39分]"
+        },
+        {
+          "title": "8 月 12 日河南发布暴雨红色预警，多地停课停工，安徽、浙江、河北等地有大暴雨，你那里情况怎么样？",
+          "url": "https://www.zhihu.com/question/2070779372970012693",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 20时39分]"
         },
         {
           "title": "局地特大暴雨！河南发布暴雨橙色预警",
@@ -907,6 +1014,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 04时34分]"
+        },
+        {
+          "title": "韩国发布七大战略：5年登月、9年商用核反应堆…",
+          "url": "https://news.ifeng.com/c/8vX128VQ5CD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
@@ -931,15 +1049,15 @@
           "time_info": "13时23分"
         },
         {
-          "title": "8 月 12 日河南发布暴雨红色预警，多地停课停工，安徽、浙江、河北等地有大暴雨，你那里情况怎么样？",
-          "url": "https://www.zhihu.com/question/2070779372970012693",
-          "source": "知乎",
+          "title": "荣耀发布会",
+          "url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "20时39分"
         },
         {
           "title": "美国财长贝森特：欢迎Meta发布Muse Glimmer。",
@@ -959,9 +1077,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "举报哥哥冒名上大学 弟弟最新发声",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E5%93%A5%E5%93%A5%E5%86%92%E5%90%8D%E4%B8%8A%E5%A4%A7%E5%AD%A6+%E5%BC%9F%E5%BC%9F%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "美国财长贝森特：我们欢迎Meta发布Muse Glimmer，这是美国创新取得的又一胜利。保持美国在人工智能领域的领先地位意味着推进开放权重和封闭权重模型，确保未来建立在可信赖的基础之上。",
@@ -981,9 +1110,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "英国最大电力供应商发布用电警告",
+          "url": "https://www.toutiao.com/trending/7672663257655705619/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报147850元/吨，较上日16:30价格上涨2850元/吨。",
