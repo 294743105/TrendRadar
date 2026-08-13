@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T08:52:50.596604+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-08-13T20:40:54.126076+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 23,
+      "match_count": 38,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -49,20 +49,54 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
         {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "20时40分"
+        },
+        {
+          "title": "DeepSeek官宣涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 20时40分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -71,9 +105,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
+          "url": "https://www.cls.cn/detail/2453237",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
@@ -82,20 +127,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 08时52分]"
+          "appearance_count": 3,
+          "time_info": "[05时09分 ~ 20时40分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -108,6 +155,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 08时52分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 20时40分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 20时40分]"
         },
         {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
@@ -132,18 +203,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 05时09分]"
-        },
-        {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 08时52分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -181,15 +240,15 @@
           "time_info": "05时09分"
         },
         {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
+          "title": "甲骨文与AWS扩大长期战略合作协议，加速客户迁移，Oracle AI Database@AWS现已在22个AWS区域提供并新增扩展功能。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3149155",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "20时40分"
         },
         {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
@@ -198,7 +257,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -214,6 +273,50 @@
           "time_info": "00时45分"
         },
         {
+          "title": "英国央行料AI泡沫破裂恐使资金同时撤出美股美债 对英国产生连带冲击",
+          "url": "https://wallstreetcn.com/livenews/3149151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
+          "url": "https://www.cls.cn/detail/2453081",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
+          "url": "https://www.cls.cn/detail/2453126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
+          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3148753",
           "source": "华尔街见闻-快讯",
@@ -223,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://wallstreetcn.com/livenews/3149148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "SpaceXAI宣布推出Grok 4.6",
@@ -247,15 +361,59 @@
           "time_info": "00时45分"
         },
         {
+          "title": "美国科技巨头疯狂融资引发资本争夺战 非AI企业的信用风险指标也被推高",
+          "url": "https://wallstreetcn.com/livenews/3149143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "DeepSeek调价方案公布，8月17日生效",
+          "url": "https://wallstreetcn.com/livenews/3149142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美股AI算力和存储芯片爆发",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%AE%97%E5%8A%9B%E5%92%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91",
           "source": "百度热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版突遭撤回",
+          "url": "https://wallstreetcn.com/livenews/3149137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美媒：白宫拟扩大AI监管，开源模型或纳入测试框架",
@@ -264,15 +422,233 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "快把真正的DeepSeek V4 Pro还给我",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "中际旭创：拟17.47亿元受让中石科技10.47%股份",
+          "url": "https://wallstreetcn.com/livenews/3149163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
+          "url": "https://www.cls.cn/detail/2452438",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 05时09分]"
+        },
+        {
+          "title": "中际旭创：拟17.47亿元受让北京中石伟业科技股份有限公司10.47%股份，后者从事高性能导热材料、EMI屏蔽材料的研发等",
+          "url": "https://flash.jin10.com/detail/20260813202406819800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "马斯克安利中国,外网闹麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 20时40分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 08时52分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技有望浮盈超7亿",
+          "url": "https://www.toutiao.com/trending/7673280015613627950/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "宇树科技遭弃购8734股",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%81%AD%E5%BC%83%E8%B4%AD8734%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "宇树科技中签股民：计划全款提车",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E8%82%A1%E6%B0%91%EF%BC%9A%E8%AE%A1%E5%88%92%E5%85%A8%E6%AC%BE%E6%8F%90%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "宇树科技黄牛收购价涨到410元",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%BB%84%E7%89%9B%E6%94%B6%E8%B4%AD%E4%BB%B7%E6%B6%A8%E5%88%B0410%E5%85%83&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "“阿里最年轻P10”林俊旸创业：语用科技落户模速空间，估值超百亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769319",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "95家公募获配宇树科技，金额超18亿元",
+          "url": "https://wallstreetcn.com/livenews/3148792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "长鑫科技成为中国市值最大上市公司",
+          "url": "https://www.toutiao.com/trending/7673430128885501476/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "【宇树科技：网上投资者放弃认购8,734股】宇树科技公告称，截至2026年8月5日（T-3日），参与战略配售的投资者均已足额按时缴纳认购资金。保荐人（主承销商）已在2026年8月14日（T+4日）之前将参与战略配售的投资者初始缴款金额超过最终获配股数对应金额的多余款项退回。网上投资者放弃认购数量8,734股，网上投资者放弃认购金额1,317,087.20元；网下投资者放弃认购数量0股，网下投资者放弃认购金额0.00元。",
+          "url": "https://wallstreetcn.com/livenews/3149135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "梁文锋、马斯克同日上新",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月13日）",
+          "url": "https://flash.jin10.com/detail/20260813073827286800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80+%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "朱镕基同志遗像发布",
@@ -293,9 +669,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "影之刃零11分钟最新实机",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B611%E5%88%86%E9%92%9F%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 20时40分]"
         },
         {
           "title": "荣耀发布首款机器人手机 9999元起售",
@@ -305,18 +694,6 @@
             6,
             12,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 08时52分]"
-        },
-        {
-          "title": "影之刃零11分钟最新实机",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B611%E5%88%86%E9%92%9F%E6%9C%80%E6%96%B0%E5%AE%9E%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -372,6 +749,29 @@
           "time_info": "[00时44分 ~ 05时09分]"
         },
         {
+          "title": "关于货币政策、物价水平等，央行最新报告释放了哪些信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769466",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 20时40分]"
+        },
+        {
+          "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
+          "url": "https://www.zhihu.com/question/2070707279855367104",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "辽宁铁人就要求换裁判发布致歉信",
           "url": "https://www.douyin.com/hot/2606634",
           "source": "抖音",
@@ -383,24 +783,13 @@
           "time_info": "05时09分"
         },
         {
-          "title": "关于货币政策、物价水平等，央行最新报告释放了哪些信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769466",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
           "title": "英伟达最新开源大模型上线",
           "url": "https://www.douyin.com/hot/2607298",
           "source": "抖音",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -411,7 +800,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -429,102 +818,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
-          "url": "https://www.cls.cn/detail/2452438",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 05时09分]"
-        },
-        {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 08时52分]"
-        },
-        {
-          "title": "马斯克安利中国,外网闹麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 08时52分]"
-        },
-        {
-          "title": "梁文锋打新宇树科技有望浮盈超7亿",
-          "url": "https://www.toutiao.com/trending/7673280015613627950/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "宇树科技中签股民：计划全款提车",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E8%82%A1%E6%B0%91%EF%BC%9A%E8%AE%A1%E5%88%92%E5%85%A8%E6%AC%BE%E6%8F%90%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "宇树科技黄牛收购价涨到410元",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%BB%84%E7%89%9B%E6%94%B6%E8%B4%AD%E4%BB%B7%E6%B6%A8%E5%88%B0410%E5%85%83&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "95家公募获配宇树科技，金额超18亿元",
-          "url": "https://wallstreetcn.com/livenews/3148792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月13日）",
-          "url": "https://flash.jin10.com/detail/20260813073827286800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "NBA 亚历山大 雷霆 sga",
       "match_count": 1,
       "titles": [
@@ -535,7 +828,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         }
