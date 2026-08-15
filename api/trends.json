@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T08:30:30.364352+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-08-15T12:19:37.526816+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 08时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 12时19分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 08时30分]"
+        },
+        {
+          "title": "AI动画版大圣归来",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E7%89%88%E5%A4%A7%E5%9C%A3%E5%BD%92%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
@@ -43,6 +54,69 @@
           "time_info": "[00时39分 ~ 08时30分]"
         },
         {
+          "title": "DeepSeek-V4 Pro 跑分飙升",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 12时19分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 12时19分]"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 12时19分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            20,
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 12时19分]"
+        },
+        {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
           "url": "https://wallstreetcn.com/articles/3779418",
           "source": "华尔街见闻",
@@ -55,28 +129,16 @@
           "time_info": "[00时39分 ~ 08时30分]"
         },
         {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 08时30分]"
-        },
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
+          "title": "刚刚！智谱发布GLM-5.3模型、“为编程而生”，性能比肩Fable 5",
+          "url": "https://wallstreetcn.com/articles/3779432",
+          "source": "华尔街见闻",
           "ranks": [
             9,
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时39分 ~ 08时30分]"
+          "time_info": "[08时29分 ~ 12时19分]"
         },
         {
           "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
@@ -102,41 +164,6 @@
           "time_info": "[00时39分 ~ 08时30分]"
         },
         {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 08时30分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 08时30分]"
-        },
-        {
-          "title": "刚刚！智谱发布GLM-5.3模型、“为编程而生”，性能比肩Fable 5",
-          "url": "https://wallstreetcn.com/articles/3779432",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时29分 ~ 08时30分]"
-        },
-        {
           "title": "陈丹青谈AI对艺术的影响",
           "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E4%B8%B9%E9%9D%92%E8%B0%88AI%E5%AF%B9%E8%89%BA%E6%9C%AF%E7%9A%84%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -157,6 +184,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时29分 ~ 08时30分]"
+        },
+        {
+          "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
+          "url": "https://wallstreetcn.com/articles/3779452",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "印度总理莫迪：印度计划在一年内对1000万青年进行人工智能（AI）技能培训。 印度将为青年提供免费在线考试辅导课程。",
+          "url": "https://wallstreetcn.com/livenews/3149933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
@@ -187,7 +236,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
         },
@@ -212,13 +261,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "《明末：渊虚之羽》竟然在 China Joy 当选 2026 年度游戏，时过境迁，你对这游戏的看法有反转么？",
+          "url": "https://www.zhihu.com/question/2067599698400171580",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
         {
           "title": "伊朗方面的最新表态传递出哪些信号",
           "url": "https://www.toutiao.com/trending/7673859930650054186/",
@@ -235,11 +306,12 @@
           "url": "https://www.douyin.com/hot/2609723",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 08时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 12时19分]"
         },
         {
           "title": "Wind数据显示，8月15日，A股共12家公司发布定增相关公告。其中，2家公司披露股票定增预案，5家定增预案获股东大会通过，2家定增预案获交易所通过，2家定增方案停止实施。新雷能、智洋创新定增募资预案金额最高，分别拟定增不超17.87亿元、9.04亿元。",
@@ -248,9 +320,64 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
+        },
+        {
+          "title": "中消协发布绿色消费指南 涵盖四大领域50条行动建议",
+          "url": "https://flash.jin10.com/detail/20260815100258090800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（8月15日）",
+          "url": "https://flash.jin10.com/detail/20260815093023644800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "最新的Quaest民调显示，巴西总统卢拉在模拟的决选中以43%对40%领先弗拉维奥·博尔索纳罗，显示出总统选举差距正在缩小。",
+          "url": "https://flash.jin10.com/detail/20260815092713668800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "中消协发布绿色消费指南，涵盖四大领域50条行动建议",
+          "url": "https://wallstreetcn.com/livenews/3149918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "我国首次集中发布西中南沙岛礁生态系统状况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33785373",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
@@ -259,7 +386,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
         },
@@ -278,8 +405,19 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
+          "url": "https://www.cls.cn/detail/2455045",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
           "url": "https://news.ifeng.com/c/8vaHza2NSPn",
@@ -290,6 +428,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 08时30分]"
+        },
+        {
+          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
+          "url": "https://www.cls.cn/detail/2455019",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月15日）",
+          "url": "https://flash.jin10.com/detail/20260815094700190800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     }
