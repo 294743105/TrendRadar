@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T04:09:49.741166+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-08-17T08:30:38.739010+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai gemini gpt claude grok deepseek 智谱",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://www.cls.cn/detail/2455237",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -36,22 +37,24 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -61,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -73,8 +76,81 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
+        },
+        {
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
+        },
+        {
+          "title": "南极冰川现“神秘生物”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
+        },
+        {
+          "title": "一条AI短片演绎时间焦虑",
+          "url": "https://www.douyin.com/hot/2612104",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
+        },
+        {
+          "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
+        },
+        {
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
+        },
+        {
+          "title": "AI正在批量制造“幽灵”",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -88,80 +164,77 @@
           "time_info": "[00时11分 ~ 04时09分]"
         },
         {
-          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
-          "url": "https://www.cls.cn/detail/2455252",
-          "source": "财联社热门",
+          "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
+          "url": "https://www.zhihu.com/question/2072481373085028433",
+          "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
-          "title": "南极冰川现“神秘生物”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
+          "title": "A股近500家公司公布半年报，AI硬件、化工能源景气度高",
+          "url": "https://wallstreetcn.com/livenews/3150106",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
-          "title": "一条AI短片演绎时间焦虑",
-          "url": "https://www.douyin.com/hot/2612104",
-          "source": "抖音",
+          "title": "DeepSeek正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            14,
-            13
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
-          "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
-        },
-        {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "title": "AI如何能辅助办公",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%83%BD%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC",
           "source": "bilibili 热搜",
           "ranks": [
-            27,
-            18
+            23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
-        },
-        {
-          "title": "AI正在批量制造“幽灵”",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         }
       ]
     },
     {
       "keyword_group": "游戏 爆火 steam 好玩 发布 最新",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日15:00国新办就国民经济运行情况举行新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260817081916533800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "涉及英阿马岛主权争端，美方最新表态",
+          "url": "https://news.ifeng.com/c/8vePJfTaX3j",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
         {
           "title": "两人为博眼球发布不实信息被处罚",
           "url": "https://www.toutiao.com/trending/7674048234083368996/",
@@ -170,8 +243,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 阿里百度等中概股发布财报",
@@ -183,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 04时09分]"
+        },
+        {
+          "title": "RTX60 系显卡大概什么时候发布?",
+          "url": "https://www.zhihu.com/question/1940427571205478236",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 08时30分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -202,20 +287,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
         {
-          "title": "RTX60 系显卡大概什么时候发布?",
-          "url": "https://www.zhihu.com/question/1940427571205478236",
-          "source": "知乎",
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "08时30分"
         },
         {
           "title": "中国博主发布进入靖国神社视频",
@@ -224,7 +309,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         }
@@ -232,7 +317,7 @@
     },
     {
       "keyword_group": "马斯克 比特币 以太坊 科技 太空 陨石",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -242,8 +327,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "宇树科技IPO热下的噪音：“暗盘交易”传闻实为捕风捉影 背后风险不容小觑",
@@ -253,8 +338,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
@@ -277,6 +362,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 04时09分]"
+        },
+        {
+          "title": "壁仞科技在港交所公告：预计2026年上半年收入约为11.50亿元 - 13.00亿元人民币，同比增长率约为1,852%-2,107%之间。 预计2026年上半年亏损约3.2亿至4亿元人民币，减亏75% - 80%； 预计2026年上半年调整后亏损约2.9亿至3.6亿元人民币，减亏35% - 47%。",
+          "url": "https://wallstreetcn.com/livenews/3150108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月17日）",
+          "url": "https://flash.jin10.com/detail/20260817074239653800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "新发基金频现提前结募，多位绩优基金经理看好科技成长",
+          "url": "https://wallstreetcn.com/livenews/3150094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "杠杆出清行情或近尾声，全球科技股再迎资金流入",
+          "url": "https://wallstreetcn.com/livenews/3150093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         }
       ]
     }
